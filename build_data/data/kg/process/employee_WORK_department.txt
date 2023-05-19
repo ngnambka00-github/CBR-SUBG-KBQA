@@ -1,0 +1,678 @@
+Trần Văn Tuân|work_depart|Phòng Game
+Vắn Hiền Thắng|work_depart|Phòng R&D
+Nguyễn Hồng Quang|work_depart|Phòng IS
+Nguyễn Văn Khuyến|work_depart|Phòng IS
+Hoàng Trung Dũng|work_depart|Trung tâm AI
+Trần Đức Huy|work_depart|Phòng Application
+Trần Văn Tuân|work_depart|Phòng Game
+Nguyễn Thành Đạt|work_depart|Phòng Blockchain
+Nguyễn Anh Thắng|work_depart|Phòng Blockchain
+Ngô Ngọc Khánh|work_depart|Trung tâm AI
+Trần Nhật Quang|work_depart|Trung tâm AI
+Nguyễn Nghĩa Thịnh|work_depart|Trung tâm AI
+Nguyễn Đức Minh|work_depart|Phòng Blockchain
+Nguyễn Phương Hiên|work_depart|Phòng Product
+Nguyễn Hữu Bắc|work_depart|Phòng Blockchain
+Đàm Quang Tiến|work_depart|Trung tâm AI
+Lê Quang Hưng|work_depart|Phòng Game
+Phạm Ngọc Hải|work_depart|Phòng Blockchain
+Phan Thị Thúy Hằng|work_depart|Phòng Chăm sóc khách hàng
+Nguyễn Đăng Khôi|work_depart|Phòng IS
+Nguyễn Tuấn Anh|work_depart|Phòng Product
+Phạm Thị Minh Huyền|work_depart|Phòng Product
+Thành Quốc Đạt|work_depart|Phòng Game
+Trần Thị Thủy|work_depart|Phòng Product
+Nguyễn Trường An|work_depart|Trung tâm AI
+Nguyễn Quang Lập|work_depart|Phòng Tuyển dụng và Đào tạo
+Trần Tiến Anh|work_depart|Phòng Application
+Hoàng Minh Huyền|work_depart|Phòng Kế toán
+Nguyễn Duy Phong|work_depart|Phòng Application
+Đỗ Đức Công|work_depart|Phòng IS
+Nguyễn Thanh Tú|work_depart|Phòng Product
+Triệu Chu Quốc Thái|work_depart|Phòng Funzy
+Quách Trường Giang|work_depart|Phòng Product
+Phạm Thùy Linh|work_depart|Phòng Product
+Lê Thị Mỹ Phương|work_depart|Phòng Blockchain
+Phan Văn Nhân|work_depart|Trung tâm AI
+Phan Thị Hoàng Kim|work_depart|Phòng Funzy
+Hoàng Văn Nguyên|work_depart|Phòng Platform
+Ngô Phương Anh|work_depart|Phòng Product
+Nguyễn Bá Đạt|work_depart|Phòng Game
+Phạm Thị Hồng Nhung|work_depart|Phòng Product
+Lê Văn Dũng|work_depart|Phòng Game
+Nguyễn Viết Trí|work_depart|Phòng Blockchain
+Ngô Phượng Hoàng|work_depart|Phòng Blockchain
+Lê Hồ Lộc An|work_depart|Phòng Hành chính nhân sự
+Nguyễn Phương Nam 2|work_depart|Phòng Game
+Nguyễn Thị Phương Thảo|work_depart|Phòng Product
+Đỗ Tiến Anh|work_depart|Phòng Platform
+Vũ Hoàng Long|work_depart|Phòng Blockchain
+Tống Thị Minh Lý|work_depart|Phòng Tuyển dụng và Đào tạo
+Hà Duyên Quang Huy|work_depart|Phòng Application
+Mai Đức Chiến|work_depart|Phòng Platform
+Phạm Văn Dũng|work_depart|Phòng Application
+Trần Quang Huy|work_depart|Phòng Tuyển dụng và Đào tạo
+Tạ Lê Ngân Hạnh|work_depart|Phòng Game
+Vũ Ngọc Long|work_depart|Phòng Tuyển dụng và Đào tạo
+Nguyễn Xuân Nhị Phúc|work_depart|Phòng Marketing
+Ngô An Bình|work_depart|Phòng Game
+Kiều Thị Mỹ Linh|work_depart|Trung tâm AI
+Nguyễn Trung Hiếu|work_depart|Trung tâm AI
+Trần Tuấn Khôi|work_depart|Trung tâm AI
+Hồ Nghĩa Khang|work_depart|Trung tâm AI
+Đỗ Tấn Sang|work_depart|Trung tâm AI
+Phạm Thị Phương Ngôn|work_depart|Phòng Marketing
+Âu Dương Minh Vũ|work_depart|Phòng Creative
+Phan Quốc Anh|work_depart|Trung tâm AI
+Nguyễn Hoàng Bảo Hưng|work_depart|Phòng Funzy
+Võ Minh Hoàng|work_depart|Phòng Funzy
+Lê Khánh Duy|work_depart|Phòng Product
+Đặng Minh Tân|work_depart|Phòng Game
+Nguyễn Duy Hiếu|work_depart|Phòng Product
+Đặng Hoàng Sơn|work_depart|Phòng IS
+Bùi Thảo Vân|work_depart|Phòng Product
+Lê Quang Anh|work_depart|Phòng Application
+Trần Công Hiệu|work_depart|Phòng Application
+Phạm Văn Sơn|work_depart|Phòng Application
+Cao Thị Thúy|work_depart|Phòng QA
+Đỗ Thị Hoàng Diễm|work_depart|Phòng Tuyển dụng và Đào tạo
+Đơn Hoàng Trọng|work_depart|Phòng Funzy
+Đặng Thế Quân|work_depart|Phòng Game
+Nguyễn Thị Thơm|work_depart|Phòng Tuyển dụng và Đào tạo
+Vũ Thị Chà My|work_depart|Phòng Platform
+Đỗ Danh Dũng|work_depart|Phòng IS
+Vương Thành Lộc|work_depart|Phòng Game
+Tăng Ngọc Dũng|work_depart|Phòng Game
+Nguyễn Kỳ Tùng|work_depart|Trung tâm AI
+Trịnh Tuấn Vũ|work_depart|Trung tâm AI
+Nguyễn Văn Hoàng|work_depart|Phòng Platform
+Phạm Minh Sơn|work_depart|Phòng Creative
+Nguyễn Hải Anh|work_depart|Phòng Game
+Lê Hà Trang|work_depart|Phòng Game
+Ngô Thái Sơn|work_depart|Phòng Blockchain
+Phạm Thị Quỳnh|work_depart|Trung tâm AI
+Nguyễn Khoa Nguyên|work_depart|Trung tâm AI
+Trần Kiên Trường|work_depart|Phòng Blockchain
+Tạ Xuân Trường|work_depart|Phòng Blockchain
+Nguyễn Vân Anh|work_depart|Phòng Product
+Doãn Hoài Linh|work_depart|Phòng Application
+Nguyễn Công Hậu|work_depart|Phòng Application
+Dương Hoàng Sơn|work_depart|Phòng Platform
+Trần Việt Tiệp|work_depart|Phòng Game
+Đỗ Thị Thu Thuỷ|work_depart|Phòng Tuyển dụng và Đào tạo
+Nguyễn Minh Thắng|work_depart|Phòng Game
+Phạm Thế Tâm|work_depart|Trung tâm AI
+Nguyễn Thị Thùy Điệp|work_depart|Phòng Funzy
+Ngô Quỳnh Nga|work_depart|Phòng Product
+Ngọ Quang Nam|work_depart|Phòng Blockchain
+Nguyễn Thanh Thản|work_depart|Phòng Application
+Nguyễn Xuân Anh Quân|work_depart|Trung tâm AI
+Phùng Gia Hiến|work_depart|Phòng Application
+Đinh Thị Thảo|work_depart|Phòng Product
+Lưu Khánh Thảo Nhi|work_depart|Phòng Funzy
+Lê Hữu Trọng|work_depart|Phòng Funzy
+Nguyễn Yến Ngọc|work_depart|Phòng Product
+Lê Phước Đông|work_depart|Phòng Game
+Điểu Sáu Bên|work_depart|Phòng Game
+Nguyễn Đức An Sơn|work_depart|Trung tâm AI
+Lê Trần Bảo Minh|work_depart|Trung tâm AI
+Võ Xuân Cường|work_depart|Phòng Fbang
+Đặng Thị Ngọc Điệp|work_depart|Phòng Hành chính nhân sự
+Đoàn Hoài Linh|work_depart|Phòng Hành chính nhân sự
+Huỳnh Văn Thành|work_depart|Phòng Funzy
+Nguyễn Duy Cẩm|work_depart|Phòng Product
+Nguyễn Thị Hồng Phúc|work_depart|Trung tâm AI
+Đoàn Thanh Phong|work_depart|Phòng Funzy
+Nguyễn Thị Thủy Ly|work_depart|Phòng Product
+Mạc Trung Tình|work_depart|Phòng Application
+Nguyễn Bảo Thanh|work_depart|Trung tâm AI
+Phạm Duy Cường|work_depart|Phòng Marketing
+Ngô Thị Phương Duyên|work_depart|Phòng Hành chính nhân sự
+Nguyễn Văn Trung|work_depart|Phòng Application
+Trần Bảo Trung|work_depart|Phòng Blockchain
+Mai Xuân Kim Thùy|work_depart|Phòng Fbang
+Hứa Châu Tiểu Phụng|work_depart|Phòng Fbang
+Trương Nhật Bá|work_depart|Phòng Funzy
+Nguyễn Đình Khánh|work_depart|Phòng Application
+Nguyễn Thành Luân|work_depart|Trung tâm AI
+Trần Văn Hải|work_depart|Phòng Funzy
+Lê Thị Trang Thư|work_depart|Phòng Marketing
+Trần Huỳnh Anh Huy|work_depart|Phòng Marketing
+Vũ Ngọc Tứ|work_depart|Phòng Game
+Đỗ Hồng Hạnh|work_depart|Phòng Game
+Quách Thị Thu|work_depart|Phòng QA
+Nguyễn Lương Bằng|work_depart|Phòng Tuyển dụng và Đào tạo
+Phan Quốc Hưng|work_depart|Phòng Marketing
+Nguyễn Đặng Tú|work_depart|Phòng Platform
+Đinh Thị Bích Ngọc|work_depart|Phòng Product
+Trần Đại Lộc|work_depart|Phòng Platform
+Dương Sỹ Bình|work_depart|Trung tâm AI
+Phạm Thị Hạ|work_depart|Phòng Game
+Nguyễn Thị Huyền Trang|work_depart|Phòng Product
+Nguyễn Đình Đức Anh|work_depart|Phòng Product
+Bùi Thị Kim Dung|work_depart|Phòng Kế toán
+Mai Chiếm An|work_depart|Trung tâm AI
+Vũ Hoàng Sơn|work_depart|Phòng Funzy
+Nguyễn Phạm Hoàng Trung|work_depart|Phòng Funzy
+Trần Thị Hà Vy|work_depart|Phòng Hành chính nhân sự
+Trần Trung Hiếu|work_depart|Phòng Fbang
+Nguyễn Đức Thịnh|work_depart|Phòng Game
+Lê Minh Hoàng|work_depart|Phòng IS
+Nguyễn Văn Thường|work_depart|Phòng Platform
+Đào Sỹ Mạnh|work_depart|Phòng Application
+Nguyễn Văn Trọng|work_depart|Phòng Funzy
+Phan Vũ Hùng|work_depart|Phòng Product
+Trần Xuân Hưng|work_depart|Trung tâm AI
+Dương Bảo Yến|work_depart|Phòng Funzy
+Lâm Hoàng Quân|work_depart|Phòng Fbang
+Vũ Thị Mừng|work_depart|Phòng Chăm sóc khách hàng
+Trần Đăng Minh|work_depart|Phòng Application
+Đỗ Phú Phát|work_depart|Trung tâm AI
+Lưu Xuân Trường|work_depart|Phòng Product
+Trịnh Minh Anh|work_depart|Phòng Product
+Trương Công Danh|work_depart|Phòng Fbang
+Lại Ngọc Ly|work_depart|Phòng Product
+Vũ Thị Thêu|work_depart|Phòng Kế toán
+Lê Anh Hào|work_depart|Trung tâm AI
+Lê Mạnh Tài|work_depart|Phòng IS
+Hồ Trúc Thuỳ An|work_depart|Phòng Fbang
+Kinh Thị Kim Thư|work_depart|Phòng Fbang
+Mẫn Thị Kiều Trang|work_depart|Phòng Product
+Phạm Ngọc Long|work_depart|Phòng Game
+Nguyễn Tất Đạt|work_depart|Phòng Game
+Nguyễn Thanh Phong|work_depart|Trung tâm AI
+Phạm Nguyên Ninh|work_depart|Phòng IS
+Nguyễn Minh Hưng|work_depart|Phòng Fbang
+Phan Văn Thịnh|work_depart|Trung tâm AI
+Nguyễn Văn Phước|work_depart|Phòng Fbang
+Lê Việt Bắc|work_depart|Phòng Game
+Trần Ngọc Thanh Trang|work_depart|Trung tâm AI
+Nguyễn Thị Bình|work_depart|Phòng Product
+Đặng Khánh Chi|work_depart|Phòng Product
+Ngô Mạnh Tuấn|work_depart|Phòng Platform
+Nguyễn Thị Thu Thảo|work_depart|Phòng Chăm sóc khách hàng
+Nguyễn Thị Vân Anh|work_depart|Phòng Chăm sóc khách hàng
+Phan Lê Bích Tuyền|work_depart|Phòng Chăm sóc khách hàng
+Lương Thị Loan|work_depart|Phòng Product
+Nguyễn Thị Lệ Nguyên|work_depart|Phòng Fbang
+Ngô Thị Kiều Chi|work_depart|Phòng Chăm sóc khách hàng
+Dương Đức Thắng|work_depart|Phòng Chăm sóc khách hàng
+Đỗ Hồng Vy|work_depart|Phòng Chăm sóc khách hàng
+Huỳnh Nguyễn Hoàng Phong|work_depart|Phòng Chăm sóc khách hàng
+Đào Đức Lương|work_depart|Phòng Game
+Lê Văn Thông|work_depart|Trung tâm AI
+Nguyễn Trần Ngọc Ly|work_depart|Phòng Funzy
+Nguyễn Thị Thanh Nga|work_depart|Phòng Kế toán
+Nguyễn Thị Thanh Loan|work_depart|Phòng Product
+Phạm Thị Lan Phương|work_depart|Phòng Funzy
+Võ Thành Nguyên|work_depart|Trung tâm AI
+Nguyễn Thị Quỳnh Thi|work_depart|Phòng Hành chính nhân sự
+Đào Văn Hiếu|work_depart|Phòng Application
+Trần Thị Bích Phương|work_depart|Phòng Game
+Đặng Thái Ngọc|work_depart|Phòng Platform
+Hoàng Văn Độ|work_depart|Phòng Platform
+Lưu Thị Mến|work_depart|Phòng Kế toán
+Đặng Nhật Quang|work_depart|Trung tâm AI
+Nguyễn Phương Nam|work_depart|Phòng Product
+Nguyễn Hồ Diễm My|work_depart|Phòng Funzy
+Lê Hữu Thịnh|work_depart|Phòng Funzy
+Nguyễn Gia Phong|work_depart|Phòng Funzy
+Nguyễn Thị Thùy Dương|work_depart|Phòng QA
+Nguyễn Việt Tùng|work_depart|Trung tâm AI
+Nguyễn Vũ Lê Minh|work_depart|Trung tâm AI
+Nguyễn Minh Đức|work_depart|Phòng Funzy
+Nguyễn Danh Diên|work_depart|Phòng IS
+Ngô Hữu Hoàng Việt|work_depart|Trung tâm AI
+Nguyễn Thị Quỳnh Giang|work_depart|Phòng QA
+Bùi Tuấn Tú|work_depart|Phòng Game
+Nguyễn Thị Vui|work_depart|Phòng Pháp chế
+Ngô Văn Nam|work_depart|Phòng Application
+Ứng Hoàng Hiệp|work_depart|Phòng Application
+Phạm Phương Hiền|work_depart|Phòng Game
+Bùi Hùng Cường|work_depart|Phòng Game
+Phạm Hạnh Nguyên|work_depart|Phòng Marketing
+Vương Thu Trang|work_depart|Phòng Product
+Nguyễn Sơn Tùng|work_depart|Phòng Platform
+Hoàng Thanh Tùng|work_depart|Trung tâm AI
+Lê Hồng Nhung|work_depart|Phòng Game
+Ngô Mỹ Linh|work_depart|Phòng QA
+Nguyễn Doãn Đông|work_depart|Trung tâm AI
+Dương Minh Quang|work_depart|Trung tâm AI
+Vũ Hằng Ngân Hoa|work_depart|Phòng Product
+Lê Thị Ngọc Hải|work_depart|Phòng Game
+Nguyễn Như Quỳnh|work_depart|Phòng Game
+Nguyễn Tuấn Anh|work_depart|Phòng Game
+Vũ Hữu Quang|work_depart|Phòng Application
+Đoàn Mạnh Dũng|work_depart|Phòng Platform
+Lê Nguyễn Hiếu Thông|work_depart|Phòng Fbang
+Nguyễn Quang Sơn|work_depart|Phòng Game
+Đặng Trung Hiếu|work_depart|Phòng Fbang
+Nguyễn Duy Phương|work_depart|Phòng Funzy
+Đặng Huỳnh Khánh Ly|work_depart|Trung tâm AI
+Lê Viết Triều|work_depart|Trung tâm AI
+Nguyễn Thanh Nga|work_depart|Phòng Game
+Đào Thị Như|work_depart|Phòng Product
+Nguyễn Thị Lan Anh|work_depart|Phòng Product
+Trần Đặng Đình Nguyên|work_depart|Phòng Fbang
+Nguyễn Mạnh Hùng|work_depart|Phòng Product
+Nguyễn Huy Anh|work_depart|Phòng Platform
+Nguyễn Minh Nhật|work_depart|Trung tâm AI
+Nguyễn Tuấn Đức|work_depart|Phòng Game
+Đỗ Linh Chi|work_depart|Phòng Product
+Trần Thị Hồng|work_depart|Phòng QA
+Phạm Khánh Long|work_depart|Phòng QA
+Trịnh Quốc Tuấn|work_depart|Phòng Platform
+Lê Thanh Giang|work_depart|Phòng Platform
+Phạm Ngọc Quang|work_depart|Trung tâm AI
+Trần Viết Thắng|work_depart|Phòng Platform
+Trịnh Đức Anh|work_depart|Phòng Platform
+Trần Văn Chung|work_depart|Phòng Application
+Cái Đức Thắng|work_depart|Phòng Product
+Nguyễn Chí Thanh|work_depart|Trung tâm AI
+Vũ Hương Ly|work_depart|Phòng Product
+Lê Mạnh Huy|work_depart|Phòng Game
+Ngô Duy Anh|work_depart|Phòng Application
+Vũ Thị Nga|work_depart|Phòng QA
+Nguyễn Văn Trường 2|work_depart|Phòng Application
+Dương Tiến Hiệu|work_depart|Phòng Application
+Nguyễn Hoàng Quân|work_depart|Phòng Hành chính nhân sự
+Nguyễn Đăng Khoa|work_depart|Phòng Fbang
+Dương Thị Tuyến|work_depart|Phòng QA
+Nguyễn Thị Thắm|work_depart|Phòng Product
+Trần Quốc Đạt|work_depart|Phòng Game
+Nguyễn Văn Phú|work_depart|Phòng Platform
+Vũ Văn Thắng|work_depart|Phòng Platform
+Huỳnh Chỉnh|work_depart|Trung tâm AI
+Trần Chí Quốc|work_depart|Phòng Game
+Nguyễn Văn Trường|work_depart|Phòng Platform
+Nguyễn Thạch Ánh|work_depart|Phòng Hành chính nhân sự
+Nguyễn Đức Tiến|work_depart|Phòng Game
+Đồng Văn Tuyến|work_depart|Phòng Application
+Phạm Anh Tú|work_depart|Phòng Product
+Trương Thị Hương|work_depart|Phòng Hành chính nhân sự
+Dương Quỳnh Quang|work_depart|Trung tâm AI
+Đào Thùy Linh|work_depart|Phòng Game
+Phạm Hồng Đức|work_depart|Phòng Game
+Nguyễn Thị Nga Ngọc|work_depart|Phòng QA
+Nguyễn Văn Đạt|work_depart|Phòng Application
+Đặng Hoàng Như Nguyện|work_depart|Trung tâm AI
+Nguyễn An Phú|work_depart|Trung tâm AI
+Phùng Tuấn Long|work_depart|Trung tâm AI
+Nguyễn Sanh Thành|work_depart|Trung tâm AI
+Lê Thị Lan|work_depart|Phòng Product
+Phạm Minh Tuấn|work_depart|Phòng Platform
+Trần Thị Mỹ Hạnh|work_depart|Phòng Platform
+Nguyễn Hữu Đăng|work_depart|Phòng IS
+Nguyễn Công Lý|work_depart|Phòng IS
+Vũ Khánh Long|work_depart|Phòng IS
+Lê Tiến Kính|work_depart|Phòng IS
+Trần Xuân Trường|work_depart|Phòng Platform
+Phạm Huy Thắng|work_depart|Phòng Platform
+Nguyễn Ngọc Quang|work_depart|Phòng Game
+Nguyễn Viết Tùng|work_depart|Phòng Game
+Nguyễn Cao Thắng|work_depart|Phòng Game
+Đào Văn Hưng|work_depart|Phòng Game
+Đào Thị Hoàng Nga|work_depart|Phòng Game
+Vũ Văn Tài|work_depart|Phòng Game
+Đoàn Đắc Tuấn|work_depart|Phòng Game
+Bùi Quốc Đạt|work_depart|Phòng Game
+Nguyễn Thanh Long|work_depart|Phòng Game
+Nguyễn Hoàng Long|work_depart|Phòng Game
+Trần Khánh Toàn|work_depart|Phòng Game
+Lâm Thị Anh|work_depart|Phòng QA
+Phạm Hà An|work_depart|Phòng Product
+Nguyễn Văn Cường|work_depart|Phòng Application
+Nguyễn Duy Thành|work_depart|Phòng Platform
+Tô Trần Tiến|work_depart|Phòng Platform
+Đinh Trọng Liên|work_depart|Phòng Application
+Hà Thiên Hương|work_depart|Trung tâm AI
+Nguyễn Văn Hảo|work_depart|Trung tâm AI
+Lê Thị Hải Linh|work_depart|Trung tâm AI
+Nguyễn Thị Xoan|work_depart|Trung tâm AI
+Tạ Đặng Quân|work_depart|Team BOD
+Huỳnh Ngọc Hải|work_depart|Team BOD
+Vũ Lê Huy|work_depart|Team BOD
+Trần Ngọc Cương|work_depart|Team BOD
+Phạm Trọng Tài|work_depart|Team BOD
+Nguyễn Việt Cường|work_depart|Team BOD
+Nguyễn Tuấn Quang|work_depart|Team BOD
+Đào Trường Giang|work_depart|Team BOD
+Trần Văn Tuân|have_role_in_depart|Nhân viên
+Vắn Hiền Thắng|have_role_in_depart|Nhân viên
+Nguyễn Hồng Quang|have_role_in_depart|Nhân viên
+Nguyễn Văn Khuyến|have_role_in_depart|Nhân viên
+Hoàng Trung Dũng|have_role_in_depart|Nhân viên
+Trần Đức Huy|have_role_in_depart|Nhân viên
+Trần Văn Tuân|have_role_in_depart|Nhân viên
+Nguyễn Thành Đạt|have_role_in_depart|Nhân viên
+Nguyễn Anh Thắng|have_role_in_depart|Nhân viên
+Ngô Ngọc Khánh|have_role_in_depart|Nhân viên
+Trần Nhật Quang|have_role_in_depart|Nhân viên
+Nguyễn Nghĩa Thịnh|have_role_in_depart|Nhân viên
+Nguyễn Đức Minh|have_role_in_depart|Nhân viên
+Nguyễn Phương Hiên|have_role_in_depart|Nhân viên
+Nguyễn Hữu Bắc|have_role_in_depart|Nhân viên
+Đàm Quang Tiến|have_role_in_depart|Nhân viên
+Lê Quang Hưng|have_role_in_depart|Nhân viên
+Phạm Ngọc Hải|have_role_in_depart|Nhân viên
+Phan Thị Thúy Hằng|have_role_in_depart|Trưởng phòng
+Nguyễn Đăng Khôi|have_role_in_depart|Nhân viên
+Nguyễn Tuấn Anh|have_role_in_depart|Nhân viên
+Phạm Thị Minh Huyền|have_role_in_depart|Nhân viên
+Thành Quốc Đạt|have_role_in_depart|Nhân viên
+Trần Thị Thủy|have_role_in_depart|Nhân viên
+Nguyễn Trường An|have_role_in_depart|Nhân viên
+Nguyễn Quang Lập|have_role_in_depart|Nhân viên
+Trần Tiến Anh|have_role_in_depart|Nhân viên
+Hoàng Minh Huyền|have_role_in_depart|Nhân viên
+Nguyễn Duy Phong|have_role_in_depart|Nhân viên
+Đỗ Đức Công|have_role_in_depart|Nhân viên
+Nguyễn Thanh Tú|have_role_in_depart|Nhân viên
+Triệu Chu Quốc Thái|have_role_in_depart|Nhân viên
+Quách Trường Giang|have_role_in_depart|Nhân viên
+Phạm Thùy Linh|have_role_in_depart|Nhân viên
+Lê Thị Mỹ Phương|have_role_in_depart|Nhân viên
+Phan Văn Nhân|have_role_in_depart|Nhân viên
+Phan Thị Hoàng Kim|have_role_in_depart|Nhân viên
+Hoàng Văn Nguyên|have_role_in_depart|Nhân viên
+Ngô Phương Anh|have_role_in_depart|Nhân viên
+Nguyễn Bá Đạt|have_role_in_depart|Nhân viên
+Phạm Thị Hồng Nhung|have_role_in_depart|Nhân viên
+Lê Văn Dũng|have_role_in_depart|Nhân viên
+Nguyễn Viết Trí|have_role_in_depart|Nhân viên
+Ngô Phượng Hoàng|have_role_in_depart|Nhân viên
+Lê Hồ Lộc An|have_role_in_depart|Nhân viên
+Nguyễn Phương Nam 2|have_role_in_depart|Nhân viên
+Nguyễn Thị Phương Thảo|have_role_in_depart|Nhân viên
+Đỗ Tiến Anh|have_role_in_depart|Nhân viên
+Vũ Hoàng Long|have_role_in_depart|Nhân viên
+Tống Thị Minh Lý|have_role_in_depart|Nhân viên
+Hà Duyên Quang Huy|have_role_in_depart|Nhân viên
+Mai Đức Chiến|have_role_in_depart|Nhân viên
+Phạm Văn Dũng|have_role_in_depart|Nhân viên
+Trần Quang Huy|have_role_in_depart|Nhân viên
+Tạ Lê Ngân Hạnh|have_role_in_depart|Nhân viên
+Vũ Ngọc Long|have_role_in_depart|Nhân viên
+Nguyễn Xuân Nhị Phúc|have_role_in_depart|Nhân viên
+Ngô An Bình|have_role_in_depart|Nhân viên
+Kiều Thị Mỹ Linh|have_role_in_depart|Nhân viên
+Nguyễn Trung Hiếu|have_role_in_depart|Nhân viên
+Trần Tuấn Khôi|have_role_in_depart|Nhân viên
+Hồ Nghĩa Khang|have_role_in_depart|Nhân viên
+Đỗ Tấn Sang|have_role_in_depart|Nhân viên
+Phạm Thị Phương Ngôn|have_role_in_depart|Nhân viên
+Âu Dương Minh Vũ|have_role_in_depart|Nhân viên
+Phan Quốc Anh|have_role_in_depart|Nhân viên
+Nguyễn Hoàng Bảo Hưng|have_role_in_depart|Nhân viên
+Võ Minh Hoàng|have_role_in_depart|Nhân viên
+Lê Khánh Duy|have_role_in_depart|Nhân viên
+Đặng Minh Tân|have_role_in_depart|Nhân viên
+Nguyễn Duy Hiếu|have_role_in_depart|Nhân viên
+Đặng Hoàng Sơn|have_role_in_depart|Nhân viên
+Bùi Thảo Vân|have_role_in_depart|Nhân viên
+Lê Quang Anh|have_role_in_depart|Nhân viên
+Trần Công Hiệu|have_role_in_depart|Nhân viên
+Phạm Văn Sơn|have_role_in_depart|Nhân viên
+Cao Thị Thúy|have_role_in_depart|Nhân viên
+Đỗ Thị Hoàng Diễm|have_role_in_depart|Nhân viên
+Đơn Hoàng Trọng|have_role_in_depart|Nhân viên
+Đặng Thế Quân|have_role_in_depart|Nhân viên
+Nguyễn Thị Thơm|have_role_in_depart|Nhân viên
+Vũ Thị Chà My|have_role_in_depart|Nhân viên
+Đỗ Danh Dũng|have_role_in_depart|Nhân viên
+Vương Thành Lộc|have_role_in_depart|Nhân viên
+Tăng Ngọc Dũng|have_role_in_depart|Nhân viên
+Nguyễn Kỳ Tùng|have_role_in_depart|Nhân viên
+Trịnh Tuấn Vũ|have_role_in_depart|Nhân viên
+Nguyễn Văn Hoàng|have_role_in_depart|Nhân viên
+Phạm Minh Sơn|have_role_in_depart|Nhân viên
+Nguyễn Hải Anh|have_role_in_depart|Nhân viên
+Lê Hà Trang|have_role_in_depart|Nhân viên
+Ngô Thái Sơn|have_role_in_depart|Nhân viên
+Phạm Thị Quỳnh|have_role_in_depart|Nhân viên
+Nguyễn Khoa Nguyên|have_role_in_depart|Nhân viên
+Trần Kiên Trường|have_role_in_depart|Nhân viên
+Tạ Xuân Trường|have_role_in_depart|Nhân viên
+Nguyễn Vân Anh|have_role_in_depart|Nhân viên
+Doãn Hoài Linh|have_role_in_depart|Nhân viên
+Nguyễn Công Hậu|have_role_in_depart|Nhân viên
+Dương Hoàng Sơn|have_role_in_depart|Nhân viên
+Trần Việt Tiệp|have_role_in_depart|Nhân viên
+Đỗ Thị Thu Thuỷ|have_role_in_depart|Trưởng phòng
+Nguyễn Minh Thắng|have_role_in_depart|Nhân viên
+Phạm Thế Tâm|have_role_in_depart|Nhân viên
+Nguyễn Thị Thùy Điệp|have_role_in_depart|Nhân viên
+Ngô Quỳnh Nga|have_role_in_depart|Nhân viên
+Ngọ Quang Nam|have_role_in_depart|Nhân viên
+Nguyễn Thanh Thản|have_role_in_depart|Nhân viên
+Nguyễn Xuân Anh Quân|have_role_in_depart|Nhân viên
+Phùng Gia Hiến|have_role_in_depart|Nhân viên
+Đinh Thị Thảo|have_role_in_depart|Nhân viên
+Lưu Khánh Thảo Nhi|have_role_in_depart|Nhân viên
+Lê Hữu Trọng|have_role_in_depart|Nhân viên
+Nguyễn Yến Ngọc|have_role_in_depart|Nhân viên
+Lê Phước Đông|have_role_in_depart|Nhân viên
+Điểu Sáu Bên|have_role_in_depart|Nhân viên
+Nguyễn Đức An Sơn|have_role_in_depart|Nhân viên
+Lê Trần Bảo Minh|have_role_in_depart|Nhân viên
+Võ Xuân Cường|have_role_in_depart|Nhân viên
+Đặng Thị Ngọc Điệp|have_role_in_depart|Nhân viên
+Đoàn Hoài Linh|have_role_in_depart|Nhân viên
+Huỳnh Văn Thành|have_role_in_depart|Nhân viên
+Nguyễn Duy Cẩm|have_role_in_depart|Nhân viên
+Nguyễn Thị Hồng Phúc|have_role_in_depart|Nhân viên
+Đoàn Thanh Phong|have_role_in_depart|Nhân viên
+Nguyễn Thị Thủy Ly|have_role_in_depart|Nhân viên
+Mạc Trung Tình|have_role_in_depart|Nhân viên
+Nguyễn Bảo Thanh|have_role_in_depart|Nhân viên
+Phạm Duy Cường|have_role_in_depart|Nhân viên
+Ngô Thị Phương Duyên|have_role_in_depart|Nhân viên
+Nguyễn Văn Trung|have_role_in_depart|Nhân viên
+Trần Bảo Trung|have_role_in_depart|Nhân viên
+Mai Xuân Kim Thùy|have_role_in_depart|Nhân viên
+Hứa Châu Tiểu Phụng|have_role_in_depart|Nhân viên
+Trương Nhật Bá|have_role_in_depart|Nhân viên
+Nguyễn Đình Khánh|have_role_in_depart|Nhân viên
+Nguyễn Thành Luân|have_role_in_depart|Nhân viên
+Trần Văn Hải|have_role_in_depart|Nhân viên
+Lê Thị Trang Thư|have_role_in_depart|Nhân viên
+Trần Huỳnh Anh Huy|have_role_in_depart|Nhân viên
+Vũ Ngọc Tứ|have_role_in_depart|Nhân viên
+Đỗ Hồng Hạnh|have_role_in_depart|Nhân viên
+Quách Thị Thu|have_role_in_depart|Nhân viên
+Nguyễn Lương Bằng|have_role_in_depart|Nhân viên
+Phan Quốc Hưng|have_role_in_depart|Nhân viên
+Nguyễn Đặng Tú|have_role_in_depart|Nhân viên
+Đinh Thị Bích Ngọc|have_role_in_depart|Nhân viên
+Trần Đại Lộc|have_role_in_depart|Nhân viên
+Dương Sỹ Bình|have_role_in_depart|Nhân viên
+Phạm Thị Hạ|have_role_in_depart|Nhân viên
+Nguyễn Thị Huyền Trang|have_role_in_depart|Nhân viên
+Nguyễn Đình Đức Anh|have_role_in_depart|Nhân viên
+Bùi Thị Kim Dung|have_role_in_depart|Nhân viên
+Mai Chiếm An|have_role_in_depart|Nhân viên
+Vũ Hoàng Sơn|have_role_in_depart|Nhân viên
+Nguyễn Phạm Hoàng Trung|have_role_in_depart|Nhân viên
+Trần Thị Hà Vy|have_role_in_depart|Nhân viên
+Trần Trung Hiếu|have_role_in_depart|Nhân viên
+Nguyễn Đức Thịnh|have_role_in_depart|Nhân viên
+Lê Minh Hoàng|have_role_in_depart|Nhân viên
+Nguyễn Văn Thường|have_role_in_depart|Nhân viên
+Đào Sỹ Mạnh|have_role_in_depart|Nhân viên
+Nguyễn Văn Trọng|have_role_in_depart|Nhân viên
+Phan Vũ Hùng|have_role_in_depart|Nhân viên
+Trần Xuân Hưng|have_role_in_depart|Nhân viên
+Dương Bảo Yến|have_role_in_depart|Nhân viên
+Lâm Hoàng Quân|have_role_in_depart|Nhân viên
+Vũ Thị Mừng|have_role_in_depart|Quản lý
+Trần Đăng Minh|have_role_in_depart|Nhân viên
+Đỗ Phú Phát|have_role_in_depart|Nhân viên
+Lưu Xuân Trường|have_role_in_depart|Nhân viên
+Trịnh Minh Anh|have_role_in_depart|Nhân viên
+Trương Công Danh|have_role_in_depart|Nhân viên
+Lại Ngọc Ly|have_role_in_depart|Nhân viên
+Vũ Thị Thêu|have_role_in_depart|Nhân viên
+Lê Anh Hào|have_role_in_depart|Nhân viên
+Lê Mạnh Tài|have_role_in_depart|Nhân viên
+Hồ Trúc Thuỳ An|have_role_in_depart|Nhân viên
+Kinh Thị Kim Thư|have_role_in_depart|Nhân viên
+Mẫn Thị Kiều Trang|have_role_in_depart|Nhân viên
+Phạm Ngọc Long|have_role_in_depart|Nhân viên
+Nguyễn Tất Đạt|have_role_in_depart|Nhân viên
+Nguyễn Thanh Phong|have_role_in_depart|Nhân viên
+Phạm Nguyên Ninh|have_role_in_depart|Nhân viên
+Nguyễn Minh Hưng|have_role_in_depart|Nhân viên
+Phan Văn Thịnh|have_role_in_depart|Nhân viên
+Nguyễn Văn Phước|have_role_in_depart|Nhân viên
+Lê Việt Bắc|have_role_in_depart|Nhân viên
+Trần Ngọc Thanh Trang|have_role_in_depart|Nhân viên
+Nguyễn Thị Bình|have_role_in_depart|Nhân viên
+Đặng Khánh Chi|have_role_in_depart|Nhân viên
+Ngô Mạnh Tuấn|have_role_in_depart|Nhân viên
+Nguyễn Thị Thu Thảo|have_role_in_depart|Nhân viên
+Nguyễn Thị Vân Anh|have_role_in_depart|Nhân viên
+Phan Lê Bích Tuyền|have_role_in_depart|Nhân viên
+Lương Thị Loan|have_role_in_depart|Nhân viên
+Nguyễn Thị Lệ Nguyên|have_role_in_depart|Nhân viên
+Ngô Thị Kiều Chi|have_role_in_depart|Nhân viên
+Dương Đức Thắng|have_role_in_depart|Nhân viên
+Đỗ Hồng Vy|have_role_in_depart|Nhân viên
+Huỳnh Nguyễn Hoàng Phong|have_role_in_depart|Nhân viên
+Đào Đức Lương|have_role_in_depart|Nhân viên
+Lê Văn Thông|have_role_in_depart|Nhân viên
+Nguyễn Trần Ngọc Ly|have_role_in_depart|Nhân viên
+Nguyễn Thị Thanh Nga|have_role_in_depart|Nhân viên
+Nguyễn Thị Thanh Loan|have_role_in_depart|Nhân viên
+Phạm Thị Lan Phương|have_role_in_depart|Nhân viên
+Võ Thành Nguyên|have_role_in_depart|Nhân viên
+Nguyễn Thị Quỳnh Thi|have_role_in_depart|Nhân viên
+Đào Văn Hiếu|have_role_in_depart|Nhân viên
+Trần Thị Bích Phương|have_role_in_depart|Nhân viên
+Đặng Thái Ngọc|have_role_in_depart|Nhân viên
+Hoàng Văn Độ|have_role_in_depart|Nhân viên
+Lưu Thị Mến|have_role_in_depart|Kế toán trưởng
+Đặng Nhật Quang|have_role_in_depart|Nhân viên
+Nguyễn Phương Nam|have_role_in_depart|Nhân viên
+Nguyễn Hồ Diễm My|have_role_in_depart|Nhân viên
+Lê Hữu Thịnh|have_role_in_depart|Nhân viên
+Nguyễn Gia Phong|have_role_in_depart|Nhân viên
+Nguyễn Thị Thùy Dương|have_role_in_depart|Nhân viên
+Nguyễn Việt Tùng|have_role_in_depart|Nhân viên
+Nguyễn Vũ Lê Minh|have_role_in_depart|Nhân viên
+Nguyễn Minh Đức|have_role_in_depart|Nhân viên
+Nguyễn Danh Diên|have_role_in_depart|Nhân viên
+Ngô Hữu Hoàng Việt|have_role_in_depart|Nhân viên
+Nguyễn Thị Quỳnh Giang|have_role_in_depart|Nhân viên
+Bùi Tuấn Tú|have_role_in_depart|Nhân viên
+Nguyễn Thị Vui|have_role_in_depart|Nhân viên
+Ngô Văn Nam|have_role_in_depart|Nhân viên
+Ứng Hoàng Hiệp|have_role_in_depart|Nhân viên
+Phạm Phương Hiền|have_role_in_depart|Nhân viên
+Bùi Hùng Cường|have_role_in_depart|Nhân viên
+Phạm Hạnh Nguyên|have_role_in_depart|Nhân viên
+Vương Thu Trang|have_role_in_depart|Nhân viên
+Nguyễn Sơn Tùng|have_role_in_depart|Nhân viên
+Hoàng Thanh Tùng|have_role_in_depart|Nhân viên
+Lê Hồng Nhung|have_role_in_depart|Nhân viên
+Ngô Mỹ Linh|have_role_in_depart|Nhân viên
+Nguyễn Doãn Đông|have_role_in_depart|phó giám đốc
+Dương Minh Quang|have_role_in_depart|Nhân viên
+Vũ Hằng Ngân Hoa|have_role_in_depart|Nhân viên
+Lê Thị Ngọc Hải|have_role_in_depart|Nhân viên
+Nguyễn Như Quỳnh|have_role_in_depart|Nhân viên
+Nguyễn Tuấn Anh|have_role_in_depart|Nhân viên
+Vũ Hữu Quang|have_role_in_depart|Nhân viên
+Đoàn Mạnh Dũng|have_role_in_depart|Nhân viên
+Lê Nguyễn Hiếu Thông|have_role_in_depart|Nhân viên
+Nguyễn Quang Sơn|have_role_in_depart|Nhân viên
+Đặng Trung Hiếu|have_role_in_depart|Nhân viên
+Nguyễn Duy Phương|have_role_in_depart|Nhân viên
+Đặng Huỳnh Khánh Ly|have_role_in_depart|Nhân viên
+Lê Viết Triều|have_role_in_depart|Nhân viên
+Nguyễn Thanh Nga|have_role_in_depart|Nhân viên
+Đào Thị Như|have_role_in_depart|Nhân viên
+Nguyễn Thị Lan Anh|have_role_in_depart|Nhân viên
+Trần Đặng Đình Nguyên|have_role_in_depart|Nhân viên
+Nguyễn Mạnh Hùng|have_role_in_depart|Nhân viên
+Nguyễn Huy Anh|have_role_in_depart|Nhân viên
+Nguyễn Minh Nhật|have_role_in_depart|Nhân viên
+Nguyễn Tuấn Đức|have_role_in_depart|Nhân viên
+Đỗ Linh Chi|have_role_in_depart|Nhân viên
+Trần Thị Hồng|have_role_in_depart|Nhân viên
+Phạm Khánh Long|have_role_in_depart|Nhân viên
+Trịnh Quốc Tuấn|have_role_in_depart|Nhân viên
+Lê Thanh Giang|have_role_in_depart|Nhân viên
+Phạm Ngọc Quang|have_role_in_depart|Nhân viên
+Trần Viết Thắng|have_role_in_depart|Nhân viên
+Trịnh Đức Anh|have_role_in_depart|Nhân viên
+Trần Văn Chung|have_role_in_depart|Nhân viên
+Cái Đức Thắng|have_role_in_depart|Nhân viên
+Nguyễn Chí Thanh|have_role_in_depart|Nhân viên
+Vũ Hương Ly|have_role_in_depart|Nhân viên
+Lê Mạnh Huy|have_role_in_depart|Nhân viên
+Ngô Duy Anh|have_role_in_depart|Nhân viên
+Vũ Thị Nga|have_role_in_depart|Nhân viên
+Nguyễn Văn Trường 2|have_role_in_depart|Nhân viên
+Dương Tiến Hiệu|have_role_in_depart|Nhân viên
+Nguyễn Hoàng Quân|have_role_in_depart|Nhân viên
+Nguyễn Đăng Khoa|have_role_in_depart|Nhân viên
+Dương Thị Tuyến|have_role_in_depart|Nhân viên
+Nguyễn Thị Thắm|have_role_in_depart|Phó Phòng
+Trần Quốc Đạt|have_role_in_depart|Nhân viên
+Nguyễn Văn Phú|have_role_in_depart|Nhân viên
+Vũ Văn Thắng|have_role_in_depart|Nhân viên
+Huỳnh Chỉnh|have_role_in_depart|Nhân viên
+Trần Chí Quốc|have_role_in_depart|Nhân viên
+Nguyễn Văn Trường|have_role_in_depart|Nhân viên
+Nguyễn Thạch Ánh|have_role_in_depart|Trưởng phòng
+Nguyễn Đức Tiến|have_role_in_depart|Nhân viên
+Đồng Văn Tuyến|have_role_in_depart|Phó Phòng
+Phạm Anh Tú|have_role_in_depart|Nhân viên
+Trương Thị Hương|have_role_in_depart|Nhân viên
+Dương Quỳnh Quang|have_role_in_depart|Nhân viên
+Đào Thùy Linh|have_role_in_depart|Nhân viên
+Phạm Hồng Đức|have_role_in_depart|Nhân viên
+Nguyễn Thị Nga Ngọc|have_role_in_depart|Nhân viên
+Nguyễn Văn Đạt|have_role_in_depart|Nhân viên
+Đặng Hoàng Như Nguyện|have_role_in_depart|Nhân viên
+Nguyễn An Phú|have_role_in_depart|Nhân viên
+Phùng Tuấn Long|have_role_in_depart|Nhân viên
+Nguyễn Sanh Thành|have_role_in_depart|Nhân viên
+Lê Thị Lan|have_role_in_depart|Nhân viên
+Phạm Minh Tuấn|have_role_in_depart|Phó Phòng
+Trần Thị Mỹ Hạnh|have_role_in_depart|Nhân viên
+Nguyễn Hữu Đăng|have_role_in_depart|Trưởng Phòng
+Nguyễn Công Lý|have_role_in_depart|Nhân viên
+Vũ Khánh Long|have_role_in_depart|Nhân viên
+Lê Tiến Kính|have_role_in_depart|Nhân viên
+Trần Xuân Trường|have_role_in_depart|Phó Phòng
+Phạm Huy Thắng|have_role_in_depart|Trưởng Phòng
+Nguyễn Ngọc Quang|have_role_in_depart|Nhân viên
+Nguyễn Viết Tùng|have_role_in_depart|Phó Phòng
+Nguyễn Cao Thắng|have_role_in_depart|Nhân viên
+Đào Văn Hưng|have_role_in_depart|Nhân viên
+Đào Thị Hoàng Nga|have_role_in_depart|Nhân viên
+Vũ Văn Tài|have_role_in_depart|Nhân viên
+Đoàn Đắc Tuấn|have_role_in_depart|Nhân viên
+Bùi Quốc Đạt|have_role_in_depart|Nhân viên
+Nguyễn Thanh Long|have_role_in_depart|Nhân viên
+Nguyễn Hoàng Long|have_role_in_depart|Nhân viên
+Trần Khánh Toàn|have_role_in_depart|Trưởng Phòng
+Lâm Thị Anh|have_role_in_depart|Phó Phòng
+Phạm Hà An|have_role_in_depart|Nhân viên
+Nguyễn Văn Cường|have_role_in_depart|Nhân viên
+Nguyễn Duy Thành|have_role_in_depart|Nhân viên
+Tô Trần Tiến|have_role_in_depart|Nhân viên
+Đinh Trọng Liên|have_role_in_depart|Phó Phòng
+Hà Thiên Hương|have_role_in_depart|Nhân viên
+Nguyễn Văn Hảo|have_role_in_depart|Nhân viên
+Lê Thị Hải Linh|have_role_in_depart|Nhân viên
+Nguyễn Thị Xoan|have_role_in_depart|Nhân viên
+Tạ Đặng Quân|have_role_in_depart|CPO - Giám đốc Sản phẩm, trưởng phòng
+Huỳnh Ngọc Hải|have_role_in_depart|CBO - Giám đốc Kinh doanh
+Vũ Lê Huy|have_role_in_depart|CIO - Giám đốc Thông tin
+Trần Ngọc Cương|have_role_in_depart|CCO - Giám đốc Sáng tạo
+Phạm Trọng Tài|have_role_in_depart|CTO - Giám đốc Công nghệ
+Nguyễn Việt Cường|have_role_in_depart|COO - Giám đốc Thường trực
+Nguyễn Tuấn Quang|have_role_in_depart|CIA - Giám đốc Nội chính
+Đào Trường Giang|have_role_in_depart|CEO - Giám đốc điều hành

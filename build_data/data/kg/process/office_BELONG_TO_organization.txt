@@ -1,0 +1,6 @@
+Hà Nội|belong_to|FTECH
+Hà Nội|belong_to|Công ty Công nghệ Gia Đình
+Đà Nẵng|belong_to|FTECH
+Đà Nẵng|belong_to|Công ty Công nghệ Gia Đình
+Hồ Chí Minh|belong_to|FTECH
+Hồ Chí Minh|belong_to|Công ty Công nghệ Gia Đình

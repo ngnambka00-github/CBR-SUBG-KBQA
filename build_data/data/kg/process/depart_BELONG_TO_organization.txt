@@ -1,0 +1,38 @@
+Phòng Tuyển dụng và Đào tạo|belong_to|FTECH
+Phòng Tuyển dụng và Đào tạo|belong_to|Công ty Công nghệ Gia Đình
+Phòng Creative|belong_to|FTECH
+Phòng Creative|belong_to|Công ty Công nghệ Gia Đình
+Phòng Pháp chế|belong_to|FTECH
+Phòng Pháp chế|belong_to|Công ty Công nghệ Gia Đình
+Phòng Marketing|belong_to|FTECH
+Phòng Marketing|belong_to|Công ty Công nghệ Gia Đình
+Phòng Funzy|belong_to|FTECH
+Phòng Funzy|belong_to|Công ty Công nghệ Gia Đình
+Phòng Fbang|belong_to|FTECH
+Phòng Fbang|belong_to|Công ty Công nghệ Gia Đình
+Phòng Chăm sóc khách hàng|belong_to|FTECH
+Phòng Chăm sóc khách hàng|belong_to|Công ty Công nghệ Gia Đình
+Phòng Blockchain|belong_to|FTECH
+Phòng Blockchain|belong_to|Công ty Công nghệ Gia Đình
+Phòng R&D|belong_to|FTECH
+Phòng R&D|belong_to|Công ty Công nghệ Gia Đình
+Phòng QA|belong_to|FTECH
+Phòng QA|belong_to|Công ty Công nghệ Gia Đình
+Phòng Kế toán|belong_to|FTECH
+Phòng Kế toán|belong_to|Công ty Công nghệ Gia Đình
+Phòng IS|belong_to|FTECH
+Phòng IS|belong_to|Công ty Công nghệ Gia Đình
+Trung tâm AI|belong_to|FTECH
+Trung tâm AI|belong_to|Công ty Công nghệ Gia Đình
+Phòng Hành chính nhân sự|belong_to|FTECH
+Phòng Hành chính nhân sự|belong_to|Công ty Công nghệ Gia Đình
+Phòng Platform|belong_to|FTECH
+Phòng Platform|belong_to|Công ty Công nghệ Gia Đình
+Phòng Game|belong_to|FTECH
+Phòng Game|belong_to|Công ty Công nghệ Gia Đình
+Phòng Product|belong_to|FTECH
+Phòng Product|belong_to|Công ty Công nghệ Gia Đình
+Phòng Application|belong_to|FTECH
+Phòng Application|belong_to|Công ty Công nghệ Gia Đình
+Team BOD|belong_to|FTECH
+Team BOD|belong_to|Công ty Công nghệ Gia Đình

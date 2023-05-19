@@ -1,0 +1,10 @@
+belong_to
+have_role_in_depart
+have_email
+have_gender
+have_short_name
+work_start_date
+have_birthday
+work_organization
+work_depart
+work_office

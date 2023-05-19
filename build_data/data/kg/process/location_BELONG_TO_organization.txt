@@ -1,0 +1,10 @@
+Tầng 5, Hà Nội|belong_to|FTECH
+Tầng 5, Hà Nội|belong_to|Công ty Công nghệ Gia Đình
+Tầng 8, Hà Nội|belong_to|FTECH
+Tầng 8, Hà Nội|belong_to|Công ty Công nghệ Gia Đình
+Tầng 9, Hà Nội|belong_to|FTECH
+Tầng 9, Hà Nội|belong_to|Công ty Công nghệ Gia Đình
+Đà Nẵng|belong_to|FTECH
+Đà Nẵng|belong_to|Công ty Công nghệ Gia Đình
+Hồ Chí Minh|belong_to|FTECH
+Hồ Chí Minh|belong_to|Công ty Công nghệ Gia Đình

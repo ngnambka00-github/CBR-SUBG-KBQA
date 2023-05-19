@@ -1,0 +1,1695 @@
+Trần Văn Tuân|have_email|tuantv@ftech.ai
+Vắn Hiền Thắng|have_email|thangvh@ftech.ai
+Nguyễn Hồng Quang|have_email|quangnh@ftech.ai
+Nguyễn Văn Khuyến|have_email|khuyennv@ftech.ai
+Hoàng Trung Dũng|have_email|dunght@ftech.ai
+Trần Đức Huy|have_email|huytd@ftech.ai
+Trần Văn Tuân|have_email|tuantv@ftech.ai
+Nguyễn Thành Đạt|have_email|datnt@ftech.ai
+Nguyễn Anh Thắng|have_email|thangnt@ftech.ai
+Ngô Ngọc Khánh|have_email|khanhnn@ftech.ai
+Trần Nhật Quang|have_email|qiamgtn@ftech.ai
+Nguyễn Nghĩa Thịnh|have_email|thinhnn@ftech.ai
+Nguyễn Đức Minh|have_email|minhnd@ftech.ai
+Nguyễn Phương Hiên|have_email|hiennp@ftech.ai
+Nguyễn Hữu Bắc|have_email|bacnh@ftech.ai
+Đàm Quang Tiến|have_email|tiendq@ftech.ai
+Lê Quang Hưng|have_email|hunglq@ftech.ai
+Phạm Ngọc Hải|have_email|haipn@ftech.ai
+Phan Thị Thúy Hằng|have_email|hangptt@ftech.ai
+Nguyễn Đăng Khôi|have_email|khoind@ftech.ai
+Nguyễn Tuấn Anh|have_email|anhnt3@ftech.ai
+Phạm Thị Minh Huyền|have_email|huyenptm@ftech.ai
+Thành Quốc Đạt|have_email|dattq2@ftech.ai
+Trần Thị Thủy|have_email|thuytt@ftech.ai
+Nguyễn Trường An|have_email|annt@ftech.ai
+Nguyễn Quang Lập|have_email|lapnq@ftech.ai
+Trần Tiến Anh|have_email|anhtt2@ftech.ai
+Hoàng Minh Huyền|have_email|huyenhm@ftech.ai
+Nguyễn Duy Phong|have_email|phongnd@ftech.ai
+Đỗ Đức Công|have_email|congdd@ftech.ai
+Nguyễn Thanh Tú|have_email|tunt@ftech.ai
+Triệu Chu Quốc Thái|have_email|thaitcq@ftech.ai
+Quách Trường Giang|have_email|giangqt@ftech.ai
+Phạm Thùy Linh|have_email|linhpt@ftech.ai
+Lê Thị Mỹ Phương|have_email|phuongltm@ftech.ai
+Phan Văn Nhân|have_email|nhanpv@ftech.ai
+Phan Thị Hoàng Kim|have_email|kimpth@ftech.ai
+Hoàng Văn Nguyên|have_email|nguyenhv@ftech.ai
+Ngô Phương Anh|have_email|anhnp@ftech.ai
+Nguyễn Bá Đạt|have_email|datnb@ftech.ai
+Phạm Thị Hồng Nhung|have_email|nhungpth@ftech.ai
+Lê Văn Dũng|have_email|dunglv@ftech.ai
+Nguyễn Viết Trí|have_email|trinv@ftech.ai
+Ngô Phượng Hoàng|have_email|hoangnp@ftech.ai
+Lê Hồ Lộc An|have_email|anlhl@ftech.ai
+Nguyễn Phương Nam 2|have_email|namnp2@ftech.ai
+Nguyễn Thị Phương Thảo|have_email|thaontp@ftech.ai
+Đỗ Tiến Anh|have_email|anhdt2@ftech.ai
+Vũ Hoàng Long|have_email|longvh@ftech.ai
+Tống Thị Minh Lý|have_email|lyttm@ftech.ai
+Hà Duyên Quang Huy|have_email|huyhdq@ftech.ai
+Mai Đức Chiến|have_email|chienmd@ftech.ai
+Phạm Văn Dũng|have_email|dungpv@ftech.ai
+Trần Quang Huy|have_email|huytq@ftech.ai
+Tạ Lê Ngân Hạnh|have_email|hanhtln@ftech.ai
+Vũ Ngọc Long|have_email|longvn@ftech.ai
+Nguyễn Xuân Nhị Phúc|have_email|phucnxn@ftech.ai
+Ngô An Bình|have_email|binhna@ftech.ai
+Kiều Thị Mỹ Linh|have_email|linhktm@ftech.ai
+Nguyễn Trung Hiếu|have_email|hieunt@ftech.ai
+Trần Tuấn Khôi|have_email|khoitt@ftech.ai
+Hồ Nghĩa Khang|have_email|khanghn@ftech.ai
+Đỗ Tấn Sang|have_email|sangdt@ftech.ai
+Phạm Thị Phương Ngôn|have_email|ngonptp@ftech.ai
+Âu Dương Minh Vũ|have_email|vuadm@ftech.ai
+Phan Quốc Anh|have_email|anhpq@ftech.ai
+Nguyễn Hoàng Bảo Hưng|have_email|hungnhb@ftech.ai
+Võ Minh Hoàng|have_email|hoangvm@ftech.ai
+Lê Khánh Duy|have_email|duylk@ftech.ai
+Đặng Minh Tân|have_email|tandm@ftech.ai
+Nguyễn Duy Hiếu|have_email|hieund@ftech.ai
+Đặng Hoàng Sơn|have_email|sondh2@ftech.ai
+Bùi Thảo Vân|have_email|vanbt@ftech.ai
+Lê Quang Anh|have_email|anhlq@ftech.ai
+Trần Công Hiệu|have_email|hieutc@ftech.ai
+Phạm Văn Sơn|have_email|sonpv@ftech.ai
+Cao Thị Thúy|have_email|thuyct@ftech.ai
+Đỗ Thị Hoàng Diễm|have_email|diemdth@ftech.ai
+Đơn Hoàng Trọng|have_email|trongdh@ftech.ai
+Đặng Thế Quân|have_email|quandt@ftech.ai
+Nguyễn Thị Thơm|have_email|thomnt@ftech.ai
+Vũ Thị Chà My|have_email|myvtc@ftech.ai
+Đỗ Danh Dũng|have_email|dungdd@ftech.ai
+Vương Thành Lộc|have_email|locvt@ftech.ai
+Tăng Ngọc Dũng|have_email|dungtn@ftech.ai
+Nguyễn Kỳ Tùng|have_email|tungnk@ftech.ai
+Trịnh Tuấn Vũ|have_email|vutt@ftech.ai
+Nguyễn Văn Hoàng|have_email|hoangnv@ftech.ai
+Phạm Minh Sơn|have_email|sonpm@ftech.ai
+Nguyễn Hải Anh|have_email|anhnh2@ftech.ai
+Lê Hà Trang|have_email|tranglh@ftech.ai
+Ngô Thái Sơn|have_email|sonnt@ftech.ai
+Phạm Thị Quỳnh|have_email|quynhpt@ftech.ai
+Nguyễn Khoa Nguyên|have_email|nguyennk@ftech.ai
+Trần Kiên Trường|have_email|truongtk@ftech.ai
+Tạ Xuân Trường|have_email|truongtx2@ftech.ai
+Nguyễn Vân Anh|have_email|anhnv@ftech.ai
+Doãn Hoài Linh|have_email|linhdh2@ftech.ai
+Nguyễn Công Hậu|have_email|haunc@ftech.ai
+Dương Hoàng Sơn|have_email|sondh@ftech.ai
+Trần Việt Tiệp|have_email|tieptv@ftech.ai
+Đỗ Thị Thu Thuỷ|have_email|thuydtt@ftech.ai
+Nguyễn Minh Thắng|have_email|thangnm@ftech.ai
+Phạm Thế Tâm|have_email|tampt@ftech.ai
+Nguyễn Thị Thùy Điệp|have_email|diepntt@ftech.ai
+Ngô Quỳnh Nga|have_email|nganq@ftech.ai
+Ngọ Quang Nam|have_email|namnq@ftech.ai
+Nguyễn Thanh Thản|have_email|thannt@ftech.ai
+Nguyễn Xuân Anh Quân|have_email|quannxa@ftech.ai
+Phùng Gia Hiến|have_email|hienpg@ftech.ai
+Đinh Thị Thảo|have_email|thaodt@ftech.ai
+Lưu Khánh Thảo Nhi|have_email|nhilkb@ftech.ai
+Lê Hữu Trọng|have_email|tronglh@ftech.ai
+Nguyễn Yến Ngọc|have_email|ngocny@ftech.ai
+Lê Phước Đông|have_email|donglp@ftech.ai
+Điểu Sáu Bên|have_email|bends@ftech.ai
+Nguyễn Đức An Sơn|have_email|sonnda@ftech.ai
+Lê Trần Bảo Minh|have_email|minhltb@ftech.ai
+Võ Xuân Cường|have_email|cuongvx@ftech.ai
+Đặng Thị Ngọc Điệp|have_email|diepdtn@ftech.ai
+Đoàn Hoài Linh|have_email|linhdh@ftech.ai
+Huỳnh Văn Thành|have_email|thanhhv@ftech.ai
+Nguyễn Duy Cẩm|have_email|camnd@ftech.ai
+Nguyễn Thị Hồng Phúc|have_email|phucnth@ftech.ai
+Đoàn Thanh Phong|have_email|phongdt@ftech.ai
+Nguyễn Thị Thủy Ly|have_email|lyntt@ftech.ai
+Mạc Trung Tình|have_email|tinhmt@ftech.ai
+Nguyễn Bảo Thanh|have_email|thanhnb@ftech.ai
+Phạm Duy Cường|have_email|cuongpd@ftech.ai
+Ngô Thị Phương Duyên|have_email|duyentp@ftech.ai
+Nguyễn Văn Trung|have_email|trungnv@ftech.ai
+Trần Bảo Trung|have_email|trungtb@ftech.ai
+Mai Xuân Kim Thùy|have_email|thuymxk@ftech.ai
+Hứa Châu Tiểu Phụng|have_email|phunghct@ftech.ai
+Trương Nhật Bá|have_email|batn@ftech.ai
+Nguyễn Đình Khánh|have_email|khanhnd@ftech.ai
+Nguyễn Thành Luân|have_email|luannt@ftech.ai
+Trần Văn Hải|have_email|haitv@ftech.ai
+Lê Thị Trang Thư|have_email|thultt@ftech.ai
+Trần Huỳnh Anh Huy|have_email|huytha@ftech.ai
+Vũ Ngọc Tứ|have_email|tuvn@ftech.ai
+Đỗ Hồng Hạnh|have_email|hanhdh@ftech.ai
+Quách Thị Thu|have_email|thuqt@ftech.ai
+Nguyễn Lương Bằng|have_email|bangnl@ftech.ai
+Phan Quốc Hưng|have_email|hungpq@ftech.ai
+Nguyễn Đặng Tú|have_email|tund@ftech.ai
+Đinh Thị Bích Ngọc|have_email|ngocdtb@ftech.ai
+Trần Đại Lộc|have_email|loctd@ftech.ai
+Dương Sỹ Bình|have_email|binhds@ftech.ai
+Phạm Thị Hạ|have_email|hapt@ftech.ai
+Nguyễn Thị Huyền Trang|have_email|trangnth@ftech.ai
+Nguyễn Đình Đức Anh|have_email|anhndd@ftech.ai
+Bùi Thị Kim Dung|have_email|dungbtk@ftech.ai
+Mai Chiếm An|have_email|anmc@ftech.ai
+Vũ Hoàng Sơn|have_email|sonvh@ftech.ai
+Nguyễn Phạm Hoàng Trung|have_email|trungnph@ftech.ai
+Trần Thị Hà Vy|have_email|vyth@ftech.ai
+Trần Trung Hiếu|have_email|hieutt2@ftech.ai
+Nguyễn Đức Thịnh|have_email|thinhnd@ftech.ai
+Lê Minh Hoàng|have_email|hoanglm@ftech.ai
+Nguyễn Văn Thường|have_email|thuongnv@ftech.ai
+Đào Sỹ Mạnh|have_email|manhds@ftech.ai
+Nguyễn Văn Trọng|have_email|trongnv@ftech.ai
+Phan Vũ Hùng|have_email|hungpv@ftech.ai
+Trần Xuân Hưng|have_email|hungtx@ftech.ai
+Dương Bảo Yến|have_email|yendb@ftech.ai
+Lâm Hoàng Quân|have_email|quanlh@ftech.ai
+Vũ Thị Mừng|have_email|mungvt@ftech.ai
+Trần Đăng Minh|have_email|minhtd@ftech.ai
+Đỗ Phú Phát|have_email|phatdp@ftech.ai
+Lưu Xuân Trường|have_email|truonglx@ftech.ai
+Trịnh Minh Anh|have_email|anhtm@ftech.ai
+Trương Công Danh|have_email|danhtc@ftech.ai
+Lại Ngọc Ly|have_email|lyln@ftech.ai
+Vũ Thị Thêu|have_email|theuvt@ftech.ai
+Lê Anh Hào|have_email|haola@ftech.ai
+Lê Mạnh Tài|have_email|tailm@ftech.ai
+Hồ Trúc Thuỳ An|have_email|anhtt@ftech.ai
+Kinh Thị Kim Thư|have_email|thuktk@ftech.ai
+Mẫn Thị Kiều Trang|have_email|trangmtk@ftech.ai
+Phạm Ngọc Long|have_email|longpn@ftech.ai
+Nguyễn Tất Đạt|have_email|datnt@ftech.ai
+Nguyễn Thanh Phong|have_email|phongnt@ftech.ai
+Phạm Nguyên Ninh|have_email|ninhpn@ftech.ai
+Nguyễn Minh Hưng|have_email|hungnm1@ftech.ai
+Phan Văn Thịnh|have_email|thinhpv@ftech.ai
+Nguyễn Văn Phước|have_email|phuocnv@ftech.ai
+Lê Việt Bắc|have_email|baclv@ftech.ai
+Trần Ngọc Thanh Trang|have_email|trangtnt@ftech.ai
+Nguyễn Thị Bình|have_email|binhnt@ftech.ai
+Đặng Khánh Chi|have_email|chidk@ftech.ai
+Ngô Mạnh Tuấn|have_email|tuannm@ftech.ai
+Nguyễn Thị Thu Thảo|have_email|thaontt@ftech.ai
+Nguyễn Thị Vân Anh|have_email|anhntv@ftech.ai
+Phan Lê Bích Tuyền|have_email|tuyenplb@ftech.ai
+Lương Thị Loan|have_email|loanlt@ftech.ai
+Nguyễn Thị Lệ Nguyên|have_email|nguyenntl@ftech.ai
+Ngô Thị Kiều Chi|have_email|chintk@ftech.ai
+Dương Đức Thắng|have_email|thangdd@ftech.ai
+Đỗ Hồng Vy|have_email|vydh@ftech.ai
+Huỳnh Nguyễn Hoàng Phong|have_email|phonghnh@ftech.ai
+Đào Đức Lương|have_email|luongdd@ftech.ai
+Lê Văn Thông|have_email|thonglv@ftech.ai
+Nguyễn Trần Ngọc Ly|have_email|lyntn@ftech.ai
+Nguyễn Thị Thanh Nga|have_email|ngantt@ftech.ai
+Nguyễn Thị Thanh Loan|have_email|loanntt1@ftech.ai
+Phạm Thị Lan Phương|have_email|phuongptl@ftech.ai
+Võ Thành Nguyên|have_email|nguyenvt@ftech.ai
+Nguyễn Thị Quỳnh Thi|have_email|thintq@ftech.ai
+Đào Văn Hiếu|have_email|hieudv@ftech.ai
+Trần Thị Bích Phương|have_email|phuongtb@ftech.ai
+Đặng Thái Ngọc|have_email|ngocdt@ftech.ai
+Hoàng Văn Độ|have_email|dohv@ftech.ai
+Lưu Thị Mến|have_email|menlt@ftech.ai
+Đặng Nhật Quang|have_email|quangdn@ftech.ai
+Nguyễn Phương Nam|have_email|namnp@ftech.ai
+Nguyễn Hồ Diễm My|have_email|mynhd@ftech.ai
+Lê Hữu Thịnh|have_email|thinhlh@ftech.ai
+Nguyễn Gia Phong|have_email|phongng@ftech.ai
+Nguyễn Thị Thùy Dương|have_email|duongntt@ftech.ai
+Nguyễn Việt Tùng|have_email|tungnv2@ftech.ai
+Nguyễn Vũ Lê Minh|have_email|minhnvl@ftech.ai
+Nguyễn Minh Đức|have_email|ducnm@ftech.ai
+Nguyễn Danh Diên|have_email|diennd@ftech.ai
+Ngô Hữu Hoàng Việt|have_email|vietnhh@ftech.ai
+Nguyễn Thị Quỳnh Giang|have_email|giangntq@ftech.ai
+Bùi Tuấn Tú|have_email|tubt@ftech.ai
+Nguyễn Thị Vui|have_email|vuint@ftech.ai
+Ngô Văn Nam|have_email|namnvan@ftech.ai
+Ứng Hoàng Hiệp|have_email|hiepuh@ftech.ai
+Phạm Phương Hiền|have_email|hienpp@ftech.ai
+Bùi Hùng Cường|have_email|cuongbh@ftech.ai
+Phạm Hạnh Nguyên|have_email|nguyenph@ftech.ai
+Vương Thu Trang|have_email|trangvt@ftech.ai
+Nguyễn Sơn Tùng|have_email|tungns@ftech.ai
+Hoàng Thanh Tùng|have_email|tunght@ftech.ai
+Lê Hồng Nhung|have_email|nhunglh@ftech.ai
+Ngô Mỹ Linh|have_email|linhnm@ftech.ai
+Nguyễn Doãn Đông|have_email|dongnd@ftech.ai
+Dương Minh Quang|have_email|quangdm@ftech.ai
+Vũ Hằng Ngân Hoa|have_email|hoavhn@ftech.ai
+Lê Thị Ngọc Hải|have_email|hailtn@ftech.ai
+Nguyễn Như Quỳnh|have_email|quynhnn@ftech.ai
+Nguyễn Tuấn Anh|have_email|anhnt@ftech.ai
+Vũ Hữu Quang|have_email|quangvh@ftech.ai
+Đoàn Mạnh Dũng|have_email|dungdm@ftech.ai
+Lê Nguyễn Hiếu Thông|have_email|thonglnh@ftech.ai
+Nguyễn Quang Sơn|have_email|sonnq@ftech.ai
+Đặng Trung Hiếu|have_email|hieudt2@ftech.ai
+Nguyễn Duy Phương|have_email|phuongnd@ftech.ai
+Đặng Huỳnh Khánh Ly|have_email|lydhk@ftech.ai
+Lê Viết Triều|have_email|trieulv@ftech.ai
+Nguyễn Thanh Nga|have_email|ngant@ftech.ai
+Đào Thị Như|have_email|nhudt@ftech.ai
+Nguyễn Thị Lan Anh|have_email|anhntl@ftech.ai
+Trần Đặng Đình Nguyên|have_email|nguyentdd@ftech.ai
+Nguyễn Mạnh Hùng|have_email|hungnm@ftech.ai
+Nguyễn Huy Anh|have_email|anhnh@ftech.ai
+Nguyễn Minh Nhật|have_email|nhatnm@ftech.ai
+Nguyễn Tuấn Đức|have_email|ducnt@ftech.ai
+Đỗ Linh Chi|have_email|chidl@ftech.ai
+Trần Thị Hồng|have_email|hongtt@ftech.ai
+Phạm Khánh Long|have_email|longpk@ftech.ai
+Trịnh Quốc Tuấn|have_email|tuannq@ftech.ai
+Lê Thanh Giang|have_email|gianglt@ftech.ai
+Phạm Ngọc Quang|have_email|quangpn@ftech.ai
+Trần Viết Thắng|have_email|thangtv@ftech.ai
+Trịnh Đức Anh|have_email|anhtd@ftech.ai
+Trần Văn Chung|have_email|chungtv@ftech.ai
+Cái Đức Thắng|have_email|thangcd@ftech.ai
+Nguyễn Chí Thanh|have_email|thanhnc@ftech.ai
+Vũ Hương Ly|have_email|lyvh@ftech.ai
+Lê Mạnh Huy|have_email|huylm@ftech.ai
+Ngô Duy Anh|have_email|anhnduy@ftech.ai
+Vũ Thị Nga|have_email|ngavt@ftech.ai
+Nguyễn Văn Trường 2|have_email|truongnv2@ftech.ai
+Dương Tiến Hiệu|have_email|hieudt@ftech.ai
+Nguyễn Hoàng Quân|have_email|quannh2@ftech.ai
+Nguyễn Đăng Khoa|have_email|khoand@ftech.ai
+Dương Thị Tuyến|have_email|tuyendt@ftech.ai
+Nguyễn Thị Thắm|have_email|thamnt@ftech.ai
+Trần Quốc Đạt|have_email|dattq@ftech.ai
+Nguyễn Văn Phú|have_email|phunv@ftech.ai
+Vũ Văn Thắng|have_email|thangvv@ftech.ai
+Huỳnh Chỉnh|have_email|chinhh@ftech.ai
+Trần Chí Quốc|have_email|quoctc@ftech.ai
+Nguyễn Văn Trường|have_email|truongnv@ftech.ai
+Nguyễn Thạch Ánh|have_email|anhnt2@ftech.ai
+Nguyễn Đức Tiến|have_email|tiennd@ftech.ai
+Đồng Văn Tuyến|have_email|tuyendv@ftech.ai
+Phạm Anh Tú|have_email|tupanh@ftech.ai
+Trương Thị Hương|have_email|huongtt@ftech.ai
+Dương Quỳnh Quang|have_email|quangdq@ftech.ai
+Đào Thùy Linh|have_email|linhdt@ftech.ai
+Phạm Hồng Đức|have_email|ducph@ftech.ai
+Nguyễn Thị Nga Ngọc|have_email|ngocntn@ftech.ai
+Nguyễn Văn Đạt|have_email|datnv@ftech.ai
+Đặng Hoàng Như Nguyện|have_email|nguyendhn@ftech.ai
+Nguyễn An Phú|have_email|phuna@ftech.ai
+Phùng Tuấn Long|have_email|longpt@ftech.ai
+Nguyễn Sanh Thành|have_email|thanhns@ftech.ai
+Lê Thị Lan|have_email|lanlt@ftech.ai
+Phạm Minh Tuấn|have_email|tuanpm@ftech.ai
+Trần Thị Mỹ Hạnh|have_email|hanhttm@ftech.ai
+Nguyễn Hữu Đăng|have_email|dangnh@ftech.ai
+Nguyễn Công Lý|have_email|lync@ftech.ai
+Vũ Khánh Long|have_email|longvk@ftech.ai
+Lê Tiến Kính|have_email|kinhlt@ftech.ai
+Trần Xuân Trường|have_email|truongtx@ftech.ai
+Phạm Huy Thắng|have_email|thangph@ftech.ai
+Nguyễn Ngọc Quang|have_email|quangnn@ftech.ai
+Nguyễn Viết Tùng|have_email|tungnv@ftech.ai
+Nguyễn Cao Thắng|have_email|thangnc@ftech.ai
+Đào Văn Hưng|have_email|hungdv@ftech.ai
+Đào Thị Hoàng Nga|have_email|ngadth@ftech.ai
+Vũ Văn Tài|have_email|taivv@ftech.ai
+Đoàn Đắc Tuấn|have_email|tuandd@ftech.ai
+Bùi Quốc Đạt|have_email|datbq@ftech.ai
+Nguyễn Thanh Long|have_email|longnt@ftech.ai
+Nguyễn Hoàng Long|have_email|longnh@ftech.ai
+Trần Khánh Toàn|have_email|toantk@ftech.ai
+Lâm Thị Anh|have_email|anhlt@ftech.ai
+Phạm Hà An|have_email|anph@ftech.ai
+Nguyễn Văn Cường|have_email|cuongnvan@ftech.ai
+Nguyễn Duy Thành|have_email|thanhnd@ftech.ai
+Tô Trần Tiến|have_email|tientt@ftech.ai
+Đinh Trọng Liên|have_email|liendt@ftech.ai
+Hà Thiên Hương|have_email|huongha@ftech.ai
+Nguyễn Văn Hảo|have_email|haonv@ftech.ai
+Lê Thị Hải Linh|have_email|linhlth@ftech.ai
+Nguyễn Thị Xoan|have_email|xoannt@ftech.ai
+Tạ Đặng Quân|have_email|quantd@ftech.ai
+Huỳnh Ngọc Hải|have_email|haihn@ftech.ai
+Vũ Lê Huy|have_email|huyvl@ftech.ai
+Trần Ngọc Cương|have_email|cuongtn@ftech.ai
+Phạm Trọng Tài|have_email|taipt@ftech.ai
+Nguyễn Việt Cường|have_email|cuongnv@ftech.ai
+Nguyễn Tuấn Quang|have_email|ductv@ftech.ai
+Đào Trường Giang|have_email|giangdao@ftech.ai
+Trần Văn Tuân|have_short_name|tuantv
+Vắn Hiền Thắng|have_short_name|thangvh
+Nguyễn Hồng Quang|have_short_name|quangnh
+Nguyễn Văn Khuyến|have_short_name|khuyennv
+Hoàng Trung Dũng|have_short_name|dunght
+Trần Đức Huy|have_short_name|huytd
+Trần Văn Tuân|have_short_name|tuantv
+Nguyễn Thành Đạt|have_short_name|datnt
+Nguyễn Anh Thắng|have_short_name|thangnt
+Ngô Ngọc Khánh|have_short_name|khanhnn
+Trần Nhật Quang|have_short_name|qiamgtn
+Nguyễn Nghĩa Thịnh|have_short_name|thinhnn
+Nguyễn Đức Minh|have_short_name|minhnd
+Nguyễn Phương Hiên|have_short_name|hiennp
+Nguyễn Hữu Bắc|have_short_name|bacnh
+Đàm Quang Tiến|have_short_name|tiendq
+Lê Quang Hưng|have_short_name|hunglq
+Phạm Ngọc Hải|have_short_name|haipn
+Phan Thị Thúy Hằng|have_short_name|hangptt
+Nguyễn Đăng Khôi|have_short_name|khoind
+Nguyễn Tuấn Anh|have_short_name|anhnt3
+Phạm Thị Minh Huyền|have_short_name|huyenptm
+Thành Quốc Đạt|have_short_name|dattq2
+Trần Thị Thủy|have_short_name|thuytt
+Nguyễn Trường An|have_short_name|annt
+Nguyễn Quang Lập|have_short_name|lapnq
+Trần Tiến Anh|have_short_name|anhtt2
+Hoàng Minh Huyền|have_short_name|huyenhm
+Nguyễn Duy Phong|have_short_name|phongnd
+Đỗ Đức Công|have_short_name|congdd
+Nguyễn Thanh Tú|have_short_name|tunt
+Triệu Chu Quốc Thái|have_short_name|thaitcq
+Quách Trường Giang|have_short_name|giangqt
+Phạm Thùy Linh|have_short_name|linhpt
+Lê Thị Mỹ Phương|have_short_name|phuongltm
+Phan Văn Nhân|have_short_name|nhanpv
+Phan Thị Hoàng Kim|have_short_name|kimpth
+Hoàng Văn Nguyên|have_short_name|nguyenhv
+Ngô Phương Anh|have_short_name|anhnp
+Nguyễn Bá Đạt|have_short_name|datnb
+Phạm Thị Hồng Nhung|have_short_name|nhungpth
+Lê Văn Dũng|have_short_name|dunglv
+Nguyễn Viết Trí|have_short_name|trinv
+Ngô Phượng Hoàng|have_short_name|hoangnp
+Lê Hồ Lộc An|have_short_name|anlhl
+Nguyễn Phương Nam 2|have_short_name|namnp2
+Nguyễn Thị Phương Thảo|have_short_name|thaontp
+Đỗ Tiến Anh|have_short_name|anhdt2
+Vũ Hoàng Long|have_short_name|longvh
+Tống Thị Minh Lý|have_short_name|lyttm
+Hà Duyên Quang Huy|have_short_name|huyhdq
+Mai Đức Chiến|have_short_name|chienmd
+Phạm Văn Dũng|have_short_name|dungpv
+Trần Quang Huy|have_short_name|huytq
+Tạ Lê Ngân Hạnh|have_short_name|hanhtln
+Vũ Ngọc Long|have_short_name|longvn
+Nguyễn Xuân Nhị Phúc|have_short_name|phucnxn
+Ngô An Bình|have_short_name|binhna
+Kiều Thị Mỹ Linh|have_short_name|linhktm
+Nguyễn Trung Hiếu|have_short_name|hieunt
+Trần Tuấn Khôi|have_short_name|khoitt
+Hồ Nghĩa Khang|have_short_name|khanghn
+Đỗ Tấn Sang|have_short_name|sangdt
+Phạm Thị Phương Ngôn|have_short_name|ngonptp
+Âu Dương Minh Vũ|have_short_name|vuadm
+Phan Quốc Anh|have_short_name|anhpq
+Nguyễn Hoàng Bảo Hưng|have_short_name|hungnhb
+Võ Minh Hoàng|have_short_name|hoangvm
+Lê Khánh Duy|have_short_name|duylk
+Đặng Minh Tân|have_short_name|tandm
+Nguyễn Duy Hiếu|have_short_name|hieund
+Đặng Hoàng Sơn|have_short_name|sondh2
+Bùi Thảo Vân|have_short_name|vanbt
+Lê Quang Anh|have_short_name|anhlq
+Trần Công Hiệu|have_short_name|hieutc
+Phạm Văn Sơn|have_short_name|sonpv
+Cao Thị Thúy|have_short_name|thuyct
+Đỗ Thị Hoàng Diễm|have_short_name|diemdth
+Đơn Hoàng Trọng|have_short_name|trongdh
+Đặng Thế Quân|have_short_name|quandt
+Nguyễn Thị Thơm|have_short_name|thomnt
+Vũ Thị Chà My|have_short_name|myvtc
+Đỗ Danh Dũng|have_short_name|dungdd
+Vương Thành Lộc|have_short_name|locvt
+Tăng Ngọc Dũng|have_short_name|dungtn
+Nguyễn Kỳ Tùng|have_short_name|tungnk
+Trịnh Tuấn Vũ|have_short_name|vutt
+Nguyễn Văn Hoàng|have_short_name|hoangnv
+Phạm Minh Sơn|have_short_name|sonpm
+Nguyễn Hải Anh|have_short_name|anhnh2
+Lê Hà Trang|have_short_name|tranglh
+Ngô Thái Sơn|have_short_name|sonnt
+Phạm Thị Quỳnh|have_short_name|quynhpt
+Nguyễn Khoa Nguyên|have_short_name|nguyennk
+Trần Kiên Trường|have_short_name|truongtk
+Tạ Xuân Trường|have_short_name|truongtx2
+Nguyễn Vân Anh|have_short_name|anhnv
+Doãn Hoài Linh|have_short_name|linhdh2
+Nguyễn Công Hậu|have_short_name|haunc
+Dương Hoàng Sơn|have_short_name|sondh
+Trần Việt Tiệp|have_short_name|tieptv
+Đỗ Thị Thu Thuỷ|have_short_name|thuydtt
+Nguyễn Minh Thắng|have_short_name|thangnm
+Phạm Thế Tâm|have_short_name|tampt
+Nguyễn Thị Thùy Điệp|have_short_name|diepntt
+Ngô Quỳnh Nga|have_short_name|nganq
+Ngọ Quang Nam|have_short_name|namnq
+Nguyễn Thanh Thản|have_short_name|thannt
+Nguyễn Xuân Anh Quân|have_short_name|quannxa
+Phùng Gia Hiến|have_short_name|hienpg
+Đinh Thị Thảo|have_short_name|thaodt
+Lưu Khánh Thảo Nhi|have_short_name|nhilkb
+Lê Hữu Trọng|have_short_name|tronglh
+Nguyễn Yến Ngọc|have_short_name|ngocny
+Lê Phước Đông|have_short_name|donglp
+Điểu Sáu Bên|have_short_name|bends
+Nguyễn Đức An Sơn|have_short_name|sonnda
+Lê Trần Bảo Minh|have_short_name|minhltb
+Võ Xuân Cường|have_short_name|cuongvx
+Đặng Thị Ngọc Điệp|have_short_name|diepdtn
+Đoàn Hoài Linh|have_short_name|linhdh
+Huỳnh Văn Thành|have_short_name|thanhhv
+Nguyễn Duy Cẩm|have_short_name|camnd
+Nguyễn Thị Hồng Phúc|have_short_name|phucnth
+Đoàn Thanh Phong|have_short_name|phongdt
+Nguyễn Thị Thủy Ly|have_short_name|lyntt
+Mạc Trung Tình|have_short_name|tinhmt
+Nguyễn Bảo Thanh|have_short_name|thanhnb
+Phạm Duy Cường|have_short_name|cuongpd
+Ngô Thị Phương Duyên|have_short_name|duyentp
+Nguyễn Văn Trung|have_short_name|trungnv
+Trần Bảo Trung|have_short_name|trungtb
+Mai Xuân Kim Thùy|have_short_name|thuymxk
+Hứa Châu Tiểu Phụng|have_short_name|phunghct
+Trương Nhật Bá|have_short_name|batn
+Nguyễn Đình Khánh|have_short_name|khanhnd
+Nguyễn Thành Luân|have_short_name|luannt
+Trần Văn Hải|have_short_name|haitv
+Lê Thị Trang Thư|have_short_name|thultt
+Trần Huỳnh Anh Huy|have_short_name|huytha
+Vũ Ngọc Tứ|have_short_name|tuvn
+Đỗ Hồng Hạnh|have_short_name|hanhdh
+Quách Thị Thu|have_short_name|thuqt
+Nguyễn Lương Bằng|have_short_name|bangnl
+Phan Quốc Hưng|have_short_name|hungpq
+Nguyễn Đặng Tú|have_short_name|tund
+Đinh Thị Bích Ngọc|have_short_name|ngocdtb
+Trần Đại Lộc|have_short_name|loctd
+Dương Sỹ Bình|have_short_name|binhds
+Phạm Thị Hạ|have_short_name|hapt
+Nguyễn Thị Huyền Trang|have_short_name|trangnth
+Nguyễn Đình Đức Anh|have_short_name|anhndd
+Bùi Thị Kim Dung|have_short_name|dungbtk
+Mai Chiếm An|have_short_name|anmc
+Vũ Hoàng Sơn|have_short_name|sonvh
+Nguyễn Phạm Hoàng Trung|have_short_name|trungnph
+Trần Thị Hà Vy|have_short_name|vyth
+Trần Trung Hiếu|have_short_name|hieutt2
+Nguyễn Đức Thịnh|have_short_name|thinhnd
+Lê Minh Hoàng|have_short_name|hoanglm
+Nguyễn Văn Thường|have_short_name|thuongnv
+Đào Sỹ Mạnh|have_short_name|manhds
+Nguyễn Văn Trọng|have_short_name|trongnv
+Phan Vũ Hùng|have_short_name|hungpv
+Trần Xuân Hưng|have_short_name|hungtx
+Dương Bảo Yến|have_short_name|yendb
+Lâm Hoàng Quân|have_short_name|quanlh
+Vũ Thị Mừng|have_short_name|mungvt
+Trần Đăng Minh|have_short_name|minhtd
+Đỗ Phú Phát|have_short_name|phatdp
+Lưu Xuân Trường|have_short_name|truonglx
+Trịnh Minh Anh|have_short_name|anhtm
+Trương Công Danh|have_short_name|danhtc
+Lại Ngọc Ly|have_short_name|lyln
+Vũ Thị Thêu|have_short_name|theuvt
+Lê Anh Hào|have_short_name|haola
+Lê Mạnh Tài|have_short_name|tailm
+Hồ Trúc Thuỳ An|have_short_name|anhtt
+Kinh Thị Kim Thư|have_short_name|thuktk
+Mẫn Thị Kiều Trang|have_short_name|trangmtk
+Phạm Ngọc Long|have_short_name|longpn
+Nguyễn Tất Đạt|have_short_name|datnt
+Nguyễn Thanh Phong|have_short_name|phongnt
+Phạm Nguyên Ninh|have_short_name|ninhpn
+Nguyễn Minh Hưng|have_short_name|hungnm1
+Phan Văn Thịnh|have_short_name|thinhpv
+Nguyễn Văn Phước|have_short_name|phuocnv
+Lê Việt Bắc|have_short_name|baclv
+Trần Ngọc Thanh Trang|have_short_name|trangtnt
+Nguyễn Thị Bình|have_short_name|binhnt
+Đặng Khánh Chi|have_short_name|chidk
+Ngô Mạnh Tuấn|have_short_name|tuannm
+Nguyễn Thị Thu Thảo|have_short_name|thaontt
+Nguyễn Thị Vân Anh|have_short_name|anhntv
+Phan Lê Bích Tuyền|have_short_name|tuyenplb
+Lương Thị Loan|have_short_name|loanlt
+Nguyễn Thị Lệ Nguyên|have_short_name|nguyenntl
+Ngô Thị Kiều Chi|have_short_name|chintk
+Dương Đức Thắng|have_short_name|thangdd
+Đỗ Hồng Vy|have_short_name|vydh
+Huỳnh Nguyễn Hoàng Phong|have_short_name|phonghnh
+Đào Đức Lương|have_short_name|luongdd
+Lê Văn Thông|have_short_name|thonglv
+Nguyễn Trần Ngọc Ly|have_short_name|lyntn
+Nguyễn Thị Thanh Nga|have_short_name|ngantt
+Nguyễn Thị Thanh Loan|have_short_name|loanntt1
+Phạm Thị Lan Phương|have_short_name|phuongptl
+Võ Thành Nguyên|have_short_name|nguyenvt
+Nguyễn Thị Quỳnh Thi|have_short_name|thintq
+Đào Văn Hiếu|have_short_name|hieudv
+Trần Thị Bích Phương|have_short_name|phuongtb
+Đặng Thái Ngọc|have_short_name|ngocdt
+Hoàng Văn Độ|have_short_name|dohv
+Lưu Thị Mến|have_short_name|menlt
+Đặng Nhật Quang|have_short_name|quangdn
+Nguyễn Phương Nam|have_short_name|namnp
+Nguyễn Hồ Diễm My|have_short_name|mynhd
+Lê Hữu Thịnh|have_short_name|thinhlh
+Nguyễn Gia Phong|have_short_name|phongng
+Nguyễn Thị Thùy Dương|have_short_name|duongntt
+Nguyễn Việt Tùng|have_short_name|tungnv2
+Nguyễn Vũ Lê Minh|have_short_name|minhnvl
+Nguyễn Minh Đức|have_short_name|ducnm
+Nguyễn Danh Diên|have_short_name|diennd
+Ngô Hữu Hoàng Việt|have_short_name|vietnhh
+Nguyễn Thị Quỳnh Giang|have_short_name|giangntq
+Bùi Tuấn Tú|have_short_name|tubt
+Nguyễn Thị Vui|have_short_name|vuint
+Ngô Văn Nam|have_short_name|namnvan
+Ứng Hoàng Hiệp|have_short_name|hiepuh
+Phạm Phương Hiền|have_short_name|hienpp
+Bùi Hùng Cường|have_short_name|cuongbh
+Phạm Hạnh Nguyên|have_short_name|nguyenph
+Vương Thu Trang|have_short_name|trangvt
+Nguyễn Sơn Tùng|have_short_name|tungns
+Hoàng Thanh Tùng|have_short_name|tunght
+Lê Hồng Nhung|have_short_name|nhunglh
+Ngô Mỹ Linh|have_short_name|linhnm
+Nguyễn Doãn Đông|have_short_name|dongnd
+Dương Minh Quang|have_short_name|quangdm
+Vũ Hằng Ngân Hoa|have_short_name|hoavhn
+Lê Thị Ngọc Hải|have_short_name|hailtn
+Nguyễn Như Quỳnh|have_short_name|quynhnn
+Nguyễn Tuấn Anh|have_short_name|anhnt
+Vũ Hữu Quang|have_short_name|quangvh
+Đoàn Mạnh Dũng|have_short_name|dungdm
+Lê Nguyễn Hiếu Thông|have_short_name|thonglnh
+Nguyễn Quang Sơn|have_short_name|sonnq
+Đặng Trung Hiếu|have_short_name|hieudt2
+Nguyễn Duy Phương|have_short_name|phuongnd
+Đặng Huỳnh Khánh Ly|have_short_name|lydhk
+Lê Viết Triều|have_short_name|trieulv
+Nguyễn Thanh Nga|have_short_name|ngant
+Đào Thị Như|have_short_name|nhudt
+Nguyễn Thị Lan Anh|have_short_name|anhntl
+Trần Đặng Đình Nguyên|have_short_name|nguyentdd
+Nguyễn Mạnh Hùng|have_short_name|hungnm
+Nguyễn Huy Anh|have_short_name|anhnh
+Nguyễn Minh Nhật|have_short_name|nhatnm
+Nguyễn Tuấn Đức|have_short_name|ducnt
+Đỗ Linh Chi|have_short_name|chidl
+Trần Thị Hồng|have_short_name|hongtt
+Phạm Khánh Long|have_short_name|longpk
+Trịnh Quốc Tuấn|have_short_name|tuannq
+Lê Thanh Giang|have_short_name|gianglt
+Phạm Ngọc Quang|have_short_name|quangpn
+Trần Viết Thắng|have_short_name|thangtv
+Trịnh Đức Anh|have_short_name|anhtd
+Trần Văn Chung|have_short_name|chungtv
+Cái Đức Thắng|have_short_name|thangcd
+Nguyễn Chí Thanh|have_short_name|thanhnc
+Vũ Hương Ly|have_short_name|lyvh
+Lê Mạnh Huy|have_short_name|huylm
+Ngô Duy Anh|have_short_name|anhnduy
+Vũ Thị Nga|have_short_name|ngavt
+Nguyễn Văn Trường 2|have_short_name|truongnv2
+Dương Tiến Hiệu|have_short_name|hieudt
+Nguyễn Hoàng Quân|have_short_name|quannh2
+Nguyễn Đăng Khoa|have_short_name|khoand
+Dương Thị Tuyến|have_short_name|tuyendt
+Nguyễn Thị Thắm|have_short_name|thamnt
+Trần Quốc Đạt|have_short_name|dattq
+Nguyễn Văn Phú|have_short_name|phunv
+Vũ Văn Thắng|have_short_name|thangvv
+Huỳnh Chỉnh|have_short_name|chinhh
+Trần Chí Quốc|have_short_name|quoctc
+Nguyễn Văn Trường|have_short_name|truongnv
+Nguyễn Thạch Ánh|have_short_name|anhnt2
+Nguyễn Đức Tiến|have_short_name|tiennd
+Đồng Văn Tuyến|have_short_name|tuyendv
+Phạm Anh Tú|have_short_name|tupanh
+Trương Thị Hương|have_short_name|huongtt
+Dương Quỳnh Quang|have_short_name|quangdq
+Đào Thùy Linh|have_short_name|linhdt
+Phạm Hồng Đức|have_short_name|ducph
+Nguyễn Thị Nga Ngọc|have_short_name|ngocntn
+Nguyễn Văn Đạt|have_short_name|datnv
+Đặng Hoàng Như Nguyện|have_short_name|nguyendhn
+Nguyễn An Phú|have_short_name|phuna
+Phùng Tuấn Long|have_short_name|longpt
+Nguyễn Sanh Thành|have_short_name|thanhns
+Lê Thị Lan|have_short_name|lanlt
+Phạm Minh Tuấn|have_short_name|tuanpm
+Trần Thị Mỹ Hạnh|have_short_name|hanhttm
+Nguyễn Hữu Đăng|have_short_name|dangnh
+Nguyễn Công Lý|have_short_name|lync
+Vũ Khánh Long|have_short_name|longvk
+Lê Tiến Kính|have_short_name|kinhlt
+Trần Xuân Trường|have_short_name|truongtx
+Phạm Huy Thắng|have_short_name|thangph
+Nguyễn Ngọc Quang|have_short_name|quangnn
+Nguyễn Viết Tùng|have_short_name|tungnv
+Nguyễn Cao Thắng|have_short_name|thangnc
+Đào Văn Hưng|have_short_name|hungdv
+Đào Thị Hoàng Nga|have_short_name|ngadth
+Vũ Văn Tài|have_short_name|taivv
+Đoàn Đắc Tuấn|have_short_name|tuandd
+Bùi Quốc Đạt|have_short_name|datbq
+Nguyễn Thanh Long|have_short_name|longnt
+Nguyễn Hoàng Long|have_short_name|longnh
+Trần Khánh Toàn|have_short_name|toantk
+Lâm Thị Anh|have_short_name|anhlt
+Phạm Hà An|have_short_name|anph
+Nguyễn Văn Cường|have_short_name|cuongnvan
+Nguyễn Duy Thành|have_short_name|thanhnd
+Tô Trần Tiến|have_short_name|tientt
+Đinh Trọng Liên|have_short_name|liendt
+Hà Thiên Hương|have_short_name|huongha
+Nguyễn Văn Hảo|have_short_name|haonv
+Lê Thị Hải Linh|have_short_name|linhlth
+Nguyễn Thị Xoan|have_short_name|xoannt
+Tạ Đặng Quân|have_short_name|quantd
+Huỳnh Ngọc Hải|have_short_name|haihn
+Vũ Lê Huy|have_short_name|huyvl
+Trần Ngọc Cương|have_short_name|cuongtn
+Phạm Trọng Tài|have_short_name|taipt
+Nguyễn Việt Cường|have_short_name|cuongnv
+Nguyễn Tuấn Quang|have_short_name|ductv
+Đào Trường Giang|have_short_name|giangdao
+Trần Văn Tuân|have_birthday|2023-02-08
+Vắn Hiền Thắng|have_birthday|0001-01-01
+Nguyễn Hồng Quang|have_birthday|0001-01-01
+Nguyễn Văn Khuyến|have_birthday|0001-01-01
+Hoàng Trung Dũng|have_birthday|0001-01-01
+Trần Đức Huy|have_birthday|0001-01-01
+Trần Văn Tuân|have_birthday|0001-01-01
+Nguyễn Thành Đạt|have_birthday|0001-01-01
+Nguyễn Anh Thắng|have_birthday|0001-01-01
+Ngô Ngọc Khánh|have_birthday|0001-01-01
+Trần Nhật Quang|have_birthday|0001-01-01
+Nguyễn Nghĩa Thịnh|have_birthday|0001-01-01
+Nguyễn Đức Minh|have_birthday|0001-01-01
+Nguyễn Phương Hiên|have_birthday|0001-01-01
+Nguyễn Hữu Bắc|have_birthday|0001-01-01
+Đàm Quang Tiến|have_birthday|0001-01-01
+Lê Quang Hưng|have_birthday|0001-01-01
+Phạm Ngọc Hải|have_birthday|0001-01-01
+Phan Thị Thúy Hằng|have_birthday|0001-01-01
+Nguyễn Đăng Khôi|have_birthday|0001-01-01
+Nguyễn Tuấn Anh|have_birthday|0001-01-01
+Phạm Thị Minh Huyền|have_birthday|0001-01-01
+Thành Quốc Đạt|have_birthday|0001-01-01
+Trần Thị Thủy|have_birthday|0001-01-01
+Nguyễn Trường An|have_birthday|0001-01-01
+Nguyễn Quang Lập|have_birthday|2001-01-01
+Trần Tiến Anh|have_birthday|0001-01-01
+Hoàng Minh Huyền|have_birthday|0001-01-01
+Nguyễn Duy Phong|have_birthday|0001-01-01
+Đỗ Đức Công|have_birthday|0001-01-01
+Nguyễn Thanh Tú|have_birthday|0001-01-01
+Triệu Chu Quốc Thái|have_birthday|0001-01-01
+Quách Trường Giang|have_birthday|0001-01-01
+Phạm Thùy Linh|have_birthday|0001-01-01
+Lê Thị Mỹ Phương|have_birthday|0001-01-01
+Phan Văn Nhân|have_birthday|0001-01-01
+Phan Thị Hoàng Kim|have_birthday|0001-01-01
+Hoàng Văn Nguyên|have_birthday|0001-01-01
+Ngô Phương Anh|have_birthday|0001-01-01
+Nguyễn Bá Đạt|have_birthday|0001-01-01
+Phạm Thị Hồng Nhung|have_birthday|0001-01-01
+Lê Văn Dũng|have_birthday|0001-01-01
+Nguyễn Viết Trí|have_birthday|0001-01-01
+Ngô Phượng Hoàng|have_birthday|1997-02-27
+Lê Hồ Lộc An|have_birthday|2000-10-29
+Nguyễn Phương Nam 2|have_birthday|1998-10-16
+Nguyễn Thị Phương Thảo|have_birthday|1997-01-31
+Đỗ Tiến Anh|have_birthday|2000-07-25
+Vũ Hoàng Long|have_birthday|2000-07-16
+Tống Thị Minh Lý|have_birthday|1996-08-21
+Hà Duyên Quang Huy|have_birthday|1995-04-23
+Mai Đức Chiến|have_birthday|1988-12-22
+Phạm Văn Dũng|have_birthday|1990-11-25
+Trần Quang Huy|have_birthday|1998-08-04
+Tạ Lê Ngân Hạnh|have_birthday|1995-12-19
+Vũ Ngọc Long|have_birthday|2000-06-13
+Nguyễn Xuân Nhị Phúc|have_birthday|1995-09-16
+Ngô An Bình|have_birthday|1995-03-01
+Kiều Thị Mỹ Linh|have_birthday|1999-12-16
+Nguyễn Trung Hiếu|have_birthday|1999-10-30
+Trần Tuấn Khôi|have_birthday|2000-11-27
+Hồ Nghĩa Khang|have_birthday|1999-10-25
+Đỗ Tấn Sang|have_birthday|2000-12-24
+Phạm Thị Phương Ngôn|have_birthday|1996-08-11
+Âu Dương Minh Vũ|have_birthday|1995-11-02
+Phan Quốc Anh|have_birthday|2000-08-17
+Nguyễn Hoàng Bảo Hưng|have_birthday|1990-01-27
+Võ Minh Hoàng|have_birthday|1993-09-09
+Lê Khánh Duy|have_birthday|1999-09-09
+Đặng Minh Tân|have_birthday|1999-09-18
+Nguyễn Duy Hiếu|have_birthday|1991-06-10
+Đặng Hoàng Sơn|have_birthday|1998-03-20
+Bùi Thảo Vân|have_birthday|2000-10-26
+Lê Quang Anh|have_birthday|1998-10-10
+Trần Công Hiệu|have_birthday|1998-02-18
+Phạm Văn Sơn|have_birthday|1996-09-11
+Cao Thị Thúy|have_birthday|1997-08-23
+Đỗ Thị Hoàng Diễm|have_birthday|1997-12-07
+Đơn Hoàng Trọng|have_birthday|1980-11-30
+Đặng Thế Quân|have_birthday|1998-07-22
+Nguyễn Thị Thơm|have_birthday|1990-12-31
+Vũ Thị Chà My|have_birthday|1994-04-17
+Đỗ Danh Dũng|have_birthday|0001-01-01
+Vương Thành Lộc|have_birthday|1996-11-07
+Tăng Ngọc Dũng|have_birthday|1997-08-04
+Nguyễn Kỳ Tùng|have_birthday|1999-01-16
+Trịnh Tuấn Vũ|have_birthday|2000-03-22
+Nguyễn Văn Hoàng|have_birthday|1999-07-10
+Phạm Minh Sơn|have_birthday|1998-10-06
+Nguyễn Hải Anh|have_birthday|1998-03-20
+Lê Hà Trang|have_birthday|2000-04-01
+Ngô Thái Sơn|have_birthday|1997-10-26
+Phạm Thị Quỳnh|have_birthday|1998-10-02
+Nguyễn Khoa Nguyên|have_birthday|1991-11-14
+Trần Kiên Trường|have_birthday|1994-11-10
+Tạ Xuân Trường|have_birthday|2001-01-10
+Nguyễn Vân Anh|have_birthday|1999-01-22
+Doãn Hoài Linh|have_birthday|1999-12-10
+Nguyễn Công Hậu|have_birthday|1993-04-04
+Dương Hoàng Sơn|have_birthday|1999-02-26
+Trần Việt Tiệp|have_birthday|1989-07-15
+Đỗ Thị Thu Thuỷ|have_birthday|1988-08-25
+Nguyễn Minh Thắng|have_birthday|1998-06-04
+Phạm Thế Tâm|have_birthday|1998-02-28
+Nguyễn Thị Thùy Điệp|have_birthday|1997-05-20
+Ngô Quỳnh Nga|have_birthday|1997-12-25
+Ngọ Quang Nam|have_birthday|1999-11-10
+Nguyễn Thanh Thản|have_birthday|1997-04-12
+Nguyễn Xuân Anh Quân|have_birthday|1999-02-21
+Phùng Gia Hiến|have_birthday|1998-10-31
+Đinh Thị Thảo|have_birthday|1987-05-01
+Lưu Khánh Thảo Nhi|have_birthday|1999-03-12
+Lê Hữu Trọng|have_birthday|1996-11-30
+Nguyễn Yến Ngọc|have_birthday|1990-06-29
+Lê Phước Đông|have_birthday|1997-04-07
+Điểu Sáu Bên|have_birthday|1997-03-01
+Nguyễn Đức An Sơn|have_birthday|2000-05-12
+Lê Trần Bảo Minh|have_birthday|2000-05-19
+Võ Xuân Cường|have_birthday|1996-10-23
+Đặng Thị Ngọc Điệp|have_birthday|1978-11-28
+Đoàn Hoài Linh|have_birthday|1985-10-22
+Huỳnh Văn Thành|have_birthday|1993-08-27
+Nguyễn Duy Cẩm|have_birthday|1980-05-29
+Nguyễn Thị Hồng Phúc|have_birthday|1996-04-25
+Đoàn Thanh Phong|have_birthday|1999-03-21
+Nguyễn Thị Thủy Ly|have_birthday|2000-11-04
+Mạc Trung Tình|have_birthday|1998-11-15
+Nguyễn Bảo Thanh|have_birthday|1997-07-13
+Phạm Duy Cường|have_birthday|1995-07-19
+Ngô Thị Phương Duyên|have_birthday|1999-07-27
+Nguyễn Văn Trung|have_birthday|1997-07-18
+Trần Bảo Trung|have_birthday|1994-02-06
+Mai Xuân Kim Thùy|have_birthday|1998-06-28
+Hứa Châu Tiểu Phụng|have_birthday|1997-05-27
+Trương Nhật Bá|have_birthday|2001-04-15
+Nguyễn Đình Khánh|have_birthday|1998-06-20
+Nguyễn Thành Luân|have_birthday|1998-09-13
+Trần Văn Hải|have_birthday|1987-04-07
+Lê Thị Trang Thư|have_birthday|1996-10-08
+Trần Huỳnh Anh Huy|have_birthday|2001-03-13
+Vũ Ngọc Tứ|have_birthday|1992-05-06
+Đỗ Hồng Hạnh|have_birthday|1996-10-03
+Quách Thị Thu|have_birthday|1986-08-25
+Nguyễn Lương Bằng|have_birthday|1999-06-01
+Phan Quốc Hưng|have_birthday|2000-11-10
+Nguyễn Đặng Tú|have_birthday|1988-08-26
+Đinh Thị Bích Ngọc|have_birthday|1981-04-17
+Trần Đại Lộc|have_birthday|1998-06-03
+Dương Sỹ Bình|have_birthday|1999-03-03
+Phạm Thị Hạ|have_birthday|1995-07-24
+Nguyễn Thị Huyền Trang|have_birthday|2000-07-30
+Nguyễn Đình Đức Anh|have_birthday|1999-03-08
+Bùi Thị Kim Dung|have_birthday|1986-12-15
+Mai Chiếm An|have_birthday|1999-04-20
+Vũ Hoàng Sơn|have_birthday|1991-04-03
+Nguyễn Phạm Hoàng Trung|have_birthday|1995-02-22
+Trần Thị Hà Vy|have_birthday|1995-02-08
+Trần Trung Hiếu|have_birthday|1997-01-03
+Nguyễn Đức Thịnh|have_birthday|1996-09-28
+Lê Minh Hoàng|have_birthday|1995-07-18
+Nguyễn Văn Thường|have_birthday|1996-02-02
+Đào Sỹ Mạnh|have_birthday|1999-05-14
+Nguyễn Văn Trọng|have_birthday|1996-10-10
+Phan Vũ Hùng|have_birthday|1986-04-11
+Trần Xuân Hưng|have_birthday|2000-01-30
+Dương Bảo Yến|have_birthday|1998-09-17
+Lâm Hoàng Quân|have_birthday|1985-06-02
+Vũ Thị Mừng|have_birthday|1991-02-22
+Trần Đăng Minh|have_birthday|1995-04-01
+Đỗ Phú Phát|have_birthday|1997-04-28
+Lưu Xuân Trường|have_birthday|1989-09-10
+Trịnh Minh Anh|have_birthday|1996-11-26
+Trương Công Danh|have_birthday|1995-03-22
+Lại Ngọc Ly|have_birthday|1996-11-25
+Vũ Thị Thêu|have_birthday|1987-12-15
+Lê Anh Hào|have_birthday|1998-10-29
+Lê Mạnh Tài|have_birthday|1991-09-02
+Hồ Trúc Thuỳ An|have_birthday|1994-12-26
+Kinh Thị Kim Thư|have_birthday|1995-02-17
+Mẫn Thị Kiều Trang|have_birthday|1999-10-06
+Phạm Ngọc Long|have_birthday|1997-03-14
+Nguyễn Tất Đạt|have_birthday|1998-10-03
+Nguyễn Thanh Phong|have_birthday|1997-05-28
+Phạm Nguyên Ninh|have_birthday|1997-11-13
+Nguyễn Minh Hưng|have_birthday|1985-10-12
+Phan Văn Thịnh|have_birthday|1997-09-13
+Nguyễn Văn Phước|have_birthday|1996-12-08
+Lê Việt Bắc|have_birthday|1995-10-14
+Trần Ngọc Thanh Trang|have_birthday|1998-11-03
+Nguyễn Thị Bình|have_birthday|1999-02-26
+Đặng Khánh Chi|have_birthday|1999-07-24
+Ngô Mạnh Tuấn|have_birthday|1991-10-27
+Nguyễn Thị Thu Thảo|have_birthday|1997-10-20
+Nguyễn Thị Vân Anh|have_birthday|1999-01-07
+Phan Lê Bích Tuyền|have_birthday|1999-03-02
+Lương Thị Loan|have_birthday|1984-11-13
+Nguyễn Thị Lệ Nguyên|have_birthday|1984-02-10
+Ngô Thị Kiều Chi|have_birthday|1999-04-29
+Dương Đức Thắng|have_birthday|1996-08-08
+Đỗ Hồng Vy|have_birthday|1995-01-21
+Huỳnh Nguyễn Hoàng Phong|have_birthday|1995-11-12
+Đào Đức Lương|have_birthday|1996-02-29
+Lê Văn Thông|have_birthday|1996-12-21
+Nguyễn Trần Ngọc Ly|have_birthday|1995-06-19
+Nguyễn Thị Thanh Nga|have_birthday|1993-03-12
+Nguyễn Thị Thanh Loan|have_birthday|1998-02-10
+Phạm Thị Lan Phương|have_birthday|1987-09-05
+Võ Thành Nguyên|have_birthday|1993-05-19
+Nguyễn Thị Quỳnh Thi|have_birthday|1995-10-25
+Đào Văn Hiếu|have_birthday|1991-02-06
+Trần Thị Bích Phương|have_birthday|1991-09-06
+Đặng Thái Ngọc|have_birthday|1990-08-19
+Hoàng Văn Độ|have_birthday|1997-03-16
+Lưu Thị Mến|have_birthday|1986-09-03
+Đặng Nhật Quang|have_birthday|1997-08-21
+Nguyễn Phương Nam|have_birthday|1998-09-02
+Nguyễn Hồ Diễm My|have_birthday|1999-04-16
+Lê Hữu Thịnh|have_birthday|1985-03-22
+Nguyễn Gia Phong|have_birthday|1996-11-16
+Nguyễn Thị Thùy Dương|have_birthday|1995-07-29
+Nguyễn Việt Tùng|have_birthday|1999-09-22
+Nguyễn Vũ Lê Minh|have_birthday|1994-05-22
+Nguyễn Minh Đức|have_birthday|1994-09-29
+Nguyễn Danh Diên|have_birthday|1998-04-12
+Ngô Hữu Hoàng Việt|have_birthday|1998-10-30
+Nguyễn Thị Quỳnh Giang|have_birthday|1997-07-27
+Bùi Tuấn Tú|have_birthday|1992-07-06
+Nguyễn Thị Vui|have_birthday|1987-09-24
+Ngô Văn Nam|have_birthday|1991-03-24
+Ứng Hoàng Hiệp|have_birthday|1993-01-05
+Phạm Phương Hiền|have_birthday|1999-10-06
+Bùi Hùng Cường|have_birthday|1991-08-21
+Phạm Hạnh Nguyên|have_birthday|1998-12-12
+Vương Thu Trang|have_birthday|1999-12-20
+Nguyễn Sơn Tùng|have_birthday|1993-02-14
+Hoàng Thanh Tùng|have_birthday|1995-09-11
+Lê Hồng Nhung|have_birthday|1991-11-05
+Ngô Mỹ Linh|have_birthday|1995-03-01
+Nguyễn Doãn Đông|have_birthday|1986-08-09
+Dương Minh Quang|have_birthday|1998-05-13
+Vũ Hằng Ngân Hoa|have_birthday|1992-12-18
+Lê Thị Ngọc Hải|have_birthday|2000-10-05
+Nguyễn Như Quỳnh|have_birthday|1990-06-28
+Nguyễn Tuấn Anh|have_birthday|1984-11-12
+Vũ Hữu Quang|have_birthday|1995-08-17
+Đoàn Mạnh Dũng|have_birthday|1998-06-21
+Lê Nguyễn Hiếu Thông|have_birthday|1995-11-02
+Nguyễn Quang Sơn|have_birthday|1998-02-05
+Đặng Trung Hiếu|have_birthday|1996-09-17
+Nguyễn Duy Phương|have_birthday|1985-07-24
+Đặng Huỳnh Khánh Ly|have_birthday|1998-01-22
+Lê Viết Triều|have_birthday|1997-01-08
+Nguyễn Thanh Nga|have_birthday|1994-09-08
+Đào Thị Như|have_birthday|1995-12-07
+Nguyễn Thị Lan Anh|have_birthday|1996-03-02
+Trần Đặng Đình Nguyên|have_birthday|1993-03-24
+Nguyễn Mạnh Hùng|have_birthday|1984-12-14
+Nguyễn Huy Anh|have_birthday|1988-07-20
+Nguyễn Minh Nhật|have_birthday|1995-05-19
+Nguyễn Tuấn Đức|have_birthday|1993-09-11
+Đỗ Linh Chi|have_birthday|1998-11-11
+Trần Thị Hồng|have_birthday|1994-11-10
+Phạm Khánh Long|have_birthday|1999-08-16
+Trịnh Quốc Tuấn|have_birthday|1988-02-01
+Lê Thanh Giang|have_birthday|1988-04-26
+Phạm Ngọc Quang|have_birthday|1997-07-04
+Trần Viết Thắng|have_birthday|1990-12-22
+Trịnh Đức Anh|have_birthday|1992-02-02
+Trần Văn Chung|have_birthday|1995-01-10
+Cái Đức Thắng|have_birthday|1997-05-19
+Nguyễn Chí Thanh|have_birthday|1998-10-26
+Vũ Hương Ly|have_birthday|1996-12-02
+Lê Mạnh Huy|have_birthday|1997-12-16
+Ngô Duy Anh|have_birthday|1994-05-01
+Vũ Thị Nga|have_birthday|1995-12-07
+Nguyễn Văn Trường 2|have_birthday|1995-10-02
+Dương Tiến Hiệu|have_birthday|1996-01-12
+Nguyễn Hoàng Quân|have_birthday|1980-04-04
+Nguyễn Đăng Khoa|have_birthday|1982-11-04
+Dương Thị Tuyến|have_birthday|1991-10-01
+Nguyễn Thị Thắm|have_birthday|1993-03-05
+Trần Quốc Đạt|have_birthday|1996-01-17
+Nguyễn Văn Phú|have_birthday|1992-12-13
+Vũ Văn Thắng|have_birthday|1996-04-27
+Huỳnh Chỉnh|have_birthday|1993-06-23
+Trần Chí Quốc|have_birthday|1987-09-09
+Nguyễn Văn Trường|have_birthday|1990-05-16
+Nguyễn Thạch Ánh|have_birthday|1978-11-13
+Nguyễn Đức Tiến|have_birthday|1993-03-14
+Đồng Văn Tuyến|have_birthday|1992-07-18
+Phạm Anh Tú|have_birthday|1994-02-17
+Trương Thị Hương|have_birthday|1997-06-10
+Dương Quỳnh Quang|have_birthday|1996-02-16
+Đào Thùy Linh|have_birthday|1991-04-16
+Phạm Hồng Đức|have_birthday|1987-07-24
+Nguyễn Thị Nga Ngọc|have_birthday|1991-01-10
+Nguyễn Văn Đạt|have_birthday|1998-06-28
+Đặng Hoàng Như Nguyện|have_birthday|1996-04-23
+Nguyễn An Phú|have_birthday|1999-02-21
+Phùng Tuấn Long|have_birthday|1994-12-27
+Nguyễn Sanh Thành|have_birthday|1993-02-10
+Lê Thị Lan|have_birthday|1998-01-21
+Phạm Minh Tuấn|have_birthday|1983-11-02
+Trần Thị Mỹ Hạnh|have_birthday|1998-01-23
+Nguyễn Hữu Đăng|have_birthday|1990-02-15
+Nguyễn Công Lý|have_birthday|1995-12-12
+Vũ Khánh Long|have_birthday|1988-07-11
+Lê Tiến Kính|have_birthday|1989-03-04
+Trần Xuân Trường|have_birthday|1990-08-21
+Phạm Huy Thắng|have_birthday|1989-11-16
+Nguyễn Ngọc Quang|have_birthday|1991-10-26
+Nguyễn Viết Tùng|have_birthday|1984-07-24
+Nguyễn Cao Thắng|have_birthday|1982-10-08
+Đào Văn Hưng|have_birthday|1993-03-23
+Đào Thị Hoàng Nga|have_birthday|1988-02-28
+Vũ Văn Tài|have_birthday|1992-02-16
+Đoàn Đắc Tuấn|have_birthday|1996-12-15
+Bùi Quốc Đạt|have_birthday|1995-08-26
+Nguyễn Thanh Long|have_birthday|1996-02-17
+Nguyễn Hoàng Long|have_birthday|1988-12-20
+Trần Khánh Toàn|have_birthday|1993-10-09
+Lâm Thị Anh|have_birthday|1992-08-30
+Phạm Hà An|have_birthday|1993-10-05
+Nguyễn Văn Cường|have_birthday|1993-04-11
+Nguyễn Duy Thành|have_birthday|1991-04-14
+Tô Trần Tiến|have_birthday|1990-09-07
+Đinh Trọng Liên|have_birthday|1991-10-07
+Hà Thiên Hương|have_birthday|1991-01-06
+Nguyễn Văn Hảo|have_birthday|1993-02-18
+Lê Thị Hải Linh|have_birthday|1997-05-24
+Nguyễn Thị Xoan|have_birthday|1997-06-04
+Tạ Đặng Quân|have_birthday|1987-06-17
+Huỳnh Ngọc Hải|have_birthday|1979-09-21
+Vũ Lê Huy|have_birthday|1986-03-09
+Trần Ngọc Cương|have_birthday|1980-09-25
+Phạm Trọng Tài|have_birthday|1984-02-21
+Nguyễn Việt Cường|have_birthday|1987-06-16
+Nguyễn Tuấn Quang|have_birthday|1982-11-30
+Đào Trường Giang|have_birthday|1977-04-28
+Trần Văn Tuân|have_gender|Nam
+Vắn Hiền Thắng|have_gender|Nam
+Nguyễn Hồng Quang|have_gender|Nam
+Nguyễn Văn Khuyến|have_gender|Nam
+Hoàng Trung Dũng|have_gender|Nữ
+Trần Đức Huy|have_gender|Nữ
+Trần Văn Tuân|have_gender|Nam
+Nguyễn Thành Đạt|have_gender|Nữ
+Nguyễn Anh Thắng|have_gender|Nữ
+Ngô Ngọc Khánh|have_gender|Nữ
+Trần Nhật Quang|have_gender|Nữ
+Nguyễn Nghĩa Thịnh|have_gender|Nam
+Nguyễn Đức Minh|have_gender|Nam
+Nguyễn Phương Hiên|have_gender|Nữ
+Nguyễn Hữu Bắc|have_gender|Nam
+Đàm Quang Tiến|have_gender|Nam
+Lê Quang Hưng|have_gender|Nam
+Phạm Ngọc Hải|have_gender|Nam
+Phan Thị Thúy Hằng|have_gender|Nữ
+Nguyễn Đăng Khôi|have_gender|Nam
+Nguyễn Tuấn Anh|have_gender|Nam
+Phạm Thị Minh Huyền|have_gender|Nữ
+Thành Quốc Đạt|have_gender|Nam
+Trần Thị Thủy|have_gender|Nữ
+Nguyễn Trường An|have_gender|Nam
+Nguyễn Quang Lập|have_gender|Nam
+Trần Tiến Anh|have_gender|Nam
+Hoàng Minh Huyền|have_gender|Nữ
+Nguyễn Duy Phong|have_gender|Nam
+Đỗ Đức Công|have_gender|Nam
+Nguyễn Thanh Tú|have_gender|Nam
+Triệu Chu Quốc Thái|have_gender|Nam
+Quách Trường Giang|have_gender|Nam
+Phạm Thùy Linh|have_gender|Nữ
+Lê Thị Mỹ Phương|have_gender|Nữ
+Phan Văn Nhân|have_gender|Nam
+Phan Thị Hoàng Kim|have_gender|Nữ
+Hoàng Văn Nguyên|have_gender|Nam
+Ngô Phương Anh|have_gender|Nữ
+Nguyễn Bá Đạt|have_gender|Nam
+Phạm Thị Hồng Nhung|have_gender|Nữ
+Lê Văn Dũng|have_gender|Nam
+Nguyễn Viết Trí|have_gender|Nam
+Ngô Phượng Hoàng|have_gender|Nam
+Lê Hồ Lộc An|have_gender|Nữ
+Nguyễn Phương Nam 2|have_gender|Nam
+Nguyễn Thị Phương Thảo|have_gender|Nữ
+Đỗ Tiến Anh|have_gender|Nam
+Vũ Hoàng Long|have_gender|Nam
+Tống Thị Minh Lý|have_gender|Nữ
+Hà Duyên Quang Huy|have_gender|Nam
+Mai Đức Chiến|have_gender|Nam
+Phạm Văn Dũng|have_gender|Nam
+Trần Quang Huy|have_gender|Nam
+Tạ Lê Ngân Hạnh|have_gender|Nữ
+Vũ Ngọc Long|have_gender|Nam
+Nguyễn Xuân Nhị Phúc|have_gender|Nữ
+Ngô An Bình|have_gender|Nam
+Kiều Thị Mỹ Linh|have_gender|Nữ
+Nguyễn Trung Hiếu|have_gender|Nam
+Trần Tuấn Khôi|have_gender|Nam
+Hồ Nghĩa Khang|have_gender|Nam
+Đỗ Tấn Sang|have_gender|Nam
+Phạm Thị Phương Ngôn|have_gender|Nữ
+Âu Dương Minh Vũ|have_gender|Nam
+Phan Quốc Anh|have_gender|Nam
+Nguyễn Hoàng Bảo Hưng|have_gender|Nam
+Võ Minh Hoàng|have_gender|Nam
+Lê Khánh Duy|have_gender|Nam
+Đặng Minh Tân|have_gender|Nam
+Nguyễn Duy Hiếu|have_gender|Nam
+Đặng Hoàng Sơn|have_gender|Nam
+Bùi Thảo Vân|have_gender|Nữ
+Lê Quang Anh|have_gender|Nam
+Trần Công Hiệu|have_gender|Nam
+Phạm Văn Sơn|have_gender|Nam
+Cao Thị Thúy|have_gender|Nữ
+Đỗ Thị Hoàng Diễm|have_gender|Nữ
+Đơn Hoàng Trọng|have_gender|Nam
+Đặng Thế Quân|have_gender|Nam
+Nguyễn Thị Thơm|have_gender|Nữ
+Vũ Thị Chà My|have_gender|Nữ
+Đỗ Danh Dũng|have_gender|Nam
+Vương Thành Lộc|have_gender|Nam
+Tăng Ngọc Dũng|have_gender|Nam
+Nguyễn Kỳ Tùng|have_gender|Nam
+Trịnh Tuấn Vũ|have_gender|Nam
+Nguyễn Văn Hoàng|have_gender|Nam
+Phạm Minh Sơn|have_gender|Nam
+Nguyễn Hải Anh|have_gender|Nam
+Lê Hà Trang|have_gender|Nữ
+Ngô Thái Sơn|have_gender|Nam
+Phạm Thị Quỳnh|have_gender|Nữ
+Nguyễn Khoa Nguyên|have_gender|Nam
+Trần Kiên Trường|have_gender|Nam
+Tạ Xuân Trường|have_gender|Nam
+Nguyễn Vân Anh|have_gender|Nữ
+Doãn Hoài Linh|have_gender|Nam
+Nguyễn Công Hậu|have_gender|Nam
+Dương Hoàng Sơn|have_gender|Nam
+Trần Việt Tiệp|have_gender|Nam
+Đỗ Thị Thu Thuỷ|have_gender|Nữ
+Nguyễn Minh Thắng|have_gender|Nam
+Phạm Thế Tâm|have_gender|Nam
+Nguyễn Thị Thùy Điệp|have_gender|Nữ
+Ngô Quỳnh Nga|have_gender|Nữ
+Ngọ Quang Nam|have_gender|Nam
+Nguyễn Thanh Thản|have_gender|Nam
+Nguyễn Xuân Anh Quân|have_gender|Nam
+Phùng Gia Hiến|have_gender|Nam
+Đinh Thị Thảo|have_gender|Nữ
+Lưu Khánh Thảo Nhi|have_gender|Nữ
+Lê Hữu Trọng|have_gender|Nam
+Nguyễn Yến Ngọc|have_gender|Nữ
+Lê Phước Đông|have_gender|Nam
+Điểu Sáu Bên|have_gender|Nam
+Nguyễn Đức An Sơn|have_gender|Nam
+Lê Trần Bảo Minh|have_gender|Nam
+Võ Xuân Cường|have_gender|Nam
+Đặng Thị Ngọc Điệp|have_gender|Nữ
+Đoàn Hoài Linh|have_gender|Nữ
+Huỳnh Văn Thành|have_gender|Nam
+Nguyễn Duy Cẩm|have_gender|Nam
+Nguyễn Thị Hồng Phúc|have_gender|Nữ
+Đoàn Thanh Phong|have_gender|Nam
+Nguyễn Thị Thủy Ly|have_gender|Nữ
+Mạc Trung Tình|have_gender|Nam
+Nguyễn Bảo Thanh|have_gender|Nam
+Phạm Duy Cường|have_gender|Nam
+Ngô Thị Phương Duyên|have_gender|Nữ
+Nguyễn Văn Trung|have_gender|Nam
+Trần Bảo Trung|have_gender|Nam
+Mai Xuân Kim Thùy|have_gender|Nữ
+Hứa Châu Tiểu Phụng|have_gender|Nữ
+Trương Nhật Bá|have_gender|Nam
+Nguyễn Đình Khánh|have_gender|Nam
+Nguyễn Thành Luân|have_gender|Nam
+Trần Văn Hải|have_gender|Nam
+Lê Thị Trang Thư|have_gender|Nữ
+Trần Huỳnh Anh Huy|have_gender|Nam
+Vũ Ngọc Tứ|have_gender|Nam
+Đỗ Hồng Hạnh|have_gender|Nữ
+Quách Thị Thu|have_gender|Nữ
+Nguyễn Lương Bằng|have_gender|Nam
+Phan Quốc Hưng|have_gender|Nam
+Nguyễn Đặng Tú|have_gender|Nam
+Đinh Thị Bích Ngọc|have_gender|Nữ
+Trần Đại Lộc|have_gender|Nam
+Dương Sỹ Bình|have_gender|Nam
+Phạm Thị Hạ|have_gender|Nữ
+Nguyễn Thị Huyền Trang|have_gender|Nữ
+Nguyễn Đình Đức Anh|have_gender|Nam
+Bùi Thị Kim Dung|have_gender|Nữ
+Mai Chiếm An|have_gender|Nam
+Vũ Hoàng Sơn|have_gender|Nam
+Nguyễn Phạm Hoàng Trung|have_gender|Nam
+Trần Thị Hà Vy|have_gender|Nữ
+Trần Trung Hiếu|have_gender|Nam
+Nguyễn Đức Thịnh|have_gender|Nam
+Lê Minh Hoàng|have_gender|Nam
+Nguyễn Văn Thường|have_gender|Nam
+Đào Sỹ Mạnh|have_gender|Nam
+Nguyễn Văn Trọng|have_gender|Nam
+Phan Vũ Hùng|have_gender|Nam
+Trần Xuân Hưng|have_gender|Nam
+Dương Bảo Yến|have_gender|Nữ
+Lâm Hoàng Quân|have_gender|Nam
+Vũ Thị Mừng|have_gender|Nữ
+Trần Đăng Minh|have_gender|Nam
+Đỗ Phú Phát|have_gender|Nam
+Lưu Xuân Trường|have_gender|Nam
+Trịnh Minh Anh|have_gender|Nữ
+Trương Công Danh|have_gender|Nam
+Lại Ngọc Ly|have_gender|Nữ
+Vũ Thị Thêu|have_gender|Nữ
+Lê Anh Hào|have_gender|Nam
+Lê Mạnh Tài|have_gender|Nam
+Hồ Trúc Thuỳ An|have_gender|Nữ
+Kinh Thị Kim Thư|have_gender|Nữ
+Mẫn Thị Kiều Trang|have_gender|Nữ
+Phạm Ngọc Long|have_gender|Nam
+Nguyễn Tất Đạt|have_gender|Nam
+Nguyễn Thanh Phong|have_gender|Nam
+Phạm Nguyên Ninh|have_gender|Nam
+Nguyễn Minh Hưng|have_gender|Nam
+Phan Văn Thịnh|have_gender|Nam
+Nguyễn Văn Phước|have_gender|Nam
+Lê Việt Bắc|have_gender|Nam
+Trần Ngọc Thanh Trang|have_gender|Nữ
+Nguyễn Thị Bình|have_gender|Nữ
+Đặng Khánh Chi|have_gender|Nữ
+Ngô Mạnh Tuấn|have_gender|Nam
+Nguyễn Thị Thu Thảo|have_gender|Nữ
+Nguyễn Thị Vân Anh|have_gender|Nữ
+Phan Lê Bích Tuyền|have_gender|Nữ
+Lương Thị Loan|have_gender|Nữ
+Nguyễn Thị Lệ Nguyên|have_gender|Nữ
+Ngô Thị Kiều Chi|have_gender|Nữ
+Dương Đức Thắng|have_gender|Nam
+Đỗ Hồng Vy|have_gender|Nữ
+Huỳnh Nguyễn Hoàng Phong|have_gender|Nam
+Đào Đức Lương|have_gender|Nam
+Lê Văn Thông|have_gender|Nam
+Nguyễn Trần Ngọc Ly|have_gender|Nữ
+Nguyễn Thị Thanh Nga|have_gender|Nữ
+Nguyễn Thị Thanh Loan|have_gender|Nữ
+Phạm Thị Lan Phương|have_gender|Nữ
+Võ Thành Nguyên|have_gender|Nam
+Nguyễn Thị Quỳnh Thi|have_gender|Nữ
+Đào Văn Hiếu|have_gender|Nam
+Trần Thị Bích Phương|have_gender|Nữ
+Đặng Thái Ngọc|have_gender|Nam
+Hoàng Văn Độ|have_gender|Nam
+Lưu Thị Mến|have_gender|Nữ
+Đặng Nhật Quang|have_gender|Nam
+Nguyễn Phương Nam|have_gender|Nam
+Nguyễn Hồ Diễm My|have_gender|Nữ
+Lê Hữu Thịnh|have_gender|Nam
+Nguyễn Gia Phong|have_gender|Nam
+Nguyễn Thị Thùy Dương|have_gender|Nữ
+Nguyễn Việt Tùng|have_gender|Nam
+Nguyễn Vũ Lê Minh|have_gender|Nam
+Nguyễn Minh Đức|have_gender|Nam
+Nguyễn Danh Diên|have_gender|Nam
+Ngô Hữu Hoàng Việt|have_gender|Nam
+Nguyễn Thị Quỳnh Giang|have_gender|Nữ
+Bùi Tuấn Tú|have_gender|Nam
+Nguyễn Thị Vui|have_gender|Nữ
+Ngô Văn Nam|have_gender|Nam
+Ứng Hoàng Hiệp|have_gender|Nam
+Phạm Phương Hiền|have_gender|Nữ
+Bùi Hùng Cường|have_gender|Nam
+Phạm Hạnh Nguyên|have_gender|Nữ
+Vương Thu Trang|have_gender|Nữ
+Nguyễn Sơn Tùng|have_gender|Nam
+Hoàng Thanh Tùng|have_gender|Nam
+Lê Hồng Nhung|have_gender|Nữ
+Ngô Mỹ Linh|have_gender|Nữ
+Nguyễn Doãn Đông|have_gender|Nam
+Dương Minh Quang|have_gender|Nam
+Vũ Hằng Ngân Hoa|have_gender|Nữ
+Lê Thị Ngọc Hải|have_gender|Nữ
+Nguyễn Như Quỳnh|have_gender|Nữ
+Nguyễn Tuấn Anh|have_gender|Nam
+Vũ Hữu Quang|have_gender|Nam
+Đoàn Mạnh Dũng|have_gender|Nam
+Lê Nguyễn Hiếu Thông|have_gender|Nam
+Nguyễn Quang Sơn|have_gender|Nam
+Đặng Trung Hiếu|have_gender|Nam
+Nguyễn Duy Phương|have_gender|Nam
+Đặng Huỳnh Khánh Ly|have_gender|Nữ
+Lê Viết Triều|have_gender|Nam
+Nguyễn Thanh Nga|have_gender|Nữ
+Đào Thị Như|have_gender|Nữ
+Nguyễn Thị Lan Anh|have_gender|Nữ
+Trần Đặng Đình Nguyên|have_gender|Nam
+Nguyễn Mạnh Hùng|have_gender|Nam
+Nguyễn Huy Anh|have_gender|Nam
+Nguyễn Minh Nhật|have_gender|Nam
+Nguyễn Tuấn Đức|have_gender|Nam
+Đỗ Linh Chi|have_gender|Nữ
+Trần Thị Hồng|have_gender|Nữ
+Phạm Khánh Long|have_gender|Nam
+Trịnh Quốc Tuấn|have_gender|Nam
+Lê Thanh Giang|have_gender|Nam
+Phạm Ngọc Quang|have_gender|Nam
+Trần Viết Thắng|have_gender|Nam
+Trịnh Đức Anh|have_gender|Nam
+Trần Văn Chung|have_gender|Nam
+Cái Đức Thắng|have_gender|Nam
+Nguyễn Chí Thanh|have_gender|Nam
+Vũ Hương Ly|have_gender|Nữ
+Lê Mạnh Huy|have_gender|Nam
+Ngô Duy Anh|have_gender|Nam
+Vũ Thị Nga|have_gender|Nữ
+Nguyễn Văn Trường 2|have_gender|Nam
+Dương Tiến Hiệu|have_gender|Nam
+Nguyễn Hoàng Quân|have_gender|Nam
+Nguyễn Đăng Khoa|have_gender|Nam
+Dương Thị Tuyến|have_gender|Nữ
+Nguyễn Thị Thắm|have_gender|Nữ
+Trần Quốc Đạt|have_gender|Nam
+Nguyễn Văn Phú|have_gender|Nam
+Vũ Văn Thắng|have_gender|Nam
+Huỳnh Chỉnh|have_gender|Nam
+Trần Chí Quốc|have_gender|Nam
+Nguyễn Văn Trường|have_gender|Nam
+Nguyễn Thạch Ánh|have_gender|Nữ
+Nguyễn Đức Tiến|have_gender|Nam
+Đồng Văn Tuyến|have_gender|Nam
+Phạm Anh Tú|have_gender|Nam
+Trương Thị Hương|have_gender|Nữ
+Dương Quỳnh Quang|have_gender|Nam
+Đào Thùy Linh|have_gender|Nữ
+Phạm Hồng Đức|have_gender|Nam
+Nguyễn Thị Nga Ngọc|have_gender|Nữ
+Nguyễn Văn Đạt|have_gender|Nam
+Đặng Hoàng Như Nguyện|have_gender|Nam
+Nguyễn An Phú|have_gender|Nữ
+Phùng Tuấn Long|have_gender|Nam
+Nguyễn Sanh Thành|have_gender|Nam
+Lê Thị Lan|have_gender|Nữ
+Phạm Minh Tuấn|have_gender|Nam
+Trần Thị Mỹ Hạnh|have_gender|Nữ
+Nguyễn Hữu Đăng|have_gender|Nam
+Nguyễn Công Lý|have_gender|Nam
+Vũ Khánh Long|have_gender|Nam
+Lê Tiến Kính|have_gender|Nam
+Trần Xuân Trường|have_gender|Nam
+Phạm Huy Thắng|have_gender|Nam
+Nguyễn Ngọc Quang|have_gender|Nam
+Nguyễn Viết Tùng|have_gender|Nam
+Nguyễn Cao Thắng|have_gender|Nam
+Đào Văn Hưng|have_gender|Nam
+Đào Thị Hoàng Nga|have_gender|Nữ
+Vũ Văn Tài|have_gender|Nam
+Đoàn Đắc Tuấn|have_gender|Nam
+Bùi Quốc Đạt|have_gender|Nam
+Nguyễn Thanh Long|have_gender|Nam
+Nguyễn Hoàng Long|have_gender|Nam
+Trần Khánh Toàn|have_gender|Nam
+Lâm Thị Anh|have_gender|Nữ
+Phạm Hà An|have_gender|Nam
+Nguyễn Văn Cường|have_gender|Nam
+Nguyễn Duy Thành|have_gender|Nam
+Tô Trần Tiến|have_gender|Nam
+Đinh Trọng Liên|have_gender|Nam
+Hà Thiên Hương|have_gender|Nữ
+Nguyễn Văn Hảo|have_gender|Nam
+Lê Thị Hải Linh|have_gender|Nữ
+Nguyễn Thị Xoan|have_gender|Nữ
+Tạ Đặng Quân|have_gender|Nam
+Huỳnh Ngọc Hải|have_gender|Nam
+Vũ Lê Huy|have_gender|Nam
+Trần Ngọc Cương|have_gender|Nam
+Phạm Trọng Tài|have_gender|Nam
+Nguyễn Việt Cường|have_gender|Nam
+Nguyễn Tuấn Quang|have_gender|Nam
+Đào Trường Giang|have_gender|Nam
+Trần Văn Tuân|work_start_date|2020-09-01
+Vắn Hiền Thắng|work_start_date|2020-09-01
+Nguyễn Hồng Quang|work_start_date|2019-02-01
+Nguyễn Văn Khuyến|work_start_date|2019-05-01
+Hoàng Trung Dũng|work_start_date|0001-01-01
+Trần Đức Huy|work_start_date|0001-01-01
+Trần Văn Tuân|work_start_date|0001-01-01
+Nguyễn Thành Đạt|work_start_date|0001-01-01
+Nguyễn Anh Thắng|work_start_date|0001-01-01
+Ngô Ngọc Khánh|work_start_date|0001-01-01
+Trần Nhật Quang|work_start_date|0001-01-01
+Nguyễn Nghĩa Thịnh|work_start_date|0001-01-01
+Nguyễn Đức Minh|work_start_date|0001-01-01
+Nguyễn Phương Hiên|work_start_date|0001-01-01
+Nguyễn Hữu Bắc|work_start_date|0001-01-01
+Đàm Quang Tiến|work_start_date|0001-01-01
+Lê Quang Hưng|work_start_date|0001-01-01
+Phạm Ngọc Hải|work_start_date|0001-01-01
+Phan Thị Thúy Hằng|work_start_date|2023-01-27
+Nguyễn Đăng Khôi|work_start_date|2020-09-01
+Nguyễn Tuấn Anh|work_start_date|2023-03-01
+Phạm Thị Minh Huyền|work_start_date|2023-03-09
+Thành Quốc Đạt|work_start_date|2023-03-04
+Trần Thị Thủy|work_start_date|2023-03-03
+Nguyễn Trường An|work_start_date|2020-09-01
+Nguyễn Quang Lập|work_start_date|2020-09-01
+Trần Tiến Anh|work_start_date|2020-09-01
+Hoàng Minh Huyền|work_start_date|2023-02-26
+Nguyễn Duy Phong|work_start_date|2023-02-21
+Đỗ Đức Công|work_start_date|2023-02-20
+Nguyễn Thanh Tú|work_start_date|2023-02-15
+Triệu Chu Quốc Thái|work_start_date|2023-02-07
+Quách Trường Giang|work_start_date|2023-02-07
+Phạm Thùy Linh|work_start_date|2023-02-07
+Lê Thị Mỹ Phương|work_start_date|2023-02-06
+Phan Văn Nhân|work_start_date|2020-09-01
+Phan Thị Hoàng Kim|work_start_date|2023-02-05
+Hoàng Văn Nguyên|work_start_date|2023-02-01
+Ngô Phương Anh|work_start_date|2023-02-01
+Nguyễn Bá Đạt|work_start_date|2023-02-01
+Phạm Thị Hồng Nhung|work_start_date|2023-02-01
+Lê Văn Dũng|work_start_date|2023-02-01
+Nguyễn Viết Trí|work_start_date|2023-02-01
+Ngô Phượng Hoàng|work_start_date|2023-01-28
+Lê Hồ Lộc An|work_start_date|2023-01-28
+Nguyễn Phương Nam 2|work_start_date|2023-01-22
+Nguyễn Thị Phương Thảo|work_start_date|2023-01-21
+Đỗ Tiến Anh|work_start_date|2023-01-16
+Vũ Hoàng Long|work_start_date|2023-01-15
+Tống Thị Minh Lý|work_start_date|2020-09-01
+Hà Duyên Quang Huy|work_start_date|2023-01-15
+Mai Đức Chiến|work_start_date|2020-09-01
+Phạm Văn Dũng|work_start_date|2020-09-01
+Trần Quang Huy|work_start_date|2023-01-07
+Tạ Lê Ngân Hạnh|work_start_date|2023-01-01
+Vũ Ngọc Long|work_start_date|2023-01-01
+Nguyễn Xuân Nhị Phúc|work_start_date|2020-09-01
+Ngô An Bình|work_start_date|2023-01-01
+Kiều Thị Mỹ Linh|work_start_date|2023-01-01
+Nguyễn Trung Hiếu|work_start_date|2023-01-01
+Trần Tuấn Khôi|work_start_date|2023-01-01
+Hồ Nghĩa Khang|work_start_date|2023-01-01
+Đỗ Tấn Sang|work_start_date|2023-01-01
+Phạm Thị Phương Ngôn|work_start_date|2020-09-01
+Âu Dương Minh Vũ|work_start_date|2020-09-01
+Phan Quốc Anh|work_start_date|2022-12-01
+Nguyễn Hoàng Bảo Hưng|work_start_date|2020-09-01
+Võ Minh Hoàng|work_start_date|2020-09-01
+Lê Khánh Duy|work_start_date|2022-12-03
+Đặng Minh Tân|work_start_date|2022-12-03
+Nguyễn Duy Hiếu|work_start_date|2022-12-03
+Đặng Hoàng Sơn|work_start_date|2022-12-03
+Bùi Thảo Vân|work_start_date|2022-12-01
+Lê Quang Anh|work_start_date|2022-11-26
+Trần Công Hiệu|work_start_date|2022-11-26
+Phạm Văn Sơn|work_start_date|2022-11-26
+Cao Thị Thúy|work_start_date|2022-11-19
+Đỗ Thị Hoàng Diễm|work_start_date|2022-11-15
+Đơn Hoàng Trọng|work_start_date|2022-11-15
+Đặng Thế Quân|work_start_date|2022-11-13
+Nguyễn Thị Thơm|work_start_date|2022-11-12
+Vũ Thị Chà My|work_start_date|2022-11-12
+Đỗ Danh Dũng|work_start_date|2022-11-12
+Vương Thành Lộc|work_start_date|2022-11-06
+Tăng Ngọc Dũng|work_start_date|2022-11-06
+Nguyễn Kỳ Tùng|work_start_date|2022-11-05
+Trịnh Tuấn Vũ|work_start_date|2022-11-05
+Nguyễn Văn Hoàng|work_start_date|2022-11-01
+Phạm Minh Sơn|work_start_date|2020-09-01
+Nguyễn Hải Anh|work_start_date|2022-10-23
+Lê Hà Trang|work_start_date|2022-10-25
+Ngô Thái Sơn|work_start_date|2022-10-22
+Phạm Thị Quỳnh|work_start_date|2022-10-22
+Nguyễn Khoa Nguyên|work_start_date|2022-10-01
+Trần Kiên Trường|work_start_date|2022-10-01
+Tạ Xuân Trường|work_start_date|2020-09-01
+Nguyễn Vân Anh|work_start_date|2022-10-15
+Doãn Hoài Linh|work_start_date|2022-10-08
+Nguyễn Công Hậu|work_start_date|2022-10-02
+Dương Hoàng Sơn|work_start_date|2022-10-01
+Trần Việt Tiệp|work_start_date|2022-10-01
+Đỗ Thị Thu Thuỷ|work_start_date|2022-10-01
+Nguyễn Minh Thắng|work_start_date|2022-10-01
+Phạm Thế Tâm|work_start_date|2022-10-01
+Nguyễn Thị Thùy Điệp|work_start_date|2020-09-01
+Ngô Quỳnh Nga|work_start_date|2022-09-18
+Ngọ Quang Nam|work_start_date|2022-09-18
+Nguyễn Thanh Thản|work_start_date|2022-09-18
+Nguyễn Xuân Anh Quân|work_start_date|2022-09-18
+Phùng Gia Hiến|work_start_date|2022-09-11
+Đinh Thị Thảo|work_start_date|2022-09-11
+Lưu Khánh Thảo Nhi|work_start_date|2020-09-01
+Lê Hữu Trọng|work_start_date|2020-09-01
+Nguyễn Yến Ngọc|work_start_date|2022-09-04
+Lê Phước Đông|work_start_date|2022-09-01
+Điểu Sáu Bên|work_start_date|2022-09-01
+Nguyễn Đức An Sơn|work_start_date|2022-09-01
+Lê Trần Bảo Minh|work_start_date|2022-09-01
+Võ Xuân Cường|work_start_date|2020-09-01
+Đặng Thị Ngọc Điệp|work_start_date|2022-08-17
+Đoàn Hoài Linh|work_start_date|2022-08-15
+Huỳnh Văn Thành|work_start_date|2020-09-01
+Nguyễn Duy Cẩm|work_start_date|2022-08-15
+Nguyễn Thị Hồng Phúc|work_start_date|2022-08-13
+Đoàn Thanh Phong|work_start_date|2020-09-01
+Nguyễn Thị Thủy Ly|work_start_date|2022-08-01
+Mạc Trung Tình|work_start_date|2022-08-01
+Nguyễn Bảo Thanh|work_start_date|2022-08-01
+Phạm Duy Cường|work_start_date|2020-09-01
+Ngô Thị Phương Duyên|work_start_date|2022-08-01
+Nguyễn Văn Trung|work_start_date|2020-09-01
+Trần Bảo Trung|work_start_date|2022-08-01
+Mai Xuân Kim Thùy|work_start_date|2022-08-01
+Hứa Châu Tiểu Phụng|work_start_date|2022-07-26
+Trương Nhật Bá|work_start_date|2020-09-01
+Nguyễn Đình Khánh|work_start_date|2022-07-23
+Nguyễn Thành Luân|work_start_date|2022-07-23
+Trần Văn Hải|work_start_date|2020-09-01
+Lê Thị Trang Thư|work_start_date|2020-09-01
+Trần Huỳnh Anh Huy|work_start_date|2020-09-01
+Vũ Ngọc Tứ|work_start_date|2022-07-18
+Đỗ Hồng Hạnh|work_start_date|2022-07-11
+Quách Thị Thu|work_start_date|2022-07-08
+Nguyễn Lương Bằng|work_start_date|2022-07-04
+Phan Quốc Hưng|work_start_date|2022-07-04
+Nguyễn Đặng Tú|work_start_date|2022-07-04
+Đinh Thị Bích Ngọc|work_start_date|2022-07-04
+Trần Đại Lộc|work_start_date|2022-07-04
+Dương Sỹ Bình|work_start_date|2022-07-04
+Phạm Thị Hạ|work_start_date|2022-06-22
+Nguyễn Thị Huyền Trang|work_start_date|2022-06-01
+Nguyễn Đình Đức Anh|work_start_date|2022-06-01
+Bùi Thị Kim Dung|work_start_date|2022-06-18
+Mai Chiếm An|work_start_date|2022-06-18
+Vũ Hoàng Sơn|work_start_date|2020-09-01
+Nguyễn Phạm Hoàng Trung|work_start_date|2020-09-01
+Trần Thị Hà Vy|work_start_date|2022-06-04
+Trần Trung Hiếu|work_start_date|2020-09-01
+Nguyễn Đức Thịnh|work_start_date|2022-10-01
+Lê Minh Hoàng|work_start_date|2022-06-01
+Nguyễn Văn Thường|work_start_date|2022-06-01
+Đào Sỹ Mạnh|work_start_date|2022-06-01
+Nguyễn Văn Trọng|work_start_date|2022-06-01
+Phan Vũ Hùng|work_start_date|2022-05-28
+Trần Xuân Hưng|work_start_date|2022-05-20
+Dương Bảo Yến|work_start_date|2020-09-01
+Lâm Hoàng Quân|work_start_date|2022-05-20
+Vũ Thị Mừng|work_start_date|2022-05-15
+Trần Đăng Minh|work_start_date|2022-05-10
+Đỗ Phú Phát|work_start_date|2022-05-07
+Lưu Xuân Trường|work_start_date|2022-05-07
+Trịnh Minh Anh|work_start_date|2022-05-07
+Trương Công Danh|work_start_date|2022-04-29
+Lại Ngọc Ly|work_start_date|2022-04-29
+Vũ Thị Thêu|work_start_date|2020-09-01
+Lê Anh Hào|work_start_date|2020-09-01
+Lê Mạnh Tài|work_start_date|2020-09-01
+Hồ Trúc Thuỳ An|work_start_date|2020-09-01
+Kinh Thị Kim Thư|work_start_date|2022-04-29
+Mẫn Thị Kiều Trang|work_start_date|2022-04-29
+Phạm Ngọc Long|work_start_date|2022-04-29
+Nguyễn Tất Đạt|work_start_date|2022-04-29
+Nguyễn Thanh Phong|work_start_date|2022-04-21
+Phạm Nguyên Ninh|work_start_date|2022-04-16
+Nguyễn Minh Hưng|work_start_date|2020-09-01
+Phan Văn Thịnh|work_start_date|2022-04-06
+Nguyễn Văn Phước|work_start_date|2020-09-01
+Lê Việt Bắc|work_start_date|2022-03-19
+Trần Ngọc Thanh Trang|work_start_date|2022-03-09
+Nguyễn Thị Bình|work_start_date|2022-03-01
+Đặng Khánh Chi|work_start_date|2022-03-01
+Ngô Mạnh Tuấn|work_start_date|2020-09-01
+Nguyễn Thị Thu Thảo|work_start_date|2020-09-01
+Nguyễn Thị Vân Anh|work_start_date|2020-09-01
+Phan Lê Bích Tuyền|work_start_date|2020-09-01
+Lương Thị Loan|work_start_date|2022-03-01
+Nguyễn Thị Lệ Nguyên|work_start_date|2020-09-01
+Ngô Thị Kiều Chi|work_start_date|2020-09-01
+Dương Đức Thắng|work_start_date|2020-09-01
+Đỗ Hồng Vy|work_start_date|2022-01-28
+Huỳnh Nguyễn Hoàng Phong|work_start_date|2022-01-28
+Đào Đức Lương|work_start_date|2022-01-28
+Lê Văn Thông|work_start_date|2022-01-28
+Nguyễn Trần Ngọc Ly|work_start_date|2022-01-28
+Nguyễn Thị Thanh Nga|work_start_date|2022-01-04
+Nguyễn Thị Thanh Loan|work_start_date|2020-09-01
+Phạm Thị Lan Phương|work_start_date|2022-01-04
+Võ Thành Nguyên|work_start_date|2020-09-01
+Nguyễn Thị Quỳnh Thi|work_start_date|2022-01-04
+Đào Văn Hiếu|work_start_date|2022-01-04
+Trần Thị Bích Phương|work_start_date|2022-01-04
+Đặng Thái Ngọc|work_start_date|2020-09-01
+Hoàng Văn Độ|work_start_date|2022-01-04
+Lưu Thị Mến|work_start_date|2021-12-06
+Đặng Nhật Quang|work_start_date|2021-12-01
+Nguyễn Phương Nam|work_start_date|2021-12-01
+Nguyễn Hồ Diễm My|work_start_date|2020-09-01
+Lê Hữu Thịnh|work_start_date|2021-12-01
+Nguyễn Gia Phong|work_start_date|2020-09-01
+Nguyễn Thị Thùy Dương|work_start_date|2021-12-01
+Nguyễn Việt Tùng|work_start_date|2021-12-01
+Nguyễn Vũ Lê Minh|work_start_date|2020-09-01
+Nguyễn Minh Đức|work_start_date|2020-09-01
+Nguyễn Danh Diên|work_start_date|2021-11-15
+Ngô Hữu Hoàng Việt|work_start_date|2021-11-01
+Nguyễn Thị Quỳnh Giang|work_start_date|2021-11-01
+Bùi Tuấn Tú|work_start_date|2021-11-01
+Nguyễn Thị Vui|work_start_date|2021-11-01
+Ngô Văn Nam|work_start_date|2021-11-01
+Ứng Hoàng Hiệp|work_start_date|2021-11-01
+Phạm Phương Hiền|work_start_date|2021-11-01
+Bùi Hùng Cường|work_start_date|2021-11-01
+Phạm Hạnh Nguyên|work_start_date|2021-11-01
+Vương Thu Trang|work_start_date|2021-11-01
+Nguyễn Sơn Tùng|work_start_date|2021-11-01
+Hoàng Thanh Tùng|work_start_date|2021-11-01
+Lê Hồng Nhung|work_start_date|2021-11-01
+Ngô Mỹ Linh|work_start_date|2021-10-01
+Nguyễn Doãn Đông|work_start_date|0001-01-01
+Dương Minh Quang|work_start_date|2021-10-01
+Vũ Hằng Ngân Hoa|work_start_date|2021-10-01
+Lê Thị Ngọc Hải|work_start_date|2021-10-01
+Nguyễn Như Quỳnh|work_start_date|2020-09-01
+Nguyễn Tuấn Anh|work_start_date|2021-10-01
+Vũ Hữu Quang|work_start_date|2021-10-01
+Đoàn Mạnh Dũng|work_start_date|2022-01-04
+Lê Nguyễn Hiếu Thông|work_start_date|2020-09-01
+Nguyễn Quang Sơn|work_start_date|2021-09-01
+Đặng Trung Hiếu|work_start_date|2020-09-01
+Nguyễn Duy Phương|work_start_date|2021-09-01
+Đặng Huỳnh Khánh Ly|work_start_date|2021-09-01
+Lê Viết Triều|work_start_date|2021-09-01
+Nguyễn Thanh Nga|work_start_date|2021-09-01
+Đào Thị Như|work_start_date|2020-09-01
+Nguyễn Thị Lan Anh|work_start_date|2021-09-01
+Trần Đặng Đình Nguyên|work_start_date|2021-09-01
+Nguyễn Mạnh Hùng|work_start_date|2021-09-01
+Nguyễn Huy Anh|work_start_date|2021-09-01
+Nguyễn Minh Nhật|work_start_date|2021-09-01
+Nguyễn Tuấn Đức|work_start_date|2021-09-01
+Đỗ Linh Chi|work_start_date|2021-10-01
+Trần Thị Hồng|work_start_date|2021-08-02
+Phạm Khánh Long|work_start_date|2021-08-02
+Trịnh Quốc Tuấn|work_start_date|2021-08-02
+Lê Thanh Giang|work_start_date|2021-08-02
+Phạm Ngọc Quang|work_start_date|2021-08-02
+Trần Viết Thắng|work_start_date|2021-08-02
+Trịnh Đức Anh|work_start_date|2021-08-02
+Trần Văn Chung|work_start_date|2020-09-01
+Cái Đức Thắng|work_start_date|2020-09-01
+Nguyễn Chí Thanh|work_start_date|2021-08-02
+Vũ Hương Ly|work_start_date|2021-08-02
+Lê Mạnh Huy|work_start_date|2021-08-02
+Ngô Duy Anh|work_start_date|2021-08-02
+Vũ Thị Nga|work_start_date|2021-08-02
+Nguyễn Văn Trường 2|work_start_date|2021-08-02
+Dương Tiến Hiệu|work_start_date|2021-08-02
+Nguyễn Hoàng Quân|work_start_date|2021-05-11
+Nguyễn Đăng Khoa|work_start_date|2020-09-01
+Dương Thị Tuyến|work_start_date|2021-08-02
+Nguyễn Thị Thắm|work_start_date|2021-08-02
+Trần Quốc Đạt|work_start_date|2021-10-01
+Nguyễn Văn Phú|work_start_date|2021-07-01
+Vũ Văn Thắng|work_start_date|2021-07-01
+Huỳnh Chỉnh|work_start_date|2021-07-01
+Trần Chí Quốc|work_start_date|2021-07-01
+Nguyễn Văn Trường|work_start_date|2021-07-01
+Nguyễn Thạch Ánh|work_start_date|2022-06-01
+Nguyễn Đức Tiến|work_start_date|2021-06-01
+Đồng Văn Tuyến|work_start_date|2021-06-01
+Phạm Anh Tú|work_start_date|2021-06-01
+Trương Thị Hương|work_start_date|2021-06-01
+Dương Quỳnh Quang|work_start_date|2021-06-01
+Đào Thùy Linh|work_start_date|2021-06-01
+Phạm Hồng Đức|work_start_date|2021-05-03
+Nguyễn Thị Nga Ngọc|work_start_date|2021-05-03
+Nguyễn Văn Đạt|work_start_date|2021-04-01
+Đặng Hoàng Như Nguyện|work_start_date|2021-04-01
+Nguyễn An Phú|work_start_date|2021-04-01
+Phùng Tuấn Long|work_start_date|2021-04-01
+Nguyễn Sanh Thành|work_start_date|2021-02-01
+Lê Thị Lan|work_start_date|2021-06-01
+Phạm Minh Tuấn|work_start_date|2020-12-11
+Trần Thị Mỹ Hạnh|work_start_date|2021-01-01
+Nguyễn Hữu Đăng|work_start_date|2019-02-01
+Nguyễn Công Lý|work_start_date|2020-03-01
+Vũ Khánh Long|work_start_date|2019-02-01
+Lê Tiến Kính|work_start_date|2019-02-01
+Trần Xuân Trường|work_start_date|2019-03-01
+Phạm Huy Thắng|work_start_date|2019-07-01
+Nguyễn Ngọc Quang|work_start_date|2019-02-01
+Nguyễn Viết Tùng|work_start_date|2019-02-01
+Nguyễn Cao Thắng|work_start_date|2019-02-01
+Đào Văn Hưng|work_start_date|2019-02-01
+Đào Thị Hoàng Nga|work_start_date|2020-09-01
+Vũ Văn Tài|work_start_date|2019-02-01
+Đoàn Đắc Tuấn|work_start_date|2020-08-03
+Bùi Quốc Đạt|work_start_date|2020-06-11
+Nguyễn Thanh Long|work_start_date|2020-06-01
+Nguyễn Hoàng Long|work_start_date|2020-09-07
+Trần Khánh Toàn|work_start_date|2019-02-01
+Lâm Thị Anh|work_start_date|2020-09-01
+Phạm Hà An|work_start_date|2019-06-01
+Nguyễn Văn Cường|work_start_date|2020-08-03
+Nguyễn Duy Thành|work_start_date|2019-08-01
+Tô Trần Tiến|work_start_date|2019-08-30
+Đinh Trọng Liên|work_start_date|2020-07-01
+Hà Thiên Hương|work_start_date|2021-01-01
+Nguyễn Văn Hảo|work_start_date|2020-05-01
+Lê Thị Hải Linh|work_start_date|2019-11-12
+Nguyễn Thị Xoan|work_start_date|2019-01-01
+Tạ Đặng Quân|work_start_date|2019-01-01
+Huỳnh Ngọc Hải|work_start_date|2020-09-01
+Vũ Lê Huy|work_start_date|2019-02-01
+Trần Ngọc Cương|work_start_date|2019-02-01
+Phạm Trọng Tài|work_start_date|2019-02-01
+Nguyễn Việt Cường|work_start_date|2021-03-01
+Nguyễn Tuấn Quang|work_start_date|2019-01-01
+Đào Trường Giang|work_start_date|2020-09-01

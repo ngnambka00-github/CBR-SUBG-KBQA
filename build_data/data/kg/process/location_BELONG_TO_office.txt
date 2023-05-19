@@ -1,0 +1,5 @@
+Hồ Chí Minh|belong_to|Hồ Chí Minh
+Đà Nẵng|belong_to|Đà Nẵng
+Tầng 9, Hà Nội|belong_to|Hà Nội
+Tầng 8, Hà Nội|belong_to|Hà Nội
+Tầng 5, Hà Nội|belong_to|Hà Nội
