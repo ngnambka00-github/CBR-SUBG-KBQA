@@ -1,0 +1,5 @@
+id,name,address,alias
+3,Hồ Chí Minh,"Số 354A Cộng Hòa, Phường 13, Quận Tân Bình, Thành phố Hồ Chí Minh","văn phòng đại diện HCM, văn phòng đại diện Hồ Chí Minh, văn phòng đại diện Sài Gòn, văn phòng đại diện SG, văn phòng HCM, văn phòng SG, văn phòng Hồ Chí Minh, văn phòng HCM, HCM, Hồ Chí Minh, Sài Gòn, SG, chi nhánh Sài Gòn, chi nhánh Hồ Chí Minh, chi nhánh SG, chi nhánh HCM, văn phòng đại diện công ty tại Hồ Chí Minh, van phong dai dien cong ty tai ho chi minh (sai gon)"
+2,Đà Nẵng,"Tầng 17, tòa nhà Thành Lợi 2, số 3 Lê Đình Lý, Vĩnh Trung, Thanh Khê, Đà Nẵng","văn phòng đại diện ĐN, văn phòng đại diện Đà Nẵng, văn phòng Đà Nẵng, văn phòng ĐN, Đà Nẵng, ĐN, chi nhánh Đà Nẵng, chi nhánh ĐN, văn phòng đại diện công ty tại Đà Nẵng, van phong dai dien cong ty tai da nang"
+1,Hà Nội,"Tầng 5, 8 và 9, tòa nhà HTP Building, số 434 Trần Khát Chân, Hai Bà Trưng, Hà Nội","Hà Nội, HN, chi nhánh Hà Nội, chi nhánh HN, văn phòng Hà Nội, văn phòng HN, van phong ha noi"
+0,None,None,None
