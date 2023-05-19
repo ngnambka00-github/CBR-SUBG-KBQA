@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="de3ace7a-302d-4a7c-9daf-842087bd9d62" name="nam_A51">
+        <fileTransfer rootFolder="/home/namnv/Project/CBR-SUBG" accessType="SFTP" host="192.168.1.51" port="22" sshConfigId="203588bd-916f-4b12-82df-93e6f2bf93e8" sshConfig="namnv@192.168.1.51:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
