@@ -1,0 +1,36 @@
+ask_employee_name_a1: # shortname_fullname
+  - config:
+    - train: 8
+    - dev: 1
+    - test: 1
+  - patterns:
+    - ~[anh|chi|a|c|ông|bà|cô|chú|bạn|cậu] @[shortname_fullname] có ~[họ và tên|họ tên|tên|name] ~[đầy đủ|full] là gì|@[1]
+    - đố ~[timi|bot] biết ~[anh|chi|a|c|ông|bà|cô|chú|bạn|cậu] @[shortname_fullname] có ~[họ và tên|họ tên|tên|name] là gì luôn á|@[1]
+    - cho xin ~[họ và tên|họ tên|tên|name] ~[đầy đủ|full] của ~[anh|chi|a|c|ông|bà|cô|chú|bạn|cậu] @[shortname_fullname] ạ|@[1]
+    - bạn @[shortname_fullname] ~[họ và tên|họ tên|tên|name] ~[đầy đủ|full] là gì|@[1]
+    - "@[shortname_fullname] ~[họ và tên|họ tên|tên|name] ~[đầy đủ|full] là gì|@[1]"
+    - ~[anh|chi|a|c|ông|bà|cô|chú|bạn|cậu] @[shortname_fullname] có full ~[họ và tên|họ tên|tên|name] là gì|@[1]
+    - cho hỏi ~[fullname|full name|full tên|full họ và tên|đầy đủ họ tên] ~[anh|chi|a|c|ông|bà|cô|chú|bạn|cậu] @[shortname_fullname] trung tâm AI đi ạ|@[1]
+    - ~[anh|chi|a|c|ông|bà|cô|chú|bạn|cậu] @[shortname_fullname] ~[họ và tên|họ tên|tên|name] đủ đầy là gì ha|@[1]
+    - ~[đầy đủ|full] ~[họ và tên|họ tên|tên|name] của ~[anh|chi|a|c|ông|bà|cô|chú|bạn|cậu] @[shortname_fullname]|@[1]
+    - ~[họ và tên|họ tên|tên|name] ~[đầy đủ|full] của ~[anh|chi|a|c|ông|bà|cô|chú|bạn|cậu] @[shortname_fullname] là ~[chi|gì] vậy|@[1]
+    - ~[họ và tên|họ tên|tên|name] ~[đầy đủ|full] của ~[anh|chi|a|c|ông|bà|cô|chú|bạn|cậu] @[shortname_fullname] là ~[chi|gì] nhỉ|@[1]
+    - ~[họ và tên|họ tên|tên|name] của ~[anh|chi|a|c|ông|bà|cô|chú|bạn|cậu] @[shortname_fullname] là ~[chi|gì]|@[1]
+
+ask_employee_name_a2: # role_department_fullname
+  - config:
+    - train: 8
+    - dev: 1
+    - test: 1
+  - patterns:
+    - "@[role_department_fullname] @[1] là ai|@[2]"
+    - "trưởng nhóm fuzzy họ và tên là gì"
+    - trưởng phòng flatform có tên đầy đủ là gì
+    - trưởng nhóm ai có tên là gì|chi
+    - trưởng phòng AI có tên là gì|chi nhỏ|nhả
+    - tên của trưởng nhóm ai là gì
+    - bạn biết tên của trưởng nhóm ai chứ
+    - cho mình biết trưởng nhóm ai là gì đi
+    - cho hỏi tên của trưởng nhóm ai
+    - trưởng nhóm ai trong cty là ai thế
+    - trưởng nhóm ai của ftech là gì

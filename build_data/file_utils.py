@@ -25,3 +25,9 @@ def write_dict_to_yaml(data: Dict[Text, List[Text]], out_path: Text) -> None:
     with open(out_path, mode="w", encoding="utf-8") as file:
         yaml.dump(data, file, allow_unicode=True)
     print(f"Write data to {out_path} successfully!!")
+
+
+def read_yaml_to_dict(in_path: Text) -> Dict[Text, List[Text]]:
+    with open(in_path, "r", encoding="utf-8") as file_reader:
+        data = yaml.load(file_reader, Loader=yaml.FullLoader)
+    return data
