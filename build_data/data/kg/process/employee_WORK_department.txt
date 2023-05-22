@@ -669,10 +669,26 @@ Nguyễn Văn Hảo|have_role_in_depart|Nhân viên
 Lê Thị Hải Linh|have_role_in_depart|Nhân viên
 Nguyễn Thị Xoan|have_role_in_depart|Nhân viên
 Tạ Đặng Quân|have_role_in_depart|CPO - Giám đốc Sản phẩm, trưởng phòng
+Tạ Đặng Quân|have_role_in_depart|CPO
+Tạ Đặng Quân|have_role_in_depart|Giám đốc Sản phẩm, trưởng phòng
 Huỳnh Ngọc Hải|have_role_in_depart|CBO - Giám đốc Kinh doanh
+Huỳnh Ngọc Hải|have_role_in_depart|CBO
+Huỳnh Ngọc Hải|have_role_in_depart|Giám đốc Kinh doanh
 Vũ Lê Huy|have_role_in_depart|CIO - Giám đốc Thông tin
+Vũ Lê Huy|have_role_in_depart|CIO
+Vũ Lê Huy|have_role_in_depart|Giám đốc Thông tin
 Trần Ngọc Cương|have_role_in_depart|CCO - Giám đốc Sáng tạo
+Trần Ngọc Cương|have_role_in_depart|CCO
+Trần Ngọc Cương|have_role_in_depart|Giám đốc Sáng tạo
 Phạm Trọng Tài|have_role_in_depart|CTO - Giám đốc Công nghệ
+Phạm Trọng Tài|have_role_in_depart|CTO
+Phạm Trọng Tài|have_role_in_depart|Giám đốc Công nghệ
 Nguyễn Việt Cường|have_role_in_depart|COO - Giám đốc Thường trực
+Nguyễn Việt Cường|have_role_in_depart|COO
+Nguyễn Việt Cường|have_role_in_depart|Giám đốc Thường trực
 Nguyễn Tuấn Quang|have_role_in_depart|CIA - Giám đốc Nội chính
+Nguyễn Tuấn Quang|have_role_in_depart|CIA
+Nguyễn Tuấn Quang|have_role_in_depart|Giám đốc Nội chính
 Đào Trường Giang|have_role_in_depart|CEO - Giám đốc điều hành
+Đào Trường Giang|have_role_in_depart|CEO
+Đào Trường Giang|have_role_in_depart|Giám đốc điều hành

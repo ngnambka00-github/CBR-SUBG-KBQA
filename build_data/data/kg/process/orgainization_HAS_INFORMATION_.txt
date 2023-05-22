@@ -1,0 +1,4 @@
+FTECH|has_name|Công ty Công nghệ Gia Đình
+FTECH|has_address|Hà Nội, Đà Nẵng, TP HCM
+FTECH|has_website|https://ftech.ai/
+FTECH|has_phone|2436616333

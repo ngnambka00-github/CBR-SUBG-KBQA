@@ -4,6 +4,7 @@ from typing import Text
 import pandas as pd
 
 from file_utils import read_csv, write_to_txt, read_from_txt
+from constants import NONE_VALUE
 
 
 # 1. employee_person: have_email, have_short_name, have_birthday, have_gender, work_start_date
@@ -57,6 +58,9 @@ def write_kg_employee_work_department() -> None:
 
     tags_work_depart = []
     tags_have_role_in_depart = []
+    special_roles = ["CPO - Giám đốc Sản phẩm, trưởng phòng", "CBO - Giám đốc Kinh doanh",
+                     "CIO - Giám đốc Thông tin", "CCO - Giám đốc Sáng tạo", "CTO - Giám đốc Công nghệ",
+                     "COO - Giám đốc Thường trực", "CIA - Giám đốc Nội chính", "CEO - Giám đốc điều hành"]
     for idx in range(join_df.shape[0]):
         name = join_df.at[idx, "name_person"].strip()
         depart = join_df.at[idx, "name_depart"].strip()
@@ -64,6 +68,10 @@ def write_kg_employee_work_department() -> None:
 
         tags_work_depart.append(f"{name}|work_depart|{depart}")
         tags_have_role_in_depart.append(f"{name}|have_role_in_depart|{role}")
+        if role in special_roles:
+            roles = [r.strip() for r in role.split("-")]
+            tags_have_role_in_depart.append(f"{name}|have_role_in_depart|{roles[0]}")
+            tags_have_role_in_depart.append(f"{name}|have_role_in_depart|{roles[1]}")
 
     results = []
     results.extend(tags_work_depart)
@@ -119,14 +127,10 @@ def write_kg_employee_work_office() -> None:
     for idx in range(join_df.shape[0]):
         name = join_df.at[idx, "name_person"].strip()
         office = join_df.at[idx, "name_office"].strip()
-
         tags_work_office.append(f"{name}|work_office|{office}")
 
-    results = []
-    results.extend(tags_work_office)
-
     out_path = "data/kg/process/employee_WORK_office.txt"
-    write_to_txt(data=results, out_path=out_path)
+    write_to_txt(data=tags_work_office, out_path=out_path)
 
 
 # 5. employee_WORK_work_location: work_location
@@ -147,14 +151,10 @@ def write_kg_employee_work_location() -> None:
     for idx in range(join_df.shape[0]):
         name = join_df.at[idx, "name_person"].strip()
         location = join_df.at[idx, "name_location"].strip()
-
         tags_work_location.append(f"{name}|work_location|{location}")
 
-    results = []
-    results.extend(tags_work_location)
-
     out_path = "data/kg/process/employee_WORK_location.txt"
-    write_to_txt(data=results, out_path=out_path)
+    write_to_txt(data=tags_work_location, out_path=out_path)
 
 
 # 6. work_location_BELONG_TO_office: belong_to
@@ -175,14 +175,11 @@ def write_kg_work_location_belong_to_office() -> None:
     for idx in range(join_df.shape[0]):
         location = join_df.at[idx, "name_location"].strip()
         office = join_df.at[idx, "name_office"].strip()
-        if location != "None":
+        if location != NONE_VALUE:
             tags_belong_to.append(f"{location}|belong_to|{office}")
 
-    results = []
-    results.extend(tags_belong_to)
-
     out_path = "data/kg/process/location_BELONG_TO_office.txt"
-    write_to_txt(data=results, out_path=out_path)
+    write_to_txt(data=tags_belong_to, out_path=out_path)
 
 
 # 7. office_BELONG_TO_organization: belong_to
@@ -201,11 +198,8 @@ def write_kg_office_belong_to_organization() -> None:
         tags_belong_to.append(f"{office}|belong_to|{organizations[0]}")
         tags_belong_to.append(f"{office}|belong_to|{organizations[1]}")
 
-    results = []
-    results.extend(tags_belong_to)
-
     out_path = "data/kg/process/office_BELONG_TO_organization.txt"
-    write_to_txt(data=results, out_path=out_path)
+    write_to_txt(data=tags_belong_to, out_path=out_path)
 
 
 # 8. work_location_BELONG_TO_organization: belong_to
@@ -224,11 +218,8 @@ def write_kg_location_belong_to_organization() -> None:
         tags_belong_to.append(f"{location}|belong_to|{organizations[0]}")
         tags_belong_to.append(f"{location}|belong_to|{organizations[1]}")
 
-    results = []
-    results.extend(tags_belong_to)
-
     out_path = "data/kg/process/location_BELONG_TO_organization.txt"
-    write_to_txt(data=results, out_path=out_path)
+    write_to_txt(data=tags_belong_to, out_path=out_path)
 
 
 # 9. department_BELONG_TO_organization: belong_to
@@ -247,10 +238,66 @@ def write_kg_department_belong_to_organization() -> None:
         tags_belong_to.append(f"{depart}|belong_to|{organizations[0]}")
         tags_belong_to.append(f"{depart}|belong_to|{organizations[1]}")
 
-    results = []
-    results.extend(tags_belong_to)
-
     out_path = "data/kg/process/depart_BELONG_TO_organization.txt"
+    write_to_txt(data=tags_belong_to, out_path=out_path)
+
+
+# 10. office_address_..., work_location_address_... : relation -> address
+def write_kg_office_address_and_work_location_address() -> None:
+    office_path = "./data/raw_kg/Office.csv"
+    location_path = "./data/raw_kg/Work_Location.csv"
+    office_df = read_csv(office_path)
+    location_df = read_csv(location_path)
+
+    tags_address = []
+    for idx in range(office_df.shape[0]):
+        office = office_df.at[idx, "name"].strip()
+        if office == NONE_VALUE:
+            continue
+        address = office_df.at[idx, "address"].strip()
+        tags_address.append(f"{office}|address|{address}")
+
+    for idx in range(location_df.shape[0]):
+        location = location_df.at[idx, "name"].strip()
+        if location == NONE_VALUE:
+            continue
+        address = location_df.at[idx, "address"].strip()
+        tags_address.append(f"{location}|address|{address}")
+
+    # remove duplicated object
+    tags_address = list(set(tags_address))
+
+    out_path = "data/kg/process/office_and_work_location_ADDRESS_.txt"
+    write_to_txt(data=tags_address, out_path=out_path)
+
+
+# 11. Organization Information: has_name, has_address, has_website, has_phone
+def write_kg_organization_information() -> None:
+    organization_path = "./data/raw_kg/Organization.csv"
+    organization_df = read_csv(organization_path)
+
+    tags_has_name = []
+    tags_has_address = []
+    tags_has_website = []
+    tags_has_phone = []
+    for idx in range(organization_df.shape[0]):
+        name = organization_df.at[idx, "name"].strip()
+        address = organization_df.at[idx, "address"].strip()
+        website = organization_df.at[idx, "website"].strip()
+        phone = str(organization_df.at[idx, "phone"]).strip()
+
+        tags_has_name.append(f"FTECH|has_name|{name}")
+        tags_has_address.append(f"FTECH|has_address|{address}")
+        tags_has_website.append(f"FTECH|has_website|{website}")
+        tags_has_phone.append(f"FTECH|has_phone|{phone}")
+
+    results = []
+    results.extend(tags_has_name)
+    results.extend(tags_has_address)
+    results.extend(tags_has_website)
+    results.extend(tags_has_phone)
+
+    out_path = "data/kg/process/orgainization_HAS_INFORMATION_.txt"
     write_to_txt(data=results, out_path=out_path)
 
 
@@ -264,6 +311,8 @@ def build_full_graph(kg_folder_path: Text, out_folder_path: Text, convert_from_d
         write_kg_office_belong_to_organization()
         write_kg_location_belong_to_organization()
         write_kg_department_belong_to_organization()
+        write_kg_office_address_and_work_location_address()
+        write_kg_organization_information()
 
     # merger all file path
     all_triple_kg = []
@@ -283,4 +332,4 @@ if __name__ == "__main__":
     build_full_graph(
         kg_folder_path="./data/kg/process",
         out_folder_path="./data/kg",
-        convert_from_db=False)
+        convert_from_db=True)

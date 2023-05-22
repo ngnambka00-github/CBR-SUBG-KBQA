@@ -1,0 +1,339 @@
+Trần Văn Tuân|work_location|Tầng 5, Hà Nội
+Vắn Hiền Thắng|work_location|Hồ Chí Minh
+Nguyễn Hồng Quang|work_location|Tầng 5, Hà Nội
+Nguyễn Văn Khuyến|work_location|Tầng 5, Hà Nội
+Hoàng Trung Dũng|work_location|None
+Trần Đức Huy|work_location|None
+Trần Văn Tuân|work_location|None
+Nguyễn Thành Đạt|work_location|None
+Nguyễn Anh Thắng|work_location|None
+Ngô Ngọc Khánh|work_location|None
+Trần Nhật Quang|work_location|None
+Nguyễn Nghĩa Thịnh|work_location|Đà Nẵng
+Nguyễn Đức Minh|work_location|Tầng 8, Hà Nội
+Nguyễn Phương Hiên|work_location|Tầng 9, Hà Nội
+Nguyễn Hữu Bắc|work_location|Tầng 8, Hà Nội
+Đàm Quang Tiến|work_location|Đà Nẵng
+Lê Quang Hưng|work_location|Tầng 5, Hà Nội
+Phạm Ngọc Hải|work_location|Tầng 8, Hà Nội
+Phan Thị Thúy Hằng|work_location|Tầng 5, Hà Nội
+Nguyễn Đăng Khôi|work_location|Tầng 8, Hà Nội
+Nguyễn Tuấn Anh|work_location|Tầng 9, Hà Nội
+Phạm Thị Minh Huyền|work_location|Tầng 9, Hà Nội
+Thành Quốc Đạt|work_location|Tầng 5, Hà Nội
+Trần Thị Thủy|work_location|Tầng 9, Hà Nội
+Nguyễn Trường An|work_location|Đà Nẵng
+Nguyễn Quang Lập|work_location|Tầng 8, Hà Nội
+Trần Tiến Anh|work_location|Tầng 8, Hà Nội
+Hoàng Minh Huyền|work_location|Tầng 5, Hà Nội
+Nguyễn Duy Phong|work_location|Tầng 8, Hà Nội
+Đỗ Đức Công|work_location|Tầng 5, Hà Nội
+Nguyễn Thanh Tú|work_location|Tầng 9, Hà Nội
+Triệu Chu Quốc Thái|work_location|Hồ Chí Minh
+Quách Trường Giang|work_location|Tầng 9, Hà Nội
+Phạm Thùy Linh|work_location|Tầng 9, Hà Nội
+Lê Thị Mỹ Phương|work_location|Tầng 8, Hà Nội
+Phan Văn Nhân|work_location|Đà Nẵng
+Phan Thị Hoàng Kim|work_location|Hồ Chí Minh
+Hoàng Văn Nguyên|work_location|Tầng 8, Hà Nội
+Ngô Phương Anh|work_location|Tầng 9, Hà Nội
+Nguyễn Bá Đạt|work_location|Tầng 5, Hà Nội
+Phạm Thị Hồng Nhung|work_location|Tầng 9, Hà Nội
+Lê Văn Dũng|work_location|Tầng 5, Hà Nội
+Nguyễn Viết Trí|work_location|Tầng 8, Hà Nội
+Ngô Phượng Hoàng|work_location|Tầng 8, Hà Nội
+Lê Hồ Lộc An|work_location|Đà Nẵng
+Nguyễn Phương Nam 2|work_location|Tầng 5, Hà Nội
+Nguyễn Thị Phương Thảo|work_location|Tầng 9, Hà Nội
+Đỗ Tiến Anh|work_location|Tầng 8, Hà Nội
+Vũ Hoàng Long|work_location|Tầng 8, Hà Nội
+Tống Thị Minh Lý|work_location|Tầng 8, Hà Nội
+Hà Duyên Quang Huy|work_location|Tầng 8, Hà Nội
+Mai Đức Chiến|work_location|Tầng 9, Hà Nội
+Phạm Văn Dũng|work_location|Tầng 8, Hà Nội
+Trần Quang Huy|work_location|Tầng 8, Hà Nội
+Tạ Lê Ngân Hạnh|work_location|Tầng 5, Hà Nội
+Vũ Ngọc Long|work_location|Tầng 8, Hà Nội
+Nguyễn Xuân Nhị Phúc|work_location|Hồ Chí Minh
+Ngô An Bình|work_location|Tầng 5, Hà Nội
+Kiều Thị Mỹ Linh|work_location|Tầng 9, Hà Nội
+Nguyễn Trung Hiếu|work_location|Đà Nẵng
+Trần Tuấn Khôi|work_location|Đà Nẵng
+Hồ Nghĩa Khang|work_location|Đà Nẵng
+Đỗ Tấn Sang|work_location|Tầng 9, Hà Nội
+Phạm Thị Phương Ngôn|work_location|Hồ Chí Minh
+Âu Dương Minh Vũ|work_location|Hồ Chí Minh
+Phan Quốc Anh|work_location|Tầng 9, Hà Nội
+Nguyễn Hoàng Bảo Hưng|work_location|Hồ Chí Minh
+Võ Minh Hoàng|work_location|Hồ Chí Minh
+Lê Khánh Duy|work_location|Tầng 9, Hà Nội
+Đặng Minh Tân|work_location|Tầng 5, Hà Nội
+Nguyễn Duy Hiếu|work_location|Tầng 9, Hà Nội
+Đặng Hoàng Sơn|work_location|Tầng 5, Hà Nội
+Bùi Thảo Vân|work_location|Tầng 9, Hà Nội
+Lê Quang Anh|work_location|Tầng 8, Hà Nội
+Trần Công Hiệu|work_location|Tầng 8, Hà Nội
+Phạm Văn Sơn|work_location|Tầng 8, Hà Nội
+Cao Thị Thúy|work_location|Tầng 5, Hà Nội
+Đỗ Thị Hoàng Diễm|work_location|Tầng 8, Hà Nội
+Đơn Hoàng Trọng|work_location|Hồ Chí Minh
+Đặng Thế Quân|work_location|Tầng 5, Hà Nội
+Nguyễn Thị Thơm|work_location|Tầng 8, Hà Nội
+Vũ Thị Chà My|work_location|Tầng 8, Hà Nội
+Đỗ Danh Dũng|work_location|Tầng 5, Hà Nội
+Vương Thành Lộc|work_location|Tầng 5, Hà Nội
+Tăng Ngọc Dũng|work_location|Tầng 5, Hà Nội
+Nguyễn Kỳ Tùng|work_location|Tầng 9, Hà Nội
+Trịnh Tuấn Vũ|work_location|Tầng 9, Hà Nội
+Nguyễn Văn Hoàng|work_location|Tầng 9, Hà Nội
+Phạm Minh Sơn|work_location|Hồ Chí Minh
+Nguyễn Hải Anh|work_location|Tầng 5, Hà Nội
+Lê Hà Trang|work_location|Tầng 5, Hà Nội
+Ngô Thái Sơn|work_location|Tầng 8, Hà Nội
+Phạm Thị Quỳnh|work_location|Đà Nẵng
+Nguyễn Khoa Nguyên|work_location|Đà Nẵng
+Trần Kiên Trường|work_location|Tầng 8, Hà Nội
+Tạ Xuân Trường|work_location|Tầng 8, Hà Nội
+Nguyễn Vân Anh|work_location|Tầng 9, Hà Nội
+Doãn Hoài Linh|work_location|Tầng 8, Hà Nội
+Nguyễn Công Hậu|work_location|Tầng 8, Hà Nội
+Dương Hoàng Sơn|work_location|Tầng 8, Hà Nội
+Trần Việt Tiệp|work_location|Tầng 5, Hà Nội
+Đỗ Thị Thu Thuỷ|work_location|Tầng 8, Hà Nội
+Nguyễn Minh Thắng|work_location|Tầng 5, Hà Nội
+Phạm Thế Tâm|work_location|Đà Nẵng
+Nguyễn Thị Thùy Điệp|work_location|Hồ Chí Minh
+Ngô Quỳnh Nga|work_location|Tầng 9, Hà Nội
+Ngọ Quang Nam|work_location|Tầng 8, Hà Nội
+Nguyễn Thanh Thản|work_location|Tầng 8, Hà Nội
+Nguyễn Xuân Anh Quân|work_location|Đà Nẵng
+Phùng Gia Hiến|work_location|Tầng 8, Hà Nội
+Đinh Thị Thảo|work_location|Tầng 9, Hà Nội
+Lưu Khánh Thảo Nhi|work_location|Đà Nẵng
+Lê Hữu Trọng|work_location|Đà Nẵng
+Nguyễn Yến Ngọc|work_location|Tầng 9, Hà Nội
+Lê Phước Đông|work_location|Hồ Chí Minh
+Điểu Sáu Bên|work_location|Hồ Chí Minh
+Nguyễn Đức An Sơn|work_location|Đà Nẵng
+Lê Trần Bảo Minh|work_location|Đà Nẵng
+Võ Xuân Cường|work_location|Hồ Chí Minh
+Đặng Thị Ngọc Điệp|work_location|Hồ Chí Minh
+Đoàn Hoài Linh|work_location|Tầng 9, Hà Nội
+Huỳnh Văn Thành|work_location|Hồ Chí Minh
+Nguyễn Duy Cẩm|work_location|Tầng 9, Hà Nội
+Nguyễn Thị Hồng Phúc|work_location|Đà Nẵng
+Đoàn Thanh Phong|work_location|Hồ Chí Minh
+Nguyễn Thị Thủy Ly|work_location|Tầng 9, Hà Nội
+Mạc Trung Tình|work_location|Tầng 8, Hà Nội
+Nguyễn Bảo Thanh|work_location|Tầng 9, Hà Nội
+Phạm Duy Cường|work_location|Hồ Chí Minh
+Ngô Thị Phương Duyên|work_location|Tầng 8, Hà Nội
+Nguyễn Văn Trung|work_location|Tầng 8, Hà Nội
+Trần Bảo Trung|work_location|Tầng 5, Hà Nội
+Mai Xuân Kim Thùy|work_location|Hồ Chí Minh
+Hứa Châu Tiểu Phụng|work_location|Hồ Chí Minh
+Trương Nhật Bá|work_location|Hồ Chí Minh
+Nguyễn Đình Khánh|work_location|Tầng 8, Hà Nội
+Nguyễn Thành Luân|work_location|Tầng 9, Hà Nội
+Trần Văn Hải|work_location|Tầng 8, Hà Nội
+Lê Thị Trang Thư|work_location|Hồ Chí Minh
+Trần Huỳnh Anh Huy|work_location|Hồ Chí Minh
+Vũ Ngọc Tứ|work_location|Tầng 5, Hà Nội
+Đỗ Hồng Hạnh|work_location|Tầng 5, Hà Nội
+Quách Thị Thu|work_location|Tầng 9, Hà Nội
+Nguyễn Lương Bằng|work_location|Tầng 8, Hà Nội
+Phan Quốc Hưng|work_location|Hồ Chí Minh
+Nguyễn Đặng Tú|work_location|Tầng 8, Hà Nội
+Đinh Thị Bích Ngọc|work_location|Tầng 9, Hà Nội
+Trần Đại Lộc|work_location|Tầng 9, Hà Nội
+Dương Sỹ Bình|work_location|Đà Nẵng
+Phạm Thị Hạ|work_location|Tầng 5, Hà Nội
+Nguyễn Thị Huyền Trang|work_location|Tầng 9, Hà Nội
+Nguyễn Đình Đức Anh|work_location|Tầng 9, Hà Nội
+Bùi Thị Kim Dung|work_location|Tầng 5, Hà Nội
+Mai Chiếm An|work_location|Đà Nẵng
+Vũ Hoàng Sơn|work_location|Hồ Chí Minh
+Nguyễn Phạm Hoàng Trung|work_location|Hồ Chí Minh
+Trần Thị Hà Vy|work_location|Tầng 5, Hà Nội
+Trần Trung Hiếu|work_location|Hồ Chí Minh
+Nguyễn Đức Thịnh|work_location|Hồ Chí Minh
+Lê Minh Hoàng|work_location|Tầng 5, Hà Nội
+Nguyễn Văn Thường|work_location|Tầng 8, Hà Nội
+Đào Sỹ Mạnh|work_location|Tầng 8, Hà Nội
+Nguyễn Văn Trọng|work_location|Hồ Chí Minh
+Phan Vũ Hùng|work_location|Tầng 9, Hà Nội
+Trần Xuân Hưng|work_location|Đà Nẵng
+Dương Bảo Yến|work_location|Hồ Chí Minh
+Lâm Hoàng Quân|work_location|Hồ Chí Minh
+Vũ Thị Mừng|work_location|Hồ Chí Minh
+Trần Đăng Minh|work_location|Tầng 8, Hà Nội
+Đỗ Phú Phát|work_location|Đà Nẵng
+Lưu Xuân Trường|work_location|Tầng 9, Hà Nội
+Trịnh Minh Anh|work_location|Tầng 9, Hà Nội
+Trương Công Danh|work_location|Hồ Chí Minh
+Lại Ngọc Ly|work_location|Tầng 9, Hà Nội
+Vũ Thị Thêu|work_location|Tầng 5, Hà Nội
+Lê Anh Hào|work_location|Tầng 9, Hà Nội
+Lê Mạnh Tài|work_location|Tầng 5, Hà Nội
+Hồ Trúc Thuỳ An|work_location|Hồ Chí Minh
+Kinh Thị Kim Thư|work_location|Hồ Chí Minh
+Mẫn Thị Kiều Trang|work_location|Tầng 9, Hà Nội
+Phạm Ngọc Long|work_location|Tầng 5, Hà Nội
+Nguyễn Tất Đạt|work_location|Tầng 5, Hà Nội
+Nguyễn Thanh Phong|work_location|Đà Nẵng
+Phạm Nguyên Ninh|work_location|Tầng 5, Hà Nội
+Nguyễn Minh Hưng|work_location|Hồ Chí Minh
+Phan Văn Thịnh|work_location|Đà Nẵng
+Nguyễn Văn Phước|work_location|Hồ Chí Minh
+Lê Việt Bắc|work_location|Tầng 5, Hà Nội
+Trần Ngọc Thanh Trang|work_location|Tầng 9, Hà Nội
+Nguyễn Thị Bình|work_location|Tầng 9, Hà Nội
+Đặng Khánh Chi|work_location|Tầng 9, Hà Nội
+Ngô Mạnh Tuấn|work_location|Tầng 5, Hà Nội
+Nguyễn Thị Thu Thảo|work_location|Hồ Chí Minh
+Nguyễn Thị Vân Anh|work_location|Hồ Chí Minh
+Phan Lê Bích Tuyền|work_location|Hồ Chí Minh
+Lương Thị Loan|work_location|Tầng 9, Hà Nội
+Nguyễn Thị Lệ Nguyên|work_location|Hồ Chí Minh
+Ngô Thị Kiều Chi|work_location|Hồ Chí Minh
+Dương Đức Thắng|work_location|Hồ Chí Minh
+Đỗ Hồng Vy|work_location|Hồ Chí Minh
+Huỳnh Nguyễn Hoàng Phong|work_location|Hồ Chí Minh
+Đào Đức Lương|work_location|Tầng 5, Hà Nội
+Lê Văn Thông|work_location|Đà Nẵng
+Nguyễn Trần Ngọc Ly|work_location|Hồ Chí Minh
+Nguyễn Thị Thanh Nga|work_location|Tầng 5, Hà Nội
+Nguyễn Thị Thanh Loan|work_location|Tầng 9, Hà Nội
+Phạm Thị Lan Phương|work_location|Hồ Chí Minh
+Võ Thành Nguyên|work_location|Đà Nẵng
+Nguyễn Thị Quỳnh Thi|work_location|Hồ Chí Minh
+Đào Văn Hiếu|work_location|Tầng 8, Hà Nội
+Trần Thị Bích Phương|work_location|Tầng 5, Hà Nội
+Đặng Thái Ngọc|work_location|Tầng 8, Hà Nội
+Hoàng Văn Độ|work_location|Tầng 8, Hà Nội
+Lưu Thị Mến|work_location|Tầng 5, Hà Nội
+Đặng Nhật Quang|work_location|Tầng 9, Hà Nội
+Nguyễn Phương Nam|work_location|Tầng 9, Hà Nội
+Nguyễn Hồ Diễm My|work_location|Hồ Chí Minh
+Lê Hữu Thịnh|work_location|Hồ Chí Minh
+Nguyễn Gia Phong|work_location|Hồ Chí Minh
+Nguyễn Thị Thùy Dương|work_location|Tầng 9, Hà Nội
+Nguyễn Việt Tùng|work_location|Tầng 9, Hà Nội
+Nguyễn Vũ Lê Minh|work_location|Đà Nẵng
+Nguyễn Minh Đức|work_location|Hồ Chí Minh
+Nguyễn Danh Diên|work_location|Tầng 5, Hà Nội
+Ngô Hữu Hoàng Việt|work_location|Đà Nẵng
+Nguyễn Thị Quỳnh Giang|work_location|Tầng 9, Hà Nội
+Bùi Tuấn Tú|work_location|Tầng 5, Hà Nội
+Nguyễn Thị Vui|work_location|Hồ Chí Minh
+Ngô Văn Nam|work_location|Tầng 8, Hà Nội
+Ứng Hoàng Hiệp|work_location|Tầng 8, Hà Nội
+Phạm Phương Hiền|work_location|Tầng 5, Hà Nội
+Bùi Hùng Cường|work_location|Tầng 5, Hà Nội
+Phạm Hạnh Nguyên|work_location|Hồ Chí Minh
+Vương Thu Trang|work_location|Tầng 9, Hà Nội
+Nguyễn Sơn Tùng|work_location|Tầng 8, Hà Nội
+Hoàng Thanh Tùng|work_location|Tầng 9, Hà Nội
+Lê Hồng Nhung|work_location|Tầng 5, Hà Nội
+Ngô Mỹ Linh|work_location|Tầng 9, Hà Nội
+Nguyễn Doãn Đông|work_location|Tầng 9, Hà Nội
+Dương Minh Quang|work_location|Tầng 9, Hà Nội
+Vũ Hằng Ngân Hoa|work_location|Tầng 9, Hà Nội
+Lê Thị Ngọc Hải|work_location|Tầng 5, Hà Nội
+Nguyễn Như Quỳnh|work_location|Tầng 5, Hà Nội
+Nguyễn Tuấn Anh|work_location|Tầng 5, Hà Nội
+Vũ Hữu Quang|work_location|Tầng 8, Hà Nội
+Đoàn Mạnh Dũng|work_location|Tầng 5, Hà Nội
+Lê Nguyễn Hiếu Thông|work_location|Hồ Chí Minh
+Nguyễn Quang Sơn|work_location|Tầng 5, Hà Nội
+Đặng Trung Hiếu|work_location|Hồ Chí Minh
+Nguyễn Duy Phương|work_location|Hồ Chí Minh
+Đặng Huỳnh Khánh Ly|work_location|Đà Nẵng
+Lê Viết Triều|work_location|Đà Nẵng
+Nguyễn Thanh Nga|work_location|Tầng 5, Hà Nội
+Đào Thị Như|work_location|Tầng 9, Hà Nội
+Nguyễn Thị Lan Anh|work_location|Tầng 9, Hà Nội
+Trần Đặng Đình Nguyên|work_location|Hồ Chí Minh
+Nguyễn Mạnh Hùng|work_location|Tầng 9, Hà Nội
+Nguyễn Huy Anh|work_location|Tầng 8, Hà Nội
+Nguyễn Minh Nhật|work_location|Đà Nẵng
+Nguyễn Tuấn Đức|work_location|Tầng 5, Hà Nội
+Đỗ Linh Chi|work_location|Tầng 9, Hà Nội
+Trần Thị Hồng|work_location|Tầng 9, Hà Nội
+Phạm Khánh Long|work_location|Tầng 9, Hà Nội
+Trịnh Quốc Tuấn|work_location|Tầng 8, Hà Nội
+Lê Thanh Giang|work_location|Tầng 8, Hà Nội
+Phạm Ngọc Quang|work_location|Tầng 9, Hà Nội
+Trần Viết Thắng|work_location|Tầng 8, Hà Nội
+Trịnh Đức Anh|work_location|Tầng 8, Hà Nội
+Trần Văn Chung|work_location|Tầng 8, Hà Nội
+Cái Đức Thắng|work_location|Tầng 9, Hà Nội
+Nguyễn Chí Thanh|work_location|Đà Nẵng
+Vũ Hương Ly|work_location|Tầng 9, Hà Nội
+Lê Mạnh Huy|work_location|Tầng 5, Hà Nội
+Ngô Duy Anh|work_location|Tầng 8, Hà Nội
+Vũ Thị Nga|work_location|Tầng 9, Hà Nội
+Nguyễn Văn Trường 2|work_location|Tầng 8, Hà Nội
+Dương Tiến Hiệu|work_location|Tầng 8, Hà Nội
+Nguyễn Hoàng Quân|work_location|Tầng 5, Hà Nội
+Nguyễn Đăng Khoa|work_location|Hồ Chí Minh
+Dương Thị Tuyến|work_location|Tầng 9, Hà Nội
+Nguyễn Thị Thắm|work_location|Tầng 9, Hà Nội
+Trần Quốc Đạt|work_location|Tầng 5, Hà Nội
+Nguyễn Văn Phú|work_location|Tầng 8, Hà Nội
+Vũ Văn Thắng|work_location|Tầng 8, Hà Nội
+Huỳnh Chỉnh|work_location|Đà Nẵng
+Trần Chí Quốc|work_location|Hồ Chí Minh
+Nguyễn Văn Trường|work_location|Tầng 8, Hà Nội
+Nguyễn Thạch Ánh|work_location|Tầng 5, Hà Nội
+Nguyễn Đức Tiến|work_location|Tầng 5, Hà Nội
+Đồng Văn Tuyến|work_location|Tầng 8, Hà Nội
+Phạm Anh Tú|work_location|Tầng 9, Hà Nội
+Trương Thị Hương|work_location|Tầng 9, Hà Nội
+Dương Quỳnh Quang|work_location|Đà Nẵng
+Đào Thùy Linh|work_location|Tầng 5, Hà Nội
+Phạm Hồng Đức|work_location|Hồ Chí Minh
+Nguyễn Thị Nga Ngọc|work_location|Tầng 5, Hà Nội
+Nguyễn Văn Đạt|work_location|Tầng 8, Hà Nội
+Đặng Hoàng Như Nguyện|work_location|Đà Nẵng
+Nguyễn An Phú|work_location|Đà Nẵng
+Phùng Tuấn Long|work_location|Tầng 9, Hà Nội
+Nguyễn Sanh Thành|work_location|Đà Nẵng
+Lê Thị Lan|work_location|Tầng 9, Hà Nội
+Phạm Minh Tuấn|work_location|Tầng 8, Hà Nội
+Trần Thị Mỹ Hạnh|work_location|Tầng 8, Hà Nội
+Nguyễn Hữu Đăng|work_location|Tầng 5, Hà Nội
+Nguyễn Công Lý|work_location|Tầng 5, Hà Nội
+Vũ Khánh Long|work_location|Tầng 5, Hà Nội
+Lê Tiến Kính|work_location|Tầng 5, Hà Nội
+Trần Xuân Trường|work_location|Tầng 8, Hà Nội
+Phạm Huy Thắng|work_location|Tầng 8, Hà Nội
+Nguyễn Ngọc Quang|work_location|Tầng 5, Hà Nội
+Nguyễn Viết Tùng|work_location|Tầng 5, Hà Nội
+Nguyễn Cao Thắng|work_location|Tầng 5, Hà Nội
+Đào Văn Hưng|work_location|Tầng 5, Hà Nội
+Đào Thị Hoàng Nga|work_location|Tầng 5, Hà Nội
+Vũ Văn Tài|work_location|Tầng 5, Hà Nội
+Đoàn Đắc Tuấn|work_location|Tầng 5, Hà Nội
+Bùi Quốc Đạt|work_location|Tầng 5, Hà Nội
+Nguyễn Thanh Long|work_location|Tầng 5, Hà Nội
+Nguyễn Hoàng Long|work_location|Tầng 5, Hà Nội
+Trần Khánh Toàn|work_location|Tầng 5, Hà Nội
+Lâm Thị Anh|work_location|Tầng 9, Hà Nội
+Phạm Hà An|work_location|Tầng 9, Hà Nội
+Nguyễn Văn Cường|work_location|Tầng 8, Hà Nội
+Nguyễn Duy Thành|work_location|Tầng 8, Hà Nội
+Tô Trần Tiến|work_location|Tầng 8, Hà Nội
+Đinh Trọng Liên|work_location|Tầng 8, Hà Nội
+Hà Thiên Hương|work_location|Tầng 9, Hà Nội
+Nguyễn Văn Hảo|work_location|Đà Nẵng
+Lê Thị Hải Linh|work_location|Tầng 9, Hà Nội
+Nguyễn Thị Xoan|work_location|Tầng 9, Hà Nội
+Tạ Đặng Quân|work_location|Tầng 9, Hà Nội
+Huỳnh Ngọc Hải|work_location|Hồ Chí Minh
+Vũ Lê Huy|work_location|Tầng 9, Hà Nội
+Trần Ngọc Cương|work_location|Tầng 5, Hà Nội
+Phạm Trọng Tài|work_location|Tầng 8, Hà Nội
+Nguyễn Việt Cường|work_location|Tầng 8, Hà Nội
+Nguyễn Tuấn Quang|work_location|Tầng 5, Hà Nội
+Đào Trường Giang|work_location|Hồ Chí Minh

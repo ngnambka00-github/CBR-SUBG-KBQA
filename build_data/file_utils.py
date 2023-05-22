@@ -1,4 +1,6 @@
-from typing import Text, List
+from typing import Text, List, Dict
+import yaml
+
 import pandas as pd
 
 
@@ -17,3 +19,9 @@ def read_from_txt(file_path: Text) -> List[Text]:
     with open(file_path, 'r') as file:
         data = file.readlines()
     return [d.strip() for d in data]
+
+
+def write_dict_to_yaml(data: Dict[Text, List[Text]], out_path: Text) -> None:
+    with open(out_path, mode="w", encoding="utf-8") as file:
+        yaml.dump(data, file, allow_unicode=True)
+    print(f"Write data to {out_path} successfully!!")
