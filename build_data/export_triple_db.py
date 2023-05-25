@@ -319,12 +319,20 @@ def build_full_graph(kg_folder_path: Text, out_folder_path: Text, convert_from_d
     for file_name in os.listdir(kg_folder_path):
         file_path = os.path.join(kg_folder_path, file_name)
         all_triple_kg.extend(read_from_txt(file_path))
+    entities = []
+    for triple in all_triple_kg:
+        ere = triple.split("|")
+        entities.append(ere[0])
+        entities.append(ere[2])
+    entities = list(set(entities))
     relations = [triple.split("|")[1] for triple in all_triple_kg]
     relations = list(set(relations))
 
     triple_path = os.path.join(out_folder_path, "kb.txt")
+    entities_path = os.path.join(out_folder_path, "entity.txt")
     relation_path = os.path.join(out_folder_path, "relation.txt")
     write_to_txt(all_triple_kg, triple_path)
+    write_to_txt(entities, entities_path)
     write_to_txt(relations, relation_path)
 
 
@@ -332,4 +340,4 @@ if __name__ == "__main__":
     build_full_graph(
         kg_folder_path="./data/kg/process",
         out_folder_path="./data/kg",
-        convert_from_db=True)
+        convert_from_db=False)
