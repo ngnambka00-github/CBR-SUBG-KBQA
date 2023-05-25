@@ -70,9 +70,10 @@ def main():
     if training_args.task == 'pt_match' or training_args.task == 'kbc':
         dataset_obj = KBQADataLoader(data_args.data_dir, data_args.data_file_suffix, training_args.train_batch_size,
                                      training_args.eval_batch_size, model_args.add_dist_feature,
-                                     model_args.add_inv_edges_to_edge_index, data_args.max_dist, 
+                                     model_args.add_inv_edges_to_edge_index, data_args.max_dist,
                                      training_args.downsample_eval_frac, training_args.task, data_args.dataset_name,
-                                     data_args.precomputed_query_encoding_dir, data_args.paths_file_kbc, data_args.kb_system_file)
+                                     data_args.precomputed_query_encoding_dir, data_args.paths_file_kbc,
+                                     data_args.kb_system_file)
     else:
         raise NotImplemented(f"training_args.task: {training_args.task}")
 
@@ -223,9 +224,10 @@ class DataTrainingArguments:
     dataset_name: str = field(metadata={"help": "synthetic is a special dataset. all other datasets are treated as "
                                                 "kb completion datasets"})
     data_dir: str = field(metadata={"help": "The path to data directory (contains train.json, dev.json, test.json)."})
-    data_file_suffix: str = field(default='roberta-base_mean_pool_masked_cbr_subgraph_k=25', metadata={"help": "The suffix s for using train_s.json, dev_s.json, "
-                                                                "test_s.json instead of train.json, dev.json, "
-                                                                "test.json."})
+    data_file_suffix: str = field(default='roberta-base_mean_pool_masked_cbr_subgraph_k=25',
+                                  metadata={"help": "The suffix s for using train_s.json, dev_s.json, "
+                                                    "test_s.json instead of train.json, dev.json, "
+                                                    "test.json."})
     kb_system_file: str = field(default=None, metadata={
         "help": "The path to KB system file containing the full list of relations."})
     precomputed_query_encoding_dir: str = field(default=None, metadata={
@@ -269,9 +271,10 @@ class ModelArguments:
                                                                  "Options: ['full', 'dim', 'sep']"})
     query_attn_activation: str = field(default='softmax', metadata={"help": "Activation fn for query-aware attention. "
                                                                             "Options: ['softmax', 'sigmoid']"})
-    query_encoder_model: str = field(default=None, metadata={"help": "Model card or ckpt path compatible with the"
-                                                                     " transformers library. [Tested for "
-                                                                     "`roberta-base`]"})
+    query_encoder_model: str = field(default="vinai/phobert-base",
+                                     metadata={"help": "Model card or ckpt path compatible with the"
+                                                       " transformers library. [Tested for "
+                                                       "`roberta-base`]"})
     pooling_type: str = field(default='pooler', metadata={"help": "Output pooling to use for query encoding. "
                                                                   "Options: ['pooler', 'cls', 'mean_pool']"})
     node_feat_dim: int = field(default=None, metadata={"help": "Dimension of node input features"})

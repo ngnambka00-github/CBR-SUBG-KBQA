@@ -218,22 +218,13 @@ if __name__ == '__main__':
         all_subgraphs = pickle.load(fin)
     train_chains = gather_paths(all_subgraphs)
     print("Getting query entities and answers....")
-    if args.dataset_name.lower() == 'webqsp':
-        qid2qents, qid2answers, qid2gold_chains, qid2q_str = get_query_entities_and_answers(args.input_file,
-                                                                                            return_gold_entities=args.use_gold_entities)
-    elif args.dataset_name.lower() == 'cwq':
-        qid2qents, qid2answers, qid2gold_spqls, qid2q_str = get_query_entities_and_answers_cwq(args.input_file)
-    elif args.dataset_name.lower() == 'metaqa':
+    if args.dataset_name.lower() == 'metaqa':
         qid2qents, qid2answers, qid2gold_spqls, qid2q_str = get_query_entities_and_answers_metaqa(args.input_file,
                                                                                                   return_gold_entities=args.use_gold_entities)
-    elif args.dataset_name.lower() == 'freebaseqa':
-        qid2qents, qid2answers, qid2gold_spqls, qid2q_str = get_query_entities_and_answers_freebaseqa(args.input_file)
     print("Loading KNNs...")
     qid2knns = load_knns(args.knn_file)
     print("Getting inference chains...")
     qid2chains, no_chain_qids = get_inference_chains_from_KNN(qid2knns, train_chains, k=args.k)
-    if args.dataset_name.lower() == 'webqsp':  # only webqsp has "inference chains", for CWQ the SPQL needs parsing to check coverage #TODO
-        check_overlap_inference_chains(qid2chains, qid2gold_chains)
 
     print("Executing collected chains for subgraph...")
     e1_r_map = None
