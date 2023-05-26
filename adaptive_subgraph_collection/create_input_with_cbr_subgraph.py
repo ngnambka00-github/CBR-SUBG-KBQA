@@ -191,16 +191,16 @@ if __name__ == '__main__':
 
     print("Creating files with new subgraphs...")
     print("Train...")
-    output_file = os.path.join(args.output_dir, "train_phobert-base_mean_pool_masked_cbr_subgraph_k={}.json".format(args.k))
+    output_file = os.path.join(args.output_dir, "train_roberta-base_mean_pool_masked_cbr_subgraph_k={}.json".format(args.k))
     write_files_with_new_subgraphs(train, output_file, cbr_subgraph, entity_vocab, rel_vocab, qid2q_ents)
     print("File written to {}".format(output_file))
 
     print("Dev...")
-    output_file = os.path.join(args.output_dir, "dev_phobert-base_mean_pool_masked_cbr_subgraph_k={}.json".format(args.k))
+    output_file = os.path.join(args.output_dir, "dev_roberta-base_mean_pool_masked_cbr_subgraph_k={}.json".format(args.k))
     write_files_with_new_subgraphs(dev, output_file, cbr_subgraph, entity_vocab, rel_vocab, qid2q_ents)
     print("File written to {}".format(output_file))
 
     print("Test...")
-    output_file = os.path.join(args.output_dir, "test_phobert-base_mean_pool_masked_cbr_subgraph_k={}.json".format(args.k))
+    output_file = os.path.join(args.output_dir, "test_roberta-base_mean_pool_masked_cbr_subgraph_k={}.json".format(args.k))
     write_files_with_new_subgraphs(test, output_file, cbr_subgraph, entity_vocab, rel_vocab, qid2q_ents)
     print("File written to {}".format(output_file))

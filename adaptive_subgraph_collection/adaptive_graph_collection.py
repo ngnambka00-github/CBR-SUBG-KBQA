@@ -236,7 +236,8 @@ if __name__ == '__main__':
     out_file_name = "{}_cbr_subgraph_{}_{}_{}.pkl".format(args.dataset_name, args.split, str(args.k), str(args.job_id))
     with open(os.path.join(args.out_dir, out_file_name), "wb") as fout:
         pickle.dump(triples_all_qs, fout)
-    print(f"CHECK triples_all_qs: {triples_all_qs}")
+
+    # print(f"CHECK triples_all_qs: {triples_all_qs}")
     print("File written to {}".format(os.path.join(args.out_dir, out_file_name)))
     if len(qid2answers) > 0:  # e.g. CWQ test set has no answers
         wrong_qid_answers = check_overlap(triples_all_qs, qid2answers)

@@ -1,0 +1,1045 @@
+~[shortname_fullname]
+	*\{huylm\|Lê Mạnh Huy\}
+	*\{anhnduy\|Ngô Duy Anh\}
+	*\{truongnv\|Nguyễn Văn Trường\}
+	*\{anhnt2\|Nguyễn Thạch Ánh\}
+	*\{tiennd\|Nguyễn Đức Tiến\}
+	*\{tuyendv\|Đồng Văn Tuyến\}
+	*\{huongtt\|Trương Thị Hương\}
+	*\{quangdq\|Dương Quỳnh Quang\}
+	*\{linhdt\|Đào Thùy Linh\}
+	*\{nguyendhn\|Đặng Hoàng Như Nguyện\}
+	*\{phuna\|Nguyễn An Phú\}
+	*\{longpt\|Phùng Tuấn Long\}
+	*\{thanhns\|Nguyễn Sanh Thành\}
+	*\{lanlt\|Lê Thị Lan\}
+	*\{tuanpm\|Phạm Minh Tuấn\}
+	*\{hanhttm\|Trần Thị Mỹ Hạnh\}
+	*\{dangnh\|Nguyễn Hữu Đăng\}
+	*\{lync\|Nguyễn Công Lý\}
+	*\{longvk\|Vũ Khánh Long\}
+	*\{kinhlt\|Lê Tiến Kính\}
+	*\{truongtx\|Trần Xuân Trường\}
+	*\{thangph\|Phạm Huy Thắng\}
+	*\{quangnn\|Nguyễn Ngọc Quang\}
+	*\{tungnv\|Nguyễn Viết Tùng\}
+	*\{thangnc\|Nguyễn Cao Thắng\}
+	*\{hungdv\|Đào Văn Hưng\}
+	*\{ngadth\|Đào Thị Hoàng Nga\}
+	*\{taivv\|Vũ Văn Tài\}
+	*\{tuandd\|Đoàn Đắc Tuấn\}
+	*\{datbq\|Bùi Quốc Đạt\}
+	*\{longnt\|Nguyễn Thanh Long\}
+	*\{longnh\|Nguyễn Hoàng Long\}
+	*\{toantk\|Trần Khánh Toàn\}
+	*\{anhlt\|Lâm Thị Anh\}
+	*\{anph\|Phạm Hà An\}
+	*\{cuongnvan\|Nguyễn Văn Cường\}
+	*\{thanhnd\|Nguyễn Duy Thành\}
+	*\{tientt\|Tô Trần Tiến\}
+	*\{liendt\|Đinh Trọng Liên\}
+	*\{huongha\|Hà Thiên Hương\}
+	*\{haonv\|Nguyễn Văn Hảo\}
+	*\{linhlth\|Lê Thị Hải Linh\}
+	*\{xoannt\|Nguyễn Thị Xoan\}
+	*\{quantd\|Tạ Đặng Quân\}
+	*\{haihn\|Huỳnh Ngọc Hải\}
+	*\{huyvl\|Vũ Lê Huy\}
+	*\{cuongtn\|Trần Ngọc Cương\}
+	*\{taipt\|Phạm Trọng Tài\}
+	*\{cuongnv\|Nguyễn Việt Cường\}
+	*\{ductv\|Nguyễn Tuấn Quang\}
+	*\{giangdao\|Đào Trường Giang\}
+
+~[role_department_fullname]
+	*\{Trưởng phòng\|Phòng Hành chính nhân sự\|Nguyễn Thạch Ánh\}
+	*\{Phó Phòng\|Phòng Application\|Đồng Văn Tuyến\}
+	*\{Phó Phòng\|Phòng Platform\|Phạm Minh Tuấn\}
+	*\{Trưởng Phòng\|Phòng IS\|Nguyễn Hữu Đăng\}
+	*\{Phó Phòng\|Phòng Platform\|Trần Xuân Trường\}
+	*\{Trưởng Phòng\|Phòng Platform\|Phạm Huy Thắng\}
+	*\{Phó Phòng\|Phòng Game\|Nguyễn Viết Tùng\}
+	*\{Trưởng Phòng\|Phòng Game\|Trần Khánh Toàn\}
+	*\{Phó Phòng\|Phòng QA\|Lâm Thị Anh\}
+	*\{Phó Phòng\|Phòng Application\|Đinh Trọng Liên\}
+
+~[bod_fullname]
+	*\{CPO\|Tạ Đặng Quân\}
+	*\{Giám đốc Sản phẩm\|Tạ Đặng Quân\}
+	*\{CPO - Giám đốc Sản phẩm\|Tạ Đặng Quân\}
+	*\{CBO\|Huỳnh Ngọc Hải\}
+	*\{Giám đốc Kinh doanh\|Huỳnh Ngọc Hải\}
+	*\{CBO - Giám đốc Kinh doanh\|Huỳnh Ngọc Hải\}
+	*\{CIO\|Vũ Lê Huy\}
+	*\{Giám đốc Thông tin\|Vũ Lê Huy\}
+	*\{CIO - Giám đốc Thông tin\|Vũ Lê Huy\}
+	*\{CCO\|Trần Ngọc Cương\}
+	*\{Giám đốc Sáng tạo\|Trần Ngọc Cương\}
+	*\{CCO - Giám đốc Sáng tạo\|Trần Ngọc Cương\}
+	*\{CTO\|Phạm Trọng Tài\}
+	*\{Giám đốc Công nghệ\|Phạm Trọng Tài\}
+	*\{CTO - Giám đốc Công nghệ\|Phạm Trọng Tài\}
+	*\{COO\|Nguyễn Việt Cường\}
+	*\{Giám đốc Thường trực\|Nguyễn Việt Cường\}
+	*\{COO - Giám đốc Thường trực\|Nguyễn Việt Cường\}
+	*\{CIA\|Nguyễn Tuấn Quang\}
+	*\{Giám đốc Nội chính\|Nguyễn Tuấn Quang\}
+	*\{CIA - Giám đốc Nội chính\|Nguyễn Tuấn Quang\}
+	*\{CEO\|Đào Trường Giang\}
+	*\{Giám đốc điều hành\|Đào Trường Giang\}
+	*\{CEO - Giám đốc điều hành\|Đào Trường Giang\}
+
+~[shortname_email]
+	*\{huylm\|huylm\@ftech.ai\}
+	*\{anhnduy\|anhnduy\@ftech.ai\}
+	*\{truongnv\|truongnv\@ftech.ai\}
+	*\{anhnt2\|anhnt2\@ftech.ai\}
+	*\{tiennd\|tiennd\@ftech.ai\}
+	*\{tuyendv\|tuyendv\@ftech.ai\}
+	*\{huongtt\|huongtt\@ftech.ai\}
+	*\{quangdq\|quangdq\@ftech.ai\}
+	*\{linhdt\|linhdt\@ftech.ai\}
+	*\{nguyendhn\|nguyendhn\@ftech.ai\}
+	*\{phuna\|phuna\@ftech.ai\}
+	*\{longpt\|longpt\@ftech.ai\}
+	*\{thanhns\|thanhns\@ftech.ai\}
+	*\{lanlt\|lanlt\@ftech.ai\}
+	*\{tuanpm\|tuanpm\@ftech.ai\}
+	*\{hanhttm\|hanhttm\@ftech.ai\}
+	*\{dangnh\|dangnh\@ftech.ai\}
+	*\{lync\|lync\@ftech.ai\}
+	*\{longvk\|longvk\@ftech.ai\}
+	*\{kinhlt\|kinhlt\@ftech.ai\}
+	*\{truongtx\|truongtx\@ftech.ai\}
+	*\{thangph\|thangph\@ftech.ai\}
+	*\{quangnn\|quangnn\@ftech.ai\}
+	*\{tungnv\|tungnv\@ftech.ai\}
+	*\{thangnc\|thangnc\@ftech.ai\}
+	*\{hungdv\|hungdv\@ftech.ai\}
+	*\{ngadth\|ngadth\@ftech.ai\}
+	*\{taivv\|taivv\@ftech.ai\}
+	*\{tuandd\|tuandd\@ftech.ai\}
+	*\{datbq\|datbq\@ftech.ai\}
+	*\{longnt\|longnt\@ftech.ai\}
+	*\{longnh\|longnh\@ftech.ai\}
+	*\{toantk\|toantk\@ftech.ai\}
+	*\{anhlt\|anhlt\@ftech.ai\}
+	*\{anph\|anph\@ftech.ai\}
+	*\{cuongnvan\|cuongnvan\@ftech.ai\}
+	*\{thanhnd\|thanhnd\@ftech.ai\}
+	*\{tientt\|tientt\@ftech.ai\}
+	*\{liendt\|liendt\@ftech.ai\}
+	*\{huongha\|huongha\@ftech.ai\}
+	*\{haonv\|haonv\@ftech.ai\}
+	*\{linhlth\|linhlth\@ftech.ai\}
+	*\{xoannt\|xoannt\@ftech.ai\}
+	*\{quantd\|quantd\@ftech.ai\}
+	*\{haihn\|haihn\@ftech.ai\}
+	*\{huyvl\|huyvl\@ftech.ai\}
+	*\{cuongtn\|cuongtn\@ftech.ai\}
+	*\{taipt\|taipt\@ftech.ai\}
+	*\{cuongnv\|cuongnv\@ftech.ai\}
+	*\{ductv\|ductv\@ftech.ai\}
+	*\{giangdao\|giangdao\@ftech.ai\}
+
+~[fullname_email]
+	*\{Lê Mạnh Huy\|huylm\@ftech.ai\}
+	*\{Ngô Duy Anh\|anhnduy\@ftech.ai\}
+	*\{Nguyễn Văn Trường\|truongnv\@ftech.ai\}
+	*\{Nguyễn Thạch Ánh\|anhnt2\@ftech.ai\}
+	*\{Nguyễn Đức Tiến\|tiennd\@ftech.ai\}
+	*\{Đồng Văn Tuyến\|tuyendv\@ftech.ai\}
+	*\{Trương Thị Hương\|huongtt\@ftech.ai\}
+	*\{Dương Quỳnh Quang\|quangdq\@ftech.ai\}
+	*\{Đào Thùy Linh\|linhdt\@ftech.ai\}
+	*\{Đặng Hoàng Như Nguyện\|nguyendhn\@ftech.ai\}
+	*\{Nguyễn An Phú\|phuna\@ftech.ai\}
+	*\{Phùng Tuấn Long\|longpt\@ftech.ai\}
+	*\{Nguyễn Sanh Thành\|thanhns\@ftech.ai\}
+	*\{Lê Thị Lan\|lanlt\@ftech.ai\}
+	*\{Phạm Minh Tuấn\|tuanpm\@ftech.ai\}
+	*\{Trần Thị Mỹ Hạnh\|hanhttm\@ftech.ai\}
+	*\{Nguyễn Hữu Đăng\|dangnh\@ftech.ai\}
+	*\{Nguyễn Công Lý\|lync\@ftech.ai\}
+	*\{Vũ Khánh Long\|longvk\@ftech.ai\}
+	*\{Lê Tiến Kính\|kinhlt\@ftech.ai\}
+	*\{Trần Xuân Trường\|truongtx\@ftech.ai\}
+	*\{Phạm Huy Thắng\|thangph\@ftech.ai\}
+	*\{Nguyễn Ngọc Quang\|quangnn\@ftech.ai\}
+	*\{Nguyễn Viết Tùng\|tungnv\@ftech.ai\}
+	*\{Nguyễn Cao Thắng\|thangnc\@ftech.ai\}
+	*\{Đào Văn Hưng\|hungdv\@ftech.ai\}
+	*\{Đào Thị Hoàng Nga\|ngadth\@ftech.ai\}
+	*\{Vũ Văn Tài\|taivv\@ftech.ai\}
+	*\{Đoàn Đắc Tuấn\|tuandd\@ftech.ai\}
+	*\{Bùi Quốc Đạt\|datbq\@ftech.ai\}
+	*\{Nguyễn Thanh Long\|longnt\@ftech.ai\}
+	*\{Nguyễn Hoàng Long\|longnh\@ftech.ai\}
+	*\{Trần Khánh Toàn\|toantk\@ftech.ai\}
+	*\{Lâm Thị Anh\|anhlt\@ftech.ai\}
+	*\{Phạm Hà An\|anph\@ftech.ai\}
+	*\{Nguyễn Văn Cường\|cuongnvan\@ftech.ai\}
+	*\{Nguyễn Duy Thành\|thanhnd\@ftech.ai\}
+	*\{Tô Trần Tiến\|tientt\@ftech.ai\}
+	*\{Đinh Trọng Liên\|liendt\@ftech.ai\}
+	*\{Hà Thiên Hương\|huongha\@ftech.ai\}
+	*\{Nguyễn Văn Hảo\|haonv\@ftech.ai\}
+	*\{Lê Thị Hải Linh\|linhlth\@ftech.ai\}
+	*\{Nguyễn Thị Xoan\|xoannt\@ftech.ai\}
+	*\{Tạ Đặng Quân\|quantd\@ftech.ai\}
+	*\{Huỳnh Ngọc Hải\|haihn\@ftech.ai\}
+	*\{Vũ Lê Huy\|huyvl\@ftech.ai\}
+	*\{Trần Ngọc Cương\|cuongtn\@ftech.ai\}
+	*\{Phạm Trọng Tài\|taipt\@ftech.ai\}
+	*\{Nguyễn Việt Cường\|cuongnv\@ftech.ai\}
+	*\{Nguyễn Tuấn Quang\|ductv\@ftech.ai\}
+	*\{Đào Trường Giang\|giangdao\@ftech.ai\}
+
+~[shortname_gender]
+	*\{huylm\|Nam\}
+	*\{anhnduy\|Nam\}
+	*\{truongnv\|Nam\}
+	*\{anhnt2\|Nữ\}
+	*\{tiennd\|Nam\}
+	*\{tuyendv\|Nam\}
+	*\{huongtt\|Nữ\}
+	*\{quangdq\|Nam\}
+	*\{linhdt\|Nữ\}
+	*\{nguyendhn\|Nam\}
+	*\{phuna\|Nữ\}
+	*\{longpt\|Nam\}
+	*\{thanhns\|Nam\}
+	*\{lanlt\|Nữ\}
+	*\{tuanpm\|Nam\}
+	*\{hanhttm\|Nữ\}
+	*\{dangnh\|Nam\}
+	*\{lync\|Nam\}
+	*\{longvk\|Nam\}
+	*\{kinhlt\|Nam\}
+	*\{truongtx\|Nam\}
+	*\{thangph\|Nam\}
+	*\{quangnn\|Nam\}
+	*\{tungnv\|Nam\}
+	*\{thangnc\|Nam\}
+	*\{hungdv\|Nam\}
+	*\{ngadth\|Nữ\}
+	*\{taivv\|Nam\}
+	*\{tuandd\|Nam\}
+	*\{datbq\|Nam\}
+	*\{longnt\|Nam\}
+	*\{longnh\|Nam\}
+	*\{toantk\|Nam\}
+	*\{anhlt\|Nữ\}
+	*\{anph\|Nam\}
+	*\{cuongnvan\|Nam\}
+	*\{thanhnd\|Nam\}
+	*\{tientt\|Nam\}
+	*\{liendt\|Nam\}
+	*\{huongha\|Nữ\}
+	*\{haonv\|Nam\}
+	*\{linhlth\|Nữ\}
+	*\{xoannt\|Nữ\}
+	*\{quantd\|Nam\}
+	*\{haihn\|Nam\}
+	*\{huyvl\|Nam\}
+	*\{cuongtn\|Nam\}
+	*\{taipt\|Nam\}
+	*\{cuongnv\|Nam\}
+	*\{ductv\|Nam\}
+	*\{giangdao\|Nam\}
+
+~[fullname_gender]
+	*\{Lê Mạnh Huy\|Nam\}
+	*\{Ngô Duy Anh\|Nam\}
+	*\{Nguyễn Văn Trường\|Nam\}
+	*\{Nguyễn Thạch Ánh\|Nữ\}
+	*\{Nguyễn Đức Tiến\|Nam\}
+	*\{Đồng Văn Tuyến\|Nam\}
+	*\{Trương Thị Hương\|Nữ\}
+	*\{Dương Quỳnh Quang\|Nam\}
+	*\{Đào Thùy Linh\|Nữ\}
+	*\{Đặng Hoàng Như Nguyện\|Nam\}
+	*\{Nguyễn An Phú\|Nữ\}
+	*\{Phùng Tuấn Long\|Nam\}
+	*\{Nguyễn Sanh Thành\|Nam\}
+	*\{Lê Thị Lan\|Nữ\}
+	*\{Phạm Minh Tuấn\|Nam\}
+	*\{Trần Thị Mỹ Hạnh\|Nữ\}
+	*\{Nguyễn Hữu Đăng\|Nam\}
+	*\{Nguyễn Công Lý\|Nam\}
+	*\{Vũ Khánh Long\|Nam\}
+	*\{Lê Tiến Kính\|Nam\}
+	*\{Trần Xuân Trường\|Nam\}
+	*\{Phạm Huy Thắng\|Nam\}
+	*\{Nguyễn Ngọc Quang\|Nam\}
+	*\{Nguyễn Viết Tùng\|Nam\}
+	*\{Nguyễn Cao Thắng\|Nam\}
+	*\{Đào Văn Hưng\|Nam\}
+	*\{Đào Thị Hoàng Nga\|Nữ\}
+	*\{Vũ Văn Tài\|Nam\}
+	*\{Đoàn Đắc Tuấn\|Nam\}
+	*\{Bùi Quốc Đạt\|Nam\}
+	*\{Nguyễn Thanh Long\|Nam\}
+	*\{Nguyễn Hoàng Long\|Nam\}
+	*\{Trần Khánh Toàn\|Nam\}
+	*\{Lâm Thị Anh\|Nữ\}
+	*\{Phạm Hà An\|Nam\}
+	*\{Nguyễn Văn Cường\|Nam\}
+	*\{Nguyễn Duy Thành\|Nam\}
+	*\{Tô Trần Tiến\|Nam\}
+	*\{Đinh Trọng Liên\|Nam\}
+	*\{Hà Thiên Hương\|Nữ\}
+	*\{Nguyễn Văn Hảo\|Nam\}
+	*\{Lê Thị Hải Linh\|Nữ\}
+	*\{Nguyễn Thị Xoan\|Nữ\}
+	*\{Tạ Đặng Quân\|Nam\}
+	*\{Huỳnh Ngọc Hải\|Nam\}
+	*\{Vũ Lê Huy\|Nam\}
+	*\{Trần Ngọc Cương\|Nam\}
+	*\{Phạm Trọng Tài\|Nam\}
+	*\{Nguyễn Việt Cường\|Nam\}
+	*\{Nguyễn Tuấn Quang\|Nam\}
+	*\{Đào Trường Giang\|Nam\}
+
+~[shortname_birthday]
+	*\{huylm\|1997-12-16\}
+	*\{anhnduy\|1994-05-01\}
+	*\{truongnv\|1990-05-16\}
+	*\{anhnt2\|1978-11-13\}
+	*\{tiennd\|1993-03-14\}
+	*\{tuyendv\|1992-07-18\}
+	*\{huongtt\|1997-06-10\}
+	*\{quangdq\|1996-02-16\}
+	*\{linhdt\|1991-04-16\}
+	*\{nguyendhn\|1996-04-23\}
+	*\{phuna\|1999-02-21\}
+	*\{longpt\|1994-12-27\}
+	*\{thanhns\|1993-02-10\}
+	*\{lanlt\|1998-01-21\}
+	*\{tuanpm\|1983-11-02\}
+	*\{hanhttm\|1998-01-23\}
+	*\{dangnh\|1990-02-15\}
+	*\{lync\|1995-12-12\}
+	*\{longvk\|1988-07-11\}
+	*\{kinhlt\|1989-03-04\}
+	*\{truongtx\|1990-08-21\}
+	*\{thangph\|1989-11-16\}
+	*\{quangnn\|1991-10-26\}
+	*\{tungnv\|1984-07-24\}
+	*\{thangnc\|1982-10-08\}
+	*\{hungdv\|1993-03-23\}
+	*\{ngadth\|1988-02-28\}
+	*\{taivv\|1992-02-16\}
+	*\{tuandd\|1996-12-15\}
+	*\{datbq\|1995-08-26\}
+	*\{longnt\|1996-02-17\}
+	*\{longnh\|1988-12-20\}
+	*\{toantk\|1993-10-09\}
+	*\{anhlt\|1992-08-30\}
+	*\{anph\|1993-10-05\}
+	*\{cuongnvan\|1993-04-11\}
+	*\{thanhnd\|1991-04-14\}
+	*\{tientt\|1990-09-07\}
+	*\{liendt\|1991-10-07\}
+	*\{huongha\|1991-01-06\}
+	*\{haonv\|1993-02-18\}
+	*\{linhlth\|1997-05-24\}
+	*\{xoannt\|1997-06-04\}
+	*\{quantd\|1987-06-17\}
+	*\{haihn\|1979-09-21\}
+	*\{huyvl\|1986-03-09\}
+	*\{cuongtn\|1980-09-25\}
+	*\{taipt\|1984-02-21\}
+	*\{cuongnv\|1987-06-16\}
+	*\{ductv\|1982-11-30\}
+	*\{giangdao\|1977-04-28\}
+
+~[fullname_birthday]
+	*\{Lê Mạnh Huy\|1997-12-16\}
+	*\{Ngô Duy Anh\|1994-05-01\}
+	*\{Nguyễn Văn Trường\|1990-05-16\}
+	*\{Nguyễn Thạch Ánh\|1978-11-13\}
+	*\{Nguyễn Đức Tiến\|1993-03-14\}
+	*\{Đồng Văn Tuyến\|1992-07-18\}
+	*\{Trương Thị Hương\|1997-06-10\}
+	*\{Dương Quỳnh Quang\|1996-02-16\}
+	*\{Đào Thùy Linh\|1991-04-16\}
+	*\{Đặng Hoàng Như Nguyện\|1996-04-23\}
+	*\{Nguyễn An Phú\|1999-02-21\}
+	*\{Phùng Tuấn Long\|1994-12-27\}
+	*\{Nguyễn Sanh Thành\|1993-02-10\}
+	*\{Lê Thị Lan\|1998-01-21\}
+	*\{Phạm Minh Tuấn\|1983-11-02\}
+	*\{Trần Thị Mỹ Hạnh\|1998-01-23\}
+	*\{Nguyễn Hữu Đăng\|1990-02-15\}
+	*\{Nguyễn Công Lý\|1995-12-12\}
+	*\{Vũ Khánh Long\|1988-07-11\}
+	*\{Lê Tiến Kính\|1989-03-04\}
+	*\{Trần Xuân Trường\|1990-08-21\}
+	*\{Phạm Huy Thắng\|1989-11-16\}
+	*\{Nguyễn Ngọc Quang\|1991-10-26\}
+	*\{Nguyễn Viết Tùng\|1984-07-24\}
+	*\{Nguyễn Cao Thắng\|1982-10-08\}
+	*\{Đào Văn Hưng\|1993-03-23\}
+	*\{Đào Thị Hoàng Nga\|1988-02-28\}
+	*\{Vũ Văn Tài\|1992-02-16\}
+	*\{Đoàn Đắc Tuấn\|1996-12-15\}
+	*\{Bùi Quốc Đạt\|1995-08-26\}
+	*\{Nguyễn Thanh Long\|1996-02-17\}
+	*\{Nguyễn Hoàng Long\|1988-12-20\}
+	*\{Trần Khánh Toàn\|1993-10-09\}
+	*\{Lâm Thị Anh\|1992-08-30\}
+	*\{Phạm Hà An\|1993-10-05\}
+	*\{Nguyễn Văn Cường\|1993-04-11\}
+	*\{Nguyễn Duy Thành\|1991-04-14\}
+	*\{Tô Trần Tiến\|1990-09-07\}
+	*\{Đinh Trọng Liên\|1991-10-07\}
+	*\{Hà Thiên Hương\|1991-01-06\}
+	*\{Nguyễn Văn Hảo\|1993-02-18\}
+	*\{Lê Thị Hải Linh\|1997-05-24\}
+	*\{Nguyễn Thị Xoan\|1997-06-04\}
+	*\{Tạ Đặng Quân\|1987-06-17\}
+	*\{Huỳnh Ngọc Hải\|1979-09-21\}
+	*\{Vũ Lê Huy\|1986-03-09\}
+	*\{Trần Ngọc Cương\|1980-09-25\}
+	*\{Phạm Trọng Tài\|1984-02-21\}
+	*\{Nguyễn Việt Cường\|1987-06-16\}
+	*\{Nguyễn Tuấn Quang\|1982-11-30\}
+	*\{Đào Trường Giang\|1977-04-28\}
+
+~[shortname_startworkdate]
+	*\{huylm\|2021-08-02\}
+	*\{anhnduy\|2021-08-02\}
+	*\{truongnv\|2021-07-01\}
+	*\{anhnt2\|2022-06-01\}
+	*\{tiennd\|2021-06-01\}
+	*\{tuyendv\|2021-06-01\}
+	*\{huongtt\|2021-06-01\}
+	*\{quangdq\|2021-06-01\}
+	*\{linhdt\|2021-06-01\}
+	*\{nguyendhn\|2021-04-01\}
+	*\{phuna\|2021-04-01\}
+	*\{longpt\|2021-04-01\}
+	*\{thanhns\|2021-02-01\}
+	*\{lanlt\|2021-06-01\}
+	*\{tuanpm\|2020-12-11\}
+	*\{hanhttm\|2021-01-01\}
+	*\{dangnh\|2019-02-01\}
+	*\{lync\|2020-03-01\}
+	*\{longvk\|2019-02-01\}
+	*\{kinhlt\|2019-02-01\}
+	*\{truongtx\|2019-03-01\}
+	*\{thangph\|2019-07-01\}
+	*\{quangnn\|2019-02-01\}
+	*\{tungnv\|2019-02-01\}
+	*\{thangnc\|2019-02-01\}
+	*\{hungdv\|2019-02-01\}
+	*\{ngadth\|2020-09-01\}
+	*\{taivv\|2019-02-01\}
+	*\{tuandd\|2020-08-03\}
+	*\{datbq\|2020-06-11\}
+	*\{longnt\|2020-06-01\}
+	*\{longnh\|2020-09-07\}
+	*\{toantk\|2019-02-01\}
+	*\{anhlt\|2020-09-01\}
+	*\{anph\|2019-06-01\}
+	*\{cuongnvan\|2020-08-03\}
+	*\{thanhnd\|2019-08-01\}
+	*\{tientt\|2019-08-30\}
+	*\{liendt\|2020-07-01\}
+	*\{huongha\|2021-01-01\}
+	*\{haonv\|2020-05-01\}
+	*\{linhlth\|2019-11-12\}
+	*\{xoannt\|2019-01-01\}
+	*\{quantd\|2019-01-01\}
+	*\{haihn\|2020-09-01\}
+	*\{huyvl\|2019-02-01\}
+	*\{cuongtn\|2019-02-01\}
+	*\{taipt\|2019-02-01\}
+	*\{cuongnv\|2021-03-01\}
+	*\{ductv\|2019-01-01\}
+	*\{giangdao\|2020-09-01\}
+
+~[fullname_startworkdate]
+	*\{Lê Mạnh Huy\|2021-08-02\}
+	*\{Ngô Duy Anh\|2021-08-02\}
+	*\{Nguyễn Văn Trường\|2021-07-01\}
+	*\{Nguyễn Thạch Ánh\|2022-06-01\}
+	*\{Nguyễn Đức Tiến\|2021-06-01\}
+	*\{Đồng Văn Tuyến\|2021-06-01\}
+	*\{Trương Thị Hương\|2021-06-01\}
+	*\{Dương Quỳnh Quang\|2021-06-01\}
+	*\{Đào Thùy Linh\|2021-06-01\}
+	*\{Đặng Hoàng Như Nguyện\|2021-04-01\}
+	*\{Nguyễn An Phú\|2021-04-01\}
+	*\{Phùng Tuấn Long\|2021-04-01\}
+	*\{Nguyễn Sanh Thành\|2021-02-01\}
+	*\{Lê Thị Lan\|2021-06-01\}
+	*\{Phạm Minh Tuấn\|2020-12-11\}
+	*\{Trần Thị Mỹ Hạnh\|2021-01-01\}
+	*\{Nguyễn Hữu Đăng\|2019-02-01\}
+	*\{Nguyễn Công Lý\|2020-03-01\}
+	*\{Vũ Khánh Long\|2019-02-01\}
+	*\{Lê Tiến Kính\|2019-02-01\}
+	*\{Trần Xuân Trường\|2019-03-01\}
+	*\{Phạm Huy Thắng\|2019-07-01\}
+	*\{Nguyễn Ngọc Quang\|2019-02-01\}
+	*\{Nguyễn Viết Tùng\|2019-02-01\}
+	*\{Nguyễn Cao Thắng\|2019-02-01\}
+	*\{Đào Văn Hưng\|2019-02-01\}
+	*\{Đào Thị Hoàng Nga\|2020-09-01\}
+	*\{Vũ Văn Tài\|2019-02-01\}
+	*\{Đoàn Đắc Tuấn\|2020-08-03\}
+	*\{Bùi Quốc Đạt\|2020-06-11\}
+	*\{Nguyễn Thanh Long\|2020-06-01\}
+	*\{Nguyễn Hoàng Long\|2020-09-07\}
+	*\{Trần Khánh Toàn\|2019-02-01\}
+	*\{Lâm Thị Anh\|2020-09-01\}
+	*\{Phạm Hà An\|2019-06-01\}
+	*\{Nguyễn Văn Cường\|2020-08-03\}
+	*\{Nguyễn Duy Thành\|2019-08-01\}
+	*\{Tô Trần Tiến\|2019-08-30\}
+	*\{Đinh Trọng Liên\|2020-07-01\}
+	*\{Hà Thiên Hương\|2021-01-01\}
+	*\{Nguyễn Văn Hảo\|2020-05-01\}
+	*\{Lê Thị Hải Linh\|2019-11-12\}
+	*\{Nguyễn Thị Xoan\|2019-01-01\}
+	*\{Tạ Đặng Quân\|2019-01-01\}
+	*\{Huỳnh Ngọc Hải\|2020-09-01\}
+	*\{Vũ Lê Huy\|2019-02-01\}
+	*\{Trần Ngọc Cương\|2019-02-01\}
+	*\{Phạm Trọng Tài\|2019-02-01\}
+	*\{Nguyễn Việt Cường\|2021-03-01\}
+	*\{Nguyễn Tuấn Quang\|2019-01-01\}
+	*\{Đào Trường Giang\|2020-09-01\}
+
+~[shortname_general_role]
+	*\{huylm\|Game Developer\}
+	*\{anhnduy\|Trưởng nhóm Android\}
+	*\{truongnv\|Tech Lead dự án FBANG\}
+	*\{anhnt2\|Trưởng Phòng\}
+	*\{tiennd\|Game PD\}
+	*\{tuyendv\|Phó Phòng\}
+	*\{huongtt\|Admin\}
+	*\{quangdq\|CV Engineer\}
+	*\{linhdt\|Admin\}
+	*\{nguyendhn\|Trưởng nhóm phụ trách mảng Computer Vision\}
+	*\{phuna\|NLP Engineer\}
+	*\{longpt\|CV Engineer\}
+	*\{thanhns\|Trưởng nhóm phụ trách mảng NLP\}
+	*\{lanlt\|Business Analyst (BA)\}
+	*\{tuanpm\|Phó Phòng\}
+	*\{hanhttm\|Developer\}
+	*\{dangnh\|Trưởng Phòng\}
+	*\{lync\|Operation\}
+	*\{longvk\|Operation\}
+	*\{kinhlt\|Developer\}
+	*\{truongtx\|Phó Phòng\}
+	*\{thangph\|Trưởng Phòng\}
+	*\{quangnn\|Designer\}
+	*\{tungnv\|Phó Phòng\}
+	*\{thangnc\|Art\}
+	*\{hungdv\|Art\}
+	*\{ngadth\|3D Model\}
+	*\{taivv\|Unity Developer\}
+	*\{tuandd\|Unity Developer\}
+	*\{datbq\|Unity Developer\}
+	*\{longnt\|Unity Developer\}
+	*\{longnh\|Game Product\}
+	*\{toantk\|Trưởng Phòng\}
+	*\{anhlt\|Phó Phòng\}
+	*\{anph\|Business Analyst (BA)\}
+	*\{cuongnvan\|Trưởng nhóm Cross Platform\}
+	*\{thanhnd\|Backend Developer\}
+	*\{tientt\|Backend Developer\}
+	*\{liendt\|Phó Phòng\}
+	*\{huongha\|Trưởng nhóm mảng Data Analyst\}
+	*\{haonv\|Trưởng nhóm phụ trách mảng NLP\}
+	*\{linhlth\|Trưởng nhóm phụ trách mảng Computer Vision\}
+	*\{xoannt\|Data Engineer\}
+	*\{quantd\|CPO - Giám đốc Sản phẩm\}
+	*\{haihn\|CBO - Giám đốc Kinh doanh\}
+	*\{huyvl\|CIO - Giám đốc Thông tin\}
+	*\{cuongtn\|CCO - Giám đốc Sáng tạo\}
+	*\{taipt\|CTO - Giám đốc Công nghệ\}
+	*\{cuongnv\|COO - Giám đốc Thường trực\}
+	*\{ductv\|CIA - Giám đốc Nội chính\}
+	*\{giangdao\|CEO - Giám đốc điều hành\}
+
+~[fullname_general_role]
+	*\{Lê Mạnh Huy\|Game Developer\}
+	*\{Ngô Duy Anh\|Trưởng nhóm Android\}
+	*\{Nguyễn Văn Trường\|Tech Lead dự án FBANG\}
+	*\{Nguyễn Thạch Ánh\|Trưởng Phòng\}
+	*\{Nguyễn Đức Tiến\|Game PD\}
+	*\{Đồng Văn Tuyến\|Phó Phòng\}
+	*\{Trương Thị Hương\|Admin\}
+	*\{Dương Quỳnh Quang\|CV Engineer\}
+	*\{Đào Thùy Linh\|Admin\}
+	*\{Đặng Hoàng Như Nguyện\|Trưởng nhóm phụ trách mảng Computer Vision\}
+	*\{Nguyễn An Phú\|NLP Engineer\}
+	*\{Phùng Tuấn Long\|CV Engineer\}
+	*\{Nguyễn Sanh Thành\|Trưởng nhóm phụ trách mảng NLP\}
+	*\{Lê Thị Lan\|Business Analyst (BA)\}
+	*\{Phạm Minh Tuấn\|Phó Phòng\}
+	*\{Trần Thị Mỹ Hạnh\|Developer\}
+	*\{Nguyễn Hữu Đăng\|Trưởng Phòng\}
+	*\{Nguyễn Công Lý\|Operation\}
+	*\{Vũ Khánh Long\|Operation\}
+	*\{Lê Tiến Kính\|Developer\}
+	*\{Trần Xuân Trường\|Phó Phòng\}
+	*\{Phạm Huy Thắng\|Trưởng Phòng\}
+	*\{Nguyễn Ngọc Quang\|Designer\}
+	*\{Nguyễn Viết Tùng\|Phó Phòng\}
+	*\{Nguyễn Cao Thắng\|Art\}
+	*\{Đào Văn Hưng\|Art\}
+	*\{Đào Thị Hoàng Nga\|3D Model\}
+	*\{Vũ Văn Tài\|Unity Developer\}
+	*\{Đoàn Đắc Tuấn\|Unity Developer\}
+	*\{Bùi Quốc Đạt\|Unity Developer\}
+	*\{Nguyễn Thanh Long\|Unity Developer\}
+	*\{Nguyễn Hoàng Long\|Game Product\}
+	*\{Trần Khánh Toàn\|Trưởng Phòng\}
+	*\{Lâm Thị Anh\|Phó Phòng\}
+	*\{Phạm Hà An\|Business Analyst (BA)\}
+	*\{Nguyễn Văn Cường\|Trưởng nhóm Cross Platform\}
+	*\{Nguyễn Duy Thành\|Backend Developer\}
+	*\{Tô Trần Tiến\|Backend Developer\}
+	*\{Đinh Trọng Liên\|Phó Phòng\}
+	*\{Hà Thiên Hương\|Trưởng nhóm mảng Data Analyst\}
+	*\{Nguyễn Văn Hảo\|Trưởng nhóm phụ trách mảng NLP\}
+	*\{Lê Thị Hải Linh\|Trưởng nhóm phụ trách mảng Computer Vision\}
+	*\{Nguyễn Thị Xoan\|Data Engineer\}
+	*\{Tạ Đặng Quân\|CPO - Giám đốc Sản phẩm\}
+	*\{Huỳnh Ngọc Hải\|CBO - Giám đốc Kinh doanh\}
+	*\{Vũ Lê Huy\|CIO - Giám đốc Thông tin\}
+	*\{Trần Ngọc Cương\|CCO - Giám đốc Sáng tạo\}
+	*\{Phạm Trọng Tài\|CTO - Giám đốc Công nghệ\}
+	*\{Nguyễn Việt Cường\|COO - Giám đốc Thường trực\}
+	*\{Nguyễn Tuấn Quang\|CIA - Giám đốc Nội chính\}
+	*\{Đào Trường Giang\|CEO - Giám đốc điều hành\}
+
+~[shortname_department_role]
+	*\{huylm\|Phòng Game\|Nhân viên\}
+	*\{anhnduy\|Phòng Application\|Nhân viên\}
+	*\{truongnv\|Phòng Platform\|Nhân viên\}
+	*\{anhnt2\|Phòng Hành chính nhân sự\|Trưởng phòng\}
+	*\{tiennd\|Phòng Game\|Nhân viên\}
+	*\{tuyendv\|Phòng Application\|Phó Phòng\}
+	*\{huongtt\|Phòng Hành chính nhân sự\|Nhân viên\}
+	*\{quangdq\|Trung tâm AI\|Nhân viên\}
+	*\{linhdt\|Phòng Game\|Nhân viên\}
+	*\{nguyendhn\|Trung tâm AI\|Nhân viên\}
+	*\{phuna\|Trung tâm AI\|Nhân viên\}
+	*\{longpt\|Trung tâm AI\|Nhân viên\}
+	*\{thanhns\|Trung tâm AI\|Nhân viên\}
+	*\{lanlt\|Phòng Product\|Nhân viên\}
+	*\{tuanpm\|Phòng Platform\|Phó Phòng\}
+	*\{hanhttm\|Phòng Platform\|Nhân viên\}
+	*\{dangnh\|Phòng IS\|Trưởng Phòng\}
+	*\{lync\|Phòng IS\|Nhân viên\}
+	*\{longvk\|Phòng IS\|Nhân viên\}
+	*\{kinhlt\|Phòng IS\|Nhân viên\}
+	*\{truongtx\|Phòng Platform\|Phó Phòng\}
+	*\{thangph\|Phòng Platform\|Trưởng Phòng\}
+	*\{quangnn\|Phòng Game\|Nhân viên\}
+	*\{tungnv\|Phòng Game\|Phó Phòng\}
+	*\{thangnc\|Phòng Game\|Nhân viên\}
+	*\{hungdv\|Phòng Game\|Nhân viên\}
+	*\{ngadth\|Phòng Game\|Nhân viên\}
+	*\{taivv\|Phòng Game\|Nhân viên\}
+	*\{tuandd\|Phòng Game\|Nhân viên\}
+	*\{datbq\|Phòng Game\|Nhân viên\}
+	*\{longnt\|Phòng Game\|Nhân viên\}
+	*\{longnh\|Phòng Game\|Nhân viên\}
+	*\{toantk\|Phòng Game\|Trưởng Phòng\}
+	*\{anhlt\|Phòng QA\|Phó Phòng\}
+	*\{anph\|Phòng Product\|Nhân viên\}
+	*\{cuongnvan\|Phòng Application\|Nhân viên\}
+	*\{thanhnd\|Phòng Platform\|Nhân viên\}
+	*\{tientt\|Phòng Platform\|Nhân viên\}
+	*\{liendt\|Phòng Application\|Phó Phòng\}
+	*\{huongha\|Trung tâm AI\|Nhân viên\}
+	*\{haonv\|Trung tâm AI\|Nhân viên\}
+	*\{linhlth\|Trung tâm AI\|Nhân viên\}
+	*\{xoannt\|Trung tâm AI\|Nhân viên\}
+	*\{quantd\|Team BOD\|CPO - Giám đốc Sản phẩm, trưởng phòng\}
+	*\{haihn\|Team BOD\|CBO - Giám đốc Kinh doanh\}
+	*\{huyvl\|Team BOD\|CIO - Giám đốc Thông tin\}
+	*\{cuongtn\|Team BOD\|CCO - Giám đốc Sáng tạo\}
+	*\{taipt\|Team BOD\|CTO - Giám đốc Công nghệ\}
+	*\{cuongnv\|Team BOD\|COO - Giám đốc Thường trực\}
+	*\{ductv\|Team BOD\|CIA - Giám đốc Nội chính\}
+	*\{giangdao\|Team BOD\|CEO - Giám đốc điều hành\}
+
+~[fullname_department_role]
+	*\{Lê Mạnh Huy\|Phòng Game\|Nhân viên\}
+	*\{Ngô Duy Anh\|Phòng Application\|Nhân viên\}
+	*\{Nguyễn Văn Trường\|Phòng Platform\|Nhân viên\}
+	*\{Nguyễn Thạch Ánh\|Phòng Hành chính nhân sự\|Trưởng phòng\}
+	*\{Nguyễn Đức Tiến\|Phòng Game\|Nhân viên\}
+	*\{Đồng Văn Tuyến\|Phòng Application\|Phó Phòng\}
+	*\{Trương Thị Hương\|Phòng Hành chính nhân sự\|Nhân viên\}
+	*\{Dương Quỳnh Quang\|Trung tâm AI\|Nhân viên\}
+	*\{Đào Thùy Linh\|Phòng Game\|Nhân viên\}
+	*\{Đặng Hoàng Như Nguyện\|Trung tâm AI\|Nhân viên\}
+	*\{Nguyễn An Phú\|Trung tâm AI\|Nhân viên\}
+	*\{Phùng Tuấn Long\|Trung tâm AI\|Nhân viên\}
+	*\{Nguyễn Sanh Thành\|Trung tâm AI\|Nhân viên\}
+	*\{Lê Thị Lan\|Phòng Product\|Nhân viên\}
+	*\{Phạm Minh Tuấn\|Phòng Platform\|Phó Phòng\}
+	*\{Trần Thị Mỹ Hạnh\|Phòng Platform\|Nhân viên\}
+	*\{Nguyễn Hữu Đăng\|Phòng IS\|Trưởng Phòng\}
+	*\{Nguyễn Công Lý\|Phòng IS\|Nhân viên\}
+	*\{Vũ Khánh Long\|Phòng IS\|Nhân viên\}
+	*\{Lê Tiến Kính\|Phòng IS\|Nhân viên\}
+	*\{Trần Xuân Trường\|Phòng Platform\|Phó Phòng\}
+	*\{Phạm Huy Thắng\|Phòng Platform\|Trưởng Phòng\}
+	*\{Nguyễn Ngọc Quang\|Phòng Game\|Nhân viên\}
+	*\{Nguyễn Viết Tùng\|Phòng Game\|Phó Phòng\}
+	*\{Nguyễn Cao Thắng\|Phòng Game\|Nhân viên\}
+	*\{Đào Văn Hưng\|Phòng Game\|Nhân viên\}
+	*\{Đào Thị Hoàng Nga\|Phòng Game\|Nhân viên\}
+	*\{Vũ Văn Tài\|Phòng Game\|Nhân viên\}
+	*\{Đoàn Đắc Tuấn\|Phòng Game\|Nhân viên\}
+	*\{Bùi Quốc Đạt\|Phòng Game\|Nhân viên\}
+	*\{Nguyễn Thanh Long\|Phòng Game\|Nhân viên\}
+	*\{Nguyễn Hoàng Long\|Phòng Game\|Nhân viên\}
+	*\{Trần Khánh Toàn\|Phòng Game\|Trưởng Phòng\}
+	*\{Lâm Thị Anh\|Phòng QA\|Phó Phòng\}
+	*\{Phạm Hà An\|Phòng Product\|Nhân viên\}
+	*\{Nguyễn Văn Cường\|Phòng Application\|Nhân viên\}
+	*\{Nguyễn Duy Thành\|Phòng Platform\|Nhân viên\}
+	*\{Tô Trần Tiến\|Phòng Platform\|Nhân viên\}
+	*\{Đinh Trọng Liên\|Phòng Application\|Phó Phòng\}
+	*\{Hà Thiên Hương\|Trung tâm AI\|Nhân viên\}
+	*\{Nguyễn Văn Hảo\|Trung tâm AI\|Nhân viên\}
+	*\{Lê Thị Hải Linh\|Trung tâm AI\|Nhân viên\}
+	*\{Nguyễn Thị Xoan\|Trung tâm AI\|Nhân viên\}
+	*\{Tạ Đặng Quân\|Team BOD\|CPO - Giám đốc Sản phẩm, trưởng phòng\}
+	*\{Huỳnh Ngọc Hải\|Team BOD\|CBO - Giám đốc Kinh doanh\}
+	*\{Vũ Lê Huy\|Team BOD\|CIO - Giám đốc Thông tin\}
+	*\{Trần Ngọc Cương\|Team BOD\|CCO - Giám đốc Sáng tạo\}
+	*\{Phạm Trọng Tài\|Team BOD\|CTO - Giám đốc Công nghệ\}
+	*\{Nguyễn Việt Cường\|Team BOD\|COO - Giám đốc Thường trực\}
+	*\{Nguyễn Tuấn Quang\|Team BOD\|CIA - Giám đốc Nội chính\}
+	*\{Đào Trường Giang\|Team BOD\|CEO - Giám đốc điều hành\}
+
+~[shortname_worklocation]
+	*\{huylm\|Tầng 5, Hà Nội\}
+	*\{anhnduy\|Tầng 8, Hà Nội\}
+	*\{truongnv\|Tầng 8, Hà Nội\}
+	*\{anhnt2\|Tầng 5, Hà Nội\}
+	*\{tiennd\|Tầng 5, Hà Nội\}
+	*\{tuyendv\|Tầng 8, Hà Nội\}
+	*\{huongtt\|Tầng 9, Hà Nội\}
+	*\{quangdq\|Đà Nẵng\}
+	*\{linhdt\|Tầng 5, Hà Nội\}
+	*\{nguyendhn\|Đà Nẵng\}
+	*\{phuna\|Đà Nẵng\}
+	*\{longpt\|Tầng 9, Hà Nội\}
+	*\{thanhns\|Đà Nẵng\}
+	*\{lanlt\|Tầng 9, Hà Nội\}
+	*\{tuanpm\|Tầng 8, Hà Nội\}
+	*\{hanhttm\|Tầng 8, Hà Nội\}
+	*\{dangnh\|Tầng 5, Hà Nội\}
+	*\{lync\|Tầng 5, Hà Nội\}
+	*\{longvk\|Tầng 5, Hà Nội\}
+	*\{kinhlt\|Tầng 5, Hà Nội\}
+	*\{truongtx\|Tầng 8, Hà Nội\}
+	*\{thangph\|Tầng 8, Hà Nội\}
+	*\{quangnn\|Tầng 5, Hà Nội\}
+	*\{tungnv\|Tầng 5, Hà Nội\}
+	*\{thangnc\|Tầng 5, Hà Nội\}
+	*\{hungdv\|Tầng 5, Hà Nội\}
+	*\{ngadth\|Tầng 5, Hà Nội\}
+	*\{taivv\|Tầng 5, Hà Nội\}
+	*\{tuandd\|Tầng 5, Hà Nội\}
+	*\{datbq\|Tầng 5, Hà Nội\}
+	*\{longnt\|Tầng 5, Hà Nội\}
+	*\{longnh\|Tầng 5, Hà Nội\}
+	*\{toantk\|Tầng 5, Hà Nội\}
+	*\{anhlt\|Tầng 9, Hà Nội\}
+	*\{anph\|Tầng 9, Hà Nội\}
+	*\{cuongnvan\|Tầng 8, Hà Nội\}
+	*\{thanhnd\|Tầng 8, Hà Nội\}
+	*\{tientt\|Tầng 8, Hà Nội\}
+	*\{liendt\|Tầng 8, Hà Nội\}
+	*\{huongha\|Tầng 9, Hà Nội\}
+	*\{haonv\|Đà Nẵng\}
+	*\{linhlth\|Tầng 9, Hà Nội\}
+	*\{xoannt\|Tầng 9, Hà Nội\}
+	*\{quantd\|Tầng 9, Hà Nội\}
+	*\{haihn\|Hồ Chí Minh\}
+	*\{huyvl\|Tầng 9, Hà Nội\}
+	*\{cuongtn\|Tầng 5, Hà Nội\}
+	*\{taipt\|Tầng 8, Hà Nội\}
+	*\{cuongnv\|Tầng 8, Hà Nội\}
+	*\{ductv\|Tầng 5, Hà Nội\}
+	*\{giangdao\|Hồ Chí Minh\}
+
+~[fullname_worklocation]
+	*\{Lê Mạnh Huy\|Tầng 5, Hà Nội\}
+	*\{Ngô Duy Anh\|Tầng 8, Hà Nội\}
+	*\{Nguyễn Văn Trường\|Tầng 8, Hà Nội\}
+	*\{Nguyễn Thạch Ánh\|Tầng 5, Hà Nội\}
+	*\{Nguyễn Đức Tiến\|Tầng 5, Hà Nội\}
+	*\{Đồng Văn Tuyến\|Tầng 8, Hà Nội\}
+	*\{Trương Thị Hương\|Tầng 9, Hà Nội\}
+	*\{Dương Quỳnh Quang\|Đà Nẵng\}
+	*\{Đào Thùy Linh\|Tầng 5, Hà Nội\}
+	*\{Đặng Hoàng Như Nguyện\|Đà Nẵng\}
+	*\{Nguyễn An Phú\|Đà Nẵng\}
+	*\{Phùng Tuấn Long\|Tầng 9, Hà Nội\}
+	*\{Nguyễn Sanh Thành\|Đà Nẵng\}
+	*\{Lê Thị Lan\|Tầng 9, Hà Nội\}
+	*\{Phạm Minh Tuấn\|Tầng 8, Hà Nội\}
+	*\{Trần Thị Mỹ Hạnh\|Tầng 8, Hà Nội\}
+	*\{Nguyễn Hữu Đăng\|Tầng 5, Hà Nội\}
+	*\{Nguyễn Công Lý\|Tầng 5, Hà Nội\}
+	*\{Vũ Khánh Long\|Tầng 5, Hà Nội\}
+	*\{Lê Tiến Kính\|Tầng 5, Hà Nội\}
+	*\{Trần Xuân Trường\|Tầng 8, Hà Nội\}
+	*\{Phạm Huy Thắng\|Tầng 8, Hà Nội\}
+	*\{Nguyễn Ngọc Quang\|Tầng 5, Hà Nội\}
+	*\{Nguyễn Viết Tùng\|Tầng 5, Hà Nội\}
+	*\{Nguyễn Cao Thắng\|Tầng 5, Hà Nội\}
+	*\{Đào Văn Hưng\|Tầng 5, Hà Nội\}
+	*\{Đào Thị Hoàng Nga\|Tầng 5, Hà Nội\}
+	*\{Vũ Văn Tài\|Tầng 5, Hà Nội\}
+	*\{Đoàn Đắc Tuấn\|Tầng 5, Hà Nội\}
+	*\{Bùi Quốc Đạt\|Tầng 5, Hà Nội\}
+	*\{Nguyễn Thanh Long\|Tầng 5, Hà Nội\}
+	*\{Nguyễn Hoàng Long\|Tầng 5, Hà Nội\}
+	*\{Trần Khánh Toàn\|Tầng 5, Hà Nội\}
+	*\{Lâm Thị Anh\|Tầng 9, Hà Nội\}
+	*\{Phạm Hà An\|Tầng 9, Hà Nội\}
+	*\{Nguyễn Văn Cường\|Tầng 8, Hà Nội\}
+	*\{Nguyễn Duy Thành\|Tầng 8, Hà Nội\}
+	*\{Tô Trần Tiến\|Tầng 8, Hà Nội\}
+	*\{Đinh Trọng Liên\|Tầng 8, Hà Nội\}
+	*\{Hà Thiên Hương\|Tầng 9, Hà Nội\}
+	*\{Nguyễn Văn Hảo\|Đà Nẵng\}
+	*\{Lê Thị Hải Linh\|Tầng 9, Hà Nội\}
+	*\{Nguyễn Thị Xoan\|Tầng 9, Hà Nội\}
+	*\{Tạ Đặng Quân\|Tầng 9, Hà Nội\}
+	*\{Huỳnh Ngọc Hải\|Hồ Chí Minh\}
+	*\{Vũ Lê Huy\|Tầng 9, Hà Nội\}
+	*\{Trần Ngọc Cương\|Tầng 5, Hà Nội\}
+	*\{Phạm Trọng Tài\|Tầng 8, Hà Nội\}
+	*\{Nguyễn Việt Cường\|Tầng 8, Hà Nội\}
+	*\{Nguyễn Tuấn Quang\|Tầng 5, Hà Nội\}
+	*\{Đào Trường Giang\|Hồ Chí Minh\}
+
+~[shortname_office]
+	*\{huylm\|Hà Nội\}
+	*\{anhnduy\|Hà Nội\}
+	*\{truongnv\|Hà Nội\}
+	*\{anhnt2\|Hà Nội\}
+	*\{tiennd\|Hà Nội\}
+	*\{tuyendv\|Hà Nội\}
+	*\{huongtt\|Hà Nội\}
+	*\{quangdq\|Đà Nẵng\}
+	*\{linhdt\|Hà Nội\}
+	*\{nguyendhn\|Đà Nẵng\}
+	*\{phuna\|Đà Nẵng\}
+	*\{longpt\|Hà Nội\}
+	*\{thanhns\|Đà Nẵng\}
+	*\{lanlt\|Hà Nội\}
+	*\{tuanpm\|Hà Nội\}
+	*\{hanhttm\|Hà Nội\}
+	*\{dangnh\|Hà Nội\}
+	*\{lync\|Hà Nội\}
+	*\{longvk\|Hà Nội\}
+	*\{kinhlt\|Hà Nội\}
+	*\{truongtx\|Hà Nội\}
+	*\{thangph\|Hà Nội\}
+	*\{quangnn\|Hà Nội\}
+	*\{tungnv\|Hà Nội\}
+	*\{thangnc\|Hà Nội\}
+	*\{hungdv\|Hà Nội\}
+	*\{ngadth\|Hà Nội\}
+	*\{taivv\|Hà Nội\}
+	*\{tuandd\|Hà Nội\}
+	*\{datbq\|Hà Nội\}
+	*\{longnt\|Hà Nội\}
+	*\{longnh\|Hà Nội\}
+	*\{toantk\|Hà Nội\}
+	*\{anhlt\|Hà Nội\}
+	*\{anph\|Hà Nội\}
+	*\{cuongnvan\|Hà Nội\}
+	*\{thanhnd\|Hà Nội\}
+	*\{tientt\|Hà Nội\}
+	*\{liendt\|Hà Nội\}
+	*\{huongha\|Hà Nội\}
+	*\{haonv\|Đà Nẵng\}
+	*\{linhlth\|Hà Nội\}
+	*\{xoannt\|Hà Nội\}
+	*\{quantd\|Hà Nội\}
+	*\{haihn\|Hồ Chí Minh\}
+	*\{huyvl\|Hà Nội\}
+	*\{cuongtn\|Hà Nội\}
+	*\{taipt\|Hà Nội\}
+	*\{cuongnv\|Hà Nội\}
+	*\{ductv\|Hà Nội\}
+	*\{giangdao\|Hồ Chí Minh\}
+
+~[fullname_office]
+	*\{Lê Mạnh Huy\|Hà Nội\}
+	*\{Ngô Duy Anh\|Hà Nội\}
+	*\{Nguyễn Văn Trường\|Hà Nội\}
+	*\{Nguyễn Thạch Ánh\|Hà Nội\}
+	*\{Nguyễn Đức Tiến\|Hà Nội\}
+	*\{Đồng Văn Tuyến\|Hà Nội\}
+	*\{Trương Thị Hương\|Hà Nội\}
+	*\{Dương Quỳnh Quang\|Đà Nẵng\}
+	*\{Đào Thùy Linh\|Hà Nội\}
+	*\{Đặng Hoàng Như Nguyện\|Đà Nẵng\}
+	*\{Nguyễn An Phú\|Đà Nẵng\}
+	*\{Phùng Tuấn Long\|Hà Nội\}
+	*\{Nguyễn Sanh Thành\|Đà Nẵng\}
+	*\{Lê Thị Lan\|Hà Nội\}
+	*\{Phạm Minh Tuấn\|Hà Nội\}
+	*\{Trần Thị Mỹ Hạnh\|Hà Nội\}
+	*\{Nguyễn Hữu Đăng\|Hà Nội\}
+	*\{Nguyễn Công Lý\|Hà Nội\}
+	*\{Vũ Khánh Long\|Hà Nội\}
+	*\{Lê Tiến Kính\|Hà Nội\}
+	*\{Trần Xuân Trường\|Hà Nội\}
+	*\{Phạm Huy Thắng\|Hà Nội\}
+	*\{Nguyễn Ngọc Quang\|Hà Nội\}
+	*\{Nguyễn Viết Tùng\|Hà Nội\}
+	*\{Nguyễn Cao Thắng\|Hà Nội\}
+	*\{Đào Văn Hưng\|Hà Nội\}
+	*\{Đào Thị Hoàng Nga\|Hà Nội\}
+	*\{Vũ Văn Tài\|Hà Nội\}
+	*\{Đoàn Đắc Tuấn\|Hà Nội\}
+	*\{Bùi Quốc Đạt\|Hà Nội\}
+	*\{Nguyễn Thanh Long\|Hà Nội\}
+	*\{Nguyễn Hoàng Long\|Hà Nội\}
+	*\{Trần Khánh Toàn\|Hà Nội\}
+	*\{Lâm Thị Anh\|Hà Nội\}
+	*\{Phạm Hà An\|Hà Nội\}
+	*\{Nguyễn Văn Cường\|Hà Nội\}
+	*\{Nguyễn Duy Thành\|Hà Nội\}
+	*\{Tô Trần Tiến\|Hà Nội\}
+	*\{Đinh Trọng Liên\|Hà Nội\}
+	*\{Hà Thiên Hương\|Hà Nội\}
+	*\{Nguyễn Văn Hảo\|Đà Nẵng\}
+	*\{Lê Thị Hải Linh\|Hà Nội\}
+	*\{Nguyễn Thị Xoan\|Hà Nội\}
+	*\{Tạ Đặng Quân\|Hà Nội\}
+	*\{Huỳnh Ngọc Hải\|Hồ Chí Minh\}
+	*\{Vũ Lê Huy\|Hà Nội\}
+	*\{Trần Ngọc Cương\|Hà Nội\}
+	*\{Phạm Trọng Tài\|Hà Nội\}
+	*\{Nguyễn Việt Cường\|Hà Nội\}
+	*\{Nguyễn Tuấn Quang\|Hà Nội\}
+	*\{Đào Trường Giang\|Hồ Chí Minh\}
+
+~[shortname_department]
+	*\{Lê Mạnh Huy\|Phòng Game\}
+	*\{Ngô Duy Anh\|Phòng Application\}
+	*\{Nguyễn Văn Trường\|Phòng Platform\}
+	*\{Nguyễn Thạch Ánh\|Phòng Hành chính nhân sự\}
+	*\{Nguyễn Đức Tiến\|Phòng Game\}
+	*\{Đồng Văn Tuyến\|Phòng Application\}
+	*\{Trương Thị Hương\|Phòng Hành chính nhân sự\}
+	*\{Dương Quỳnh Quang\|Trung tâm AI\}
+	*\{Đào Thùy Linh\|Phòng Game\}
+	*\{Đặng Hoàng Như Nguyện\|Trung tâm AI\}
+	*\{Nguyễn An Phú\|Trung tâm AI\}
+	*\{Phùng Tuấn Long\|Trung tâm AI\}
+	*\{Nguyễn Sanh Thành\|Trung tâm AI\}
+	*\{Lê Thị Lan\|Phòng Product\}
+	*\{Phạm Minh Tuấn\|Phòng Platform\}
+	*\{Trần Thị Mỹ Hạnh\|Phòng Platform\}
+	*\{Nguyễn Hữu Đăng\|Phòng IS\}
+	*\{Nguyễn Công Lý\|Phòng IS\}
+	*\{Vũ Khánh Long\|Phòng IS\}
+	*\{Lê Tiến Kính\|Phòng IS\}
+	*\{Trần Xuân Trường\|Phòng Platform\}
+	*\{Phạm Huy Thắng\|Phòng Platform\}
+	*\{Nguyễn Ngọc Quang\|Phòng Game\}
+	*\{Nguyễn Viết Tùng\|Phòng Game\}
+	*\{Nguyễn Cao Thắng\|Phòng Game\}
+	*\{Đào Văn Hưng\|Phòng Game\}
+	*\{Đào Thị Hoàng Nga\|Phòng Game\}
+	*\{Vũ Văn Tài\|Phòng Game\}
+	*\{Đoàn Đắc Tuấn\|Phòng Game\}
+	*\{Bùi Quốc Đạt\|Phòng Game\}
+	*\{Nguyễn Thanh Long\|Phòng Game\}
+	*\{Nguyễn Hoàng Long\|Phòng Game\}
+	*\{Trần Khánh Toàn\|Phòng Game\}
+	*\{Lâm Thị Anh\|Phòng QA\}
+	*\{Phạm Hà An\|Phòng Product\}
+	*\{Nguyễn Văn Cường\|Phòng Application\}
+	*\{Nguyễn Duy Thành\|Phòng Platform\}
+	*\{Tô Trần Tiến\|Phòng Platform\}
+	*\{Đinh Trọng Liên\|Phòng Application\}
+	*\{Hà Thiên Hương\|Trung tâm AI\}
+	*\{Nguyễn Văn Hảo\|Trung tâm AI\}
+	*\{Lê Thị Hải Linh\|Trung tâm AI\}
+	*\{Nguyễn Thị Xoan\|Trung tâm AI\}
+	*\{Tạ Đặng Quân\|Team BOD\}
+	*\{Huỳnh Ngọc Hải\|Team BOD\}
+	*\{Vũ Lê Huy\|Team BOD\}
+	*\{Trần Ngọc Cương\|Team BOD\}
+	*\{Phạm Trọng Tài\|Team BOD\}
+	*\{Nguyễn Việt Cường\|Team BOD\}
+	*\{Nguyễn Tuấn Quang\|Team BOD\}
+	*\{Đào Trường Giang\|Team BOD\}
+
+~[fullname_department]
+	*\{huylm\|Phòng Game\}
+	*\{anhnduy\|Phòng Application\}
+	*\{truongnv\|Phòng Platform\}
+	*\{anhnt2\|Phòng Hành chính nhân sự\}
+	*\{tiennd\|Phòng Game\}
+	*\{tuyendv\|Phòng Application\}
+	*\{huongtt\|Phòng Hành chính nhân sự\}
+	*\{quangdq\|Trung tâm AI\}
+	*\{linhdt\|Phòng Game\}
+	*\{nguyendhn\|Trung tâm AI\}
+	*\{phuna\|Trung tâm AI\}
+	*\{longpt\|Trung tâm AI\}
+	*\{thanhns\|Trung tâm AI\}
+	*\{lanlt\|Phòng Product\}
+	*\{tuanpm\|Phòng Platform\}
+	*\{hanhttm\|Phòng Platform\}
+	*\{dangnh\|Phòng IS\}
+	*\{lync\|Phòng IS\}
+	*\{longvk\|Phòng IS\}
+	*\{kinhlt\|Phòng IS\}
+	*\{truongtx\|Phòng Platform\}
+	*\{thangph\|Phòng Platform\}
+	*\{quangnn\|Phòng Game\}
+	*\{tungnv\|Phòng Game\}
+	*\{thangnc\|Phòng Game\}
+	*\{hungdv\|Phòng Game\}
+	*\{ngadth\|Phòng Game\}
+	*\{taivv\|Phòng Game\}
+	*\{tuandd\|Phòng Game\}
+	*\{datbq\|Phòng Game\}
+	*\{longnt\|Phòng Game\}
+	*\{longnh\|Phòng Game\}
+	*\{toantk\|Phòng Game\}
+	*\{anhlt\|Phòng QA\}
+	*\{anph\|Phòng Product\}
+	*\{cuongnvan\|Phòng Application\}
+	*\{thanhnd\|Phòng Platform\}
+	*\{tientt\|Phòng Platform\}
+	*\{liendt\|Phòng Application\}
+	*\{huongha\|Trung tâm AI\}
+	*\{haonv\|Trung tâm AI\}
+	*\{linhlth\|Trung tâm AI\}
+	*\{xoannt\|Trung tâm AI\}
+	*\{quantd\|Team BOD\}
+	*\{haihn\|Team BOD\}
+	*\{huyvl\|Team BOD\}
+	*\{cuongtn\|Team BOD\}
+	*\{taipt\|Team BOD\}
+	*\{cuongnv\|Team BOD\}
+	*\{ductv\|Team BOD\}
+	*\{giangdao\|Team BOD\}
+

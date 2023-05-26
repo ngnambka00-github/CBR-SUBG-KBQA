@@ -100,9 +100,13 @@ class NneighborsFromData(Module):
                 # randomly sample K neighbors during training
                 # if "top_k_train_nn" in kwargs:
                 #     query.knn_ids = query.knn_ids[:kwargs["top_k_train_nn"]]  # only consider top 5
-                query.knn_ids = query.knn_ids[:(k + 5)]  # keep k + 5 options for randomly selecting
-                knn_ids = global_rng.choice(query.knn_ids, k, replace=False)
-#                knn_ids = knn_ids[:5]
+                query.knn_ids = query.knn_ids[:(k + 20)]  # keep k + 5 options for randomly selecting
+                try:
+                    knn_ids = global_rng.choice(query.knn_ids, k, replace=False)
+                except:
+                    print(f"CHECK -> query.knn_ids: {query.knn_ids} | k: {k}")
+                    knn_ids = query.knn_ids
+                #                knn_ids = knn_ids[:5]
                 neighbor_list.extend([query] + [self.dataset_obj.train_dataset[knn_id] for knn_id in knn_ids])
             else:
                 # choose top-K

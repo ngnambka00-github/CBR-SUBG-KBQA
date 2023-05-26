@@ -271,10 +271,9 @@ class ModelArguments:
                                                                  "Options: ['full', 'dim', 'sep']"})
     query_attn_activation: str = field(default='softmax', metadata={"help": "Activation fn for query-aware attention. "
                                                                             "Options: ['softmax', 'sigmoid']"})
-    query_encoder_model: str = field(default="vinai/phobert-base",
-                                     metadata={"help": "Model card or ckpt path compatible with the"
-                                                       " transformers library. [Tested for "
-                                                       "`roberta-base`]"})
+    query_encoder_model: str = field(default=None, metadata={"help": "Model card or ckpt path compatible with the"
+                                                                     " transformers library. [Tested for "
+                                                                     "`roberta-base`]"})
     pooling_type: str = field(default='pooler', metadata={"help": "Output pooling to use for query encoding. "
                                                                   "Options: ['pooler', 'cls', 'mean_pool']"})
     node_feat_dim: int = field(default=None, metadata={"help": "Dimension of node input features"})
