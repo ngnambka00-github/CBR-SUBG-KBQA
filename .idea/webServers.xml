@@ -9,6 +9,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="26c08c36-7311-4ea5-aebb-e12a85d8c5d0" name="nam_A51">
+        <fileTransfer rootFolder="/home/namnv/Project/CBR-SUBG" accessType="SFTP" host="192.168.1.51" port="22" sshConfigId="203588bd-916f-4b12-82df-93e6f2bf93e8" sshConfig="namnv@192.168.1.51:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </project>

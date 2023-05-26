@@ -1,6 +1,5 @@
 from typing import Text, List, Dict
 import yaml
-import re
 
 import pandas as pd
 
@@ -32,15 +31,3 @@ def read_yaml_to_dict(in_path: Text) -> Dict[Text, List[Text]]:
     with open(in_path, "r", encoding="utf-8") as file_reader:
         data = yaml.load(file_reader, Loader=yaml.FullLoader)
     return data
-
-
-def write_dict_to_chatette(data: Dict[Text, List[Text]], out_path: Text) -> None:
-    with open(out_path, "w") as fw:
-        for alias, examples in data.items():
-            fw.write(f"~[{alias}]\n")
-            for example in examples:
-                _temp = re.sub(r'\|', r'\|', example)
-                _temp = re.sub(r'\/', r'\/', _temp)
-                _temp = re.sub(r'\@', r'\@', _temp)
-                fw.write("\t" + r"*\{" + _temp + r"\}" + "\n")
-            fw.write("\n")

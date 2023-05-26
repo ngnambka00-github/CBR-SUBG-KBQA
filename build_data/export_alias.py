@@ -1,6 +1,6 @@
 import pandas as pd
-import numpy as np
-from file_utils import read_csv, write_dict_to_yaml, write_dict_to_chatette
+
+from file_utils import read_csv, write_dict_to_yaml
 from constants import NONE_VALUE
 
 """
@@ -32,6 +32,7 @@ Alias:
     25. ftech_website
     26. ftech_phone
 """
+
 
 
 def export_person_alias():
@@ -110,10 +111,7 @@ def export_person_alias():
                          "CCO - Giám đốc Sáng tạo", "CTO - Giám đốc Công nghệ", "COO - Giám đốc Thường trực",
                          "CIA - Giám đốc Nội chính", "CEO - Giám đốc điều hành"]
     for idx in range(person_organization_join.shape[0]):
-        fullname = person_organization_join.at[idx, "name"]
-        if not isinstance(fullname, str):
-            continue
-        fullname = fullname.strip()
+        fullname = person_organization_join.at[idx, "name"].strip()
         shortname = person_organization_join.at[idx, "email"].strip().split("@")[0]
         role = person_organization_join.at[idx, "role"].strip()
 
@@ -132,10 +130,7 @@ def export_person_alias():
                               "CIO - Giám đốc Thông tin", "CCO - Giám đốc Sáng tạo", "CTO - Giám đốc Công nghệ",
                               "COO - Giám đốc Thường trực", "CIA - Giám đốc Nội chính", "CEO - Giám đốc điều hành"]
     for idx in range(person_department_join.shape[0]):
-        fullname = person_department_join.at[idx, "name_person"]
-        if not isinstance(fullname, str):
-            continue
-        fullname = fullname.strip()
+        fullname = person_department_join.at[idx, "name_person"].strip()
         department_name = person_department_join.at[idx, "name_department"].strip()
         shortname = person_department_join.at[idx, "email"].strip().split("@")[0]
         role = person_department_join.at[idx, "role"].strip()
@@ -150,10 +145,7 @@ def export_person_alias():
 
     # 9. shortname_office 10. fullname_office
     for idx in range(person_office_join.shape[0]):
-        fullname = person_office_join.at[idx, "name_person"]
-        if not isinstance(fullname, str):
-            continue
-        fullname = fullname.strip()
+        fullname = person_office_join.at[idx, "name_person"].strip()
         office_name = person_office_join.at[idx, "name_office"].strip()
         shortname = person_office_join.at[idx, "email"].strip().split("@")[0]
 
@@ -162,18 +154,15 @@ def export_person_alias():
 
     # 11. shortname_worklocation, fullname_worklocation
     for idx in range(person_location_join.shape[0]):
-        fullname = person_location_join.at[idx, "name_person"]
-        if not isinstance(fullname, str):
-            continue
-        fullname = fullname.strip()
+        fullname = person_location_join.at[idx, "name_person"].strip()
         location_name = person_location_join.at[idx, "name_location"].strip()
         shortname = person_location_join.at[idx, "email"].strip().split("@")[0]
 
         result_alias["shortname_worklocation"].append(f"{shortname}|{location_name}")
         result_alias["fullname_worklocation"].append(f"{fullname}|{location_name}")
 
-    out_path = "./data/alias/person_infor.chatette"
-    write_dict_to_chatette(data=result_alias, out_path=out_path)
+    out_path = "./data/alias/person_infor.yaml"
+    write_dict_to_yaml(data=result_alias, out_path=out_path)
 
 
 """
@@ -219,10 +208,10 @@ def export_ftech_alias():
         if office != NONE_VALUE:
             result_alias["office_address"].append(f"{office}|{address}")
 
-    out_path = "./data/alias/ftech_infor.chatette"
-    write_dict_to_chatette(data=result_alias, out_path=out_path)
+    out_path = "./data/alias/ftech_infor.yaml"
+    write_dict_to_yaml(data=result_alias, out_path=out_path)
 
 
 if __name__ == "__main__":
     export_person_alias()
-    # export_ftech_alias()
+    export_ftech_alias()
