@@ -57,7 +57,7 @@ if __name__ == '__main__':
         print("St: {}, En: {}".format(st, en))
         empty_ctr = 0
         all_len = []
-        for ctr, (qid, q_ents) in tqdm(enumerate(qid2qents)):
+        for ctr, (qid, q_ents) in tqdm(enumerate(qid2qents), total=len(qid2qents)):
             if st <= ctr < en:
                 ans_ents = qid2answers[qid]
                 len_q = 0
@@ -66,6 +66,8 @@ if __name__ == '__main__':
                         paths = find_paths(e1_map, q_ent, ans_ent)
                         all_subgraphs[qid].append({'st': q_ent, 'en': ans_ent, 'chains': paths})
                         len_q += len(paths)
+                        if len(paths) == 0:
+                            print(f"CHECK: q_ent: {q_ent} | ans_ent: {ans_ent}")
                 if len_q == 0:
                     empty_ctr += 1
                 all_len.append(len_q)

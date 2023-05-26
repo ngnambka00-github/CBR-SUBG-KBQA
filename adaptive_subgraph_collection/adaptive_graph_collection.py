@@ -98,7 +98,7 @@ def collect_subgraph_execute_chains(chains, qid2qents, job_id, total_jobs, datas
     chains = [(qid, q_chains) for (qid, q_chains) in sorted(chains.items(), key=lambda item: item[0])]
     if dataset_name == "metaqa":
         assert e1_r_map is not None
-    for ctr, (qid, q_chains) in tqdm(enumerate(chains)):
+    for ctr, (qid, q_chains) in tqdm(enumerate(chains), total=len(chains)):
         if st <= ctr < en:
             q_ents = qid2qents[qid]
             all_triples = set()
@@ -236,6 +236,7 @@ if __name__ == '__main__':
     out_file_name = "{}_cbr_subgraph_{}_{}_{}.pkl".format(args.dataset_name, args.split, str(args.k), str(args.job_id))
     with open(os.path.join(args.out_dir, out_file_name), "wb") as fout:
         pickle.dump(triples_all_qs, fout)
+    print(f"CHECK triples_all_qs: {triples_all_qs}")
     print("File written to {}".format(os.path.join(args.out_dir, out_file_name)))
     if len(qid2answers) > 0:  # e.g. CWQ test set has no answers
         wrong_qid_answers = check_overlap(triples_all_qs, qid2answers)
