@@ -184,34 +184,6 @@ class CBRTrainingArguments(TrainingArguments):
     kbc_eval_type: str = field(default='both', metadata={"help": "head/tail/both"})
     patience: int = field(default=None, metadata={"help": "Early Stopping Patience"})
 
-    # Arguments inherited from TrainingArguments that affect code:
-    # output_dir: str = field(
-    #     metadata={"help": "The output directory where the model predictions and checkpoints will be written."},
-    # )
-    # num_train_epochs: float = field(default=3.0, metadata={"help": "Total number of training epochs to perform."})
-    # max_steps: int = field(
-    #     default=-1,
-    #     metadata={"help": "If > 0: set total number of training steps to perform. Override num_train_epochs."},
-    # )
-    # gradient_accumulation_steps: int = field(
-    #     default=1,
-    #     metadata={"help": "Number of updates steps to accumulate before performing a backward/update pass."},
-    # )
-    # max_grad_norm: float = field(default=1.0, metadata={"help": "Max gradient norm."})
-    # logging_steps: int = field(default=500, metadata={"help": "Log every X updates steps."})
-    # eval_steps: int = field(default=None, metadata={"help": "Run an evaluation every X steps."})
-    # save_steps: int = field(default=500, metadata={"help": "Save checkpoint every X updates steps."})
-    # save_total_limit: Optional[int] = field(
-    #     default=None,
-    #     metadata={
-    #         "help": (
-    #             "Limit the total amount of checkpoints."
-    #             "Deletes the older checkpoints in the output_dir. Default is unlimited checkpoints"
-    #         )
-    #     },
-    # )
-    # weight_decay: float = field(default=0.0, metadata={"help": "Weight decay for AdamW if we apply some."})
-
 
 @dataclass
 class DataTrainingArguments:
