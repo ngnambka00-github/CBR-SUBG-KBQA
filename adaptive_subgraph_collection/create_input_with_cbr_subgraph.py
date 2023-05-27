@@ -98,7 +98,7 @@ def write_files_with_new_subgraphs(input_data, output_file, cbr_subgraph, ent_vo
         output_data.append(d)
     print("Writing data to {}".format(output_file))
     with open(output_file, "w") as fout:
-        json.dump(output_data, fout, indent=2)
+        json.dump(output_data, fout, indent=2, ensure_ascii=False)
     print("Done...")
 
 
