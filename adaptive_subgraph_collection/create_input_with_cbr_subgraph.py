@@ -3,8 +3,8 @@ import os
 from tqdm import tqdm
 import pickle
 import argparse
-from adaptive_subgraph_collection.adaptive_utils import get_query_entities_and_answers, \
-    get_query_entities_and_answers_cwq, get_query_entities_and_answers_metaqa, get_query_entities_and_answers_freebaseqa
+
+from adaptive_subgraph_collection.adaptive_utils import get_query_entities_and_answers_metaqa
 
 
 def read_cbr_subgraphs(subgraph_train_file, subgraph_dev_file=None, subgraph_test_file=None):
@@ -111,6 +111,7 @@ if __name__ == '__main__':
     parser.add_argument("--k", type=int, default=10)
     args = parser.parse_args()
 
+    # build path
     args.subgraph_train_file = f"{args.dataset_name}_cbr_subgraph_train_{args.k}.pkl"
     args.subgraph_dev_file = f"{args.dataset_name}_cbr_subgraph_dev_{args.k}.pkl"
     args.subgraph_test_file = f"{args.dataset_name}_cbr_subgraph_test_{args.k}.pkl"
