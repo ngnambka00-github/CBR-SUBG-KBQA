@@ -179,4 +179,5 @@ dependencies:
     - webencodings==0.5.1
     - websocket-client==1.2.1
     - yaspin==2.1.0
+    - colorama==0.4.4
 prefix: ~/miniconda3/envs/pygnn
