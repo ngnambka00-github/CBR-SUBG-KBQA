@@ -189,51 +189,41 @@ def check_overlap(triples_all_qs, qid2answers):
 
 
 # Example run
-# python scripts/adaptive_graph_collection.py --collected_chains_file=/mnt/nfs/scratch1/rajarshi/cbr-weak-supervision/subgraphs/cwq_2_hop_train_chains.pkl --dataset_name=CWQ --input_file=/mnt/nfs/scratch1/rajarshi/cbr-weak-supervision/data_with_mentions/cwq_data_with_mentions/train.json --job_id=0 --k=10 --knn_file=/mnt/nfs/scratch1/rajarshi/cbr-weak-supervision/CWQ/train_roberta-base_mean_pool_masked.json --split=train --total_jobs=1 --use_wandb=1
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Collect subgraphs around entities using CBR")
     parser.add_argument("--k", type=int, default=10)
-    parser.add_argument("--collected_chains_file", type=str,
-                        default="/mnt/nfs/scratch1/rajarshi/cbr-weak-supervision/subgraphs/webqsp_2_hop_train_chains.pkl")
-    parser.add_argument("--input_file", type=str,
-                        default="/mnt/nfs/scratch1/rajarshi/cbr-weak-supervision/data_with_mentions/webqsp_data_with_mentions/train.json")
-    parser.add_argument("--knn_file", type=str,
-                        default="/mnt/nfs/scratch1/rajarshi/cbr-weak-supervision/webqsp/train_dev_roberta-base_mean_pool_masked.json")
-    parser.add_argument("--dataset_name", type=str, default="webqsp")
-    parser.add_argument("--out_dir", type=str,
-                        default="/mnt/nfs/work1/mccallum/rajarshi/cbr-weak-supervision/subgraphs")
-    parser.add_argument("--metaqa_kb_file", type=str,
-                        default="/gypsum/scratch1/rajarshi/cbr-weak-supervision/MetaQA-synthetic/3-hop/kb.txt")
+    parser.add_argument("--collected_chains_file", type=str, default="./data/subgraph/metaqa_train_chains_0.pkl")
+    parser.add_argument("--split", type=str, default="train")
+    parser.add_argument("--input_file", type=str, default="./data/train.json")
+    parser.add_argument("--dataset_name", type=str, default="metaqa")
+    parser.add_argument("--out_dir", type=str, default="./data/subgraph")
+    parser.add_argument("--kb_file", type=str, default="./data/kb.txt")
     parser.add_argument("--job_id", type=int, default=0)
     parser.add_argument("--total_jobs", type=int, default=1)
-    parser.add_argument("--split", type=str, default="train")
-    parser.add_argument("--use_wandb", type=int, default=0)
-    parser.add_argument("--use_gold_entities", action='store_true')
     args = parser.parse_args()
-    # args.use_wandb = (args.use_wandb == 1)
-    if args.use_wandb:
-        wandb.init("adaptive-subgraph-collection")
+
     print("Loading collected chains...")
     with open(args.collected_chains_file, "rb") as fin:
         all_subgraphs = pickle.load(fin)
     train_chains = gather_paths(all_subgraphs)
+
     print("Getting query entities and answers....")
     if args.dataset_name.lower() == 'metaqa':
-        qid2qents, qid2answers, qid2gold_spqls, qid2q_str = get_query_entities_and_answers_metaqa(args.input_file,
-                                                                                                  return_gold_entities=args.use_gold_entities)
+        qid2qents, qid2answers, _, _ = get_query_entities_and_answers_metaqa(args.input_file)
+
     print("Loading KNNs...")
-    qid2knns = load_knns(args.knn_file)
+    qid2knns = load_knns(args.input_file)
     print("Getting inference chains...")
     qid2chains, no_chain_qids = get_inference_chains_from_KNN(qid2knns, train_chains, k=args.k)
 
     print("Executing collected chains for subgraph...")
     e1_r_map = None
     if args.dataset_name == "metaqa":
-        e1_r_map = read_metaqa_kb_for_traversal(args.metaqa_kb_file)
+        e1_r_map = read_metaqa_kb_for_traversal(args.kb_file)
     triples_all_qs, subgraph_lengths = collect_subgraph_execute_chains(qid2chains, qid2qents, args.job_id,
                                                                        args.total_jobs, args.dataset_name, e1_r_map)
     print("Saving")
-    out_file_name = "{}_cbr_subgraph_{}_{}_{}.pkl".format(args.dataset_name, args.split, str(args.k), str(args.job_id))
+    out_file_name = "{}_cbr_subgraph_{}_{}.pkl".format(args.dataset_name, args.split, str(args.k))
     with open(os.path.join(args.out_dir, out_file_name), "wb") as fout:
         pickle.dump(triples_all_qs, fout)
 
