@@ -1,0 +1,33 @@
+DATA_COLLECTION:
+  find_chains_in_full_KB:
+    train_file: ./data/train.json
+    dataset_name: metaqa
+    output_dir: ./data/subgraph/
+    kb_file: ./data/kb.txt
+    job_id: 0
+    total_jobs: 1
+
+  adaptive_graph_collection:
+    k: 10
+    collected_chains_file: ./data/subgraph/metaqa_train_chains_0.pkl
+    split: dev
+    input_file: ./data/dev.json
+    dataset_name: metaqa
+    out_dir: ./data/subgraph
+    kb_file: ./data/kb.txt
+    job_id: 0
+    total_jobs: 1
+
+  create_input_with_cbr_subgraph:
+    k: 10
+    subgraph_dir: ./data/subgraph
+    input_dir: ./data/
+    dataset_name: metaqa
+    output_dir: ./data/subgraph
+
+RUNNER:
+  do_train:
+    abc: bc
+
+  do_predict:
+    abc: ...

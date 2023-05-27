@@ -190,9 +190,13 @@ def process_answer(input_text, intent, random_knn=20):
     return item
 
 
+import yaml
 if __name__ == "__main__":
-    input_text = "năm bao nhiêu cô [Ngô Phượng Hoàng] sinh ra ợ"
-    intent = "faq/knowledge_ask_employee_birthday_fullname"
-
-    process_answer(input_text, intent)
+    # input_text = "năm bao nhiêu cô [Ngô Phượng Hoàng] sinh ra ợ"
+    # intent = "faq/knowledge_ask_employee_birthday_fullname"
+    #
+    # process_answer(input_text, intent)
     # load_adaptive_graph()
+
+    with open('config.yml', 'r') as f:
+        config = yaml.load(f, Loader=yaml.FullLoader)

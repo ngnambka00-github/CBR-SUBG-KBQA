@@ -1,18 +1,17 @@
-import json
 import os
-from tqdm import tqdm
+import json
 import pickle
+import argparse
+from typing import *
+
+from tqdm import tqdm
 from numpy.random import default_rng
 import numpy as np
-from typing import *
-import argparse
+
+from adaptive_subgraph_collection.adaptive_utils import get_query_entities_and_answers_metaqa, execute_kb_query, \
+    read_metaqa_kb_for_traversal, read_yaml
 
 rng = default_rng()
-import wandb
-
-from adaptive_subgraph_collection.adaptive_utils import get_query_entities_and_answers, \
-    get_query_entities_and_answers_cwq, get_query_entities_and_answers_metaqa, execute_kb_query, \
-    read_metaqa_kb_for_traversal, get_query_entities_and_answers_freebaseqa
 
 
 def gather_paths(all_subgraphs):
@@ -191,43 +190,38 @@ def check_overlap(triples_all_qs, qid2answers):
 # Example run
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Collect subgraphs around entities using CBR")
-    parser.add_argument("--k", type=int, default=10)
-    parser.add_argument("--collected_chains_file", type=str, default="./data/subgraph/metaqa_train_chains_0.pkl")
-    parser.add_argument("--split", type=str, default="train")
-    parser.add_argument("--input_file", type=str, default="./data/train.json")
-    parser.add_argument("--dataset_name", type=str, default="metaqa")
-    parser.add_argument("--out_dir", type=str, default="./data/subgraph")
-    parser.add_argument("--kb_file", type=str, default="./data/kb.txt")
-    parser.add_argument("--job_id", type=int, default=0)
-    parser.add_argument("--total_jobs", type=int, default=1)
+    parser.add_argument("--config", type=str, default='../config/config.yaml')
     args = parser.parse_args()
+    config = read_yaml(args.config)["DATA_COLLECTION"]["adaptive_graph_collection"]
 
     print("Loading collected chains...")
-    with open(args.collected_chains_file, "rb") as fin:
+    with open(config["collected_chains_file"], "rb") as fin:
         all_subgraphs = pickle.load(fin)
     train_chains = gather_paths(all_subgraphs)
 
     print("Getting query entities and answers....")
-    if args.dataset_name.lower() == 'metaqa':
-        qid2qents, qid2answers, _, _ = get_query_entities_and_answers_metaqa(args.input_file)
+    if config["dataset_name"] == 'metaqa':
+        qid2qents, qid2answers, _, _ = get_query_entities_and_answers_metaqa(config["input_file"])
 
     print("Loading KNNs...")
-    qid2knns = load_knns(args.input_file)
+    qid2knns = load_knns(config["input_file"])
+
     print("Getting inference chains...")
-    qid2chains, no_chain_qids = get_inference_chains_from_KNN(qid2knns, train_chains, k=args.k)
+    qid2chains, no_chain_qids = get_inference_chains_from_KNN(qid2knns, train_chains, k=int(config["k"]))
 
     print("Executing collected chains for subgraph...")
     e1_r_map = None
-    if args.dataset_name == "metaqa":
-        e1_r_map = read_metaqa_kb_for_traversal(args.kb_file)
-    triples_all_qs, subgraph_lengths = collect_subgraph_execute_chains(qid2chains, qid2qents, args.job_id,
-                                                                       args.total_jobs, args.dataset_name, e1_r_map)
+    if config["dataset_name"] == "metaqa":
+        e1_r_map = read_metaqa_kb_for_traversal(config["kb_file"])
+    triples_all_qs, subgraph_lengths = collect_subgraph_execute_chains(qid2chains, qid2qents,
+                                                                       int(config["job_id"]), int(config["total_jobs"]),
+                                                                       config["dataset_name"], e1_r_map)
     print("Saving")
-    out_file_name = "{}_cbr_subgraph_{}_{}.pkl".format(args.dataset_name, args.split, str(args.k))
-    with open(os.path.join(args.out_dir, out_file_name), "wb") as fout:
-        pickle.dump(triples_all_qs, fout)
+    out_file_name = f"{config['dataset_name']}_cbr_subgraph_{config['split']}_{config['k']}.pkl"
+    with open(os.path.join(config['out_dir'], out_file_name), "wb") as f_out:
+        pickle.dump(triples_all_qs, f_out)
 
     # print(f"CHECK triples_all_qs: {triples_all_qs}")
-    print("File written to {}".format(os.path.join(args.out_dir, out_file_name)))
+    print(f"File written to {os.path.join(config['out_dir'], out_file_name)}")
     if len(qid2answers) > 0:  # e.g. CWQ test set has no answers
         wrong_qid_answers = check_overlap(triples_all_qs, qid2answers)

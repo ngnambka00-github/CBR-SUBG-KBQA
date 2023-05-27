@@ -1,13 +1,15 @@
 import json
+import yaml
+import re
+import http
 from typing import *
 from random import randrange
 import urllib.parse
 import urllib.request
-import http
-import re
 from collections import defaultdict
-from tqdm import tqdm
+
 from numpy.random import default_rng
+from tqdm import tqdm
 
 rng = default_rng()
 
@@ -226,8 +228,9 @@ def read_metaqa_kb(kb_file):
             line = line.strip()
             e1, r, e2 = line.split("|")
             e1_map[e1].append((r, e2))
-            e1_map[e2].append((r+"_inv", e1))
+            e1_map[e2].append((r + "_inv", e1))
     return e1_map
+
 
 def read_metaqa_kb_for_traversal(kb_file):
     e1_r_map = defaultdict(list)
@@ -236,7 +239,7 @@ def read_metaqa_kb_for_traversal(kb_file):
             line = line.strip()
             e1, r, e2 = line.split("|")
             e1_r_map[(e1, r)].append(e2)
-            e1_r_map[(e2, r+"_inv")].append(e1)
+            e1_r_map[(e2, r + "_inv")].append(e1)
     return e1_r_map
 
 
@@ -260,3 +263,15 @@ def find_paths(e1_map, q_ent, ans_ent, num_max_paths=2000, max_path_len=6):
                 all_collected_paths.add(tuple(prefix_rel))
             curr_ent = e2
     return all_collected_paths
+
+
+def read_yaml(file_path: Text):
+    with open(file_path, 'r') as f:
+        config = yaml.load(f, Loader=yaml.FullLoader)
+    return config
+
+
+def read_json(file_path: Text):
+    with open(file_path) as f_in:
+        data = json.load(f_in)
+    return data

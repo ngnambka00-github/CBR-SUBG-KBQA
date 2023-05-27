@@ -1,10 +1,11 @@
 import json
 import os
-from tqdm import tqdm
 import pickle
 import argparse
 
-from adaptive_subgraph_collection.adaptive_utils import get_query_entities_and_answers_metaqa
+from tqdm import tqdm
+
+from adaptive_subgraph_collection.adaptive_utils import get_query_entities_and_answers_metaqa, read_yaml, read_json
 
 
 def read_cbr_subgraphs(subgraph_train_file, subgraph_dev_file=None, subgraph_test_file=None):
@@ -37,7 +38,7 @@ def read_cbr_subgraphs(subgraph_train_file, subgraph_dev_file=None, subgraph_tes
     return new_subgraphs
 
 
-def create_new_vocab(args, cbr_subgraph, qid2answers, output_dir):
+def create_new_vocab(conf_k, cbr_subgraph, qid2answers, output_dir):
     all_entities, all_relations = set(), set()
     for qid, subgraph in tqdm(cbr_subgraph.items()):
         for (e1, r, e2) in subgraph:
@@ -58,9 +59,8 @@ def create_new_vocab(args, cbr_subgraph, qid2answers, output_dir):
         rev_rel_vocab[r_ctr] = r
 
     # write vocab
-    new_ent_vocab_file = os.path.join(output_dir, f"entities_roberta-base_mean_pool_masked_cbr_subgraph_k={args.k}.txt")
-    new_rel_vocab_file = os.path.join(output_dir,
-                                      f"relations_roberta-base_mean_pool_masked_cbr_subgraph_k={args.k}.txt")
+    new_ent_vocab_file = os.path.join(output_dir, f"entities_roberta-base_mean_pool_masked_cbr_subgraph_k={conf_k}.txt")
+    new_rel_vocab_file = os.path.join(output_dir, f"relations_roberta-base_mean_pool_masked_cbr_subgraph_k={conf_k}.txt")
     print("Writing new vocab files: {}, {}".format(new_ent_vocab_file, new_rel_vocab_file))
     with open(new_ent_vocab_file, "w") as f_out:
         for i in range(len(entity_vocab)):
@@ -104,35 +104,29 @@ def write_files_with_new_subgraphs(input_data, output_file, cbr_subgraph, ent_vo
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Create input files using CBR subgraphs")
-    parser.add_argument("--subgraph_dir", type=str, default="./data/subgraph")
-    parser.add_argument("--input_dir", type=str, default="./data/")
-    parser.add_argument("--dataset_name", type=str, default="metaqa")
-    parser.add_argument("--output_dir", type=str, default="./data/subgraph")
-    parser.add_argument("--k", type=int, default=10)
+    parser.add_argument("--config", type=str, default='../config/config.yaml')
     args = parser.parse_args()
+    config = read_yaml(args.config)["DATA_COLLECTION"]["adaptive_graph_collection"]
 
     # build path
-    args.subgraph_train_file = f"{args.dataset_name}_cbr_subgraph_train_{args.k}.pkl"
-    args.subgraph_dev_file = f"{args.dataset_name}_cbr_subgraph_dev_{args.k}.pkl"
-    args.subgraph_test_file = f"{args.dataset_name}_cbr_subgraph_test_{args.k}.pkl"
-    subgraph_train_file = os.path.join(args.subgraph_dir, args.subgraph_train_file)
-    subgraph_dev_file = os.path.join(args.subgraph_dir, args.subgraph_dev_file)
-    subgraph_test_file = os.path.join(args.subgraph_dir, args.subgraph_test_file)
+    subgraph_train_file = os.path.join(config['subgraph_dir'], f"{config['dataset_name']}_cbr_subgraph_train_{config['k']}.pkl")
+    subgraph_dev_file = os.path.join(config['subgraph_dir'], f"{config['dataset_name']}_cbr_subgraph_dev_{config['k']}.pkl")
+    subgraph_test_file = os.path.join(config['subgraph_dir'], f"{config['dataset_name']}_cbr_subgraph_test_{config['k']}.pkl")
 
     print("Reading CBR subgraphs ...")
     cbr_subgraph = read_cbr_subgraphs(subgraph_train_file, subgraph_dev_file, subgraph_test_file)
 
     print("Getting query entities and answers....")
+    train_file = os.path.join(config['input_dir'], "train.json")
+    dev_file = os.path.join(config['input_dir'], "dev.json")
+    test_file = os.path.join(config['input_dir'], "test.json")
     train_qid2qents, train_qid2answers, _, train_qid2q_str = None, None, None, None
-    train_file = os.path.join(args.input_dir, "train.json")
-    dev_file = os.path.join(args.input_dir, "dev.json")
-    test_file = os.path.join(args.input_dir, "test.json")
+    dev_qid2qents, dev_qid2answers, dev_qid2gold_chains, dev_qid2q_str = None, None, None, None
+    test_qid2qents, test_qid2answers, test_qid2gold_chains, test_qid2q_str = None, None, None, None
     if os.path.exists(train_file):
         train_qid2qents, train_qid2answers, _, train_qid2q_str = get_query_entities_and_answers_metaqa(train_file)
-    dev_qid2qents, dev_qid2answers, dev_qid2gold_chains, dev_qid2q_str = None, None, None, None
     if os.path.exists(dev_file):
         dev_qid2qents, dev_qid2answers, _, dev_qid2q_str = get_query_entities_and_answers_metaqa(dev_file)
-    test_qid2qents, test_qid2answers, test_qid2gold_chains, test_qid2q_str = None, None, None, None
     if os.path.exists(test_file):
         test_qid2qents, test_qid2answers, _, test_qid2q_str = get_query_entities_and_answers_metaqa(test_file)
 
@@ -144,18 +138,12 @@ if __name__ == '__main__':
         qid2answers.update(dev_qid2answers)
     if test_qid2answers is not None:
         qid2answers.update(test_qid2answers)
-    entity_vocab, rev_entity_vocab, rel_vocab, rev_rel_vocab = create_new_vocab(args, cbr_subgraph, qid2answers,
-                                                                                args.output_dir)
+    entity_vocab, rev_entity_vocab, rel_vocab, rev_rel_vocab = create_new_vocab(config["k"], cbr_subgraph, qid2answers, config['output_dir'])
+
     print("Reading input files")
-    train_file_name = os.path.join(args.input_dir, "train.json")
-    test_file_name = os.path.join(args.input_dir, "test.json")
-    dev_file_name = os.path.join(args.input_dir, "dev.json")
-    with open(train_file_name) as fin:
-        train = json.load(fin)
-    with open(test_file_name) as fin:
-        test = json.load(fin)
-    with open(dev_file_name) as fin:
-        dev = json.load(fin)
+    train = read_json(os.path.join(config['input_dir'], "train.json"))
+    test = read_json(os.path.join(config['input_dir'], "test.json"))
+    dev = read_json(os.path.join(config['input_dir'], "dev.json"))
 
     qid2q_ents = {}
     for qe in [train_qid2qents, dev_qid2qents, test_qid2qents]:
@@ -164,16 +152,16 @@ if __name__ == '__main__':
 
     print("Creating files with new subgraphs...")
     print("Train...")
-    output_file = os.path.join(args.output_dir, f"train_roberta-base_mean_pool_masked_cbr_subgraph_k={args.k}.json")
+    output_file = os.path.join(config['output_dir'], f"train_roberta-base_mean_pool_masked_cbr_subgraph_k={config['k']}.json")
     write_files_with_new_subgraphs(train, output_file, cbr_subgraph, entity_vocab, rel_vocab, qid2q_ents)
     print(f"File written to {output_file}")
 
     print("Dev...")
-    output_file = os.path.join(args.output_dir, f"dev_roberta-base_mean_pool_masked_cbr_subgraph_k={args.k}.json")
+    output_file = os.path.join(config['output_dir'], f"dev_roberta-base_mean_pool_masked_cbr_subgraph_k={config['k']}.json")
     write_files_with_new_subgraphs(dev, output_file, cbr_subgraph, entity_vocab, rel_vocab, qid2q_ents)
     print(f"File written to {output_file}")
 
     print("Test...")
-    output_file = os.path.join(args.output_dir, f"test_roberta-base_mean_pool_masked_cbr_subgraph_k={args.k}.json")
+    output_file = os.path.join(config['output_dir'], f"test_roberta-base_mean_pool_masked_cbr_subgraph_k={config['k']}.json")
     write_files_with_new_subgraphs(test, output_file, cbr_subgraph, entity_vocab, rel_vocab, qid2q_ents)
     print(f"File written to {output_file}")
