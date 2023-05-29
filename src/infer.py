@@ -160,8 +160,8 @@ def collect_subgraph_execute_chains(chains, qid2qents, job_id, total_jobs, datas
 
 def load_adaptive_graph(item_test, k):
     # Loading collected chains...
-    collected_chains_file_path = "/home/namnv/Documents/Project/research/CBR-SUBG/adaptive_subgraph_collection/data/subgraph/metaqa_train_chains_1.pkl"
-    kb_file_path = "/home/namnv/Documents/Project/research/CBR-SUBG/adaptive_subgraph_collection/data/kb.txt"
+    collected_chains_file_path = "../adaptive_subgraph_collection/data/subgraph/metaqa_train_chains_1.pkl"
+    kb_file_path = "../adaptive_subgraph_collection/data/kb.txt"
 
     with open(collected_chains_file_path, "rb") as f_in:
         all_subgraphs = pickle.load(f_in)
@@ -234,7 +234,7 @@ def write_files_with_new_subgraphs(input_data, output_file, cbr_subgraph, ent_vo
 # END: create_input_with_cbr_subgraph
 
 def process_infer_text(input_text, intent):
-    train_data_path = "/home/namnv/Documents/Project/research/CBR-SUBG/adaptive_subgraph_collection/data/train.json"
+    train_data_path = "../adaptive_subgraph_collection/data/train.json"
     train_data = read_json(train_data_path)
     train_data = [data["id"] for data in train_data if data["intent"] == intent]
 
@@ -255,20 +255,38 @@ def process_infer_text(input_text, intent):
     cbr_subgraph = read_cbr_subgraphs(triples_all_qs)
 
     # load entity & relation vocab
-    entity_path = "/home/namnv/Documents/Project/research/CBR-SUBG/adaptive_subgraph_collection/data/subgraph/entities_roberta-base_mean_pool_masked_cbr_subgraph_k=10.txt"
-    relation_path = "/home/namnv/Documents/Project/research/CBR-SUBG/adaptive_subgraph_collection/data/subgraph/relations_roberta-base_mean_pool_masked_cbr_subgraph_k=10.txt"
+    entity_path = "../adaptive_subgraph_collection/data/subgraph/entities_roberta-base_mean_pool_masked_cbr_subgraph_k=10.txt"
+    relation_path = "../adaptive_subgraph_collection/data/subgraph/relations_roberta-base_mean_pool_masked_cbr_subgraph_k=10.txt"
     entity_vocab = read_txt_to_dict(entity_path)
     rel_vocab = read_txt_to_dict(relation_path)
 
-    output_file = os.path.join("/home/namnv/Documents/Project/research/CBR-SUBG/adaptive_subgraph_collection/data_infer",
+    output_file = os.path.join("../adaptive_subgraph_collection/data_infer",
                                f"test_roberta-base_mean_pool_masked_cbr_subgraph_k={10}.json")
     write_files_with_new_subgraphs([item], output_file, cbr_subgraph, entity_vocab, rel_vocab, qid2q_ents)
     print(f"File written to {output_file}")
 
 
 if __name__ == "__main__":
-    input_text = "chức vụ của a [thinhnd] ở [Phòng Game] là gì"
-    intent = "faq/knowledge_ask_employee_role_department_shortname"
+    # input_text = "[tungnk] làm vị trí gì trong công ty"
+    # intent = "faq/knowledge_ask_employee_role_general_shortname"
+    #
+    # input_text = "hiện tại ông [haonv] đang làm việc ở đâu"
+    # intent = "faq/knowledge_ask_employee_work_location_shortname"
+
+    # input_text = "cho tôi hỏi ngày tháng năm sinh [Đặng Huỳnh Khánh Ly]"
+    # intent = "faq/knowledge_ask_employee_birthday_fullname"
+    #
+    # input_text = "bạn [nhanpv] có chức vụ gì thế"
+    # intent = "faq/knowledge_ask_employee_role_general_shortname"
+    #
+    # input_text = "nhiệm vụ của [phongnt] trong [Trung tâm AI]"
+    # intent = "faq/knowledge_ask_employee_role_department_shortname"
+
+    # input_text = "công ty [FTECH] có website không nhở"
+    # intent = "faq/knowledge_ask_company_website"
+
+    input_text = "anh [linhdt] hiện làm ở chỗ nào"
+    intent = "faq/knowledge_ask_employee_work_location_shortname"
 
     process_infer_text(input_text, intent)
 

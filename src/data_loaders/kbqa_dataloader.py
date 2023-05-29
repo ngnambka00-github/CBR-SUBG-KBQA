@@ -85,7 +85,7 @@ class KBQADataLoader:
     def load_dataset(self):
         self.full_edge_index, self.full_edge_attr = [[], []], []
         if self.task == "pt_match":
-            if self.dataset_name.lower() == "webqsp" or self.dataset_name.lower() == "cwq" or self.dataset_name.lower() == "metaqa" or self.dataset_name.lower() == "freebaseqa":
+            if self.dataset_name.lower() == "metaqa":
                 seen_edges = set()
                 logger.info("Reading vocab...")
                 with open(os.path.join(self.data_dir,
@@ -125,81 +125,6 @@ class KBQADataLoader:
                                 seen_edges.add((e1, r, e2))
                         uniq_rels_per_q.append(len(rels_per_q))
                     print("Num rels per question: {}".format(np.mean(uniq_rels_per_q)))
-            elif self.dataset_name.lower() == "synthetic":
-                if self.kb_system_file is None:
-                    with open(os.path.join(self.data_dir, "dset_sampling_config.json")) as fin:
-                        dset_config = json.load(fin)
-                    self.kb_system_file = dset_config["kb_system"]
-                    if not os.path.exists(self.kb_system_file):
-                        self.kb_system_file = os.path.join(self.data_dir, os.path.basename(dset_config["kb_system"]))
-                with open(self.kb_system_file) as fin:
-                    kb_system = json.load(fin)
-                if os.path.exists(os.path.join(self.data_dir, "relation_vocab.json")):
-                    with open(os.path.join(self.data_dir, "relation_vocab.json")) as fin:
-                        self.rel2id = json.load(fin)
-                else:
-                    self.rel2id = {rel_name: r_ctr for r_ctr, rel_name in enumerate(kb_system["rel_types"])}
-                    # write relation vocab to be used later
-                    with open(os.path.join(self.data_dir, "relation_vocab.json"), "w") as fout:
-                        json.dump(self.rel2id, fout, indent=2)
-                self.id2rel = {v: k for k, v in self.rel2id.items()}
-
-                if os.path.exists(os.path.join(self.data_dir, "entity_vocab.json")):
-                    with open(os.path.join(self.data_dir, "entity_vocab.json")) as fin:
-                        self.ent2id = json.load(fin)
-                else:
-                    e_ctr = 0
-                    for file_name in ["train.json", "dev.json", "test.json"]:
-                        with open(os.path.join(self.data_dir, file_name)) as fin:
-                            data = json.load(fin)
-                        for d in data:
-                            rels_per_q = set()
-                            entities = d["graph"]["entities"]
-                            for e in entities:
-                                self.ent2id[e] = e_ctr
-                                e_ctr += 1
-                    # write entity vocab to be used later
-                    with open(os.path.join(self.data_dir, "entity_vocab.json"), "w") as fout:
-                        json.dump(self.ent2id, fout, indent=2)
-                    self.id2ent = {v: k for k, v in self.ent2id.items()}
-
-                seen_edges = set()
-                uniq_rels_per_q = []
-                for file_name in ["train.json", "dev.json", "test.json"]:
-                    with open(os.path.join(self.data_dir, file_name)) as fin:
-                        data = json.load(fin)
-                    for d in data:
-                        rels_per_q = set()
-                        entities = d["graph"]["entities"]
-                        adj_map = d["graph"]["adj_map"]
-                        for e1, e1_map in adj_map.items():
-                            for r, e2_list in e1_map.items():
-                                for e2 in e2_list:
-                                    if (e1, r, e2) not in seen_edges:
-                                        rels_per_q.add(r)
-                                        self.full_adj_map.setdefault(e1, {}).setdefault(r, []).append(e2)
-                                        self.full_edge_index[0].append(self.ent2id[e1])
-                                        self.full_edge_index[1].append(self.ent2id[e2])
-                                        self.full_edge_attr.append(self.rel2id[r])
-                                        seen_edges.add((e1, r, e2))
-                        uniq_rels_per_q.append(len(rels_per_q))
-                print("Num rels per question: {}".format(np.mean(uniq_rels_per_q)))
-            else:
-                kb_filenm = os.path.join(self.data_dir, 'kb.txt')
-                with open(kb_filenm) as fin:
-                    for line in fin:
-                        e1, r, e2 = line.strip().split('|')
-                        self.full_adj_map.setdefault(e1, {}).setdefault(r, []).append(e2)
-                        # self.full_adj_map.setdefault(e2, {}).setdefault(r + '_inv', []).append(e1)
-                        if e1 not in self.ent2id:
-                            self.ent2id[e1] = len(self.ent2id)
-                        if e2 not in self.ent2id:
-                            self.ent2id[e2] = len(self.ent2id)
-                        if r not in self.rel2id:
-                            self.rel2id[r] = len(self.rel2id)
-                        self.full_edge_index[0].append(self.ent2id[e1])
-                        self.full_edge_index[1].append(self.ent2id[e2])
-                        self.full_edge_attr.append(self.rel2id[r])
         elif self.task == "kbc":
             for split in ['train', 'test', 'dev', 'graph']:
                 for line in open(os.path.join(self.data_dir, f'{split}.txt')):
@@ -269,11 +194,8 @@ class KBQADataLoader:
                                                            (len(self.ent2id), self.node_feat_dim))
         if self.task == "pt_match":
             if self.raw_train_data is None:
-                if self.dataset_name.lower() == "webqsp" or self.dataset_name.lower() == "cwq" or self.dataset_name.lower() == "metaqa" or self.dataset_name.lower() == "freebaseqa":
+                if self.dataset_name.lower() == "metaqa":
                     with open(os.path.join(self.data_dir, f'train{self.data_file_suffix}.json')) as fin:
-                        self.raw_train_data = json.load(fin)
-                else:
-                    with open(os.path.join(self.data_dir, "train.json")) as fin:
                         self.raw_train_data = json.load(fin)
             logger.info("Creating train id map...")
             item_ctr = 0
@@ -299,11 +221,8 @@ class KBQADataLoader:
             assert len(self.train_idmap) == len(self.train_dataset)
             self.train_dataloader = DataListLoader(self.train_dataset, self.train_batch_size, shuffle=True)
 
-            if self.dataset_name.lower() == "webqsp" or self.dataset_name.lower() == "cwq" or self.dataset_name.lower() == "metaqa" or self.dataset_name.lower() == "freebaseqa":
+            if self.dataset_name.lower() == "metaqa":
                 with open(os.path.join(self.data_dir, f'dev{self.data_file_suffix}.json')) as fin:
-                    self.raw_dev_data = json.load(fin)
-            elif self.dataset_name.lower() == "synthetic":
-                with open(os.path.join(self.data_dir, "dev.json")) as fin:
                     self.raw_dev_data = json.load(fin)
             item_ctr = 0
             raw_dev_data_temp = []
@@ -338,11 +257,8 @@ class KBQADataLoader:
             else:
                 self.dev_dataloader = DataListLoader(self.dev_dataset, self.eval_batch_size)
 
-            if self.dataset_name.lower() == "webqsp" or self.dataset_name.lower() == "cwq" or self.dataset_name.lower() == "metaqa" or self.dataset_name.lower() == "freebaseqa":
+            if self.dataset_name.lower() == "metaqa":
                 with open(os.path.join(self.data_dir, f'test{self.data_file_suffix}.json')) as fin:
-                    self.raw_test_data = json.load(fin)
-            else:
-                with open(os.path.join(self.data_dir, "test.json")) as fin:
                     self.raw_test_data = json.load(fin)
             item_ctr = 0
             raw_test_data_temp = []

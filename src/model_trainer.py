@@ -5,7 +5,6 @@ import time
 
 import numpy as np
 import torch
-import wandb
 from dist_fns import L2Dist, CosineDist
 from global_config import logger
 from loss import MarginLoss, TXent, DistanceLoss, BCELoss
@@ -135,8 +134,6 @@ class ModelTrainer:
                         stop_training = True
                         exit_by_error = True
                         logger.warning("NaN observed in query embedding. Terminating run.")
-                        if self.training_args.use_wandb:
-                            wandb.log({"abort_code": "query_nan"})
                         break
                     sub_batch_repr = self.model(nn_batch.x, nn_batch.edge_index, nn_batch.edge_attr,
                                                 query_embeddings, nn_batch.x_batch, nn_batch.edge_attr_batch,
@@ -148,8 +145,6 @@ class ModelTrainer:
                     stop_training = True
                     exit_by_error = True
                     logger.warning("NaN observed in batch representation. Terminating run.")
-                    if self.training_args.use_wandb:
-                        wandb.log({"abort_code": "batch_repr_nan"})
                     break
                 loss = None
                 for i in range(new_batch_len):
@@ -196,8 +191,6 @@ class ModelTrainer:
                     stop_training = True
                     exit_by_error = True
                     logger.warning("NaN observed in loss. Terminating run.")
-                    if self.training_args.use_wandb:
-                        wandb.log({"abort_code": "loss_nan"})
                     break
                 if self.training_args.gradient_accumulation_steps > 1:
                     loss = loss / self.training_args.gradient_accumulation_steps
@@ -205,9 +198,6 @@ class ModelTrainer:
                 curr_batch_loss += loss.item()
                 running_loss.append(curr_batch_loss)
                 local_step += 1
-                if self.training_args.use_wandb:
-                    # tracks loss on current batch
-                    wandb.log({'loss': curr_batch_loss}, commit=False)
                 if local_step % self.training_args.gradient_accumulation_steps == 0:
                     torch.nn.utils.clip_grad_norm_(self.trainable_params, self.training_args.max_grad_norm)
                     self.optimizer.step()
@@ -217,9 +207,6 @@ class ModelTrainer:
                     self.global_step += 1
                     if 0 < self.training_args.max_steps <= self.global_step:
                         stop_training = True
-                    if self.training_args.use_wandb:
-                        # total_loss tracks accumulated loss between update steps
-                        wandb.log({'total_loss': np.sum(running_loss), 'global_step': self.global_step}, commit=False)
                     if self.global_step % self.training_args.logging_steps == 0 or stop_training:
                         if len(loss_scale) == 0:
                             loss_scale = [1.0, 1.0]
@@ -237,8 +224,6 @@ class ModelTrainer:
                                 stop_training = True
                     if self.best_ckpt_step == self.global_step or self.global_step % self.training_args.save_steps == 0:
                         self.save()
-                if self.training_args.use_wandb:
-                    wandb.log({'local_step': local_step})
                 if stop_training:
                     logger.info('max_steps reached. Stop training')
                     break
@@ -251,7 +236,7 @@ class ModelTrainer:
     def evaluate_on_dataloader(self, dataloader, log_output=False):
         output_log = {}
         results = {}
-        for batch_ctr, batch in tqdm(enumerate(dataloader), desc=f"[Evaluate]"):
+        for batch_ctr, batch in tqdm(enumerate(dataloader), desc=f"[Evaluate]", total=len(dataloader)):
             # First entry in the batch is the query, rest are nearest neighbors
             nn_list, nn_slices = self.neighbors(batch, k=self.data_args.num_neighbors_eval)
             nn_batch, nn_slices = self.subgraphs(query_and_knn_list=nn_list, nn_slices=nn_slices)
@@ -361,8 +346,6 @@ class ModelTrainer:
                         output_log[ex_id]["is_hits@5_correct"] = 1.0 if np.any(np.array(example_ranks) <= 5) else 0.0
                         output_log[ex_id]["top_5_preds"] = [self.dataset_obj.id2ent[pred_id] for pred_id in
                                                             pred_global_ids[:5]]
-
-                    print(f"CHECK top_5_preds: {[self.dataset_obj.id2ent[pred_id] for pred_id in pred_global_ids[:5]]}")
                 elif self.training_args.task == 'kbc':
                     # kbc eval is a bit different since each missing edge (e1, r, e2) is considered
                     # a separate query, even if there are multiple missing (e1, r, [e2..]) edges
@@ -525,12 +508,6 @@ class ModelTrainer:
             logger.info("Best metric till now...")
             logger.info(f"Avg HITS@1: {self.best_metric}")
 
-        if self.training_args.use_wandb:
-            if from_train:
-                results['global_step'] = self.global_step
-            log_results = {k: v for k, v in results.items() if
-                           not isinstance(v, list) and not isinstance(v, np.ndarray)}
-            wandb.log(log_results, commit=False if from_train else True)
         logger.info("Eval done!, took {} seconds".format(time.time() - st_time))
 
     @torch.no_grad()
@@ -558,13 +535,9 @@ class ModelTrainer:
             logger.info(f"Avg HITS@1: {results['test_avg_hits@1']}")
             logger.info(f"Avg Weak HITS@1: {results['test_avg_weak_hits@1']}")
         elif self.training_args.task == 'kbc':
-                # else:
-                #     assert isinstance(v, np.ndarray) or isinstance(v, list)
             print(f"Avg Mean Rank: {results[split + '_avg_mr']}")
             print(f"Avg Mean Reciprocal Rank: {results[split + '_avg_mrr']}")
             print(f"Avg HITS@1: {results[split + '_avg_hits@1']}")
-        if self.training_args.use_wandb:
-            wandb.log(results)
 
     @torch.no_grad()
     def single_predict(self):

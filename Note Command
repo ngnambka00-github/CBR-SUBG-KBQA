@@ -30,8 +30,6 @@ lênh
 python src/runner.py \
 --do_train \
 --do_predict \
---add_dist_feature=1 \
---add_inv_edges_to_edge_index=1 \
 --data_dir=/home/namnv/FTechProject/CBR-SUBG/adaptive_subgraph_collection/data/subgraph \
 --data_file_suffix=roberta-base_mean_pool_masked_cbr_subgraph_k=10 \
 --dataset_name=metaqa \
@@ -50,15 +48,11 @@ python src/runner.py \
 --train_batch_size=4 \
 --output_dir=/home/namnv/FTechProject/CBR-SUBG/src/private_models/custom \
 --temperature=0.06453104622317246 \
---transform_input=1 \
---use_fast_rgcn=1 \
---use_wandb=0
+--transform_input=1
 
 5. runner predict
 python src/runner.py \
 --do_predict \
---add_dist_feature=1 \
---add_inv_edges_to_edge_index=1 \
 --data_file_suffix=roberta-base_mean_pool_masked_cbr_subgraph_k=10 \
 --data_dir=/home/namnv/FTechProject/CBR-SUBG/adaptive_subgraph_collection/data/subgraph/ \
 --dataset_name=metaqa \
@@ -80,16 +74,12 @@ python src/runner.py \
 --temperature=0.05659862804187725 \
 --train_batch_size=1 \
 --transform_input=1 \
---use_fast_rgcn=1 \
---use_wandb=0 \
 --model_ckpt_path=/home/namnv/FTechProject/CBR-SUBG/src/private_models/custom/out-230529_064024_639a41c9/pytorch_model.bin
 
 
 5. runner predict single
 python src/runner.py \
 --do_predict \
---add_dist_feature=1 \
---add_inv_edges_to_edge_index=1 \
 --data_file_suffix=roberta-base_mean_pool_masked_cbr_subgraph_k=10 \
 --data_dir=/home/namnv/FTechProject/CBR-SUBG/adaptive_subgraph_collection/data_infer/ \
 --dataset_name=metaqa \
@@ -111,6 +101,4 @@ python src/runner.py \
 --temperature=0.05659862804187725 \
 --train_batch_size=1 \
 --transform_input=1 \
---use_fast_rgcn=1 \
---use_wandb=0 \
 --model_ckpt_path=/home/namnv/FTechProject/CBR-SUBG/src/private_models/custom/out-230529_064024_639a41c9/pytorch_model.bin
