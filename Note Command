@@ -82,4 +82,35 @@ python src/runner.py \
 --transform_input=1 \
 --use_fast_rgcn=1 \
 --use_wandb=0 \
---model_ckpt_path=/home/namnv/FTechProject/CBR-SUBG/src/private_models/custom/out-230526_045535_9e3b43de/pytorch_model.bin
+--model_ckpt_path=/home/namnv/FTechProject/CBR-SUBG/src/private_models/custom/out-230529_064024_639a41c9/pytorch_model.bin
+
+
+5. runner predict single
+python src/runner.py \
+--do_predict \
+--add_dist_feature=1 \
+--add_inv_edges_to_edge_index=1 \
+--data_file_suffix=roberta-base_mean_pool_masked_cbr_subgraph_k=10 \
+--data_dir=/home/namnv/FTechProject/CBR-SUBG/adaptive_subgraph_collection/data_infer/ \
+--dataset_name=metaqa \
+--eval_batch_size=1 \
+--eval_steps=1024 \
+--gradient_accumulation_steps=8 \
+--learning_rate=0.0009636974197022258 \
+--logging_steps=10 \
+--loss_metric=txent \
+--max_grad_norm=1 \
+--num_gcn_layers=3 \
+--num_neighbors_eval=10 \
+--num_neighbors_train=5 \
+--num_train_epochs=5 \
+--output_dir=/home/namnv/FTechProject/CBR-SUBG/src/private_models/custom/ \
+--save_steps=80 \
+--save_total_limit=1 \
+--task=pt_match \
+--temperature=0.05659862804187725 \
+--train_batch_size=1 \
+--transform_input=1 \
+--use_fast_rgcn=1 \
+--use_wandb=0 \
+--model_ckpt_path=/home/namnv/FTechProject/CBR-SUBG/src/private_models/custom/out-230529_064024_639a41c9/pytorch_model.bin

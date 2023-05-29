@@ -361,6 +361,8 @@ class ModelTrainer:
                         output_log[ex_id]["is_hits@5_correct"] = 1.0 if np.any(np.array(example_ranks) <= 5) else 0.0
                         output_log[ex_id]["top_5_preds"] = [self.dataset_obj.id2ent[pred_id] for pred_id in
                                                             pred_global_ids[:5]]
+
+                    print(f"CHECK top_5_preds: {[self.dataset_obj.id2ent[pred_id] for pred_id in pred_global_ids[:5]]}")
                 elif self.training_args.task == 'kbc':
                     # kbc eval is a bit different since each missing edge (e1, r, e2) is considered
                     # a separate query, even if there are multiple missing (e1, r, [e2..]) edges
@@ -411,6 +413,49 @@ class ModelTrainer:
                 assert isinstance(v, list)
                 final_results[k] = np.asarray(v)
         return final_results, output_log
+
+    def single_evaluate_on_dataloader(self, dataloader, log_output=False):
+        finally_preds = []
+        for batch_ctr, batch in tqdm(enumerate(dataloader), desc=f"[Evaluate]"):
+            nn_list, nn_slices = self.neighbors(batch, k=self.data_args.num_neighbors_eval)
+            nn_batch, nn_slices = self.subgraphs(query_and_knn_list=nn_list, nn_slices=nn_slices)
+            nn_batch.x = nn_batch.x.to(self.device)
+            nn_batch.edge_index = nn_batch.edge_index.to(self.device)
+            nn_batch.edge_attr = nn_batch.edge_attr.to(self.device)
+            if self.model_args.add_dist_feature:
+                nn_batch.dist_feats = nn_batch.dist_feats.to(self.device)
+            if self.model_args.use_query_aware_gcn:
+                query_embeddings = self.query_encoder(ex_ids=nn_batch.ex_id, split=nn_batch.split,
+                                                      text_batch=nn_batch.query_str, device=self.device)
+                sub_batch_repr = self.model(nn_batch.x, nn_batch.edge_index, nn_batch.edge_attr,
+                                            query_embeddings, nn_batch.x_batch, nn_batch.edge_attr_batch,
+                                            nn_batch.dist_feats)
+            else:
+                sub_batch_repr = self.model(nn_batch.x, nn_batch.edge_index, nn_batch.edge_attr, nn_batch.dist_feats)
+            for i in range(len(batch)):
+                repr_s = sub_batch_repr.narrow(0, nn_batch.__slices__['x'][nn_slices[i] + 0],
+                                               nn_batch.__slices__['x'][nn_slices[i] + 1] -
+                                               nn_batch.__slices__['x'][nn_slices[i] + 0])
+                repr_t = sub_batch_repr.narrow(0, nn_batch.__slices__['x'][nn_slices[i] + 1],
+                                               nn_batch.__slices__['x'][nn_slices[i + 1]] -
+                                               nn_batch.__slices__['x'][nn_slices[i] + 1])
+                labels_t = nn_batch.label_node_ids.narrow(0, nn_batch.__slices__['x'][nn_slices[i] + 1],
+                                                          nn_batch.__slices__['x'][nn_slices[i + 1]] -
+                                                          nn_batch.__slices__['x'][nn_slices[i] + 1])
+                label_identifiers = nn_batch.x_batch.narrow(0, nn_batch.__slices__['x'][nn_slices[i] + 1],
+                                                            nn_batch.__slices__['x'][nn_slices[i + 1]] -
+                                                            nn_batch.__slices__['x'][nn_slices[i] + 1])[labels_t]
+                assert label_identifiers.min() >= 0
+                label_identifiers = label_identifiers - label_identifiers.min()
+                label_identifiers = label_identifiers.to(repr_s.device)
+                dists = self.dist_fn(repr_s, repr_t[labels_t], target_identifiers=label_identifiers).cpu().numpy()
+                pred_ranks = np.argsort(dists)
+                if self.training_args.task == 'pt_match':
+                    if len(batch[i].answers) == 0:
+                        logger.info("Answer is empty list, ignoring...")
+                    pred_global_ids = batch[i].x[pred_ranks].numpy()  # map to global ids
+                    finally_preds.extend([self.dataset_obj.id2ent[pred_id] for pred_id in pred_global_ids])
+        return finally_preds
 
     @torch.no_grad()
     def evaluate(self, from_train=False, log_output=False):
@@ -520,6 +565,23 @@ class ModelTrainer:
             print(f"Avg HITS@1: {results[split + '_avg_hits@1']}")
         if self.training_args.use_wandb:
             wandb.log(results)
+
+    @torch.no_grad()
+    def single_predict(self):
+        self.model.eval()
+        if self.query_encoder is not None:
+            self.query_encoder.eval()
+
+        if self.training_args.task == 'pt_match' or self.training_args.task == 'kbc':
+            eval_loaders = [("test", self.dataset_obj.test_dataloader)]
+        else:
+            eval_loaders = None
+
+        data = []
+        for split, loader in eval_loaders:
+            results = self.single_evaluate_on_dataloader(loader, log_output=False)
+            data.append(results)
+        return data
 
     def save(self):
         if not os.path.exists(self.training_args.output_dir):

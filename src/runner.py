@@ -33,7 +33,7 @@ def main():
     model_args.use_sparse_feats = (model_args.use_sparse_feats == 1)
     if model_args.use_scoring_head == "none":
         model_args.use_scoring_head = None
-    training_args.use_wandb = (training_args.use_wandb == 1)
+
     training_args.load_best_model_at_end = True
     # if model_args.use_sparse_feats and not model_args.transform_input:
     #     raise ValueError("When use_sparse_feats is True, transform_input has to be True")
@@ -46,8 +46,6 @@ def main():
             project_tags = ['kbc', 'CompGCN_TransE']
         if model_args.gnn == 'RGCN':
             project_tags = ['kbc', 'RGCN']
-    if training_args.use_wandb:
-        wandb.init(project="cbr-weak-supervision", tags=project_tags)
 
     suffix = datetime.datetime.now().strftime("%y%m%d_%H%M%S_")
     rand_str = str(uuid.uuid4())[:8]
@@ -107,12 +105,6 @@ def main():
         else:
             solver_model = RGCN(model_args).to(device)
 
-    if training_args.use_wandb:
-        wandb.config.update(model_args)
-        wandb.config.update(data_args)
-        wandb.config.update(training_args)
-        wandb.config.update({"final_output_dir": training_args.output_dir})
-
     if model_args.model_ckpt_path is not None and os.path.exists(model_args.model_ckpt_path):
         logger.info("Path to a checkpoint found; loading the checkpoint!!!")
         state_dict = torch.load(model_args.model_ckpt_path)
@@ -148,9 +140,14 @@ def main():
         trainer.evaluate(log_output=(training_args.log_eval_result == 1))
 
     if training_args.do_predict:
+        # predict all batches
         if model_args.model_ckpt_path is None or not os.path.exists(model_args.model_ckpt_path):
             logger.warning("No path to model found!!!, Evaluating with a random model...")
         trainer.predict()
+
+        # predict_single
+        # pred = trainer.single_predict()
+        # print(f"Top 5 Answers: {pred[0][:5]}")
 
 
 @dataclass

@@ -7,8 +7,6 @@ import pickle
 import numpy as np
 from collections import defaultdict
 
-from tqdm import tqdm
-
 
 def read_json(file_path: Text):
     with open(file_path, "r") as file:
@@ -19,7 +17,11 @@ def read_json(file_path: Text):
 def read_txt_to_dict(file_path):
     with open(file_path, 'r') as file:
         content = file.read()
-    return {line.strip(): idx for idx, line in enumerate(content.split())}
+    results = {}
+    data = content.split("\n")
+    for idx, item in enumerate(data):
+        results[item] = idx
+    return results
 
 
 # START: Loading collected chains...
@@ -158,8 +160,8 @@ def collect_subgraph_execute_chains(chains, qid2qents, job_id, total_jobs, datas
 
 def load_adaptive_graph(item_test, k):
     # Loading collected chains...
-    collected_chains_file_path = "../adaptive_subgraph_collection/data/subgraph/metaqa_train_chains_0.pkl"
-    kb_file_path = "/home/namnv/Documents/FTECH/Project/research/CBR-SUBG-KBQA/adaptive_subgraph_collection/data/kb.txt"
+    collected_chains_file_path = "/home/namnv/Documents/Project/research/CBR-SUBG/adaptive_subgraph_collection/data/subgraph/metaqa_train_chains_1.pkl"
+    kb_file_path = "/home/namnv/Documents/Project/research/CBR-SUBG/adaptive_subgraph_collection/data/kb.txt"
 
     with open(collected_chains_file_path, "rb") as f_in:
         all_subgraphs = pickle.load(f_in)
@@ -184,7 +186,7 @@ def read_cbr_subgraphs(subgraph_test):
 
     new_subgraphs = {}
     replace_ctr = 0
-    for ctr, (qid, triples) in tqdm(enumerate(cbr_subgraph.items())):
+    for ctr, (qid, triples) in enumerate(cbr_subgraph.items()):
         new_triples = []
         for (e1, r, e2) in triples:
             if e1.endswith('-08:00'):
@@ -203,7 +205,7 @@ def read_cbr_subgraphs(subgraph_test):
 
 def write_files_with_new_subgraphs(input_data, output_file, cbr_subgraph, ent_vocab, rel_vocab, qid2q_ents):
     output_data = []
-    for d in tqdm(input_data):
+    for d in input_data:
         qid = d["id"]
         new_subgraph_test = set()
         new_subgraph = list(cbr_subgraph[qid])
@@ -231,8 +233,8 @@ def write_files_with_new_subgraphs(input_data, output_file, cbr_subgraph, ent_vo
 
 # END: create_input_with_cbr_subgraph
 
-def process_answer(input_text, intent):
-    train_data_path = "/home/namnv/Documents/FTECH/Project/research/CBR-SUBG-KBQA/adaptive_subgraph_collection/data/train.json"
+def process_infer_text(input_text, intent):
+    train_data_path = "/home/namnv/Documents/Project/research/CBR-SUBG/adaptive_subgraph_collection/data/train.json"
     train_data = read_json(train_data_path)
     train_data = [data["id"] for data in train_data if data["intent"] == intent]
 
@@ -242,7 +244,7 @@ def process_answer(input_text, intent):
         "id": "test_0",
         "seed_entities": seed_entities,
         "question": input_text,
-        "answer": ["1997-02-27"],
+        "answer": [],
         "intent": intent,
         "knn": random.sample(train_data, 20)
     }
@@ -253,21 +255,20 @@ def process_answer(input_text, intent):
     cbr_subgraph = read_cbr_subgraphs(triples_all_qs)
 
     # load entity & relation vocab
-    entity_path = "/home/namnv/Documents/FTECH/Project/research/CBR-SUBG-KBQA/adaptive_subgraph_collection/data/subgraph/entities_roberta-base_mean_pool_masked_cbr_subgraph_k=10.txt"
-    relation_path = "/home/namnv/Documents/FTECH/Project/research/CBR-SUBG-KBQA/adaptive_subgraph_collection/data/subgraph/relations_roberta-base_mean_pool_masked_cbr_subgraph_k=10.txt"
+    entity_path = "/home/namnv/Documents/Project/research/CBR-SUBG/adaptive_subgraph_collection/data/subgraph/entities_roberta-base_mean_pool_masked_cbr_subgraph_k=10.txt"
+    relation_path = "/home/namnv/Documents/Project/research/CBR-SUBG/adaptive_subgraph_collection/data/subgraph/relations_roberta-base_mean_pool_masked_cbr_subgraph_k=10.txt"
     entity_vocab = read_txt_to_dict(entity_path)
     rel_vocab = read_txt_to_dict(relation_path)
 
-    print("Test...")
-    output_file = os.path.join("/home/namnv/Documents/FTECH/Project/research/CBR-SUBG-KBQA/src/public_subgraphs/custom",
+    output_file = os.path.join("/home/namnv/Documents/Project/research/CBR-SUBG/adaptive_subgraph_collection/data_infer",
                                f"test_roberta-base_mean_pool_masked_cbr_subgraph_k={10}.json")
     write_files_with_new_subgraphs([item], output_file, cbr_subgraph, entity_vocab, rel_vocab, qid2q_ents)
     print(f"File written to {output_file}")
 
 
 if __name__ == "__main__":
-    input_text = "văn phòng cậu [Nguyễn Hoàng Long] đang làm"
-    intent = "faq/knowledge_ask_employee_office_fullname"
+    input_text = "chức vụ của a [thinhnd] ở [Phòng Game] là gì"
+    intent = "faq/knowledge_ask_employee_role_department_shortname"
 
-    process_answer(input_text, intent)
+    process_infer_text(input_text, intent)
 
