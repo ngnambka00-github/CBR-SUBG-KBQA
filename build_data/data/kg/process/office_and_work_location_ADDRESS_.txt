@@ -1,6 +1,6 @@
+Hà Nội|address|Tầng 5, 8 và 9, tòa nhà HTP Building, số 434 Trần Khát Chân, Hai Bà Trưng, Hà Nội
+Tầng 5, Hà Nội|address|Tầng 5, tòa nhà HTP Building, số 434 Trần Khát Chân, Hai Bà Trưng, Hà Nội
 Tầng 9, Hà Nội|address|Tầng 9, tòa nhà HTP Building, số 434 Trần Khát Chân, Hai Bà Trưng, Hà Nội
 Hồ Chí Minh|address|Số 354A Cộng Hòa, Phường 13, Quận Tân Bình, Thành phố Hồ Chí Minh
 Tầng 8, Hà Nội|address|Tầng 8, tòa nhà HTP Building, số 434 Trần Khát Chân, Hai Bà Trưng, Hà Nội
-Tầng 5, Hà Nội|address|Tầng 5, tòa nhà HTP Building, số 434 Trần Khát Chân, Hai Bà Trưng, Hà Nội
 Đà Nẵng|address|Tầng 17, tòa nhà Thành Lợi 2, số 3 Lê Đình Lý, Vĩnh Trung, Thanh Khê, Đà Nẵng
-Hà Nội|address|Tầng 5, 8 và 9, tòa nhà HTP Building, số 434 Trần Khát Chân, Hai Bà Trưng, Hà Nội

@@ -243,7 +243,7 @@ def read_metaqa_kb_for_traversal(kb_file):
     return e1_r_map
 
 
-def find_paths(e1_map, q_ent, ans_ent, num_max_paths=2000, max_path_len=6):
+def find_paths(e1_map, q_ent, ans_ent, num_max_paths=1000, max_path_len=3):
     all_collected_paths = set()
     for _ in range(num_max_paths):
         prefix_rel = []

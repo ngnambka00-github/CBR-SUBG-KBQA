@@ -1,354 +1,3 @@
-Tầng 9, Hà Nội|address|Tầng 9, tòa nhà HTP Building, số 434 Trần Khát Chân, Hai Bà Trưng, Hà Nội
-Hồ Chí Minh|address|Số 354A Cộng Hòa, Phường 13, Quận Tân Bình, Thành phố Hồ Chí Minh
-Tầng 8, Hà Nội|address|Tầng 8, tòa nhà HTP Building, số 434 Trần Khát Chân, Hai Bà Trưng, Hà Nội
-Tầng 5, Hà Nội|address|Tầng 5, tòa nhà HTP Building, số 434 Trần Khát Chân, Hai Bà Trưng, Hà Nội
-Đà Nẵng|address|Tầng 17, tòa nhà Thành Lợi 2, số 3 Lê Đình Lý, Vĩnh Trung, Thanh Khê, Đà Nẵng
-Hà Nội|address|Tầng 5, 8 và 9, tòa nhà HTP Building, số 434 Trần Khát Chân, Hai Bà Trưng, Hà Nội
-Hà Nội|belong_to|FTECH
-Hà Nội|belong_to|Công ty Công nghệ Gia Đình
-Đà Nẵng|belong_to|FTECH
-Đà Nẵng|belong_to|Công ty Công nghệ Gia Đình
-Hồ Chí Minh|belong_to|FTECH
-Hồ Chí Minh|belong_to|Công ty Công nghệ Gia Đình
-Trần Văn Tuân|work_location|Tầng 5, Hà Nội
-Vắn Hiền Thắng|work_location|Hồ Chí Minh
-Nguyễn Hồng Quang|work_location|Tầng 5, Hà Nội
-Nguyễn Văn Khuyến|work_location|Tầng 5, Hà Nội
-Hoàng Trung Dũng|work_location|None
-Trần Đức Huy|work_location|None
-Trần Văn Tuân|work_location|None
-Nguyễn Thành Đạt|work_location|None
-Nguyễn Anh Thắng|work_location|None
-Ngô Ngọc Khánh|work_location|None
-Trần Nhật Quang|work_location|None
-Nguyễn Nghĩa Thịnh|work_location|Đà Nẵng
-Nguyễn Đức Minh|work_location|Tầng 8, Hà Nội
-Nguyễn Phương Hiên|work_location|Tầng 9, Hà Nội
-Nguyễn Hữu Bắc|work_location|Tầng 8, Hà Nội
-Đàm Quang Tiến|work_location|Đà Nẵng
-Lê Quang Hưng|work_location|Tầng 5, Hà Nội
-Phạm Ngọc Hải|work_location|Tầng 8, Hà Nội
-Phan Thị Thúy Hằng|work_location|Tầng 5, Hà Nội
-Nguyễn Đăng Khôi|work_location|Tầng 8, Hà Nội
-Nguyễn Tuấn Anh|work_location|Tầng 9, Hà Nội
-Phạm Thị Minh Huyền|work_location|Tầng 9, Hà Nội
-Thành Quốc Đạt|work_location|Tầng 5, Hà Nội
-Trần Thị Thủy|work_location|Tầng 9, Hà Nội
-Nguyễn Trường An|work_location|Đà Nẵng
-Nguyễn Quang Lập|work_location|Tầng 8, Hà Nội
-Trần Tiến Anh|work_location|Tầng 8, Hà Nội
-Hoàng Minh Huyền|work_location|Tầng 5, Hà Nội
-Nguyễn Duy Phong|work_location|Tầng 8, Hà Nội
-Đỗ Đức Công|work_location|Tầng 5, Hà Nội
-Nguyễn Thanh Tú|work_location|Tầng 9, Hà Nội
-Triệu Chu Quốc Thái|work_location|Hồ Chí Minh
-Quách Trường Giang|work_location|Tầng 9, Hà Nội
-Phạm Thùy Linh|work_location|Tầng 9, Hà Nội
-Lê Thị Mỹ Phương|work_location|Tầng 8, Hà Nội
-Phan Văn Nhân|work_location|Đà Nẵng
-Phan Thị Hoàng Kim|work_location|Hồ Chí Minh
-Hoàng Văn Nguyên|work_location|Tầng 8, Hà Nội
-Ngô Phương Anh|work_location|Tầng 9, Hà Nội
-Nguyễn Bá Đạt|work_location|Tầng 5, Hà Nội
-Phạm Thị Hồng Nhung|work_location|Tầng 9, Hà Nội
-Lê Văn Dũng|work_location|Tầng 5, Hà Nội
-Nguyễn Viết Trí|work_location|Tầng 8, Hà Nội
-Ngô Phượng Hoàng|work_location|Tầng 8, Hà Nội
-Lê Hồ Lộc An|work_location|Đà Nẵng
-Nguyễn Phương Nam 2|work_location|Tầng 5, Hà Nội
-Nguyễn Thị Phương Thảo|work_location|Tầng 9, Hà Nội
-Đỗ Tiến Anh|work_location|Tầng 8, Hà Nội
-Vũ Hoàng Long|work_location|Tầng 8, Hà Nội
-Tống Thị Minh Lý|work_location|Tầng 8, Hà Nội
-Hà Duyên Quang Huy|work_location|Tầng 8, Hà Nội
-Mai Đức Chiến|work_location|Tầng 9, Hà Nội
-Phạm Văn Dũng|work_location|Tầng 8, Hà Nội
-Trần Quang Huy|work_location|Tầng 8, Hà Nội
-Tạ Lê Ngân Hạnh|work_location|Tầng 5, Hà Nội
-Vũ Ngọc Long|work_location|Tầng 8, Hà Nội
-Nguyễn Xuân Nhị Phúc|work_location|Hồ Chí Minh
-Ngô An Bình|work_location|Tầng 5, Hà Nội
-Kiều Thị Mỹ Linh|work_location|Tầng 9, Hà Nội
-Nguyễn Trung Hiếu|work_location|Đà Nẵng
-Trần Tuấn Khôi|work_location|Đà Nẵng
-Hồ Nghĩa Khang|work_location|Đà Nẵng
-Đỗ Tấn Sang|work_location|Tầng 9, Hà Nội
-Phạm Thị Phương Ngôn|work_location|Hồ Chí Minh
-Âu Dương Minh Vũ|work_location|Hồ Chí Minh
-Phan Quốc Anh|work_location|Tầng 9, Hà Nội
-Nguyễn Hoàng Bảo Hưng|work_location|Hồ Chí Minh
-Võ Minh Hoàng|work_location|Hồ Chí Minh
-Lê Khánh Duy|work_location|Tầng 9, Hà Nội
-Đặng Minh Tân|work_location|Tầng 5, Hà Nội
-Nguyễn Duy Hiếu|work_location|Tầng 9, Hà Nội
-Đặng Hoàng Sơn|work_location|Tầng 5, Hà Nội
-Bùi Thảo Vân|work_location|Tầng 9, Hà Nội
-Lê Quang Anh|work_location|Tầng 8, Hà Nội
-Trần Công Hiệu|work_location|Tầng 8, Hà Nội
-Phạm Văn Sơn|work_location|Tầng 8, Hà Nội
-Cao Thị Thúy|work_location|Tầng 5, Hà Nội
-Đỗ Thị Hoàng Diễm|work_location|Tầng 8, Hà Nội
-Đơn Hoàng Trọng|work_location|Hồ Chí Minh
-Đặng Thế Quân|work_location|Tầng 5, Hà Nội
-Nguyễn Thị Thơm|work_location|Tầng 8, Hà Nội
-Vũ Thị Chà My|work_location|Tầng 8, Hà Nội
-Đỗ Danh Dũng|work_location|Tầng 5, Hà Nội
-Vương Thành Lộc|work_location|Tầng 5, Hà Nội
-Tăng Ngọc Dũng|work_location|Tầng 5, Hà Nội
-Nguyễn Kỳ Tùng|work_location|Tầng 9, Hà Nội
-Trịnh Tuấn Vũ|work_location|Tầng 9, Hà Nội
-Nguyễn Văn Hoàng|work_location|Tầng 9, Hà Nội
-Phạm Minh Sơn|work_location|Hồ Chí Minh
-Nguyễn Hải Anh|work_location|Tầng 5, Hà Nội
-Lê Hà Trang|work_location|Tầng 5, Hà Nội
-Ngô Thái Sơn|work_location|Tầng 8, Hà Nội
-Phạm Thị Quỳnh|work_location|Đà Nẵng
-Nguyễn Khoa Nguyên|work_location|Đà Nẵng
-Trần Kiên Trường|work_location|Tầng 8, Hà Nội
-Tạ Xuân Trường|work_location|Tầng 8, Hà Nội
-Nguyễn Vân Anh|work_location|Tầng 9, Hà Nội
-Doãn Hoài Linh|work_location|Tầng 8, Hà Nội
-Nguyễn Công Hậu|work_location|Tầng 8, Hà Nội
-Dương Hoàng Sơn|work_location|Tầng 8, Hà Nội
-Trần Việt Tiệp|work_location|Tầng 5, Hà Nội
-Đỗ Thị Thu Thuỷ|work_location|Tầng 8, Hà Nội
-Nguyễn Minh Thắng|work_location|Tầng 5, Hà Nội
-Phạm Thế Tâm|work_location|Đà Nẵng
-Nguyễn Thị Thùy Điệp|work_location|Hồ Chí Minh
-Ngô Quỳnh Nga|work_location|Tầng 9, Hà Nội
-Ngọ Quang Nam|work_location|Tầng 8, Hà Nội
-Nguyễn Thanh Thản|work_location|Tầng 8, Hà Nội
-Nguyễn Xuân Anh Quân|work_location|Đà Nẵng
-Phùng Gia Hiến|work_location|Tầng 8, Hà Nội
-Đinh Thị Thảo|work_location|Tầng 9, Hà Nội
-Lưu Khánh Thảo Nhi|work_location|Đà Nẵng
-Lê Hữu Trọng|work_location|Đà Nẵng
-Nguyễn Yến Ngọc|work_location|Tầng 9, Hà Nội
-Lê Phước Đông|work_location|Hồ Chí Minh
-Điểu Sáu Bên|work_location|Hồ Chí Minh
-Nguyễn Đức An Sơn|work_location|Đà Nẵng
-Lê Trần Bảo Minh|work_location|Đà Nẵng
-Võ Xuân Cường|work_location|Hồ Chí Minh
-Đặng Thị Ngọc Điệp|work_location|Hồ Chí Minh
-Đoàn Hoài Linh|work_location|Tầng 9, Hà Nội
-Huỳnh Văn Thành|work_location|Hồ Chí Minh
-Nguyễn Duy Cẩm|work_location|Tầng 9, Hà Nội
-Nguyễn Thị Hồng Phúc|work_location|Đà Nẵng
-Đoàn Thanh Phong|work_location|Hồ Chí Minh
-Nguyễn Thị Thủy Ly|work_location|Tầng 9, Hà Nội
-Mạc Trung Tình|work_location|Tầng 8, Hà Nội
-Nguyễn Bảo Thanh|work_location|Tầng 9, Hà Nội
-Phạm Duy Cường|work_location|Hồ Chí Minh
-Ngô Thị Phương Duyên|work_location|Tầng 8, Hà Nội
-Nguyễn Văn Trung|work_location|Tầng 8, Hà Nội
-Trần Bảo Trung|work_location|Tầng 5, Hà Nội
-Mai Xuân Kim Thùy|work_location|Hồ Chí Minh
-Hứa Châu Tiểu Phụng|work_location|Hồ Chí Minh
-Trương Nhật Bá|work_location|Hồ Chí Minh
-Nguyễn Đình Khánh|work_location|Tầng 8, Hà Nội
-Nguyễn Thành Luân|work_location|Tầng 9, Hà Nội
-Trần Văn Hải|work_location|Tầng 8, Hà Nội
-Lê Thị Trang Thư|work_location|Hồ Chí Minh
-Trần Huỳnh Anh Huy|work_location|Hồ Chí Minh
-Vũ Ngọc Tứ|work_location|Tầng 5, Hà Nội
-Đỗ Hồng Hạnh|work_location|Tầng 5, Hà Nội
-Quách Thị Thu|work_location|Tầng 9, Hà Nội
-Nguyễn Lương Bằng|work_location|Tầng 8, Hà Nội
-Phan Quốc Hưng|work_location|Hồ Chí Minh
-Nguyễn Đặng Tú|work_location|Tầng 8, Hà Nội
-Đinh Thị Bích Ngọc|work_location|Tầng 9, Hà Nội
-Trần Đại Lộc|work_location|Tầng 9, Hà Nội
-Dương Sỹ Bình|work_location|Đà Nẵng
-Phạm Thị Hạ|work_location|Tầng 5, Hà Nội
-Nguyễn Thị Huyền Trang|work_location|Tầng 9, Hà Nội
-Nguyễn Đình Đức Anh|work_location|Tầng 9, Hà Nội
-Bùi Thị Kim Dung|work_location|Tầng 5, Hà Nội
-Mai Chiếm An|work_location|Đà Nẵng
-Vũ Hoàng Sơn|work_location|Hồ Chí Minh
-Nguyễn Phạm Hoàng Trung|work_location|Hồ Chí Minh
-Trần Thị Hà Vy|work_location|Tầng 5, Hà Nội
-Trần Trung Hiếu|work_location|Hồ Chí Minh
-Nguyễn Đức Thịnh|work_location|Hồ Chí Minh
-Lê Minh Hoàng|work_location|Tầng 5, Hà Nội
-Nguyễn Văn Thường|work_location|Tầng 8, Hà Nội
-Đào Sỹ Mạnh|work_location|Tầng 8, Hà Nội
-Nguyễn Văn Trọng|work_location|Hồ Chí Minh
-Phan Vũ Hùng|work_location|Tầng 9, Hà Nội
-Trần Xuân Hưng|work_location|Đà Nẵng
-Dương Bảo Yến|work_location|Hồ Chí Minh
-Lâm Hoàng Quân|work_location|Hồ Chí Minh
-Vũ Thị Mừng|work_location|Hồ Chí Minh
-Trần Đăng Minh|work_location|Tầng 8, Hà Nội
-Đỗ Phú Phát|work_location|Đà Nẵng
-Lưu Xuân Trường|work_location|Tầng 9, Hà Nội
-Trịnh Minh Anh|work_location|Tầng 9, Hà Nội
-Trương Công Danh|work_location|Hồ Chí Minh
-Lại Ngọc Ly|work_location|Tầng 9, Hà Nội
-Vũ Thị Thêu|work_location|Tầng 5, Hà Nội
-Lê Anh Hào|work_location|Tầng 9, Hà Nội
-Lê Mạnh Tài|work_location|Tầng 5, Hà Nội
-Hồ Trúc Thuỳ An|work_location|Hồ Chí Minh
-Kinh Thị Kim Thư|work_location|Hồ Chí Minh
-Mẫn Thị Kiều Trang|work_location|Tầng 9, Hà Nội
-Phạm Ngọc Long|work_location|Tầng 5, Hà Nội
-Nguyễn Tất Đạt|work_location|Tầng 5, Hà Nội
-Nguyễn Thanh Phong|work_location|Đà Nẵng
-Phạm Nguyên Ninh|work_location|Tầng 5, Hà Nội
-Nguyễn Minh Hưng|work_location|Hồ Chí Minh
-Phan Văn Thịnh|work_location|Đà Nẵng
-Nguyễn Văn Phước|work_location|Hồ Chí Minh
-Lê Việt Bắc|work_location|Tầng 5, Hà Nội
-Trần Ngọc Thanh Trang|work_location|Tầng 9, Hà Nội
-Nguyễn Thị Bình|work_location|Tầng 9, Hà Nội
-Đặng Khánh Chi|work_location|Tầng 9, Hà Nội
-Ngô Mạnh Tuấn|work_location|Tầng 5, Hà Nội
-Nguyễn Thị Thu Thảo|work_location|Hồ Chí Minh
-Nguyễn Thị Vân Anh|work_location|Hồ Chí Minh
-Phan Lê Bích Tuyền|work_location|Hồ Chí Minh
-Lương Thị Loan|work_location|Tầng 9, Hà Nội
-Nguyễn Thị Lệ Nguyên|work_location|Hồ Chí Minh
-Ngô Thị Kiều Chi|work_location|Hồ Chí Minh
-Dương Đức Thắng|work_location|Hồ Chí Minh
-Đỗ Hồng Vy|work_location|Hồ Chí Minh
-Huỳnh Nguyễn Hoàng Phong|work_location|Hồ Chí Minh
-Đào Đức Lương|work_location|Tầng 5, Hà Nội
-Lê Văn Thông|work_location|Đà Nẵng
-Nguyễn Trần Ngọc Ly|work_location|Hồ Chí Minh
-Nguyễn Thị Thanh Nga|work_location|Tầng 5, Hà Nội
-Nguyễn Thị Thanh Loan|work_location|Tầng 9, Hà Nội
-Phạm Thị Lan Phương|work_location|Hồ Chí Minh
-Võ Thành Nguyên|work_location|Đà Nẵng
-Nguyễn Thị Quỳnh Thi|work_location|Hồ Chí Minh
-Đào Văn Hiếu|work_location|Tầng 8, Hà Nội
-Trần Thị Bích Phương|work_location|Tầng 5, Hà Nội
-Đặng Thái Ngọc|work_location|Tầng 8, Hà Nội
-Hoàng Văn Độ|work_location|Tầng 8, Hà Nội
-Lưu Thị Mến|work_location|Tầng 5, Hà Nội
-Đặng Nhật Quang|work_location|Tầng 9, Hà Nội
-Nguyễn Phương Nam|work_location|Tầng 9, Hà Nội
-Nguyễn Hồ Diễm My|work_location|Hồ Chí Minh
-Lê Hữu Thịnh|work_location|Hồ Chí Minh
-Nguyễn Gia Phong|work_location|Hồ Chí Minh
-Nguyễn Thị Thùy Dương|work_location|Tầng 9, Hà Nội
-Nguyễn Việt Tùng|work_location|Tầng 9, Hà Nội
-Nguyễn Vũ Lê Minh|work_location|Đà Nẵng
-Nguyễn Minh Đức|work_location|Hồ Chí Minh
-Nguyễn Danh Diên|work_location|Tầng 5, Hà Nội
-Ngô Hữu Hoàng Việt|work_location|Đà Nẵng
-Nguyễn Thị Quỳnh Giang|work_location|Tầng 9, Hà Nội
-Bùi Tuấn Tú|work_location|Tầng 5, Hà Nội
-Nguyễn Thị Vui|work_location|Hồ Chí Minh
-Ngô Văn Nam|work_location|Tầng 8, Hà Nội
-Ứng Hoàng Hiệp|work_location|Tầng 8, Hà Nội
-Phạm Phương Hiền|work_location|Tầng 5, Hà Nội
-Bùi Hùng Cường|work_location|Tầng 5, Hà Nội
-Phạm Hạnh Nguyên|work_location|Hồ Chí Minh
-Vương Thu Trang|work_location|Tầng 9, Hà Nội
-Nguyễn Sơn Tùng|work_location|Tầng 8, Hà Nội
-Hoàng Thanh Tùng|work_location|Tầng 9, Hà Nội
-Lê Hồng Nhung|work_location|Tầng 5, Hà Nội
-Ngô Mỹ Linh|work_location|Tầng 9, Hà Nội
-Nguyễn Doãn Đông|work_location|Tầng 9, Hà Nội
-Dương Minh Quang|work_location|Tầng 9, Hà Nội
-Vũ Hằng Ngân Hoa|work_location|Tầng 9, Hà Nội
-Lê Thị Ngọc Hải|work_location|Tầng 5, Hà Nội
-Nguyễn Như Quỳnh|work_location|Tầng 5, Hà Nội
-Nguyễn Tuấn Anh|work_location|Tầng 5, Hà Nội
-Vũ Hữu Quang|work_location|Tầng 8, Hà Nội
-Đoàn Mạnh Dũng|work_location|Tầng 5, Hà Nội
-Lê Nguyễn Hiếu Thông|work_location|Hồ Chí Minh
-Nguyễn Quang Sơn|work_location|Tầng 5, Hà Nội
-Đặng Trung Hiếu|work_location|Hồ Chí Minh
-Nguyễn Duy Phương|work_location|Hồ Chí Minh
-Đặng Huỳnh Khánh Ly|work_location|Đà Nẵng
-Lê Viết Triều|work_location|Đà Nẵng
-Nguyễn Thanh Nga|work_location|Tầng 5, Hà Nội
-Đào Thị Như|work_location|Tầng 9, Hà Nội
-Nguyễn Thị Lan Anh|work_location|Tầng 9, Hà Nội
-Trần Đặng Đình Nguyên|work_location|Hồ Chí Minh
-Nguyễn Mạnh Hùng|work_location|Tầng 9, Hà Nội
-Nguyễn Huy Anh|work_location|Tầng 8, Hà Nội
-Nguyễn Minh Nhật|work_location|Đà Nẵng
-Nguyễn Tuấn Đức|work_location|Tầng 5, Hà Nội
-Đỗ Linh Chi|work_location|Tầng 9, Hà Nội
-Trần Thị Hồng|work_location|Tầng 9, Hà Nội
-Phạm Khánh Long|work_location|Tầng 9, Hà Nội
-Trịnh Quốc Tuấn|work_location|Tầng 8, Hà Nội
-Lê Thanh Giang|work_location|Tầng 8, Hà Nội
-Phạm Ngọc Quang|work_location|Tầng 9, Hà Nội
-Trần Viết Thắng|work_location|Tầng 8, Hà Nội
-Trịnh Đức Anh|work_location|Tầng 8, Hà Nội
-Trần Văn Chung|work_location|Tầng 8, Hà Nội
-Cái Đức Thắng|work_location|Tầng 9, Hà Nội
-Nguyễn Chí Thanh|work_location|Đà Nẵng
-Vũ Hương Ly|work_location|Tầng 9, Hà Nội
-Lê Mạnh Huy|work_location|Tầng 5, Hà Nội
-Ngô Duy Anh|work_location|Tầng 8, Hà Nội
-Vũ Thị Nga|work_location|Tầng 9, Hà Nội
-Nguyễn Văn Trường 2|work_location|Tầng 8, Hà Nội
-Dương Tiến Hiệu|work_location|Tầng 8, Hà Nội
-Nguyễn Hoàng Quân|work_location|Tầng 5, Hà Nội
-Nguyễn Đăng Khoa|work_location|Hồ Chí Minh
-Dương Thị Tuyến|work_location|Tầng 9, Hà Nội
-Nguyễn Thị Thắm|work_location|Tầng 9, Hà Nội
-Trần Quốc Đạt|work_location|Tầng 5, Hà Nội
-Nguyễn Văn Phú|work_location|Tầng 8, Hà Nội
-Vũ Văn Thắng|work_location|Tầng 8, Hà Nội
-Huỳnh Chỉnh|work_location|Đà Nẵng
-Trần Chí Quốc|work_location|Hồ Chí Minh
-Nguyễn Văn Trường|work_location|Tầng 8, Hà Nội
-Nguyễn Thạch Ánh|work_location|Tầng 5, Hà Nội
-Nguyễn Đức Tiến|work_location|Tầng 5, Hà Nội
-Đồng Văn Tuyến|work_location|Tầng 8, Hà Nội
-Phạm Anh Tú|work_location|Tầng 9, Hà Nội
-Trương Thị Hương|work_location|Tầng 9, Hà Nội
-Dương Quỳnh Quang|work_location|Đà Nẵng
-Đào Thùy Linh|work_location|Tầng 5, Hà Nội
-Phạm Hồng Đức|work_location|Hồ Chí Minh
-Nguyễn Thị Nga Ngọc|work_location|Tầng 5, Hà Nội
-Nguyễn Văn Đạt|work_location|Tầng 8, Hà Nội
-Đặng Hoàng Như Nguyện|work_location|Đà Nẵng
-Nguyễn An Phú|work_location|Đà Nẵng
-Phùng Tuấn Long|work_location|Tầng 9, Hà Nội
-Nguyễn Sanh Thành|work_location|Đà Nẵng
-Lê Thị Lan|work_location|Tầng 9, Hà Nội
-Phạm Minh Tuấn|work_location|Tầng 8, Hà Nội
-Trần Thị Mỹ Hạnh|work_location|Tầng 8, Hà Nội
-Nguyễn Hữu Đăng|work_location|Tầng 5, Hà Nội
-Nguyễn Công Lý|work_location|Tầng 5, Hà Nội
-Vũ Khánh Long|work_location|Tầng 5, Hà Nội
-Lê Tiến Kính|work_location|Tầng 5, Hà Nội
-Trần Xuân Trường|work_location|Tầng 8, Hà Nội
-Phạm Huy Thắng|work_location|Tầng 8, Hà Nội
-Nguyễn Ngọc Quang|work_location|Tầng 5, Hà Nội
-Nguyễn Viết Tùng|work_location|Tầng 5, Hà Nội
-Nguyễn Cao Thắng|work_location|Tầng 5, Hà Nội
-Đào Văn Hưng|work_location|Tầng 5, Hà Nội
-Đào Thị Hoàng Nga|work_location|Tầng 5, Hà Nội
-Vũ Văn Tài|work_location|Tầng 5, Hà Nội
-Đoàn Đắc Tuấn|work_location|Tầng 5, Hà Nội
-Bùi Quốc Đạt|work_location|Tầng 5, Hà Nội
-Nguyễn Thanh Long|work_location|Tầng 5, Hà Nội
-Nguyễn Hoàng Long|work_location|Tầng 5, Hà Nội
-Trần Khánh Toàn|work_location|Tầng 5, Hà Nội
-Lâm Thị Anh|work_location|Tầng 9, Hà Nội
-Phạm Hà An|work_location|Tầng 9, Hà Nội
-Nguyễn Văn Cường|work_location|Tầng 8, Hà Nội
-Nguyễn Duy Thành|work_location|Tầng 8, Hà Nội
-Tô Trần Tiến|work_location|Tầng 8, Hà Nội
-Đinh Trọng Liên|work_location|Tầng 8, Hà Nội
-Hà Thiên Hương|work_location|Tầng 9, Hà Nội
-Nguyễn Văn Hảo|work_location|Đà Nẵng
-Lê Thị Hải Linh|work_location|Tầng 9, Hà Nội
-Nguyễn Thị Xoan|work_location|Tầng 9, Hà Nội
-Tạ Đặng Quân|work_location|Tầng 9, Hà Nội
-Huỳnh Ngọc Hải|work_location|Hồ Chí Minh
-Vũ Lê Huy|work_location|Tầng 9, Hà Nội
-Trần Ngọc Cương|work_location|Tầng 5, Hà Nội
-Phạm Trọng Tài|work_location|Tầng 8, Hà Nội
-Nguyễn Việt Cường|work_location|Tầng 8, Hà Nội
-Nguyễn Tuấn Quang|work_location|Tầng 5, Hà Nội
-Đào Trường Giang|work_location|Hồ Chí Minh
 Trần Văn Tuân|work_office|Hà Nội
 Vắn Hiền Thắng|work_office|Hồ Chí Minh
 Nguyễn Hồng Quang|work_office|Hà Nội
@@ -688,6 +337,1368 @@ Phạm Trọng Tài|work_office|Hà Nội
 Nguyễn Việt Cường|work_office|Hà Nội
 Nguyễn Tuấn Quang|work_office|Hà Nội
 Đào Trường Giang|work_office|Hồ Chí Minh
+Trần Văn Tuân|work_organization|FTECH
+Trần Văn Tuân|work_organization|Công ty Công nghệ Gia Đình
+Vắn Hiền Thắng|work_organization|FTECH
+Vắn Hiền Thắng|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Hồng Quang|work_organization|FTECH
+Nguyễn Hồng Quang|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Văn Khuyến|work_organization|FTECH
+Nguyễn Văn Khuyến|work_organization|Công ty Công nghệ Gia Đình
+Hoàng Trung Dũng|work_organization|FTECH
+Hoàng Trung Dũng|work_organization|Công ty Công nghệ Gia Đình
+Trần Đức Huy|work_organization|FTECH
+Trần Đức Huy|work_organization|Công ty Công nghệ Gia Đình
+Trần Văn Tuân|work_organization|FTECH
+Trần Văn Tuân|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thành Đạt|work_organization|FTECH
+Nguyễn Thành Đạt|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Anh Thắng|work_organization|FTECH
+Nguyễn Anh Thắng|work_organization|Công ty Công nghệ Gia Đình
+Ngô Ngọc Khánh|work_organization|FTECH
+Ngô Ngọc Khánh|work_organization|Công ty Công nghệ Gia Đình
+Trần Nhật Quang|work_organization|FTECH
+Trần Nhật Quang|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Nghĩa Thịnh|work_organization|FTECH
+Nguyễn Nghĩa Thịnh|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Đức Minh|work_organization|FTECH
+Nguyễn Đức Minh|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Phương Hiên|work_organization|FTECH
+Nguyễn Phương Hiên|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Hữu Bắc|work_organization|FTECH
+Nguyễn Hữu Bắc|work_organization|Công ty Công nghệ Gia Đình
+Đàm Quang Tiến|work_organization|FTECH
+Đàm Quang Tiến|work_organization|Công ty Công nghệ Gia Đình
+Lê Quang Hưng|work_organization|FTECH
+Lê Quang Hưng|work_organization|Công ty Công nghệ Gia Đình
+Phạm Ngọc Hải|work_organization|FTECH
+Phạm Ngọc Hải|work_organization|Công ty Công nghệ Gia Đình
+Phan Thị Thúy Hằng|work_organization|FTECH
+Phan Thị Thúy Hằng|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Đăng Khôi|work_organization|FTECH
+Nguyễn Đăng Khôi|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Tuấn Anh|work_organization|FTECH
+Nguyễn Tuấn Anh|work_organization|Công ty Công nghệ Gia Đình
+Phạm Thị Minh Huyền|work_organization|FTECH
+Phạm Thị Minh Huyền|work_organization|Công ty Công nghệ Gia Đình
+Thành Quốc Đạt|work_organization|FTECH
+Thành Quốc Đạt|work_organization|Công ty Công nghệ Gia Đình
+Trần Thị Thủy|work_organization|FTECH
+Trần Thị Thủy|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Trường An|work_organization|FTECH
+Nguyễn Trường An|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Quang Lập|work_organization|FTECH
+Nguyễn Quang Lập|work_organization|Công ty Công nghệ Gia Đình
+Trần Tiến Anh|work_organization|FTECH
+Trần Tiến Anh|work_organization|Công ty Công nghệ Gia Đình
+Hoàng Minh Huyền|work_organization|FTECH
+Hoàng Minh Huyền|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Duy Phong|work_organization|FTECH
+Nguyễn Duy Phong|work_organization|Công ty Công nghệ Gia Đình
+Đỗ Đức Công|work_organization|FTECH
+Đỗ Đức Công|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thanh Tú|work_organization|FTECH
+Nguyễn Thanh Tú|work_organization|Công ty Công nghệ Gia Đình
+Triệu Chu Quốc Thái|work_organization|FTECH
+Triệu Chu Quốc Thái|work_organization|Công ty Công nghệ Gia Đình
+Quách Trường Giang|work_organization|FTECH
+Quách Trường Giang|work_organization|Công ty Công nghệ Gia Đình
+Phạm Thùy Linh|work_organization|FTECH
+Phạm Thùy Linh|work_organization|Công ty Công nghệ Gia Đình
+Lê Thị Mỹ Phương|work_organization|FTECH
+Lê Thị Mỹ Phương|work_organization|Công ty Công nghệ Gia Đình
+Phan Văn Nhân|work_organization|FTECH
+Phan Văn Nhân|work_organization|Công ty Công nghệ Gia Đình
+Phan Thị Hoàng Kim|work_organization|FTECH
+Phan Thị Hoàng Kim|work_organization|Công ty Công nghệ Gia Đình
+Hoàng Văn Nguyên|work_organization|FTECH
+Hoàng Văn Nguyên|work_organization|Công ty Công nghệ Gia Đình
+Ngô Phương Anh|work_organization|FTECH
+Ngô Phương Anh|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Bá Đạt|work_organization|FTECH
+Nguyễn Bá Đạt|work_organization|Công ty Công nghệ Gia Đình
+Phạm Thị Hồng Nhung|work_organization|FTECH
+Phạm Thị Hồng Nhung|work_organization|Công ty Công nghệ Gia Đình
+Lê Văn Dũng|work_organization|FTECH
+Lê Văn Dũng|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Viết Trí|work_organization|FTECH
+Nguyễn Viết Trí|work_organization|Công ty Công nghệ Gia Đình
+Ngô Phượng Hoàng|work_organization|FTECH
+Ngô Phượng Hoàng|work_organization|Công ty Công nghệ Gia Đình
+Lê Hồ Lộc An|work_organization|FTECH
+Lê Hồ Lộc An|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Phương Nam 2|work_organization|FTECH
+Nguyễn Phương Nam 2|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thị Phương Thảo|work_organization|FTECH
+Nguyễn Thị Phương Thảo|work_organization|Công ty Công nghệ Gia Đình
+Đỗ Tiến Anh|work_organization|FTECH
+Đỗ Tiến Anh|work_organization|Công ty Công nghệ Gia Đình
+Vũ Hoàng Long|work_organization|FTECH
+Vũ Hoàng Long|work_organization|Công ty Công nghệ Gia Đình
+Tống Thị Minh Lý|work_organization|FTECH
+Tống Thị Minh Lý|work_organization|Công ty Công nghệ Gia Đình
+Hà Duyên Quang Huy|work_organization|FTECH
+Hà Duyên Quang Huy|work_organization|Công ty Công nghệ Gia Đình
+Mai Đức Chiến|work_organization|FTECH
+Mai Đức Chiến|work_organization|Công ty Công nghệ Gia Đình
+Phạm Văn Dũng|work_organization|FTECH
+Phạm Văn Dũng|work_organization|Công ty Công nghệ Gia Đình
+Trần Quang Huy|work_organization|FTECH
+Trần Quang Huy|work_organization|Công ty Công nghệ Gia Đình
+Tạ Lê Ngân Hạnh|work_organization|FTECH
+Tạ Lê Ngân Hạnh|work_organization|Công ty Công nghệ Gia Đình
+Vũ Ngọc Long|work_organization|FTECH
+Vũ Ngọc Long|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Xuân Nhị Phúc|work_organization|FTECH
+Nguyễn Xuân Nhị Phúc|work_organization|Công ty Công nghệ Gia Đình
+Ngô An Bình|work_organization|FTECH
+Ngô An Bình|work_organization|Công ty Công nghệ Gia Đình
+Kiều Thị Mỹ Linh|work_organization|FTECH
+Kiều Thị Mỹ Linh|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Trung Hiếu|work_organization|FTECH
+Nguyễn Trung Hiếu|work_organization|Công ty Công nghệ Gia Đình
+Trần Tuấn Khôi|work_organization|FTECH
+Trần Tuấn Khôi|work_organization|Công ty Công nghệ Gia Đình
+Hồ Nghĩa Khang|work_organization|FTECH
+Hồ Nghĩa Khang|work_organization|Công ty Công nghệ Gia Đình
+Đỗ Tấn Sang|work_organization|FTECH
+Đỗ Tấn Sang|work_organization|Công ty Công nghệ Gia Đình
+Phạm Thị Phương Ngôn|work_organization|FTECH
+Phạm Thị Phương Ngôn|work_organization|Công ty Công nghệ Gia Đình
+Âu Dương Minh Vũ|work_organization|FTECH
+Âu Dương Minh Vũ|work_organization|Công ty Công nghệ Gia Đình
+Phan Quốc Anh|work_organization|FTECH
+Phan Quốc Anh|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Hoàng Bảo Hưng|work_organization|FTECH
+Nguyễn Hoàng Bảo Hưng|work_organization|Công ty Công nghệ Gia Đình
+Võ Minh Hoàng|work_organization|FTECH
+Võ Minh Hoàng|work_organization|Công ty Công nghệ Gia Đình
+Lê Khánh Duy|work_organization|FTECH
+Lê Khánh Duy|work_organization|Công ty Công nghệ Gia Đình
+Đặng Minh Tân|work_organization|FTECH
+Đặng Minh Tân|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Duy Hiếu|work_organization|FTECH
+Nguyễn Duy Hiếu|work_organization|Công ty Công nghệ Gia Đình
+Đặng Hoàng Sơn|work_organization|FTECH
+Đặng Hoàng Sơn|work_organization|Công ty Công nghệ Gia Đình
+Bùi Thảo Vân|work_organization|FTECH
+Bùi Thảo Vân|work_organization|Công ty Công nghệ Gia Đình
+Lê Quang Anh|work_organization|FTECH
+Lê Quang Anh|work_organization|Công ty Công nghệ Gia Đình
+Trần Công Hiệu|work_organization|FTECH
+Trần Công Hiệu|work_organization|Công ty Công nghệ Gia Đình
+Phạm Văn Sơn|work_organization|FTECH
+Phạm Văn Sơn|work_organization|Công ty Công nghệ Gia Đình
+Cao Thị Thúy|work_organization|FTECH
+Cao Thị Thúy|work_organization|Công ty Công nghệ Gia Đình
+Đỗ Thị Hoàng Diễm|work_organization|FTECH
+Đỗ Thị Hoàng Diễm|work_organization|Công ty Công nghệ Gia Đình
+Đơn Hoàng Trọng|work_organization|FTECH
+Đơn Hoàng Trọng|work_organization|Công ty Công nghệ Gia Đình
+Đặng Thế Quân|work_organization|FTECH
+Đặng Thế Quân|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thị Thơm|work_organization|FTECH
+Nguyễn Thị Thơm|work_organization|Công ty Công nghệ Gia Đình
+Vũ Thị Chà My|work_organization|FTECH
+Vũ Thị Chà My|work_organization|Công ty Công nghệ Gia Đình
+Đỗ Danh Dũng|work_organization|FTECH
+Đỗ Danh Dũng|work_organization|Công ty Công nghệ Gia Đình
+Vương Thành Lộc|work_organization|FTECH
+Vương Thành Lộc|work_organization|Công ty Công nghệ Gia Đình
+Tăng Ngọc Dũng|work_organization|FTECH
+Tăng Ngọc Dũng|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Kỳ Tùng|work_organization|FTECH
+Nguyễn Kỳ Tùng|work_organization|Công ty Công nghệ Gia Đình
+Trịnh Tuấn Vũ|work_organization|FTECH
+Trịnh Tuấn Vũ|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Văn Hoàng|work_organization|FTECH
+Nguyễn Văn Hoàng|work_organization|Công ty Công nghệ Gia Đình
+Phạm Minh Sơn|work_organization|FTECH
+Phạm Minh Sơn|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Hải Anh|work_organization|FTECH
+Nguyễn Hải Anh|work_organization|Công ty Công nghệ Gia Đình
+Lê Hà Trang|work_organization|FTECH
+Lê Hà Trang|work_organization|Công ty Công nghệ Gia Đình
+Ngô Thái Sơn|work_organization|FTECH
+Ngô Thái Sơn|work_organization|Công ty Công nghệ Gia Đình
+Phạm Thị Quỳnh|work_organization|FTECH
+Phạm Thị Quỳnh|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Khoa Nguyên|work_organization|FTECH
+Nguyễn Khoa Nguyên|work_organization|Công ty Công nghệ Gia Đình
+Trần Kiên Trường|work_organization|FTECH
+Trần Kiên Trường|work_organization|Công ty Công nghệ Gia Đình
+Tạ Xuân Trường|work_organization|FTECH
+Tạ Xuân Trường|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Vân Anh|work_organization|FTECH
+Nguyễn Vân Anh|work_organization|Công ty Công nghệ Gia Đình
+Doãn Hoài Linh|work_organization|FTECH
+Doãn Hoài Linh|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Công Hậu|work_organization|FTECH
+Nguyễn Công Hậu|work_organization|Công ty Công nghệ Gia Đình
+Dương Hoàng Sơn|work_organization|FTECH
+Dương Hoàng Sơn|work_organization|Công ty Công nghệ Gia Đình
+Trần Việt Tiệp|work_organization|FTECH
+Trần Việt Tiệp|work_organization|Công ty Công nghệ Gia Đình
+Đỗ Thị Thu Thuỷ|work_organization|FTECH
+Đỗ Thị Thu Thuỷ|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Minh Thắng|work_organization|FTECH
+Nguyễn Minh Thắng|work_organization|Công ty Công nghệ Gia Đình
+Phạm Thế Tâm|work_organization|FTECH
+Phạm Thế Tâm|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thị Thùy Điệp|work_organization|FTECH
+Nguyễn Thị Thùy Điệp|work_organization|Công ty Công nghệ Gia Đình
+Ngô Quỳnh Nga|work_organization|FTECH
+Ngô Quỳnh Nga|work_organization|Công ty Công nghệ Gia Đình
+Ngọ Quang Nam|work_organization|FTECH
+Ngọ Quang Nam|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thanh Thản|work_organization|FTECH
+Nguyễn Thanh Thản|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Xuân Anh Quân|work_organization|FTECH
+Nguyễn Xuân Anh Quân|work_organization|Công ty Công nghệ Gia Đình
+Phùng Gia Hiến|work_organization|FTECH
+Phùng Gia Hiến|work_organization|Công ty Công nghệ Gia Đình
+Đinh Thị Thảo|work_organization|FTECH
+Đinh Thị Thảo|work_organization|Công ty Công nghệ Gia Đình
+Lưu Khánh Thảo Nhi|work_organization|FTECH
+Lưu Khánh Thảo Nhi|work_organization|Công ty Công nghệ Gia Đình
+Lê Hữu Trọng|work_organization|FTECH
+Lê Hữu Trọng|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Yến Ngọc|work_organization|FTECH
+Nguyễn Yến Ngọc|work_organization|Công ty Công nghệ Gia Đình
+Lê Phước Đông|work_organization|FTECH
+Lê Phước Đông|work_organization|Công ty Công nghệ Gia Đình
+Điểu Sáu Bên|work_organization|FTECH
+Điểu Sáu Bên|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Đức An Sơn|work_organization|FTECH
+Nguyễn Đức An Sơn|work_organization|Công ty Công nghệ Gia Đình
+Lê Trần Bảo Minh|work_organization|FTECH
+Lê Trần Bảo Minh|work_organization|Công ty Công nghệ Gia Đình
+Võ Xuân Cường|work_organization|FTECH
+Võ Xuân Cường|work_organization|Công ty Công nghệ Gia Đình
+Đặng Thị Ngọc Điệp|work_organization|FTECH
+Đặng Thị Ngọc Điệp|work_organization|Công ty Công nghệ Gia Đình
+Đoàn Hoài Linh|work_organization|FTECH
+Đoàn Hoài Linh|work_organization|Công ty Công nghệ Gia Đình
+Huỳnh Văn Thành|work_organization|FTECH
+Huỳnh Văn Thành|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Duy Cẩm|work_organization|FTECH
+Nguyễn Duy Cẩm|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thị Hồng Phúc|work_organization|FTECH
+Nguyễn Thị Hồng Phúc|work_organization|Công ty Công nghệ Gia Đình
+Đoàn Thanh Phong|work_organization|FTECH
+Đoàn Thanh Phong|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thị Thủy Ly|work_organization|FTECH
+Nguyễn Thị Thủy Ly|work_organization|Công ty Công nghệ Gia Đình
+Mạc Trung Tình|work_organization|FTECH
+Mạc Trung Tình|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Bảo Thanh|work_organization|FTECH
+Nguyễn Bảo Thanh|work_organization|Công ty Công nghệ Gia Đình
+Phạm Duy Cường|work_organization|FTECH
+Phạm Duy Cường|work_organization|Công ty Công nghệ Gia Đình
+Ngô Thị Phương Duyên|work_organization|FTECH
+Ngô Thị Phương Duyên|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Văn Trung|work_organization|FTECH
+Nguyễn Văn Trung|work_organization|Công ty Công nghệ Gia Đình
+Trần Bảo Trung|work_organization|FTECH
+Trần Bảo Trung|work_organization|Công ty Công nghệ Gia Đình
+Mai Xuân Kim Thùy|work_organization|FTECH
+Mai Xuân Kim Thùy|work_organization|Công ty Công nghệ Gia Đình
+Hứa Châu Tiểu Phụng|work_organization|FTECH
+Hứa Châu Tiểu Phụng|work_organization|Công ty Công nghệ Gia Đình
+Trương Nhật Bá|work_organization|FTECH
+Trương Nhật Bá|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Đình Khánh|work_organization|FTECH
+Nguyễn Đình Khánh|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thành Luân|work_organization|FTECH
+Nguyễn Thành Luân|work_organization|Công ty Công nghệ Gia Đình
+Trần Văn Hải|work_organization|FTECH
+Trần Văn Hải|work_organization|Công ty Công nghệ Gia Đình
+Lê Thị Trang Thư|work_organization|FTECH
+Lê Thị Trang Thư|work_organization|Công ty Công nghệ Gia Đình
+Trần Huỳnh Anh Huy|work_organization|FTECH
+Trần Huỳnh Anh Huy|work_organization|Công ty Công nghệ Gia Đình
+Vũ Ngọc Tứ|work_organization|FTECH
+Vũ Ngọc Tứ|work_organization|Công ty Công nghệ Gia Đình
+Đỗ Hồng Hạnh|work_organization|FTECH
+Đỗ Hồng Hạnh|work_organization|Công ty Công nghệ Gia Đình
+Quách Thị Thu|work_organization|FTECH
+Quách Thị Thu|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Lương Bằng|work_organization|FTECH
+Nguyễn Lương Bằng|work_organization|Công ty Công nghệ Gia Đình
+Phan Quốc Hưng|work_organization|FTECH
+Phan Quốc Hưng|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Đặng Tú|work_organization|FTECH
+Nguyễn Đặng Tú|work_organization|Công ty Công nghệ Gia Đình
+Đinh Thị Bích Ngọc|work_organization|FTECH
+Đinh Thị Bích Ngọc|work_organization|Công ty Công nghệ Gia Đình
+Trần Đại Lộc|work_organization|FTECH
+Trần Đại Lộc|work_organization|Công ty Công nghệ Gia Đình
+Dương Sỹ Bình|work_organization|FTECH
+Dương Sỹ Bình|work_organization|Công ty Công nghệ Gia Đình
+Phạm Thị Hạ|work_organization|FTECH
+Phạm Thị Hạ|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thị Huyền Trang|work_organization|FTECH
+Nguyễn Thị Huyền Trang|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Đình Đức Anh|work_organization|FTECH
+Nguyễn Đình Đức Anh|work_organization|Công ty Công nghệ Gia Đình
+Bùi Thị Kim Dung|work_organization|FTECH
+Bùi Thị Kim Dung|work_organization|Công ty Công nghệ Gia Đình
+Mai Chiếm An|work_organization|FTECH
+Mai Chiếm An|work_organization|Công ty Công nghệ Gia Đình
+Vũ Hoàng Sơn|work_organization|FTECH
+Vũ Hoàng Sơn|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Phạm Hoàng Trung|work_organization|FTECH
+Nguyễn Phạm Hoàng Trung|work_organization|Công ty Công nghệ Gia Đình
+Trần Thị Hà Vy|work_organization|FTECH
+Trần Thị Hà Vy|work_organization|Công ty Công nghệ Gia Đình
+Trần Trung Hiếu|work_organization|FTECH
+Trần Trung Hiếu|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Đức Thịnh|work_organization|FTECH
+Nguyễn Đức Thịnh|work_organization|Công ty Công nghệ Gia Đình
+Lê Minh Hoàng|work_organization|FTECH
+Lê Minh Hoàng|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Văn Thường|work_organization|FTECH
+Nguyễn Văn Thường|work_organization|Công ty Công nghệ Gia Đình
+Đào Sỹ Mạnh|work_organization|FTECH
+Đào Sỹ Mạnh|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Văn Trọng|work_organization|FTECH
+Nguyễn Văn Trọng|work_organization|Công ty Công nghệ Gia Đình
+Phan Vũ Hùng|work_organization|FTECH
+Phan Vũ Hùng|work_organization|Công ty Công nghệ Gia Đình
+Trần Xuân Hưng|work_organization|FTECH
+Trần Xuân Hưng|work_organization|Công ty Công nghệ Gia Đình
+Dương Bảo Yến|work_organization|FTECH
+Dương Bảo Yến|work_organization|Công ty Công nghệ Gia Đình
+Lâm Hoàng Quân|work_organization|FTECH
+Lâm Hoàng Quân|work_organization|Công ty Công nghệ Gia Đình
+Vũ Thị Mừng|work_organization|FTECH
+Vũ Thị Mừng|work_organization|Công ty Công nghệ Gia Đình
+Trần Đăng Minh|work_organization|FTECH
+Trần Đăng Minh|work_organization|Công ty Công nghệ Gia Đình
+Đỗ Phú Phát|work_organization|FTECH
+Đỗ Phú Phát|work_organization|Công ty Công nghệ Gia Đình
+Lưu Xuân Trường|work_organization|FTECH
+Lưu Xuân Trường|work_organization|Công ty Công nghệ Gia Đình
+Trịnh Minh Anh|work_organization|FTECH
+Trịnh Minh Anh|work_organization|Công ty Công nghệ Gia Đình
+Trương Công Danh|work_organization|FTECH
+Trương Công Danh|work_organization|Công ty Công nghệ Gia Đình
+Lại Ngọc Ly|work_organization|FTECH
+Lại Ngọc Ly|work_organization|Công ty Công nghệ Gia Đình
+Vũ Thị Thêu|work_organization|FTECH
+Vũ Thị Thêu|work_organization|Công ty Công nghệ Gia Đình
+Lê Anh Hào|work_organization|FTECH
+Lê Anh Hào|work_organization|Công ty Công nghệ Gia Đình
+Lê Mạnh Tài|work_organization|FTECH
+Lê Mạnh Tài|work_organization|Công ty Công nghệ Gia Đình
+Hồ Trúc Thuỳ An|work_organization|FTECH
+Hồ Trúc Thuỳ An|work_organization|Công ty Công nghệ Gia Đình
+Kinh Thị Kim Thư|work_organization|FTECH
+Kinh Thị Kim Thư|work_organization|Công ty Công nghệ Gia Đình
+Mẫn Thị Kiều Trang|work_organization|FTECH
+Mẫn Thị Kiều Trang|work_organization|Công ty Công nghệ Gia Đình
+Phạm Ngọc Long|work_organization|FTECH
+Phạm Ngọc Long|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Tất Đạt|work_organization|FTECH
+Nguyễn Tất Đạt|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thanh Phong|work_organization|FTECH
+Nguyễn Thanh Phong|work_organization|Công ty Công nghệ Gia Đình
+Phạm Nguyên Ninh|work_organization|FTECH
+Phạm Nguyên Ninh|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Minh Hưng|work_organization|FTECH
+Nguyễn Minh Hưng|work_organization|Công ty Công nghệ Gia Đình
+Phan Văn Thịnh|work_organization|FTECH
+Phan Văn Thịnh|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Văn Phước|work_organization|FTECH
+Nguyễn Văn Phước|work_organization|Công ty Công nghệ Gia Đình
+Lê Việt Bắc|work_organization|FTECH
+Lê Việt Bắc|work_organization|Công ty Công nghệ Gia Đình
+Trần Ngọc Thanh Trang|work_organization|FTECH
+Trần Ngọc Thanh Trang|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thị Bình|work_organization|FTECH
+Nguyễn Thị Bình|work_organization|Công ty Công nghệ Gia Đình
+Đặng Khánh Chi|work_organization|FTECH
+Đặng Khánh Chi|work_organization|Công ty Công nghệ Gia Đình
+Ngô Mạnh Tuấn|work_organization|FTECH
+Ngô Mạnh Tuấn|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thị Thu Thảo|work_organization|FTECH
+Nguyễn Thị Thu Thảo|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thị Vân Anh|work_organization|FTECH
+Nguyễn Thị Vân Anh|work_organization|Công ty Công nghệ Gia Đình
+Phan Lê Bích Tuyền|work_organization|FTECH
+Phan Lê Bích Tuyền|work_organization|Công ty Công nghệ Gia Đình
+Lương Thị Loan|work_organization|FTECH
+Lương Thị Loan|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thị Lệ Nguyên|work_organization|FTECH
+Nguyễn Thị Lệ Nguyên|work_organization|Công ty Công nghệ Gia Đình
+Ngô Thị Kiều Chi|work_organization|FTECH
+Ngô Thị Kiều Chi|work_organization|Công ty Công nghệ Gia Đình
+Dương Đức Thắng|work_organization|FTECH
+Dương Đức Thắng|work_organization|Công ty Công nghệ Gia Đình
+Đỗ Hồng Vy|work_organization|FTECH
+Đỗ Hồng Vy|work_organization|Công ty Công nghệ Gia Đình
+Huỳnh Nguyễn Hoàng Phong|work_organization|FTECH
+Huỳnh Nguyễn Hoàng Phong|work_organization|Công ty Công nghệ Gia Đình
+Đào Đức Lương|work_organization|FTECH
+Đào Đức Lương|work_organization|Công ty Công nghệ Gia Đình
+Lê Văn Thông|work_organization|FTECH
+Lê Văn Thông|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Trần Ngọc Ly|work_organization|FTECH
+Nguyễn Trần Ngọc Ly|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thị Thanh Nga|work_organization|FTECH
+Nguyễn Thị Thanh Nga|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thị Thanh Loan|work_organization|FTECH
+Nguyễn Thị Thanh Loan|work_organization|Công ty Công nghệ Gia Đình
+Phạm Thị Lan Phương|work_organization|FTECH
+Phạm Thị Lan Phương|work_organization|Công ty Công nghệ Gia Đình
+Võ Thành Nguyên|work_organization|FTECH
+Võ Thành Nguyên|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thị Quỳnh Thi|work_organization|FTECH
+Nguyễn Thị Quỳnh Thi|work_organization|Công ty Công nghệ Gia Đình
+Đào Văn Hiếu|work_organization|FTECH
+Đào Văn Hiếu|work_organization|Công ty Công nghệ Gia Đình
+Trần Thị Bích Phương|work_organization|FTECH
+Trần Thị Bích Phương|work_organization|Công ty Công nghệ Gia Đình
+Đặng Thái Ngọc|work_organization|FTECH
+Đặng Thái Ngọc|work_organization|Công ty Công nghệ Gia Đình
+Hoàng Văn Độ|work_organization|FTECH
+Hoàng Văn Độ|work_organization|Công ty Công nghệ Gia Đình
+Lưu Thị Mến|work_organization|FTECH
+Lưu Thị Mến|work_organization|Công ty Công nghệ Gia Đình
+Đặng Nhật Quang|work_organization|FTECH
+Đặng Nhật Quang|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Phương Nam|work_organization|FTECH
+Nguyễn Phương Nam|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Hồ Diễm My|work_organization|FTECH
+Nguyễn Hồ Diễm My|work_organization|Công ty Công nghệ Gia Đình
+Lê Hữu Thịnh|work_organization|FTECH
+Lê Hữu Thịnh|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Gia Phong|work_organization|FTECH
+Nguyễn Gia Phong|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thị Thùy Dương|work_organization|FTECH
+Nguyễn Thị Thùy Dương|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Việt Tùng|work_organization|FTECH
+Nguyễn Việt Tùng|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Vũ Lê Minh|work_organization|FTECH
+Nguyễn Vũ Lê Minh|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Minh Đức|work_organization|FTECH
+Nguyễn Minh Đức|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Danh Diên|work_organization|FTECH
+Nguyễn Danh Diên|work_organization|Công ty Công nghệ Gia Đình
+Ngô Hữu Hoàng Việt|work_organization|FTECH
+Ngô Hữu Hoàng Việt|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thị Quỳnh Giang|work_organization|FTECH
+Nguyễn Thị Quỳnh Giang|work_organization|Công ty Công nghệ Gia Đình
+Bùi Tuấn Tú|work_organization|FTECH
+Bùi Tuấn Tú|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thị Vui|work_organization|FTECH
+Nguyễn Thị Vui|work_organization|Công ty Công nghệ Gia Đình
+Ngô Văn Nam|work_organization|FTECH
+Ngô Văn Nam|work_organization|Công ty Công nghệ Gia Đình
+Ứng Hoàng Hiệp|work_organization|FTECH
+Ứng Hoàng Hiệp|work_organization|Công ty Công nghệ Gia Đình
+Phạm Phương Hiền|work_organization|FTECH
+Phạm Phương Hiền|work_organization|Công ty Công nghệ Gia Đình
+Bùi Hùng Cường|work_organization|FTECH
+Bùi Hùng Cường|work_organization|Công ty Công nghệ Gia Đình
+Phạm Hạnh Nguyên|work_organization|FTECH
+Phạm Hạnh Nguyên|work_organization|Công ty Công nghệ Gia Đình
+Vương Thu Trang|work_organization|FTECH
+Vương Thu Trang|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Sơn Tùng|work_organization|FTECH
+Nguyễn Sơn Tùng|work_organization|Công ty Công nghệ Gia Đình
+Hoàng Thanh Tùng|work_organization|FTECH
+Hoàng Thanh Tùng|work_organization|Công ty Công nghệ Gia Đình
+Lê Hồng Nhung|work_organization|FTECH
+Lê Hồng Nhung|work_organization|Công ty Công nghệ Gia Đình
+Ngô Mỹ Linh|work_organization|FTECH
+Ngô Mỹ Linh|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Doãn Đông|work_organization|FTECH
+Nguyễn Doãn Đông|work_organization|Công ty Công nghệ Gia Đình
+Dương Minh Quang|work_organization|FTECH
+Dương Minh Quang|work_organization|Công ty Công nghệ Gia Đình
+Vũ Hằng Ngân Hoa|work_organization|FTECH
+Vũ Hằng Ngân Hoa|work_organization|Công ty Công nghệ Gia Đình
+Lê Thị Ngọc Hải|work_organization|FTECH
+Lê Thị Ngọc Hải|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Như Quỳnh|work_organization|FTECH
+Nguyễn Như Quỳnh|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Tuấn Anh|work_organization|FTECH
+Nguyễn Tuấn Anh|work_organization|Công ty Công nghệ Gia Đình
+Vũ Hữu Quang|work_organization|FTECH
+Vũ Hữu Quang|work_organization|Công ty Công nghệ Gia Đình
+Đoàn Mạnh Dũng|work_organization|FTECH
+Đoàn Mạnh Dũng|work_organization|Công ty Công nghệ Gia Đình
+Lê Nguyễn Hiếu Thông|work_organization|FTECH
+Lê Nguyễn Hiếu Thông|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Quang Sơn|work_organization|FTECH
+Nguyễn Quang Sơn|work_organization|Công ty Công nghệ Gia Đình
+Đặng Trung Hiếu|work_organization|FTECH
+Đặng Trung Hiếu|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Duy Phương|work_organization|FTECH
+Nguyễn Duy Phương|work_organization|Công ty Công nghệ Gia Đình
+Đặng Huỳnh Khánh Ly|work_organization|FTECH
+Đặng Huỳnh Khánh Ly|work_organization|Công ty Công nghệ Gia Đình
+Lê Viết Triều|work_organization|FTECH
+Lê Viết Triều|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thanh Nga|work_organization|FTECH
+Nguyễn Thanh Nga|work_organization|Công ty Công nghệ Gia Đình
+Đào Thị Như|work_organization|FTECH
+Đào Thị Như|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thị Lan Anh|work_organization|FTECH
+Nguyễn Thị Lan Anh|work_organization|Công ty Công nghệ Gia Đình
+Trần Đặng Đình Nguyên|work_organization|FTECH
+Trần Đặng Đình Nguyên|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Mạnh Hùng|work_organization|FTECH
+Nguyễn Mạnh Hùng|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Huy Anh|work_organization|FTECH
+Nguyễn Huy Anh|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Minh Nhật|work_organization|FTECH
+Nguyễn Minh Nhật|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Tuấn Đức|work_organization|FTECH
+Nguyễn Tuấn Đức|work_organization|Công ty Công nghệ Gia Đình
+Đỗ Linh Chi|work_organization|FTECH
+Đỗ Linh Chi|work_organization|Công ty Công nghệ Gia Đình
+Trần Thị Hồng|work_organization|FTECH
+Trần Thị Hồng|work_organization|Công ty Công nghệ Gia Đình
+Phạm Khánh Long|work_organization|FTECH
+Phạm Khánh Long|work_organization|Công ty Công nghệ Gia Đình
+Trịnh Quốc Tuấn|work_organization|FTECH
+Trịnh Quốc Tuấn|work_organization|Công ty Công nghệ Gia Đình
+Lê Thanh Giang|work_organization|FTECH
+Lê Thanh Giang|work_organization|Công ty Công nghệ Gia Đình
+Phạm Ngọc Quang|work_organization|FTECH
+Phạm Ngọc Quang|work_organization|Công ty Công nghệ Gia Đình
+Trần Viết Thắng|work_organization|FTECH
+Trần Viết Thắng|work_organization|Công ty Công nghệ Gia Đình
+Trịnh Đức Anh|work_organization|FTECH
+Trịnh Đức Anh|work_organization|Công ty Công nghệ Gia Đình
+Trần Văn Chung|work_organization|FTECH
+Trần Văn Chung|work_organization|Công ty Công nghệ Gia Đình
+Cái Đức Thắng|work_organization|FTECH
+Cái Đức Thắng|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Chí Thanh|work_organization|FTECH
+Nguyễn Chí Thanh|work_organization|Công ty Công nghệ Gia Đình
+Vũ Hương Ly|work_organization|FTECH
+Vũ Hương Ly|work_organization|Công ty Công nghệ Gia Đình
+Lê Mạnh Huy|work_organization|FTECH
+Lê Mạnh Huy|work_organization|Công ty Công nghệ Gia Đình
+Ngô Duy Anh|work_organization|FTECH
+Ngô Duy Anh|work_organization|Công ty Công nghệ Gia Đình
+Vũ Thị Nga|work_organization|FTECH
+Vũ Thị Nga|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Văn Trường 2|work_organization|FTECH
+Nguyễn Văn Trường 2|work_organization|Công ty Công nghệ Gia Đình
+Dương Tiến Hiệu|work_organization|FTECH
+Dương Tiến Hiệu|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Hoàng Quân|work_organization|FTECH
+Nguyễn Hoàng Quân|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Đăng Khoa|work_organization|FTECH
+Nguyễn Đăng Khoa|work_organization|Công ty Công nghệ Gia Đình
+Dương Thị Tuyến|work_organization|FTECH
+Dương Thị Tuyến|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thị Thắm|work_organization|FTECH
+Nguyễn Thị Thắm|work_organization|Công ty Công nghệ Gia Đình
+Trần Quốc Đạt|work_organization|FTECH
+Trần Quốc Đạt|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Văn Phú|work_organization|FTECH
+Nguyễn Văn Phú|work_organization|Công ty Công nghệ Gia Đình
+Vũ Văn Thắng|work_organization|FTECH
+Vũ Văn Thắng|work_organization|Công ty Công nghệ Gia Đình
+Huỳnh Chỉnh|work_organization|FTECH
+Huỳnh Chỉnh|work_organization|Công ty Công nghệ Gia Đình
+Trần Chí Quốc|work_organization|FTECH
+Trần Chí Quốc|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Văn Trường|work_organization|FTECH
+Nguyễn Văn Trường|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thạch Ánh|work_organization|FTECH
+Nguyễn Thạch Ánh|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Đức Tiến|work_organization|FTECH
+Nguyễn Đức Tiến|work_organization|Công ty Công nghệ Gia Đình
+Đồng Văn Tuyến|work_organization|FTECH
+Đồng Văn Tuyến|work_organization|Công ty Công nghệ Gia Đình
+Phạm Anh Tú|work_organization|FTECH
+Phạm Anh Tú|work_organization|Công ty Công nghệ Gia Đình
+Trương Thị Hương|work_organization|FTECH
+Trương Thị Hương|work_organization|Công ty Công nghệ Gia Đình
+Dương Quỳnh Quang|work_organization|FTECH
+Dương Quỳnh Quang|work_organization|Công ty Công nghệ Gia Đình
+Đào Thùy Linh|work_organization|FTECH
+Đào Thùy Linh|work_organization|Công ty Công nghệ Gia Đình
+Phạm Hồng Đức|work_organization|FTECH
+Phạm Hồng Đức|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thị Nga Ngọc|work_organization|FTECH
+Nguyễn Thị Nga Ngọc|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Văn Đạt|work_organization|FTECH
+Nguyễn Văn Đạt|work_organization|Công ty Công nghệ Gia Đình
+Đặng Hoàng Như Nguyện|work_organization|FTECH
+Đặng Hoàng Như Nguyện|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn An Phú|work_organization|FTECH
+Nguyễn An Phú|work_organization|Công ty Công nghệ Gia Đình
+Phùng Tuấn Long|work_organization|FTECH
+Phùng Tuấn Long|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Sanh Thành|work_organization|FTECH
+Nguyễn Sanh Thành|work_organization|Công ty Công nghệ Gia Đình
+Lê Thị Lan|work_organization|FTECH
+Lê Thị Lan|work_organization|Công ty Công nghệ Gia Đình
+Phạm Minh Tuấn|work_organization|FTECH
+Phạm Minh Tuấn|work_organization|Công ty Công nghệ Gia Đình
+Trần Thị Mỹ Hạnh|work_organization|FTECH
+Trần Thị Mỹ Hạnh|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Hữu Đăng|work_organization|FTECH
+Nguyễn Hữu Đăng|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Công Lý|work_organization|FTECH
+Nguyễn Công Lý|work_organization|Công ty Công nghệ Gia Đình
+Vũ Khánh Long|work_organization|FTECH
+Vũ Khánh Long|work_organization|Công ty Công nghệ Gia Đình
+Lê Tiến Kính|work_organization|FTECH
+Lê Tiến Kính|work_organization|Công ty Công nghệ Gia Đình
+Trần Xuân Trường|work_organization|FTECH
+Trần Xuân Trường|work_organization|Công ty Công nghệ Gia Đình
+Phạm Huy Thắng|work_organization|FTECH
+Phạm Huy Thắng|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Ngọc Quang|work_organization|FTECH
+Nguyễn Ngọc Quang|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Viết Tùng|work_organization|FTECH
+Nguyễn Viết Tùng|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Cao Thắng|work_organization|FTECH
+Nguyễn Cao Thắng|work_organization|Công ty Công nghệ Gia Đình
+Đào Văn Hưng|work_organization|FTECH
+Đào Văn Hưng|work_organization|Công ty Công nghệ Gia Đình
+Đào Thị Hoàng Nga|work_organization|FTECH
+Đào Thị Hoàng Nga|work_organization|Công ty Công nghệ Gia Đình
+Vũ Văn Tài|work_organization|FTECH
+Vũ Văn Tài|work_organization|Công ty Công nghệ Gia Đình
+Đoàn Đắc Tuấn|work_organization|FTECH
+Đoàn Đắc Tuấn|work_organization|Công ty Công nghệ Gia Đình
+Bùi Quốc Đạt|work_organization|FTECH
+Bùi Quốc Đạt|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thanh Long|work_organization|FTECH
+Nguyễn Thanh Long|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Hoàng Long|work_organization|FTECH
+Nguyễn Hoàng Long|work_organization|Công ty Công nghệ Gia Đình
+Trần Khánh Toàn|work_organization|FTECH
+Trần Khánh Toàn|work_organization|Công ty Công nghệ Gia Đình
+Lâm Thị Anh|work_organization|FTECH
+Lâm Thị Anh|work_organization|Công ty Công nghệ Gia Đình
+Phạm Hà An|work_organization|FTECH
+Phạm Hà An|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Văn Cường|work_organization|FTECH
+Nguyễn Văn Cường|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Duy Thành|work_organization|FTECH
+Nguyễn Duy Thành|work_organization|Công ty Công nghệ Gia Đình
+Tô Trần Tiến|work_organization|FTECH
+Tô Trần Tiến|work_organization|Công ty Công nghệ Gia Đình
+Đinh Trọng Liên|work_organization|FTECH
+Đinh Trọng Liên|work_organization|Công ty Công nghệ Gia Đình
+Hà Thiên Hương|work_organization|FTECH
+Hà Thiên Hương|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Văn Hảo|work_organization|FTECH
+Nguyễn Văn Hảo|work_organization|Công ty Công nghệ Gia Đình
+Lê Thị Hải Linh|work_organization|FTECH
+Lê Thị Hải Linh|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Thị Xoan|work_organization|FTECH
+Nguyễn Thị Xoan|work_organization|Công ty Công nghệ Gia Đình
+Tạ Đặng Quân|work_organization|FTECH
+Tạ Đặng Quân|work_organization|Công ty Công nghệ Gia Đình
+Huỳnh Ngọc Hải|work_organization|FTECH
+Huỳnh Ngọc Hải|work_organization|Công ty Công nghệ Gia Đình
+Vũ Lê Huy|work_organization|FTECH
+Vũ Lê Huy|work_organization|Công ty Công nghệ Gia Đình
+Trần Ngọc Cương|work_organization|FTECH
+Trần Ngọc Cương|work_organization|Công ty Công nghệ Gia Đình
+Phạm Trọng Tài|work_organization|FTECH
+Phạm Trọng Tài|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Việt Cường|work_organization|FTECH
+Nguyễn Việt Cường|work_organization|Công ty Công nghệ Gia Đình
+Nguyễn Tuấn Quang|work_organization|FTECH
+Nguyễn Tuấn Quang|work_organization|Công ty Công nghệ Gia Đình
+Đào Trường Giang|work_organization|FTECH
+Đào Trường Giang|work_organization|Công ty Công nghệ Gia Đình
+Trần Văn Tuân|have_role_in_organization|Nhân viên
+Vắn Hiền Thắng|have_role_in_organization|Business
+Nguyễn Hồng Quang|have_role_in_organization|Research
+Nguyễn Văn Khuyến|have_role_in_organization|Developer
+Hoàng Trung Dũng|have_role_in_organization|Computer Vision Engineer
+Trần Đức Huy|have_role_in_organization|iOS Developer
+Trần Văn Tuân|have_role_in_organization|3D Artist
+Nguyễn Thành Đạt|have_role_in_organization|Fullstack Developer
+Nguyễn Anh Thắng|have_role_in_organization|Fullstack Developer
+Ngô Ngọc Khánh|have_role_in_organization|Fullstack Developer
+Trần Nhật Quang|have_role_in_organization|Computer Vision Engineer
+Nguyễn Nghĩa Thịnh|have_role_in_organization|Computer Vision Engineer
+Nguyễn Đức Minh|have_role_in_organization|Content Creator Blockchain
+Nguyễn Phương Hiên|have_role_in_organization|Nhân viên Biên soạn nội dung Giáo dục
+Nguyễn Hữu Bắc|have_role_in_organization|Product Design
+Đàm Quang Tiến|have_role_in_organization|Computer Vision Engineer
+Lê Quang Hưng|have_role_in_organization|2D Animator
+Phạm Ngọc Hải|have_role_in_organization|Fullstack Developer
+Phan Thị Thúy Hằng|have_role_in_organization|Trưởng Phòng chăm sóc khách hàng (CSKH) (Hà Nội)
+Nguyễn Đăng Khôi|have_role_in_organization|Pentest
+Nguyễn Tuấn Anh|have_role_in_organization|Business Analyst
+Phạm Thị Minh Huyền|have_role_in_organization|Nhân viên Biên soạn nội dung Giáo dục
+Thành Quốc Đạt|have_role_in_organization|3D Animator
+Trần Thị Thủy|have_role_in_organization|Nhân viên Biên soạn nội dung Giáo dục
+Nguyễn Trường An|have_role_in_organization|NLP Engineer
+Nguyễn Quang Lập|have_role_in_organization|Chuyên viên Tuyển dụng
+Trần Tiến Anh|have_role_in_organization|iOS Developer
+Hoàng Minh Huyền|have_role_in_organization|Kế toán tổng hợp
+Nguyễn Duy Phong|have_role_in_organization|iOS Developer
+Đỗ Đức Công|have_role_in_organization|System Admin
+Nguyễn Thanh Tú|have_role_in_organization|Digital Artist
+Triệu Chu Quốc Thái|have_role_in_organization|Graphic Design
+Quách Trường Giang|have_role_in_organization|Content Creative
+Phạm Thùy Linh|have_role_in_organization|Content Creative
+Lê Thị Mỹ Phương|have_role_in_organization|Graphic Design
+Phan Văn Nhân|have_role_in_organization|NLP Engineer
+Phan Thị Hoàng Kim|have_role_in_organization|Game Content
+Hoàng Văn Nguyên|have_role_in_organization|Java Developer
+Ngô Phương Anh|have_role_in_organization|Business Analyst
+Nguyễn Bá Đạt|have_role_in_organization|Junior 3D Animator
+Phạm Thị Hồng Nhung|have_role_in_organization|Nhân viên Phát triển thị trường
+Lê Văn Dũng|have_role_in_organization|Junior 3D Animator
+Nguyễn Viết Trí|have_role_in_organization|Blockchain Developer
+Ngô Phượng Hoàng|have_role_in_organization|Crypto Researcher
+Lê Hồ Lộc An|have_role_in_organization|Hành chính nhân sự
+Nguyễn Phương Nam 2|have_role_in_organization|3D Render
+Nguyễn Thị Phương Thảo|have_role_in_organization|TN biên soạn nội dung
+Đỗ Tiến Anh|have_role_in_organization|NET Developer
+Vũ Hoàng Long|have_role_in_organization|Crypto Researcher
+Tống Thị Minh Lý|have_role_in_organization|Chuyên viên Tuyển dụng
+Hà Duyên Quang Huy|have_role_in_organization|Pre-Junior iOS
+Mai Đức Chiến|have_role_in_organization|Senior Java Developer
+Phạm Văn Dũng|have_role_in_organization|Senior FullStack Developer
+Trần Quang Huy|have_role_in_organization|Chuyên viên Tuyển dụng
+Tạ Lê Ngân Hạnh|have_role_in_organization|2D Artist
+Vũ Ngọc Long|have_role_in_organization|DotNet Developer
+Nguyễn Xuân Nhị Phúc|have_role_in_organization|Digital Marketing Specialist
+Ngô An Bình|have_role_in_organization|Senior 3D Artist
+Kiều Thị Mỹ Linh|have_role_in_organization|Data Analyst
+Nguyễn Trung Hiếu|have_role_in_organization|Computer Vision - TTAI
+Trần Tuấn Khôi|have_role_in_organization|Computer Vision - TTAI
+Hồ Nghĩa Khang|have_role_in_organization|Computer Vision - TTAI
+Đỗ Tấn Sang|have_role_in_organization|NLP/DS
+Phạm Thị Phương Ngôn|have_role_in_organization|Campaign Marketing Specialist
+Âu Dương Minh Vũ|have_role_in_organization|Creative
+Phan Quốc Anh|have_role_in_organization|DE
+Nguyễn Hoàng Bảo Hưng|have_role_in_organization|Tournament- Quản lý Proteam
+Võ Minh Hoàng|have_role_in_organization|Tournament Executive
+Lê Khánh Duy|have_role_in_organization|UI/UX Designer
+Đặng Minh Tân|have_role_in_organization|3D Artist
+Nguyễn Duy Hiếu|have_role_in_organization|UI/UX Designer
+Đặng Hoàng Sơn|have_role_in_organization|DevOps
+Bùi Thảo Vân|have_role_in_organization|Product Analyst
+Lê Quang Anh|have_role_in_organization|iOS Developer
+Trần Công Hiệu|have_role_in_organization|iOS Developer
+Phạm Văn Sơn|have_role_in_organization|FullStack Developer
+Cao Thị Thúy|have_role_in_organization|QA (Fresher)
+Đỗ Thị Hoàng Diễm|have_role_in_organization|Chuyên viên Tuyển dụng
+Đơn Hoàng Trọng|have_role_in_organization|PM dự án F-Racing
+Đặng Thế Quân|have_role_in_organization|3D Artist
+Nguyễn Thị Thơm|have_role_in_organization|Chuyên viên Đào tạo
+Vũ Thị Chà My|have_role_in_organization|Database Engineer
+Đỗ Danh Dũng|have_role_in_organization|IT Support
+Vương Thành Lộc|have_role_in_organization|3D Animation
+Tăng Ngọc Dũng|have_role_in_organization|3D Animation
+Nguyễn Kỳ Tùng|have_role_in_organization|NLP/VA
+Trịnh Tuấn Vũ|have_role_in_organization|Voice-NLP
+Nguyễn Văn Hoàng|have_role_in_organization|Java
+Phạm Minh Sơn|have_role_in_organization|Motion Graphic Design
+Nguyễn Hải Anh|have_role_in_organization|3D Artist
+Lê Hà Trang|have_role_in_organization|Content Creator
+Ngô Thái Sơn|have_role_in_organization|Content Creator
+Phạm Thị Quỳnh|have_role_in_organization|Computer Vision Engineer
+Nguyễn Khoa Nguyên|have_role_in_organization|NLP
+Trần Kiên Trường|have_role_in_organization|Blockchain Developer
+Tạ Xuân Trường|have_role_in_organization|Blockchain
+Nguyễn Vân Anh|have_role_in_organization|Biên soạn nội dung Giáo dục
+Doãn Hoài Linh|have_role_in_organization|Dev ios
+Nguyễn Công Hậu|have_role_in_organization|Android Developer
+Dương Hoàng Sơn|have_role_in_organization|Java
+Trần Việt Tiệp|have_role_in_organization|3D Animation
+Đỗ Thị Thu Thuỷ|have_role_in_organization|Trưởng phòng
+Nguyễn Minh Thắng|have_role_in_organization|3D Artist
+Phạm Thế Tâm|have_role_in_organization|NLP Engineer
+Nguyễn Thị Thùy Điệp|have_role_in_organization|Graphic Design
+Ngô Quỳnh Nga|have_role_in_organization|Nhân viên Biên soạn nội dung Giáo dục
+Ngọ Quang Nam|have_role_in_organization|Crypto Researcher
+Nguyễn Thanh Thản|have_role_in_organization|FullStack Developer
+Nguyễn Xuân Anh Quân|have_role_in_organization|CV Engineer
+Phùng Gia Hiến|have_role_in_organization|FullStack Developer
+Đinh Thị Thảo|have_role_in_organization|Nhân viên Biên soạn nội dung Giáo dục
+Lưu Khánh Thảo Nhi|have_role_in_organization|Community Executive
+Lê Hữu Trọng|have_role_in_organization|Community Executive
+Nguyễn Yến Ngọc|have_role_in_organization|Trưởng nhóm Thị Trường Dự án Fschool
+Lê Phước Đông|have_role_in_organization|Artist 3D
+Điểu Sáu Bên|have_role_in_organization|Artist 3D
+Nguyễn Đức An Sơn|have_role_in_organization|CV Engineer
+Lê Trần Bảo Minh|have_role_in_organization|NLP Engineer
+Võ Xuân Cường|have_role_in_organization|KOL Admin Executive
+Đặng Thị Ngọc Điệp|have_role_in_organization|Hành chính nhân sự (HCNS)
+Đoàn Hoài Linh|have_role_in_organization|Hành chính nhân sự (HCNS)
+Huỳnh Văn Thành|have_role_in_organization|Game Operation Senior
+Nguyễn Duy Cẩm|have_role_in_organization|Trưởng nhóm Triển khai Dự án Fschool
+Nguyễn Thị Hồng Phúc|have_role_in_organization|NLP Engineer
+Đoàn Thanh Phong|have_role_in_organization|Game Operation Junior
+Nguyễn Thị Thủy Ly|have_role_in_organization|Business Analyst (BA)
+Mạc Trung Tình|have_role_in_organization|Web Developer
+Nguyễn Bảo Thanh|have_role_in_organization|Data Analyst
+Phạm Duy Cường|have_role_in_organization|PR & Social Media Lead
+Ngô Thị Phương Duyên|have_role_in_organization|Admin
+Nguyễn Văn Trung|have_role_in_organization|Android Developer
+Trần Bảo Trung|have_role_in_organization|Unity Developer 2D
+Mai Xuân Kim Thùy|have_role_in_organization|Project Executive
+Hứa Châu Tiểu Phụng|have_role_in_organization|Graphic Designer
+Trương Nhật Bá|have_role_in_organization|Community Executive
+Nguyễn Đình Khánh|have_role_in_organization|FullStack Developer
+Nguyễn Thành Luân|have_role_in_organization|Data Analyst
+Trần Văn Hải|have_role_in_organization|Community Executive
+Lê Thị Trang Thư|have_role_in_organization|Campaign Marketing Specialist
+Trần Huỳnh Anh Huy|have_role_in_organization|Motion Graphic Designer
+Vũ Ngọc Tứ|have_role_in_organization|Photo/Video Editor
+Đỗ Hồng Hạnh|have_role_in_organization|Content Creator
+Quách Thị Thu|have_role_in_organization|Test leader - Fschool
+Nguyễn Lương Bằng|have_role_in_organization|Database Developer
+Phan Quốc Hưng|have_role_in_organization|Campaign Marketing Specialist
+Nguyễn Đặng Tú|have_role_in_organization|Java Developer
+Đinh Thị Bích Ngọc|have_role_in_organization|Deployment team lead
+Trần Đại Lộc|have_role_in_organization|Java Developer
+Dương Sỹ Bình|have_role_in_organization|CV Engineer
+Phạm Thị Hạ|have_role_in_organization|Senior Content Creator
+Nguyễn Thị Huyền Trang|have_role_in_organization|Business Analyst (BA)
+Nguyễn Đình Đức Anh|have_role_in_organization|Business Analyst (BA)
+Bùi Thị Kim Dung|have_role_in_organization|Kế toán
+Mai Chiếm An|have_role_in_organization|NLP Engineer
+Vũ Hoàng Sơn|have_role_in_organization|Community Lead
+Nguyễn Phạm Hoàng Trung|have_role_in_organization|Game Operation
+Trần Thị Hà Vy|have_role_in_organization|TTNB
+Trần Trung Hiếu|have_role_in_organization|Video Editor
+Nguyễn Đức Thịnh|have_role_in_organization|Senior Art
+Lê Minh Hoàng|have_role_in_organization|IT Support
+Nguyễn Văn Thường|have_role_in_organization|Devops
+Đào Sỹ Mạnh|have_role_in_organization|FE Developer
+Nguyễn Văn Trọng|have_role_in_organization|Community Executive
+Phan Vũ Hùng|have_role_in_organization|PO
+Trần Xuân Hưng|have_role_in_organization|NLP Engineer
+Dương Bảo Yến|have_role_in_organization|Social Media Executive
+Lâm Hoàng Quân|have_role_in_organization|Operation Executive
+Vũ Thị Mừng|have_role_in_organization|QL team chăm sóc khách hàng (CSKH)
+Trần Đăng Minh|have_role_in_organization|FullStack Developer
+Đỗ Phú Phát|have_role_in_organization|CV Engineer
+Lưu Xuân Trường|have_role_in_organization|Business Analyst (BA)
+Trịnh Minh Anh|have_role_in_organization|BS
+Trương Công Danh|have_role_in_organization|Content Producer
+Lại Ngọc Ly|have_role_in_organization|Nhân viên biên soạn nội dung Giáo dục
+Vũ Thị Thêu|have_role_in_organization|Kế toán tổng hợp
+Lê Anh Hào|have_role_in_organization|NLP Engineer
+Lê Mạnh Tài|have_role_in_organization|Sysadmin
+Hồ Trúc Thuỳ An|have_role_in_organization|KOL Manager
+Kinh Thị Kim Thư|have_role_in_organization|Digital UA Specialist
+Mẫn Thị Kiều Trang|have_role_in_organization|Nhân viên biên soạn nội dung Giáo dục
+Phạm Ngọc Long|have_role_in_organization|Game Product
+Nguyễn Tất Đạt|have_role_in_organization|Game Product
+Nguyễn Thanh Phong|have_role_in_organization|NLP Engineer
+Phạm Nguyên Ninh|have_role_in_organization|Pentest
+Nguyễn Minh Hưng|have_role_in_organization|Tournament Leader
+Phan Văn Thịnh|have_role_in_organization|CV Engineer
+Nguyễn Văn Phước|have_role_in_organization|Content & Creative Lead
+Lê Việt Bắc|have_role_in_organization|UI/UX Designer
+Trần Ngọc Thanh Trang|have_role_in_organization|CV Engineer
+Nguyễn Thị Bình|have_role_in_organization|Business Analyst
+Đặng Khánh Chi|have_role_in_organization|Nhân viên biên soạn nội dung Giáo dục
+Ngô Mạnh Tuấn|have_role_in_organization|Developer
+Nguyễn Thị Thu Thảo|have_role_in_organization|Nhân viên Kiểm duyệt nội dung & Định danh Khách hàng
+Nguyễn Thị Vân Anh|have_role_in_organization|Nhân viên Xử lý Ticket
+Phan Lê Bích Tuyền|have_role_in_organization|Nhân viên Chăm sóc Khách hàng
+Lương Thị Loan|have_role_in_organization|Nhân Viên Biên Soạn Nội Dung Giáo Dục
+Nguyễn Thị Lệ Nguyên|have_role_in_organization|Chuyên viên phòng chống rủi ro
+Ngô Thị Kiều Chi|have_role_in_organization|Nhân viên Chăm sóc Khách hàng
+Dương Đức Thắng|have_role_in_organization|Nhân viên Kiểm duyệt nội dung & Định danh Khách hàng
+Đỗ Hồng Vy|have_role_in_organization|Supervisor Xử lý Ticket
+Huỳnh Nguyễn Hoàng Phong|have_role_in_organization|Nhân viên Kiểm duyệt thông tin & Định danh Khách hàng
+Đào Đức Lương|have_role_in_organization|3D Model
+Lê Văn Thông|have_role_in_organization|CV Engineer
+Nguyễn Trần Ngọc Ly|have_role_in_organization|Community Executive
+Nguyễn Thị Thanh Nga|have_role_in_organization|Kế toán đối soát
+Nguyễn Thị Thanh Loan|have_role_in_organization|BS
+Phạm Thị Lan Phương|have_role_in_organization|Game Coordinator
+Võ Thành Nguyên|have_role_in_organization|NLP Engineer
+Nguyễn Thị Quỳnh Thi|have_role_in_organization|HCNS đối soát
+Đào Văn Hiếu|have_role_in_organization|FE Developer
+Trần Thị Bích Phương|have_role_in_organization|Game Art/Animator
+Đặng Thái Ngọc|have_role_in_organization|.NET + Database Developer
+Hoàng Văn Độ|have_role_in_organization|Java Developer
+Lưu Thị Mến|have_role_in_organization|Kế toán trưởng
+Đặng Nhật Quang|have_role_in_organization|CV Engineer
+Nguyễn Phương Nam|have_role_in_organization|PA
+Nguyễn Hồ Diễm My|have_role_in_organization|Social Content
+Lê Hữu Thịnh|have_role_in_organization|Game Operation Manager
+Nguyễn Gia Phong|have_role_in_organization|Game Content
+Nguyễn Thị Thùy Dương|have_role_in_organization|QA
+Nguyễn Việt Tùng|have_role_in_organization|Data Analyst
+Nguyễn Vũ Lê Minh|have_role_in_organization|CV Engineer
+Nguyễn Minh Đức|have_role_in_organization|Game Content
+Nguyễn Danh Diên|have_role_in_organization|Pentest
+Ngô Hữu Hoàng Việt|have_role_in_organization|CV Engineer
+Nguyễn Thị Quỳnh Giang|have_role_in_organization|QA
+Bùi Tuấn Tú|have_role_in_organization|Game Developer
+Nguyễn Thị Vui|have_role_in_organization|Pháp chế
+Ngô Văn Nam|have_role_in_organization|Mobile Developer
+Ứng Hoàng Hiệp|have_role_in_organization|Mobile Developer
+Phạm Phương Hiền|have_role_in_organization|Admin
+Bùi Hùng Cường|have_role_in_organization|Game Developer
+Phạm Hạnh Nguyên|have_role_in_organization|Digital media planner & Cordinator
+Vương Thu Trang|have_role_in_organization|BS
+Nguyễn Sơn Tùng|have_role_in_organization|Nhân viên
+Hoàng Thanh Tùng|have_role_in_organization|Data Engineer
+Lê Hồng Nhung|have_role_in_organization|2D Designer
+Ngô Mỹ Linh|have_role_in_organization|QA
+Nguyễn Doãn Đông|have_role_in_organization|PGĐ TT AI - DA&DS
+Dương Minh Quang|have_role_in_organization|CV Engineer
+Vũ Hằng Ngân Hoa|have_role_in_organization|BS
+Lê Thị Ngọc Hải|have_role_in_organization|3D Model
+Nguyễn Như Quỳnh|have_role_in_organization|3D Model
+Nguyễn Tuấn Anh|have_role_in_organization|Game Product
+Vũ Hữu Quang|have_role_in_organization|Mobile Developer
+Đoàn Mạnh Dũng|have_role_in_organization|Unity Developer
+Lê Nguyễn Hiếu Thông|have_role_in_organization|Tournament Executive
+Nguyễn Quang Sơn|have_role_in_organization|Unity Developer
+Đặng Trung Hiếu|have_role_in_organization|Tournament Executive
+Nguyễn Duy Phương|have_role_in_organization|Project Manager
+Đặng Huỳnh Khánh Ly|have_role_in_organization|NLP Engineer
+Lê Viết Triều|have_role_in_organization|NLP Engineer
+Nguyễn Thanh Nga|have_role_in_organization|2D Designer
+Đào Thị Như|have_role_in_organization|PA
+Nguyễn Thị Lan Anh|have_role_in_organization|PA
+Trần Đặng Đình Nguyên|have_role_in_organization|Creator
+Nguyễn Mạnh Hùng|have_role_in_organization|Product Owner
+Nguyễn Huy Anh|have_role_in_organization|Tech Lead dự án FSCHOOL
+Nguyễn Minh Nhật|have_role_in_organization|NLP Engineer
+Nguyễn Tuấn Đức|have_role_in_organization|2D Designer
+Đỗ Linh Chi|have_role_in_organization|Translator
+Trần Thị Hồng|have_role_in_organization|QA
+Phạm Khánh Long|have_role_in_organization|QA
+Trịnh Quốc Tuấn|have_role_in_organization|Developer
+Lê Thanh Giang|have_role_in_organization|Tech Lead dự án FUNZY
+Phạm Ngọc Quang|have_role_in_organization|CV Engineer
+Trần Viết Thắng|have_role_in_organization|Developer
+Trịnh Đức Anh|have_role_in_organization|Developer
+Trần Văn Chung|have_role_in_organization|Dev IOS
+Cái Đức Thắng|have_role_in_organization|Product Analyst
+Nguyễn Chí Thanh|have_role_in_organization|CV Engineer
+Vũ Hương Ly|have_role_in_organization|BS
+Lê Mạnh Huy|have_role_in_organization|Game Developer
+Ngô Duy Anh|have_role_in_organization|Trưởng nhóm Android
+Vũ Thị Nga|have_role_in_organization|QA
+Nguyễn Văn Trường 2|have_role_in_organization|Dev Android
+Dương Tiến Hiệu|have_role_in_organization|DEV FE
+Nguyễn Hoàng Quân|have_role_in_organization|Hành chính nhân sự (HCNS)
+Nguyễn Đăng Khoa|have_role_in_organization|Operation Manager
+Dương Thị Tuyến|have_role_in_organization|QA
+Nguyễn Thị Thắm|have_role_in_organization|Phó Phòng
+Trần Quốc Đạt|have_role_in_organization|Unity Developer
+Nguyễn Văn Phú|have_role_in_organization|Developer
+Vũ Văn Thắng|have_role_in_organization|BE
+Huỳnh Chỉnh|have_role_in_organization|NLP Engineer
+Trần Chí Quốc|have_role_in_organization|Unity Developer
+Nguyễn Văn Trường|have_role_in_organization|Tech Lead dự án FBANG
+Nguyễn Thạch Ánh|have_role_in_organization|Trưởng Phòng
+Nguyễn Đức Tiến|have_role_in_organization|Game PD
+Đồng Văn Tuyến|have_role_in_organization|Phó Phòng
+Phạm Anh Tú|have_role_in_organization|PO
+Trương Thị Hương|have_role_in_organization|Admin
+Dương Quỳnh Quang|have_role_in_organization|CV Engineer
+Đào Thùy Linh|have_role_in_organization|Admin
+Phạm Hồng Đức|have_role_in_organization|3D Animation
+Nguyễn Thị Nga Ngọc|have_role_in_organization|QA
+Nguyễn Văn Đạt|have_role_in_organization|Frontend Developer
+Đặng Hoàng Như Nguyện|have_role_in_organization|Trưởng nhóm phụ trách mảng Computer Vision
+Nguyễn An Phú|have_role_in_organization|NLP Engineer
+Phùng Tuấn Long|have_role_in_organization|CV Engineer
+Nguyễn Sanh Thành|have_role_in_organization|Trưởng nhóm phụ trách mảng NLP
+Lê Thị Lan|have_role_in_organization|Business Analyst (BA)
+Phạm Minh Tuấn|have_role_in_organization|Phó Phòng
+Trần Thị Mỹ Hạnh|have_role_in_organization|Developer
+Nguyễn Hữu Đăng|have_role_in_organization|Trưởng Phòng
+Nguyễn Công Lý|have_role_in_organization|Operation
+Vũ Khánh Long|have_role_in_organization|Operation
+Lê Tiến Kính|have_role_in_organization|Developer
+Trần Xuân Trường|have_role_in_organization|Phó Phòng
+Phạm Huy Thắng|have_role_in_organization|Trưởng Phòng
+Nguyễn Ngọc Quang|have_role_in_organization|Designer
+Nguyễn Viết Tùng|have_role_in_organization|Phó Phòng
+Nguyễn Cao Thắng|have_role_in_organization|Art
+Đào Văn Hưng|have_role_in_organization|Art
+Đào Thị Hoàng Nga|have_role_in_organization|3D Model
+Vũ Văn Tài|have_role_in_organization|Unity Developer
+Đoàn Đắc Tuấn|have_role_in_organization|Unity Developer
+Bùi Quốc Đạt|have_role_in_organization|Unity Developer
+Nguyễn Thanh Long|have_role_in_organization|Unity Developer
+Nguyễn Hoàng Long|have_role_in_organization|Game Product
+Trần Khánh Toàn|have_role_in_organization|Trưởng Phòng
+Lâm Thị Anh|have_role_in_organization|Phó Phòng
+Phạm Hà An|have_role_in_organization|Business Analyst (BA)
+Nguyễn Văn Cường|have_role_in_organization|Trưởng nhóm Cross Platform
+Nguyễn Duy Thành|have_role_in_organization|Backend Developer
+Tô Trần Tiến|have_role_in_organization|Backend Developer
+Đinh Trọng Liên|have_role_in_organization|Phó Phòng
+Hà Thiên Hương|have_role_in_organization|Trưởng nhóm mảng Data Analyst
+Nguyễn Văn Hảo|have_role_in_organization|Trưởng nhóm phụ trách mảng NLP
+Lê Thị Hải Linh|have_role_in_organization|Trưởng nhóm phụ trách mảng Computer Vision
+Nguyễn Thị Xoan|have_role_in_organization|Data Engineer
+Tạ Đặng Quân|have_role_in_organization|CPO - Giám đốc Sản phẩm
+Huỳnh Ngọc Hải|have_role_in_organization|CBO - Giám đốc Kinh doanh
+Vũ Lê Huy|have_role_in_organization|CIO - Giám đốc Thông tin
+Trần Ngọc Cương|have_role_in_organization|CCO - Giám đốc Sáng tạo
+Phạm Trọng Tài|have_role_in_organization|CTO - Giám đốc Công nghệ
+Nguyễn Việt Cường|have_role_in_organization|COO - Giám đốc Thường trực
+Nguyễn Tuấn Quang|have_role_in_organization|CIA - Giám đốc Nội chính
+Đào Trường Giang|have_role_in_organization|CEO - Giám đốc điều hành
+Hà Nội|address|Tầng 5, 8 và 9, tòa nhà HTP Building, số 434 Trần Khát Chân, Hai Bà Trưng, Hà Nội
+Tầng 5, Hà Nội|address|Tầng 5, tòa nhà HTP Building, số 434 Trần Khát Chân, Hai Bà Trưng, Hà Nội
+Tầng 9, Hà Nội|address|Tầng 9, tòa nhà HTP Building, số 434 Trần Khát Chân, Hai Bà Trưng, Hà Nội
+Hồ Chí Minh|address|Số 354A Cộng Hòa, Phường 13, Quận Tân Bình, Thành phố Hồ Chí Minh
+Tầng 8, Hà Nội|address|Tầng 8, tòa nhà HTP Building, số 434 Trần Khát Chân, Hai Bà Trưng, Hà Nội
+Đà Nẵng|address|Tầng 17, tòa nhà Thành Lợi 2, số 3 Lê Đình Lý, Vĩnh Trung, Thanh Khê, Đà Nẵng
+Trần Văn Tuân|work_location|Tầng 5, Hà Nội
+Vắn Hiền Thắng|work_location|Hồ Chí Minh
+Nguyễn Hồng Quang|work_location|Tầng 5, Hà Nội
+Nguyễn Văn Khuyến|work_location|Tầng 5, Hà Nội
+Hoàng Trung Dũng|work_location|None
+Trần Đức Huy|work_location|None
+Trần Văn Tuân|work_location|None
+Nguyễn Thành Đạt|work_location|None
+Nguyễn Anh Thắng|work_location|None
+Ngô Ngọc Khánh|work_location|None
+Trần Nhật Quang|work_location|None
+Nguyễn Nghĩa Thịnh|work_location|Đà Nẵng
+Nguyễn Đức Minh|work_location|Tầng 8, Hà Nội
+Nguyễn Phương Hiên|work_location|Tầng 9, Hà Nội
+Nguyễn Hữu Bắc|work_location|Tầng 8, Hà Nội
+Đàm Quang Tiến|work_location|Đà Nẵng
+Lê Quang Hưng|work_location|Tầng 5, Hà Nội
+Phạm Ngọc Hải|work_location|Tầng 8, Hà Nội
+Phan Thị Thúy Hằng|work_location|Tầng 5, Hà Nội
+Nguyễn Đăng Khôi|work_location|Tầng 8, Hà Nội
+Nguyễn Tuấn Anh|work_location|Tầng 9, Hà Nội
+Phạm Thị Minh Huyền|work_location|Tầng 9, Hà Nội
+Thành Quốc Đạt|work_location|Tầng 5, Hà Nội
+Trần Thị Thủy|work_location|Tầng 9, Hà Nội
+Nguyễn Trường An|work_location|Đà Nẵng
+Nguyễn Quang Lập|work_location|Tầng 8, Hà Nội
+Trần Tiến Anh|work_location|Tầng 8, Hà Nội
+Hoàng Minh Huyền|work_location|Tầng 5, Hà Nội
+Nguyễn Duy Phong|work_location|Tầng 8, Hà Nội
+Đỗ Đức Công|work_location|Tầng 5, Hà Nội
+Nguyễn Thanh Tú|work_location|Tầng 9, Hà Nội
+Triệu Chu Quốc Thái|work_location|Hồ Chí Minh
+Quách Trường Giang|work_location|Tầng 9, Hà Nội
+Phạm Thùy Linh|work_location|Tầng 9, Hà Nội
+Lê Thị Mỹ Phương|work_location|Tầng 8, Hà Nội
+Phan Văn Nhân|work_location|Đà Nẵng
+Phan Thị Hoàng Kim|work_location|Hồ Chí Minh
+Hoàng Văn Nguyên|work_location|Tầng 8, Hà Nội
+Ngô Phương Anh|work_location|Tầng 9, Hà Nội
+Nguyễn Bá Đạt|work_location|Tầng 5, Hà Nội
+Phạm Thị Hồng Nhung|work_location|Tầng 9, Hà Nội
+Lê Văn Dũng|work_location|Tầng 5, Hà Nội
+Nguyễn Viết Trí|work_location|Tầng 8, Hà Nội
+Ngô Phượng Hoàng|work_location|Tầng 8, Hà Nội
+Lê Hồ Lộc An|work_location|Đà Nẵng
+Nguyễn Phương Nam 2|work_location|Tầng 5, Hà Nội
+Nguyễn Thị Phương Thảo|work_location|Tầng 9, Hà Nội
+Đỗ Tiến Anh|work_location|Tầng 8, Hà Nội
+Vũ Hoàng Long|work_location|Tầng 8, Hà Nội
+Tống Thị Minh Lý|work_location|Tầng 8, Hà Nội
+Hà Duyên Quang Huy|work_location|Tầng 8, Hà Nội
+Mai Đức Chiến|work_location|Tầng 9, Hà Nội
+Phạm Văn Dũng|work_location|Tầng 8, Hà Nội
+Trần Quang Huy|work_location|Tầng 8, Hà Nội
+Tạ Lê Ngân Hạnh|work_location|Tầng 5, Hà Nội
+Vũ Ngọc Long|work_location|Tầng 8, Hà Nội
+Nguyễn Xuân Nhị Phúc|work_location|Hồ Chí Minh
+Ngô An Bình|work_location|Tầng 5, Hà Nội
+Kiều Thị Mỹ Linh|work_location|Tầng 9, Hà Nội
+Nguyễn Trung Hiếu|work_location|Đà Nẵng
+Trần Tuấn Khôi|work_location|Đà Nẵng
+Hồ Nghĩa Khang|work_location|Đà Nẵng
+Đỗ Tấn Sang|work_location|Tầng 9, Hà Nội
+Phạm Thị Phương Ngôn|work_location|Hồ Chí Minh
+Âu Dương Minh Vũ|work_location|Hồ Chí Minh
+Phan Quốc Anh|work_location|Tầng 9, Hà Nội
+Nguyễn Hoàng Bảo Hưng|work_location|Hồ Chí Minh
+Võ Minh Hoàng|work_location|Hồ Chí Minh
+Lê Khánh Duy|work_location|Tầng 9, Hà Nội
+Đặng Minh Tân|work_location|Tầng 5, Hà Nội
+Nguyễn Duy Hiếu|work_location|Tầng 9, Hà Nội
+Đặng Hoàng Sơn|work_location|Tầng 5, Hà Nội
+Bùi Thảo Vân|work_location|Tầng 9, Hà Nội
+Lê Quang Anh|work_location|Tầng 8, Hà Nội
+Trần Công Hiệu|work_location|Tầng 8, Hà Nội
+Phạm Văn Sơn|work_location|Tầng 8, Hà Nội
+Cao Thị Thúy|work_location|Tầng 5, Hà Nội
+Đỗ Thị Hoàng Diễm|work_location|Tầng 8, Hà Nội
+Đơn Hoàng Trọng|work_location|Hồ Chí Minh
+Đặng Thế Quân|work_location|Tầng 5, Hà Nội
+Nguyễn Thị Thơm|work_location|Tầng 8, Hà Nội
+Vũ Thị Chà My|work_location|Tầng 8, Hà Nội
+Đỗ Danh Dũng|work_location|Tầng 5, Hà Nội
+Vương Thành Lộc|work_location|Tầng 5, Hà Nội
+Tăng Ngọc Dũng|work_location|Tầng 5, Hà Nội
+Nguyễn Kỳ Tùng|work_location|Tầng 9, Hà Nội
+Trịnh Tuấn Vũ|work_location|Tầng 9, Hà Nội
+Nguyễn Văn Hoàng|work_location|Tầng 9, Hà Nội
+Phạm Minh Sơn|work_location|Hồ Chí Minh
+Nguyễn Hải Anh|work_location|Tầng 5, Hà Nội
+Lê Hà Trang|work_location|Tầng 5, Hà Nội
+Ngô Thái Sơn|work_location|Tầng 8, Hà Nội
+Phạm Thị Quỳnh|work_location|Đà Nẵng
+Nguyễn Khoa Nguyên|work_location|Đà Nẵng
+Trần Kiên Trường|work_location|Tầng 8, Hà Nội
+Tạ Xuân Trường|work_location|Tầng 8, Hà Nội
+Nguyễn Vân Anh|work_location|Tầng 9, Hà Nội
+Doãn Hoài Linh|work_location|Tầng 8, Hà Nội
+Nguyễn Công Hậu|work_location|Tầng 8, Hà Nội
+Dương Hoàng Sơn|work_location|Tầng 8, Hà Nội
+Trần Việt Tiệp|work_location|Tầng 5, Hà Nội
+Đỗ Thị Thu Thuỷ|work_location|Tầng 8, Hà Nội
+Nguyễn Minh Thắng|work_location|Tầng 5, Hà Nội
+Phạm Thế Tâm|work_location|Đà Nẵng
+Nguyễn Thị Thùy Điệp|work_location|Hồ Chí Minh
+Ngô Quỳnh Nga|work_location|Tầng 9, Hà Nội
+Ngọ Quang Nam|work_location|Tầng 8, Hà Nội
+Nguyễn Thanh Thản|work_location|Tầng 8, Hà Nội
+Nguyễn Xuân Anh Quân|work_location|Đà Nẵng
+Phùng Gia Hiến|work_location|Tầng 8, Hà Nội
+Đinh Thị Thảo|work_location|Tầng 9, Hà Nội
+Lưu Khánh Thảo Nhi|work_location|Đà Nẵng
+Lê Hữu Trọng|work_location|Đà Nẵng
+Nguyễn Yến Ngọc|work_location|Tầng 9, Hà Nội
+Lê Phước Đông|work_location|Hồ Chí Minh
+Điểu Sáu Bên|work_location|Hồ Chí Minh
+Nguyễn Đức An Sơn|work_location|Đà Nẵng
+Lê Trần Bảo Minh|work_location|Đà Nẵng
+Võ Xuân Cường|work_location|Hồ Chí Minh
+Đặng Thị Ngọc Điệp|work_location|Hồ Chí Minh
+Đoàn Hoài Linh|work_location|Tầng 9, Hà Nội
+Huỳnh Văn Thành|work_location|Hồ Chí Minh
+Nguyễn Duy Cẩm|work_location|Tầng 9, Hà Nội
+Nguyễn Thị Hồng Phúc|work_location|Đà Nẵng
+Đoàn Thanh Phong|work_location|Hồ Chí Minh
+Nguyễn Thị Thủy Ly|work_location|Tầng 9, Hà Nội
+Mạc Trung Tình|work_location|Tầng 8, Hà Nội
+Nguyễn Bảo Thanh|work_location|Tầng 9, Hà Nội
+Phạm Duy Cường|work_location|Hồ Chí Minh
+Ngô Thị Phương Duyên|work_location|Tầng 8, Hà Nội
+Nguyễn Văn Trung|work_location|Tầng 8, Hà Nội
+Trần Bảo Trung|work_location|Tầng 5, Hà Nội
+Mai Xuân Kim Thùy|work_location|Hồ Chí Minh
+Hứa Châu Tiểu Phụng|work_location|Hồ Chí Minh
+Trương Nhật Bá|work_location|Hồ Chí Minh
+Nguyễn Đình Khánh|work_location|Tầng 8, Hà Nội
+Nguyễn Thành Luân|work_location|Tầng 9, Hà Nội
+Trần Văn Hải|work_location|Tầng 8, Hà Nội
+Lê Thị Trang Thư|work_location|Hồ Chí Minh
+Trần Huỳnh Anh Huy|work_location|Hồ Chí Minh
+Vũ Ngọc Tứ|work_location|Tầng 5, Hà Nội
+Đỗ Hồng Hạnh|work_location|Tầng 5, Hà Nội
+Quách Thị Thu|work_location|Tầng 9, Hà Nội
+Nguyễn Lương Bằng|work_location|Tầng 8, Hà Nội
+Phan Quốc Hưng|work_location|Hồ Chí Minh
+Nguyễn Đặng Tú|work_location|Tầng 8, Hà Nội
+Đinh Thị Bích Ngọc|work_location|Tầng 9, Hà Nội
+Trần Đại Lộc|work_location|Tầng 9, Hà Nội
+Dương Sỹ Bình|work_location|Đà Nẵng
+Phạm Thị Hạ|work_location|Tầng 5, Hà Nội
+Nguyễn Thị Huyền Trang|work_location|Tầng 9, Hà Nội
+Nguyễn Đình Đức Anh|work_location|Tầng 9, Hà Nội
+Bùi Thị Kim Dung|work_location|Tầng 5, Hà Nội
+Mai Chiếm An|work_location|Đà Nẵng
+Vũ Hoàng Sơn|work_location|Hồ Chí Minh
+Nguyễn Phạm Hoàng Trung|work_location|Hồ Chí Minh
+Trần Thị Hà Vy|work_location|Tầng 5, Hà Nội
+Trần Trung Hiếu|work_location|Hồ Chí Minh
+Nguyễn Đức Thịnh|work_location|Hồ Chí Minh
+Lê Minh Hoàng|work_location|Tầng 5, Hà Nội
+Nguyễn Văn Thường|work_location|Tầng 8, Hà Nội
+Đào Sỹ Mạnh|work_location|Tầng 8, Hà Nội
+Nguyễn Văn Trọng|work_location|Hồ Chí Minh
+Phan Vũ Hùng|work_location|Tầng 9, Hà Nội
+Trần Xuân Hưng|work_location|Đà Nẵng
+Dương Bảo Yến|work_location|Hồ Chí Minh
+Lâm Hoàng Quân|work_location|Hồ Chí Minh
+Vũ Thị Mừng|work_location|Hồ Chí Minh
+Trần Đăng Minh|work_location|Tầng 8, Hà Nội
+Đỗ Phú Phát|work_location|Đà Nẵng
+Lưu Xuân Trường|work_location|Tầng 9, Hà Nội
+Trịnh Minh Anh|work_location|Tầng 9, Hà Nội
+Trương Công Danh|work_location|Hồ Chí Minh
+Lại Ngọc Ly|work_location|Tầng 9, Hà Nội
+Vũ Thị Thêu|work_location|Tầng 5, Hà Nội
+Lê Anh Hào|work_location|Tầng 9, Hà Nội
+Lê Mạnh Tài|work_location|Tầng 5, Hà Nội
+Hồ Trúc Thuỳ An|work_location|Hồ Chí Minh
+Kinh Thị Kim Thư|work_location|Hồ Chí Minh
+Mẫn Thị Kiều Trang|work_location|Tầng 9, Hà Nội
+Phạm Ngọc Long|work_location|Tầng 5, Hà Nội
+Nguyễn Tất Đạt|work_location|Tầng 5, Hà Nội
+Nguyễn Thanh Phong|work_location|Đà Nẵng
+Phạm Nguyên Ninh|work_location|Tầng 5, Hà Nội
+Nguyễn Minh Hưng|work_location|Hồ Chí Minh
+Phan Văn Thịnh|work_location|Đà Nẵng
+Nguyễn Văn Phước|work_location|Hồ Chí Minh
+Lê Việt Bắc|work_location|Tầng 5, Hà Nội
+Trần Ngọc Thanh Trang|work_location|Tầng 9, Hà Nội
+Nguyễn Thị Bình|work_location|Tầng 9, Hà Nội
+Đặng Khánh Chi|work_location|Tầng 9, Hà Nội
+Ngô Mạnh Tuấn|work_location|Tầng 5, Hà Nội
+Nguyễn Thị Thu Thảo|work_location|Hồ Chí Minh
+Nguyễn Thị Vân Anh|work_location|Hồ Chí Minh
+Phan Lê Bích Tuyền|work_location|Hồ Chí Minh
+Lương Thị Loan|work_location|Tầng 9, Hà Nội
+Nguyễn Thị Lệ Nguyên|work_location|Hồ Chí Minh
+Ngô Thị Kiều Chi|work_location|Hồ Chí Minh
+Dương Đức Thắng|work_location|Hồ Chí Minh
+Đỗ Hồng Vy|work_location|Hồ Chí Minh
+Huỳnh Nguyễn Hoàng Phong|work_location|Hồ Chí Minh
+Đào Đức Lương|work_location|Tầng 5, Hà Nội
+Lê Văn Thông|work_location|Đà Nẵng
+Nguyễn Trần Ngọc Ly|work_location|Hồ Chí Minh
+Nguyễn Thị Thanh Nga|work_location|Tầng 5, Hà Nội
+Nguyễn Thị Thanh Loan|work_location|Tầng 9, Hà Nội
+Phạm Thị Lan Phương|work_location|Hồ Chí Minh
+Võ Thành Nguyên|work_location|Đà Nẵng
+Nguyễn Thị Quỳnh Thi|work_location|Hồ Chí Minh
+Đào Văn Hiếu|work_location|Tầng 8, Hà Nội
+Trần Thị Bích Phương|work_location|Tầng 5, Hà Nội
+Đặng Thái Ngọc|work_location|Tầng 8, Hà Nội
+Hoàng Văn Độ|work_location|Tầng 8, Hà Nội
+Lưu Thị Mến|work_location|Tầng 5, Hà Nội
+Đặng Nhật Quang|work_location|Tầng 9, Hà Nội
+Nguyễn Phương Nam|work_location|Tầng 9, Hà Nội
+Nguyễn Hồ Diễm My|work_location|Hồ Chí Minh
+Lê Hữu Thịnh|work_location|Hồ Chí Minh
+Nguyễn Gia Phong|work_location|Hồ Chí Minh
+Nguyễn Thị Thùy Dương|work_location|Tầng 9, Hà Nội
+Nguyễn Việt Tùng|work_location|Tầng 9, Hà Nội
+Nguyễn Vũ Lê Minh|work_location|Đà Nẵng
+Nguyễn Minh Đức|work_location|Hồ Chí Minh
+Nguyễn Danh Diên|work_location|Tầng 5, Hà Nội
+Ngô Hữu Hoàng Việt|work_location|Đà Nẵng
+Nguyễn Thị Quỳnh Giang|work_location|Tầng 9, Hà Nội
+Bùi Tuấn Tú|work_location|Tầng 5, Hà Nội
+Nguyễn Thị Vui|work_location|Hồ Chí Minh
+Ngô Văn Nam|work_location|Tầng 8, Hà Nội
+Ứng Hoàng Hiệp|work_location|Tầng 8, Hà Nội
+Phạm Phương Hiền|work_location|Tầng 5, Hà Nội
+Bùi Hùng Cường|work_location|Tầng 5, Hà Nội
+Phạm Hạnh Nguyên|work_location|Hồ Chí Minh
+Vương Thu Trang|work_location|Tầng 9, Hà Nội
+Nguyễn Sơn Tùng|work_location|Tầng 8, Hà Nội
+Hoàng Thanh Tùng|work_location|Tầng 9, Hà Nội
+Lê Hồng Nhung|work_location|Tầng 5, Hà Nội
+Ngô Mỹ Linh|work_location|Tầng 9, Hà Nội
+Nguyễn Doãn Đông|work_location|Tầng 9, Hà Nội
+Dương Minh Quang|work_location|Tầng 9, Hà Nội
+Vũ Hằng Ngân Hoa|work_location|Tầng 9, Hà Nội
+Lê Thị Ngọc Hải|work_location|Tầng 5, Hà Nội
+Nguyễn Như Quỳnh|work_location|Tầng 5, Hà Nội
+Nguyễn Tuấn Anh|work_location|Tầng 5, Hà Nội
+Vũ Hữu Quang|work_location|Tầng 8, Hà Nội
+Đoàn Mạnh Dũng|work_location|Tầng 5, Hà Nội
+Lê Nguyễn Hiếu Thông|work_location|Hồ Chí Minh
+Nguyễn Quang Sơn|work_location|Tầng 5, Hà Nội
+Đặng Trung Hiếu|work_location|Hồ Chí Minh
+Nguyễn Duy Phương|work_location|Hồ Chí Minh
+Đặng Huỳnh Khánh Ly|work_location|Đà Nẵng
+Lê Viết Triều|work_location|Đà Nẵng
+Nguyễn Thanh Nga|work_location|Tầng 5, Hà Nội
+Đào Thị Như|work_location|Tầng 9, Hà Nội
+Nguyễn Thị Lan Anh|work_location|Tầng 9, Hà Nội
+Trần Đặng Đình Nguyên|work_location|Hồ Chí Minh
+Nguyễn Mạnh Hùng|work_location|Tầng 9, Hà Nội
+Nguyễn Huy Anh|work_location|Tầng 8, Hà Nội
+Nguyễn Minh Nhật|work_location|Đà Nẵng
+Nguyễn Tuấn Đức|work_location|Tầng 5, Hà Nội
+Đỗ Linh Chi|work_location|Tầng 9, Hà Nội
+Trần Thị Hồng|work_location|Tầng 9, Hà Nội
+Phạm Khánh Long|work_location|Tầng 9, Hà Nội
+Trịnh Quốc Tuấn|work_location|Tầng 8, Hà Nội
+Lê Thanh Giang|work_location|Tầng 8, Hà Nội
+Phạm Ngọc Quang|work_location|Tầng 9, Hà Nội
+Trần Viết Thắng|work_location|Tầng 8, Hà Nội
+Trịnh Đức Anh|work_location|Tầng 8, Hà Nội
+Trần Văn Chung|work_location|Tầng 8, Hà Nội
+Cái Đức Thắng|work_location|Tầng 9, Hà Nội
+Nguyễn Chí Thanh|work_location|Đà Nẵng
+Vũ Hương Ly|work_location|Tầng 9, Hà Nội
+Lê Mạnh Huy|work_location|Tầng 5, Hà Nội
+Ngô Duy Anh|work_location|Tầng 8, Hà Nội
+Vũ Thị Nga|work_location|Tầng 9, Hà Nội
+Nguyễn Văn Trường 2|work_location|Tầng 8, Hà Nội
+Dương Tiến Hiệu|work_location|Tầng 8, Hà Nội
+Nguyễn Hoàng Quân|work_location|Tầng 5, Hà Nội
+Nguyễn Đăng Khoa|work_location|Hồ Chí Minh
+Dương Thị Tuyến|work_location|Tầng 9, Hà Nội
+Nguyễn Thị Thắm|work_location|Tầng 9, Hà Nội
+Trần Quốc Đạt|work_location|Tầng 5, Hà Nội
+Nguyễn Văn Phú|work_location|Tầng 8, Hà Nội
+Vũ Văn Thắng|work_location|Tầng 8, Hà Nội
+Huỳnh Chỉnh|work_location|Đà Nẵng
+Trần Chí Quốc|work_location|Hồ Chí Minh
+Nguyễn Văn Trường|work_location|Tầng 8, Hà Nội
+Nguyễn Thạch Ánh|work_location|Tầng 5, Hà Nội
+Nguyễn Đức Tiến|work_location|Tầng 5, Hà Nội
+Đồng Văn Tuyến|work_location|Tầng 8, Hà Nội
+Phạm Anh Tú|work_location|Tầng 9, Hà Nội
+Trương Thị Hương|work_location|Tầng 9, Hà Nội
+Dương Quỳnh Quang|work_location|Đà Nẵng
+Đào Thùy Linh|work_location|Tầng 5, Hà Nội
+Phạm Hồng Đức|work_location|Hồ Chí Minh
+Nguyễn Thị Nga Ngọc|work_location|Tầng 5, Hà Nội
+Nguyễn Văn Đạt|work_location|Tầng 8, Hà Nội
+Đặng Hoàng Như Nguyện|work_location|Đà Nẵng
+Nguyễn An Phú|work_location|Đà Nẵng
+Phùng Tuấn Long|work_location|Tầng 9, Hà Nội
+Nguyễn Sanh Thành|work_location|Đà Nẵng
+Lê Thị Lan|work_location|Tầng 9, Hà Nội
+Phạm Minh Tuấn|work_location|Tầng 8, Hà Nội
+Trần Thị Mỹ Hạnh|work_location|Tầng 8, Hà Nội
+Nguyễn Hữu Đăng|work_location|Tầng 5, Hà Nội
+Nguyễn Công Lý|work_location|Tầng 5, Hà Nội
+Vũ Khánh Long|work_location|Tầng 5, Hà Nội
+Lê Tiến Kính|work_location|Tầng 5, Hà Nội
+Trần Xuân Trường|work_location|Tầng 8, Hà Nội
+Phạm Huy Thắng|work_location|Tầng 8, Hà Nội
+Nguyễn Ngọc Quang|work_location|Tầng 5, Hà Nội
+Nguyễn Viết Tùng|work_location|Tầng 5, Hà Nội
+Nguyễn Cao Thắng|work_location|Tầng 5, Hà Nội
+Đào Văn Hưng|work_location|Tầng 5, Hà Nội
+Đào Thị Hoàng Nga|work_location|Tầng 5, Hà Nội
+Vũ Văn Tài|work_location|Tầng 5, Hà Nội
+Đoàn Đắc Tuấn|work_location|Tầng 5, Hà Nội
+Bùi Quốc Đạt|work_location|Tầng 5, Hà Nội
+Nguyễn Thanh Long|work_location|Tầng 5, Hà Nội
+Nguyễn Hoàng Long|work_location|Tầng 5, Hà Nội
+Trần Khánh Toàn|work_location|Tầng 5, Hà Nội
+Lâm Thị Anh|work_location|Tầng 9, Hà Nội
+Phạm Hà An|work_location|Tầng 9, Hà Nội
+Nguyễn Văn Cường|work_location|Tầng 8, Hà Nội
+Nguyễn Duy Thành|work_location|Tầng 8, Hà Nội
+Tô Trần Tiến|work_location|Tầng 8, Hà Nội
+Đinh Trọng Liên|work_location|Tầng 8, Hà Nội
+Hà Thiên Hương|work_location|Tầng 9, Hà Nội
+Nguyễn Văn Hảo|work_location|Đà Nẵng
+Lê Thị Hải Linh|work_location|Tầng 9, Hà Nội
+Nguyễn Thị Xoan|work_location|Tầng 9, Hà Nội
+Tạ Đặng Quân|work_location|Tầng 9, Hà Nội
+Huỳnh Ngọc Hải|work_location|Hồ Chí Minh
+Vũ Lê Huy|work_location|Tầng 9, Hà Nội
+Trần Ngọc Cương|work_location|Tầng 5, Hà Nội
+Phạm Trọng Tài|work_location|Tầng 8, Hà Nội
+Nguyễn Việt Cường|work_location|Tầng 8, Hà Nội
+Nguyễn Tuấn Quang|work_location|Tầng 5, Hà Nội
+Đào Trường Giang|work_location|Hồ Chí Minh
 Phòng Tuyển dụng và Đào tạo|belong_to|FTECH
 Phòng Tuyển dụng và Đào tạo|belong_to|Công ty Công nghệ Gia Đình
 Phòng Creative|belong_to|FTECH
@@ -2421,20 +3432,6 @@ Phạm Trọng Tài|work_start_date|2019-02-01
 Nguyễn Việt Cường|work_start_date|2021-03-01
 Nguyễn Tuấn Quang|work_start_date|2019-01-01
 Đào Trường Giang|work_start_date|2020-09-01
-FTECH|has_name|Công ty Công nghệ Gia Đình
-FTECH|has_address|Hà Nội, Đà Nẵng, TP HCM
-FTECH|has_website|https://ftech.ai/
-FTECH|has_phone|2436616333
-Tầng 5, Hà Nội|belong_to|FTECH
-Tầng 5, Hà Nội|belong_to|Công ty Công nghệ Gia Đình
-Tầng 8, Hà Nội|belong_to|FTECH
-Tầng 8, Hà Nội|belong_to|Công ty Công nghệ Gia Đình
-Tầng 9, Hà Nội|belong_to|FTECH
-Tầng 9, Hà Nội|belong_to|Công ty Công nghệ Gia Đình
-Đà Nẵng|belong_to|FTECH
-Đà Nẵng|belong_to|Công ty Công nghệ Gia Đình
-Hồ Chí Minh|belong_to|FTECH
-Hồ Chí Minh|belong_to|Công ty Công nghệ Gia Đình
 Trần Văn Tuân|work_depart|Phòng Game
 Vắn Hiền Thắng|work_depart|Phòng R&D
 Nguyễn Hồng Quang|work_depart|Phòng IS
@@ -3105,9 +4102,9 @@ Hà Thiên Hương|have_role_in_depart|Nhân viên
 Nguyễn Văn Hảo|have_role_in_depart|Nhân viên
 Lê Thị Hải Linh|have_role_in_depart|Nhân viên
 Nguyễn Thị Xoan|have_role_in_depart|Nhân viên
-Tạ Đặng Quân|have_role_in_depart|CPO - Giám đốc Sản phẩm, trưởng phòng
+Tạ Đặng Quân|have_role_in_depart|CPO - Giám đốc Sản phẩm
 Tạ Đặng Quân|have_role_in_depart|CPO
-Tạ Đặng Quân|have_role_in_depart|Giám đốc Sản phẩm, trưởng phòng
+Tạ Đặng Quân|have_role_in_depart|Giám đốc Sản phẩm
 Huỳnh Ngọc Hải|have_role_in_depart|CBO - Giám đốc Kinh doanh
 Huỳnh Ngọc Hải|have_role_in_depart|CBO
 Huỳnh Ngọc Hải|have_role_in_depart|Giám đốc Kinh doanh
@@ -3134,1359 +4131,27 @@ Hồ Chí Minh|belong_to|Hồ Chí Minh
 Tầng 9, Hà Nội|belong_to|Hà Nội
 Tầng 8, Hà Nội|belong_to|Hà Nội
 Tầng 5, Hà Nội|belong_to|Hà Nội
-Trần Văn Tuân|work_organization|FTECH
-Trần Văn Tuân|work_organization|Công ty Công nghệ Gia Đình
-Vắn Hiền Thắng|work_organization|FTECH
-Vắn Hiền Thắng|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Hồng Quang|work_organization|FTECH
-Nguyễn Hồng Quang|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Văn Khuyến|work_organization|FTECH
-Nguyễn Văn Khuyến|work_organization|Công ty Công nghệ Gia Đình
-Hoàng Trung Dũng|work_organization|FTECH
-Hoàng Trung Dũng|work_organization|Công ty Công nghệ Gia Đình
-Trần Đức Huy|work_organization|FTECH
-Trần Đức Huy|work_organization|Công ty Công nghệ Gia Đình
-Trần Văn Tuân|work_organization|FTECH
-Trần Văn Tuân|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thành Đạt|work_organization|FTECH
-Nguyễn Thành Đạt|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Anh Thắng|work_organization|FTECH
-Nguyễn Anh Thắng|work_organization|Công ty Công nghệ Gia Đình
-Ngô Ngọc Khánh|work_organization|FTECH
-Ngô Ngọc Khánh|work_organization|Công ty Công nghệ Gia Đình
-Trần Nhật Quang|work_organization|FTECH
-Trần Nhật Quang|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Nghĩa Thịnh|work_organization|FTECH
-Nguyễn Nghĩa Thịnh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Đức Minh|work_organization|FTECH
-Nguyễn Đức Minh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Phương Hiên|work_organization|FTECH
-Nguyễn Phương Hiên|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Hữu Bắc|work_organization|FTECH
-Nguyễn Hữu Bắc|work_organization|Công ty Công nghệ Gia Đình
-Đàm Quang Tiến|work_organization|FTECH
-Đàm Quang Tiến|work_organization|Công ty Công nghệ Gia Đình
-Lê Quang Hưng|work_organization|FTECH
-Lê Quang Hưng|work_organization|Công ty Công nghệ Gia Đình
-Phạm Ngọc Hải|work_organization|FTECH
-Phạm Ngọc Hải|work_organization|Công ty Công nghệ Gia Đình
-Phan Thị Thúy Hằng|work_organization|FTECH
-Phan Thị Thúy Hằng|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Đăng Khôi|work_organization|FTECH
-Nguyễn Đăng Khôi|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Tuấn Anh|work_organization|FTECH
-Nguyễn Tuấn Anh|work_organization|Công ty Công nghệ Gia Đình
-Phạm Thị Minh Huyền|work_organization|FTECH
-Phạm Thị Minh Huyền|work_organization|Công ty Công nghệ Gia Đình
-Thành Quốc Đạt|work_organization|FTECH
-Thành Quốc Đạt|work_organization|Công ty Công nghệ Gia Đình
-Trần Thị Thủy|work_organization|FTECH
-Trần Thị Thủy|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Trường An|work_organization|FTECH
-Nguyễn Trường An|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Quang Lập|work_organization|FTECH
-Nguyễn Quang Lập|work_organization|Công ty Công nghệ Gia Đình
-Trần Tiến Anh|work_organization|FTECH
-Trần Tiến Anh|work_organization|Công ty Công nghệ Gia Đình
-Hoàng Minh Huyền|work_organization|FTECH
-Hoàng Minh Huyền|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Duy Phong|work_organization|FTECH
-Nguyễn Duy Phong|work_organization|Công ty Công nghệ Gia Đình
-Đỗ Đức Công|work_organization|FTECH
-Đỗ Đức Công|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thanh Tú|work_organization|FTECH
-Nguyễn Thanh Tú|work_organization|Công ty Công nghệ Gia Đình
-Triệu Chu Quốc Thái|work_organization|FTECH
-Triệu Chu Quốc Thái|work_organization|Công ty Công nghệ Gia Đình
-Quách Trường Giang|work_organization|FTECH
-Quách Trường Giang|work_organization|Công ty Công nghệ Gia Đình
-Phạm Thùy Linh|work_organization|FTECH
-Phạm Thùy Linh|work_organization|Công ty Công nghệ Gia Đình
-Lê Thị Mỹ Phương|work_organization|FTECH
-Lê Thị Mỹ Phương|work_organization|Công ty Công nghệ Gia Đình
-Phan Văn Nhân|work_organization|FTECH
-Phan Văn Nhân|work_organization|Công ty Công nghệ Gia Đình
-Phan Thị Hoàng Kim|work_organization|FTECH
-Phan Thị Hoàng Kim|work_organization|Công ty Công nghệ Gia Đình
-Hoàng Văn Nguyên|work_organization|FTECH
-Hoàng Văn Nguyên|work_organization|Công ty Công nghệ Gia Đình
-Ngô Phương Anh|work_organization|FTECH
-Ngô Phương Anh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Bá Đạt|work_organization|FTECH
-Nguyễn Bá Đạt|work_organization|Công ty Công nghệ Gia Đình
-Phạm Thị Hồng Nhung|work_organization|FTECH
-Phạm Thị Hồng Nhung|work_organization|Công ty Công nghệ Gia Đình
-Lê Văn Dũng|work_organization|FTECH
-Lê Văn Dũng|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Viết Trí|work_organization|FTECH
-Nguyễn Viết Trí|work_organization|Công ty Công nghệ Gia Đình
-Ngô Phượng Hoàng|work_organization|FTECH
-Ngô Phượng Hoàng|work_organization|Công ty Công nghệ Gia Đình
-Lê Hồ Lộc An|work_organization|FTECH
-Lê Hồ Lộc An|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Phương Nam 2|work_organization|FTECH
-Nguyễn Phương Nam 2|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Phương Thảo|work_organization|FTECH
-Nguyễn Thị Phương Thảo|work_organization|Công ty Công nghệ Gia Đình
-Đỗ Tiến Anh|work_organization|FTECH
-Đỗ Tiến Anh|work_organization|Công ty Công nghệ Gia Đình
-Vũ Hoàng Long|work_organization|FTECH
-Vũ Hoàng Long|work_organization|Công ty Công nghệ Gia Đình
-Tống Thị Minh Lý|work_organization|FTECH
-Tống Thị Minh Lý|work_organization|Công ty Công nghệ Gia Đình
-Hà Duyên Quang Huy|work_organization|FTECH
-Hà Duyên Quang Huy|work_organization|Công ty Công nghệ Gia Đình
-Mai Đức Chiến|work_organization|FTECH
-Mai Đức Chiến|work_organization|Công ty Công nghệ Gia Đình
-Phạm Văn Dũng|work_organization|FTECH
-Phạm Văn Dũng|work_organization|Công ty Công nghệ Gia Đình
-Trần Quang Huy|work_organization|FTECH
-Trần Quang Huy|work_organization|Công ty Công nghệ Gia Đình
-Tạ Lê Ngân Hạnh|work_organization|FTECH
-Tạ Lê Ngân Hạnh|work_organization|Công ty Công nghệ Gia Đình
-Vũ Ngọc Long|work_organization|FTECH
-Vũ Ngọc Long|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Xuân Nhị Phúc|work_organization|FTECH
-Nguyễn Xuân Nhị Phúc|work_organization|Công ty Công nghệ Gia Đình
-Ngô An Bình|work_organization|FTECH
-Ngô An Bình|work_organization|Công ty Công nghệ Gia Đình
-Kiều Thị Mỹ Linh|work_organization|FTECH
-Kiều Thị Mỹ Linh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Trung Hiếu|work_organization|FTECH
-Nguyễn Trung Hiếu|work_organization|Công ty Công nghệ Gia Đình
-Trần Tuấn Khôi|work_organization|FTECH
-Trần Tuấn Khôi|work_organization|Công ty Công nghệ Gia Đình
-Hồ Nghĩa Khang|work_organization|FTECH
-Hồ Nghĩa Khang|work_organization|Công ty Công nghệ Gia Đình
-Đỗ Tấn Sang|work_organization|FTECH
-Đỗ Tấn Sang|work_organization|Công ty Công nghệ Gia Đình
-Phạm Thị Phương Ngôn|work_organization|FTECH
-Phạm Thị Phương Ngôn|work_organization|Công ty Công nghệ Gia Đình
-Âu Dương Minh Vũ|work_organization|FTECH
-Âu Dương Minh Vũ|work_organization|Công ty Công nghệ Gia Đình
-Phan Quốc Anh|work_organization|FTECH
-Phan Quốc Anh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Hoàng Bảo Hưng|work_organization|FTECH
-Nguyễn Hoàng Bảo Hưng|work_organization|Công ty Công nghệ Gia Đình
-Võ Minh Hoàng|work_organization|FTECH
-Võ Minh Hoàng|work_organization|Công ty Công nghệ Gia Đình
-Lê Khánh Duy|work_organization|FTECH
-Lê Khánh Duy|work_organization|Công ty Công nghệ Gia Đình
-Đặng Minh Tân|work_organization|FTECH
-Đặng Minh Tân|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Duy Hiếu|work_organization|FTECH
-Nguyễn Duy Hiếu|work_organization|Công ty Công nghệ Gia Đình
-Đặng Hoàng Sơn|work_organization|FTECH
-Đặng Hoàng Sơn|work_organization|Công ty Công nghệ Gia Đình
-Bùi Thảo Vân|work_organization|FTECH
-Bùi Thảo Vân|work_organization|Công ty Công nghệ Gia Đình
-Lê Quang Anh|work_organization|FTECH
-Lê Quang Anh|work_organization|Công ty Công nghệ Gia Đình
-Trần Công Hiệu|work_organization|FTECH
-Trần Công Hiệu|work_organization|Công ty Công nghệ Gia Đình
-Phạm Văn Sơn|work_organization|FTECH
-Phạm Văn Sơn|work_organization|Công ty Công nghệ Gia Đình
-Cao Thị Thúy|work_organization|FTECH
-Cao Thị Thúy|work_organization|Công ty Công nghệ Gia Đình
-Đỗ Thị Hoàng Diễm|work_organization|FTECH
-Đỗ Thị Hoàng Diễm|work_organization|Công ty Công nghệ Gia Đình
-Đơn Hoàng Trọng|work_organization|FTECH
-Đơn Hoàng Trọng|work_organization|Công ty Công nghệ Gia Đình
-Đặng Thế Quân|work_organization|FTECH
-Đặng Thế Quân|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Thơm|work_organization|FTECH
-Nguyễn Thị Thơm|work_organization|Công ty Công nghệ Gia Đình
-Vũ Thị Chà My|work_organization|FTECH
-Vũ Thị Chà My|work_organization|Công ty Công nghệ Gia Đình
-Đỗ Danh Dũng|work_organization|FTECH
-Đỗ Danh Dũng|work_organization|Công ty Công nghệ Gia Đình
-Vương Thành Lộc|work_organization|FTECH
-Vương Thành Lộc|work_organization|Công ty Công nghệ Gia Đình
-Tăng Ngọc Dũng|work_organization|FTECH
-Tăng Ngọc Dũng|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Kỳ Tùng|work_organization|FTECH
-Nguyễn Kỳ Tùng|work_organization|Công ty Công nghệ Gia Đình
-Trịnh Tuấn Vũ|work_organization|FTECH
-Trịnh Tuấn Vũ|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Văn Hoàng|work_organization|FTECH
-Nguyễn Văn Hoàng|work_organization|Công ty Công nghệ Gia Đình
-Phạm Minh Sơn|work_organization|FTECH
-Phạm Minh Sơn|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Hải Anh|work_organization|FTECH
-Nguyễn Hải Anh|work_organization|Công ty Công nghệ Gia Đình
-Lê Hà Trang|work_organization|FTECH
-Lê Hà Trang|work_organization|Công ty Công nghệ Gia Đình
-Ngô Thái Sơn|work_organization|FTECH
-Ngô Thái Sơn|work_organization|Công ty Công nghệ Gia Đình
-Phạm Thị Quỳnh|work_organization|FTECH
-Phạm Thị Quỳnh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Khoa Nguyên|work_organization|FTECH
-Nguyễn Khoa Nguyên|work_organization|Công ty Công nghệ Gia Đình
-Trần Kiên Trường|work_organization|FTECH
-Trần Kiên Trường|work_organization|Công ty Công nghệ Gia Đình
-Tạ Xuân Trường|work_organization|FTECH
-Tạ Xuân Trường|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Vân Anh|work_organization|FTECH
-Nguyễn Vân Anh|work_organization|Công ty Công nghệ Gia Đình
-Doãn Hoài Linh|work_organization|FTECH
-Doãn Hoài Linh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Công Hậu|work_organization|FTECH
-Nguyễn Công Hậu|work_organization|Công ty Công nghệ Gia Đình
-Dương Hoàng Sơn|work_organization|FTECH
-Dương Hoàng Sơn|work_organization|Công ty Công nghệ Gia Đình
-Trần Việt Tiệp|work_organization|FTECH
-Trần Việt Tiệp|work_organization|Công ty Công nghệ Gia Đình
-Đỗ Thị Thu Thuỷ|work_organization|FTECH
-Đỗ Thị Thu Thuỷ|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Minh Thắng|work_organization|FTECH
-Nguyễn Minh Thắng|work_organization|Công ty Công nghệ Gia Đình
-Phạm Thế Tâm|work_organization|FTECH
-Phạm Thế Tâm|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Thùy Điệp|work_organization|FTECH
-Nguyễn Thị Thùy Điệp|work_organization|Công ty Công nghệ Gia Đình
-Ngô Quỳnh Nga|work_organization|FTECH
-Ngô Quỳnh Nga|work_organization|Công ty Công nghệ Gia Đình
-Ngọ Quang Nam|work_organization|FTECH
-Ngọ Quang Nam|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thanh Thản|work_organization|FTECH
-Nguyễn Thanh Thản|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Xuân Anh Quân|work_organization|FTECH
-Nguyễn Xuân Anh Quân|work_organization|Công ty Công nghệ Gia Đình
-Phùng Gia Hiến|work_organization|FTECH
-Phùng Gia Hiến|work_organization|Công ty Công nghệ Gia Đình
-Đinh Thị Thảo|work_organization|FTECH
-Đinh Thị Thảo|work_organization|Công ty Công nghệ Gia Đình
-Lưu Khánh Thảo Nhi|work_organization|FTECH
-Lưu Khánh Thảo Nhi|work_organization|Công ty Công nghệ Gia Đình
-Lê Hữu Trọng|work_organization|FTECH
-Lê Hữu Trọng|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Yến Ngọc|work_organization|FTECH
-Nguyễn Yến Ngọc|work_organization|Công ty Công nghệ Gia Đình
-Lê Phước Đông|work_organization|FTECH
-Lê Phước Đông|work_organization|Công ty Công nghệ Gia Đình
-Điểu Sáu Bên|work_organization|FTECH
-Điểu Sáu Bên|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Đức An Sơn|work_organization|FTECH
-Nguyễn Đức An Sơn|work_organization|Công ty Công nghệ Gia Đình
-Lê Trần Bảo Minh|work_organization|FTECH
-Lê Trần Bảo Minh|work_organization|Công ty Công nghệ Gia Đình
-Võ Xuân Cường|work_organization|FTECH
-Võ Xuân Cường|work_organization|Công ty Công nghệ Gia Đình
-Đặng Thị Ngọc Điệp|work_organization|FTECH
-Đặng Thị Ngọc Điệp|work_organization|Công ty Công nghệ Gia Đình
-Đoàn Hoài Linh|work_organization|FTECH
-Đoàn Hoài Linh|work_organization|Công ty Công nghệ Gia Đình
-Huỳnh Văn Thành|work_organization|FTECH
-Huỳnh Văn Thành|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Duy Cẩm|work_organization|FTECH
-Nguyễn Duy Cẩm|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Hồng Phúc|work_organization|FTECH
-Nguyễn Thị Hồng Phúc|work_organization|Công ty Công nghệ Gia Đình
-Đoàn Thanh Phong|work_organization|FTECH
-Đoàn Thanh Phong|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Thủy Ly|work_organization|FTECH
-Nguyễn Thị Thủy Ly|work_organization|Công ty Công nghệ Gia Đình
-Mạc Trung Tình|work_organization|FTECH
-Mạc Trung Tình|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Bảo Thanh|work_organization|FTECH
-Nguyễn Bảo Thanh|work_organization|Công ty Công nghệ Gia Đình
-Phạm Duy Cường|work_organization|FTECH
-Phạm Duy Cường|work_organization|Công ty Công nghệ Gia Đình
-Ngô Thị Phương Duyên|work_organization|FTECH
-Ngô Thị Phương Duyên|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Văn Trung|work_organization|FTECH
-Nguyễn Văn Trung|work_organization|Công ty Công nghệ Gia Đình
-Trần Bảo Trung|work_organization|FTECH
-Trần Bảo Trung|work_organization|Công ty Công nghệ Gia Đình
-Mai Xuân Kim Thùy|work_organization|FTECH
-Mai Xuân Kim Thùy|work_organization|Công ty Công nghệ Gia Đình
-Hứa Châu Tiểu Phụng|work_organization|FTECH
-Hứa Châu Tiểu Phụng|work_organization|Công ty Công nghệ Gia Đình
-Trương Nhật Bá|work_organization|FTECH
-Trương Nhật Bá|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Đình Khánh|work_organization|FTECH
-Nguyễn Đình Khánh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thành Luân|work_organization|FTECH
-Nguyễn Thành Luân|work_organization|Công ty Công nghệ Gia Đình
-Trần Văn Hải|work_organization|FTECH
-Trần Văn Hải|work_organization|Công ty Công nghệ Gia Đình
-Lê Thị Trang Thư|work_organization|FTECH
-Lê Thị Trang Thư|work_organization|Công ty Công nghệ Gia Đình
-Trần Huỳnh Anh Huy|work_organization|FTECH
-Trần Huỳnh Anh Huy|work_organization|Công ty Công nghệ Gia Đình
-Vũ Ngọc Tứ|work_organization|FTECH
-Vũ Ngọc Tứ|work_organization|Công ty Công nghệ Gia Đình
-Đỗ Hồng Hạnh|work_organization|FTECH
-Đỗ Hồng Hạnh|work_organization|Công ty Công nghệ Gia Đình
-Quách Thị Thu|work_organization|FTECH
-Quách Thị Thu|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Lương Bằng|work_organization|FTECH
-Nguyễn Lương Bằng|work_organization|Công ty Công nghệ Gia Đình
-Phan Quốc Hưng|work_organization|FTECH
-Phan Quốc Hưng|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Đặng Tú|work_organization|FTECH
-Nguyễn Đặng Tú|work_organization|Công ty Công nghệ Gia Đình
-Đinh Thị Bích Ngọc|work_organization|FTECH
-Đinh Thị Bích Ngọc|work_organization|Công ty Công nghệ Gia Đình
-Trần Đại Lộc|work_organization|FTECH
-Trần Đại Lộc|work_organization|Công ty Công nghệ Gia Đình
-Dương Sỹ Bình|work_organization|FTECH
-Dương Sỹ Bình|work_organization|Công ty Công nghệ Gia Đình
-Phạm Thị Hạ|work_organization|FTECH
-Phạm Thị Hạ|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Huyền Trang|work_organization|FTECH
-Nguyễn Thị Huyền Trang|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Đình Đức Anh|work_organization|FTECH
-Nguyễn Đình Đức Anh|work_organization|Công ty Công nghệ Gia Đình
-Bùi Thị Kim Dung|work_organization|FTECH
-Bùi Thị Kim Dung|work_organization|Công ty Công nghệ Gia Đình
-Mai Chiếm An|work_organization|FTECH
-Mai Chiếm An|work_organization|Công ty Công nghệ Gia Đình
-Vũ Hoàng Sơn|work_organization|FTECH
-Vũ Hoàng Sơn|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Phạm Hoàng Trung|work_organization|FTECH
-Nguyễn Phạm Hoàng Trung|work_organization|Công ty Công nghệ Gia Đình
-Trần Thị Hà Vy|work_organization|FTECH
-Trần Thị Hà Vy|work_organization|Công ty Công nghệ Gia Đình
-Trần Trung Hiếu|work_organization|FTECH
-Trần Trung Hiếu|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Đức Thịnh|work_organization|FTECH
-Nguyễn Đức Thịnh|work_organization|Công ty Công nghệ Gia Đình
-Lê Minh Hoàng|work_organization|FTECH
-Lê Minh Hoàng|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Văn Thường|work_organization|FTECH
-Nguyễn Văn Thường|work_organization|Công ty Công nghệ Gia Đình
-Đào Sỹ Mạnh|work_organization|FTECH
-Đào Sỹ Mạnh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Văn Trọng|work_organization|FTECH
-Nguyễn Văn Trọng|work_organization|Công ty Công nghệ Gia Đình
-Phan Vũ Hùng|work_organization|FTECH
-Phan Vũ Hùng|work_organization|Công ty Công nghệ Gia Đình
-Trần Xuân Hưng|work_organization|FTECH
-Trần Xuân Hưng|work_organization|Công ty Công nghệ Gia Đình
-Dương Bảo Yến|work_organization|FTECH
-Dương Bảo Yến|work_organization|Công ty Công nghệ Gia Đình
-Lâm Hoàng Quân|work_organization|FTECH
-Lâm Hoàng Quân|work_organization|Công ty Công nghệ Gia Đình
-Vũ Thị Mừng|work_organization|FTECH
-Vũ Thị Mừng|work_organization|Công ty Công nghệ Gia Đình
-Trần Đăng Minh|work_organization|FTECH
-Trần Đăng Minh|work_organization|Công ty Công nghệ Gia Đình
-Đỗ Phú Phát|work_organization|FTECH
-Đỗ Phú Phát|work_organization|Công ty Công nghệ Gia Đình
-Lưu Xuân Trường|work_organization|FTECH
-Lưu Xuân Trường|work_organization|Công ty Công nghệ Gia Đình
-Trịnh Minh Anh|work_organization|FTECH
-Trịnh Minh Anh|work_organization|Công ty Công nghệ Gia Đình
-Trương Công Danh|work_organization|FTECH
-Trương Công Danh|work_organization|Công ty Công nghệ Gia Đình
-Lại Ngọc Ly|work_organization|FTECH
-Lại Ngọc Ly|work_organization|Công ty Công nghệ Gia Đình
-Vũ Thị Thêu|work_organization|FTECH
-Vũ Thị Thêu|work_organization|Công ty Công nghệ Gia Đình
-Lê Anh Hào|work_organization|FTECH
-Lê Anh Hào|work_organization|Công ty Công nghệ Gia Đình
-Lê Mạnh Tài|work_organization|FTECH
-Lê Mạnh Tài|work_organization|Công ty Công nghệ Gia Đình
-Hồ Trúc Thuỳ An|work_organization|FTECH
-Hồ Trúc Thuỳ An|work_organization|Công ty Công nghệ Gia Đình
-Kinh Thị Kim Thư|work_organization|FTECH
-Kinh Thị Kim Thư|work_organization|Công ty Công nghệ Gia Đình
-Mẫn Thị Kiều Trang|work_organization|FTECH
-Mẫn Thị Kiều Trang|work_organization|Công ty Công nghệ Gia Đình
-Phạm Ngọc Long|work_organization|FTECH
-Phạm Ngọc Long|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Tất Đạt|work_organization|FTECH
-Nguyễn Tất Đạt|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thanh Phong|work_organization|FTECH
-Nguyễn Thanh Phong|work_organization|Công ty Công nghệ Gia Đình
-Phạm Nguyên Ninh|work_organization|FTECH
-Phạm Nguyên Ninh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Minh Hưng|work_organization|FTECH
-Nguyễn Minh Hưng|work_organization|Công ty Công nghệ Gia Đình
-Phan Văn Thịnh|work_organization|FTECH
-Phan Văn Thịnh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Văn Phước|work_organization|FTECH
-Nguyễn Văn Phước|work_organization|Công ty Công nghệ Gia Đình
-Lê Việt Bắc|work_organization|FTECH
-Lê Việt Bắc|work_organization|Công ty Công nghệ Gia Đình
-Trần Ngọc Thanh Trang|work_organization|FTECH
-Trần Ngọc Thanh Trang|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Bình|work_organization|FTECH
-Nguyễn Thị Bình|work_organization|Công ty Công nghệ Gia Đình
-Đặng Khánh Chi|work_organization|FTECH
-Đặng Khánh Chi|work_organization|Công ty Công nghệ Gia Đình
-Ngô Mạnh Tuấn|work_organization|FTECH
-Ngô Mạnh Tuấn|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Thu Thảo|work_organization|FTECH
-Nguyễn Thị Thu Thảo|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Vân Anh|work_organization|FTECH
-Nguyễn Thị Vân Anh|work_organization|Công ty Công nghệ Gia Đình
-Phan Lê Bích Tuyền|work_organization|FTECH
-Phan Lê Bích Tuyền|work_organization|Công ty Công nghệ Gia Đình
-Lương Thị Loan|work_organization|FTECH
-Lương Thị Loan|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Lệ Nguyên|work_organization|FTECH
-Nguyễn Thị Lệ Nguyên|work_organization|Công ty Công nghệ Gia Đình
-Ngô Thị Kiều Chi|work_organization|FTECH
-Ngô Thị Kiều Chi|work_organization|Công ty Công nghệ Gia Đình
-Dương Đức Thắng|work_organization|FTECH
-Dương Đức Thắng|work_organization|Công ty Công nghệ Gia Đình
-Đỗ Hồng Vy|work_organization|FTECH
-Đỗ Hồng Vy|work_organization|Công ty Công nghệ Gia Đình
-Huỳnh Nguyễn Hoàng Phong|work_organization|FTECH
-Huỳnh Nguyễn Hoàng Phong|work_organization|Công ty Công nghệ Gia Đình
-Đào Đức Lương|work_organization|FTECH
-Đào Đức Lương|work_organization|Công ty Công nghệ Gia Đình
-Lê Văn Thông|work_organization|FTECH
-Lê Văn Thông|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Trần Ngọc Ly|work_organization|FTECH
-Nguyễn Trần Ngọc Ly|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Thanh Nga|work_organization|FTECH
-Nguyễn Thị Thanh Nga|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Thanh Loan|work_organization|FTECH
-Nguyễn Thị Thanh Loan|work_organization|Công ty Công nghệ Gia Đình
-Phạm Thị Lan Phương|work_organization|FTECH
-Phạm Thị Lan Phương|work_organization|Công ty Công nghệ Gia Đình
-Võ Thành Nguyên|work_organization|FTECH
-Võ Thành Nguyên|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Quỳnh Thi|work_organization|FTECH
-Nguyễn Thị Quỳnh Thi|work_organization|Công ty Công nghệ Gia Đình
-Đào Văn Hiếu|work_organization|FTECH
-Đào Văn Hiếu|work_organization|Công ty Công nghệ Gia Đình
-Trần Thị Bích Phương|work_organization|FTECH
-Trần Thị Bích Phương|work_organization|Công ty Công nghệ Gia Đình
-Đặng Thái Ngọc|work_organization|FTECH
-Đặng Thái Ngọc|work_organization|Công ty Công nghệ Gia Đình
-Hoàng Văn Độ|work_organization|FTECH
-Hoàng Văn Độ|work_organization|Công ty Công nghệ Gia Đình
-Lưu Thị Mến|work_organization|FTECH
-Lưu Thị Mến|work_organization|Công ty Công nghệ Gia Đình
-Đặng Nhật Quang|work_organization|FTECH
-Đặng Nhật Quang|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Phương Nam|work_organization|FTECH
-Nguyễn Phương Nam|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Hồ Diễm My|work_organization|FTECH
-Nguyễn Hồ Diễm My|work_organization|Công ty Công nghệ Gia Đình
-Lê Hữu Thịnh|work_organization|FTECH
-Lê Hữu Thịnh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Gia Phong|work_organization|FTECH
-Nguyễn Gia Phong|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Thùy Dương|work_organization|FTECH
-Nguyễn Thị Thùy Dương|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Việt Tùng|work_organization|FTECH
-Nguyễn Việt Tùng|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Vũ Lê Minh|work_organization|FTECH
-Nguyễn Vũ Lê Minh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Minh Đức|work_organization|FTECH
-Nguyễn Minh Đức|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Danh Diên|work_organization|FTECH
-Nguyễn Danh Diên|work_organization|Công ty Công nghệ Gia Đình
-Ngô Hữu Hoàng Việt|work_organization|FTECH
-Ngô Hữu Hoàng Việt|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Quỳnh Giang|work_organization|FTECH
-Nguyễn Thị Quỳnh Giang|work_organization|Công ty Công nghệ Gia Đình
-Bùi Tuấn Tú|work_organization|FTECH
-Bùi Tuấn Tú|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Vui|work_organization|FTECH
-Nguyễn Thị Vui|work_organization|Công ty Công nghệ Gia Đình
-Ngô Văn Nam|work_organization|FTECH
-Ngô Văn Nam|work_organization|Công ty Công nghệ Gia Đình
-Ứng Hoàng Hiệp|work_organization|FTECH
-Ứng Hoàng Hiệp|work_organization|Công ty Công nghệ Gia Đình
-Phạm Phương Hiền|work_organization|FTECH
-Phạm Phương Hiền|work_organization|Công ty Công nghệ Gia Đình
-Bùi Hùng Cường|work_organization|FTECH
-Bùi Hùng Cường|work_organization|Công ty Công nghệ Gia Đình
-Phạm Hạnh Nguyên|work_organization|FTECH
-Phạm Hạnh Nguyên|work_organization|Công ty Công nghệ Gia Đình
-Vương Thu Trang|work_organization|FTECH
-Vương Thu Trang|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Sơn Tùng|work_organization|FTECH
-Nguyễn Sơn Tùng|work_organization|Công ty Công nghệ Gia Đình
-Hoàng Thanh Tùng|work_organization|FTECH
-Hoàng Thanh Tùng|work_organization|Công ty Công nghệ Gia Đình
-Lê Hồng Nhung|work_organization|FTECH
-Lê Hồng Nhung|work_organization|Công ty Công nghệ Gia Đình
-Ngô Mỹ Linh|work_organization|FTECH
-Ngô Mỹ Linh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Doãn Đông|work_organization|FTECH
-Nguyễn Doãn Đông|work_organization|Công ty Công nghệ Gia Đình
-Dương Minh Quang|work_organization|FTECH
-Dương Minh Quang|work_organization|Công ty Công nghệ Gia Đình
-Vũ Hằng Ngân Hoa|work_organization|FTECH
-Vũ Hằng Ngân Hoa|work_organization|Công ty Công nghệ Gia Đình
-Lê Thị Ngọc Hải|work_organization|FTECH
-Lê Thị Ngọc Hải|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Như Quỳnh|work_organization|FTECH
-Nguyễn Như Quỳnh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Tuấn Anh|work_organization|FTECH
-Nguyễn Tuấn Anh|work_organization|Công ty Công nghệ Gia Đình
-Vũ Hữu Quang|work_organization|FTECH
-Vũ Hữu Quang|work_organization|Công ty Công nghệ Gia Đình
-Đoàn Mạnh Dũng|work_organization|FTECH
-Đoàn Mạnh Dũng|work_organization|Công ty Công nghệ Gia Đình
-Lê Nguyễn Hiếu Thông|work_organization|FTECH
-Lê Nguyễn Hiếu Thông|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Quang Sơn|work_organization|FTECH
-Nguyễn Quang Sơn|work_organization|Công ty Công nghệ Gia Đình
-Đặng Trung Hiếu|work_organization|FTECH
-Đặng Trung Hiếu|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Duy Phương|work_organization|FTECH
-Nguyễn Duy Phương|work_organization|Công ty Công nghệ Gia Đình
-Đặng Huỳnh Khánh Ly|work_organization|FTECH
-Đặng Huỳnh Khánh Ly|work_organization|Công ty Công nghệ Gia Đình
-Lê Viết Triều|work_organization|FTECH
-Lê Viết Triều|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thanh Nga|work_organization|FTECH
-Nguyễn Thanh Nga|work_organization|Công ty Công nghệ Gia Đình
-Đào Thị Như|work_organization|FTECH
-Đào Thị Như|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Lan Anh|work_organization|FTECH
-Nguyễn Thị Lan Anh|work_organization|Công ty Công nghệ Gia Đình
-Trần Đặng Đình Nguyên|work_organization|FTECH
-Trần Đặng Đình Nguyên|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Mạnh Hùng|work_organization|FTECH
-Nguyễn Mạnh Hùng|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Huy Anh|work_organization|FTECH
-Nguyễn Huy Anh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Minh Nhật|work_organization|FTECH
-Nguyễn Minh Nhật|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Tuấn Đức|work_organization|FTECH
-Nguyễn Tuấn Đức|work_organization|Công ty Công nghệ Gia Đình
-Đỗ Linh Chi|work_organization|FTECH
-Đỗ Linh Chi|work_organization|Công ty Công nghệ Gia Đình
-Trần Thị Hồng|work_organization|FTECH
-Trần Thị Hồng|work_organization|Công ty Công nghệ Gia Đình
-Phạm Khánh Long|work_organization|FTECH
-Phạm Khánh Long|work_organization|Công ty Công nghệ Gia Đình
-Trịnh Quốc Tuấn|work_organization|FTECH
-Trịnh Quốc Tuấn|work_organization|Công ty Công nghệ Gia Đình
-Lê Thanh Giang|work_organization|FTECH
-Lê Thanh Giang|work_organization|Công ty Công nghệ Gia Đình
-Phạm Ngọc Quang|work_organization|FTECH
-Phạm Ngọc Quang|work_organization|Công ty Công nghệ Gia Đình
-Trần Viết Thắng|work_organization|FTECH
-Trần Viết Thắng|work_organization|Công ty Công nghệ Gia Đình
-Trịnh Đức Anh|work_organization|FTECH
-Trịnh Đức Anh|work_organization|Công ty Công nghệ Gia Đình
-Trần Văn Chung|work_organization|FTECH
-Trần Văn Chung|work_organization|Công ty Công nghệ Gia Đình
-Cái Đức Thắng|work_organization|FTECH
-Cái Đức Thắng|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Chí Thanh|work_organization|FTECH
-Nguyễn Chí Thanh|work_organization|Công ty Công nghệ Gia Đình
-Vũ Hương Ly|work_organization|FTECH
-Vũ Hương Ly|work_organization|Công ty Công nghệ Gia Đình
-Lê Mạnh Huy|work_organization|FTECH
-Lê Mạnh Huy|work_organization|Công ty Công nghệ Gia Đình
-Ngô Duy Anh|work_organization|FTECH
-Ngô Duy Anh|work_organization|Công ty Công nghệ Gia Đình
-Vũ Thị Nga|work_organization|FTECH
-Vũ Thị Nga|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Văn Trường 2|work_organization|FTECH
-Nguyễn Văn Trường 2|work_organization|Công ty Công nghệ Gia Đình
-Dương Tiến Hiệu|work_organization|FTECH
-Dương Tiến Hiệu|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Hoàng Quân|work_organization|FTECH
-Nguyễn Hoàng Quân|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Đăng Khoa|work_organization|FTECH
-Nguyễn Đăng Khoa|work_organization|Công ty Công nghệ Gia Đình
-Dương Thị Tuyến|work_organization|FTECH
-Dương Thị Tuyến|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Thắm|work_organization|FTECH
-Nguyễn Thị Thắm|work_organization|Công ty Công nghệ Gia Đình
-Trần Quốc Đạt|work_organization|FTECH
-Trần Quốc Đạt|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Văn Phú|work_organization|FTECH
-Nguyễn Văn Phú|work_organization|Công ty Công nghệ Gia Đình
-Vũ Văn Thắng|work_organization|FTECH
-Vũ Văn Thắng|work_organization|Công ty Công nghệ Gia Đình
-Huỳnh Chỉnh|work_organization|FTECH
-Huỳnh Chỉnh|work_organization|Công ty Công nghệ Gia Đình
-Trần Chí Quốc|work_organization|FTECH
-Trần Chí Quốc|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Văn Trường|work_organization|FTECH
-Nguyễn Văn Trường|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thạch Ánh|work_organization|FTECH
-Nguyễn Thạch Ánh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Đức Tiến|work_organization|FTECH
-Nguyễn Đức Tiến|work_organization|Công ty Công nghệ Gia Đình
-Đồng Văn Tuyến|work_organization|FTECH
-Đồng Văn Tuyến|work_organization|Công ty Công nghệ Gia Đình
-Phạm Anh Tú|work_organization|FTECH
-Phạm Anh Tú|work_organization|Công ty Công nghệ Gia Đình
-Trương Thị Hương|work_organization|FTECH
-Trương Thị Hương|work_organization|Công ty Công nghệ Gia Đình
-Dương Quỳnh Quang|work_organization|FTECH
-Dương Quỳnh Quang|work_organization|Công ty Công nghệ Gia Đình
-Đào Thùy Linh|work_organization|FTECH
-Đào Thùy Linh|work_organization|Công ty Công nghệ Gia Đình
-Phạm Hồng Đức|work_organization|FTECH
-Phạm Hồng Đức|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Nga Ngọc|work_organization|FTECH
-Nguyễn Thị Nga Ngọc|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Văn Đạt|work_organization|FTECH
-Nguyễn Văn Đạt|work_organization|Công ty Công nghệ Gia Đình
-Đặng Hoàng Như Nguyện|work_organization|FTECH
-Đặng Hoàng Như Nguyện|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn An Phú|work_organization|FTECH
-Nguyễn An Phú|work_organization|Công ty Công nghệ Gia Đình
-Phùng Tuấn Long|work_organization|FTECH
-Phùng Tuấn Long|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Sanh Thành|work_organization|FTECH
-Nguyễn Sanh Thành|work_organization|Công ty Công nghệ Gia Đình
-Lê Thị Lan|work_organization|FTECH
-Lê Thị Lan|work_organization|Công ty Công nghệ Gia Đình
-Phạm Minh Tuấn|work_organization|FTECH
-Phạm Minh Tuấn|work_organization|Công ty Công nghệ Gia Đình
-Trần Thị Mỹ Hạnh|work_organization|FTECH
-Trần Thị Mỹ Hạnh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Hữu Đăng|work_organization|FTECH
-Nguyễn Hữu Đăng|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Công Lý|work_organization|FTECH
-Nguyễn Công Lý|work_organization|Công ty Công nghệ Gia Đình
-Vũ Khánh Long|work_organization|FTECH
-Vũ Khánh Long|work_organization|Công ty Công nghệ Gia Đình
-Lê Tiến Kính|work_organization|FTECH
-Lê Tiến Kính|work_organization|Công ty Công nghệ Gia Đình
-Trần Xuân Trường|work_organization|FTECH
-Trần Xuân Trường|work_organization|Công ty Công nghệ Gia Đình
-Phạm Huy Thắng|work_organization|FTECH
-Phạm Huy Thắng|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Ngọc Quang|work_organization|FTECH
-Nguyễn Ngọc Quang|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Viết Tùng|work_organization|FTECH
-Nguyễn Viết Tùng|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Cao Thắng|work_organization|FTECH
-Nguyễn Cao Thắng|work_organization|Công ty Công nghệ Gia Đình
-Đào Văn Hưng|work_organization|FTECH
-Đào Văn Hưng|work_organization|Công ty Công nghệ Gia Đình
-Đào Thị Hoàng Nga|work_organization|FTECH
-Đào Thị Hoàng Nga|work_organization|Công ty Công nghệ Gia Đình
-Vũ Văn Tài|work_organization|FTECH
-Vũ Văn Tài|work_organization|Công ty Công nghệ Gia Đình
-Đoàn Đắc Tuấn|work_organization|FTECH
-Đoàn Đắc Tuấn|work_organization|Công ty Công nghệ Gia Đình
-Bùi Quốc Đạt|work_organization|FTECH
-Bùi Quốc Đạt|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thanh Long|work_organization|FTECH
-Nguyễn Thanh Long|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Hoàng Long|work_organization|FTECH
-Nguyễn Hoàng Long|work_organization|Công ty Công nghệ Gia Đình
-Trần Khánh Toàn|work_organization|FTECH
-Trần Khánh Toàn|work_organization|Công ty Công nghệ Gia Đình
-Lâm Thị Anh|work_organization|FTECH
-Lâm Thị Anh|work_organization|Công ty Công nghệ Gia Đình
-Phạm Hà An|work_organization|FTECH
-Phạm Hà An|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Văn Cường|work_organization|FTECH
-Nguyễn Văn Cường|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Duy Thành|work_organization|FTECH
-Nguyễn Duy Thành|work_organization|Công ty Công nghệ Gia Đình
-Tô Trần Tiến|work_organization|FTECH
-Tô Trần Tiến|work_organization|Công ty Công nghệ Gia Đình
-Đinh Trọng Liên|work_organization|FTECH
-Đinh Trọng Liên|work_organization|Công ty Công nghệ Gia Đình
-Hà Thiên Hương|work_organization|FTECH
-Hà Thiên Hương|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Văn Hảo|work_organization|FTECH
-Nguyễn Văn Hảo|work_organization|Công ty Công nghệ Gia Đình
-Lê Thị Hải Linh|work_organization|FTECH
-Lê Thị Hải Linh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Xoan|work_organization|FTECH
-Nguyễn Thị Xoan|work_organization|Công ty Công nghệ Gia Đình
-Tạ Đặng Quân|work_organization|FTECH
-Tạ Đặng Quân|work_organization|Công ty Công nghệ Gia Đình
-Huỳnh Ngọc Hải|work_organization|FTECH
-Huỳnh Ngọc Hải|work_organization|Công ty Công nghệ Gia Đình
-Vũ Lê Huy|work_organization|FTECH
-Vũ Lê Huy|work_organization|Công ty Công nghệ Gia Đình
-Trần Ngọc Cương|work_organization|FTECH
-Trần Ngọc Cương|work_organization|Công ty Công nghệ Gia Đình
-Phạm Trọng Tài|work_organization|FTECH
-Phạm Trọng Tài|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Việt Cường|work_organization|FTECH
-Nguyễn Việt Cường|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Tuấn Quang|work_organization|FTECH
-Nguyễn Tuấn Quang|work_organization|Công ty Công nghệ Gia Đình
-Đào Trường Giang|work_organization|FTECH
-Đào Trường Giang|work_organization|Công ty Công nghệ Gia Đình
-Trần Văn Tuân|work_organization|FTECH
-Trần Văn Tuân|work_organization|Công ty Công nghệ Gia Đình
-Vắn Hiền Thắng|work_organization|FTECH
-Vắn Hiền Thắng|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Hồng Quang|work_organization|FTECH
-Nguyễn Hồng Quang|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Văn Khuyến|work_organization|FTECH
-Nguyễn Văn Khuyến|work_organization|Công ty Công nghệ Gia Đình
-Hoàng Trung Dũng|work_organization|FTECH
-Hoàng Trung Dũng|work_organization|Công ty Công nghệ Gia Đình
-Trần Đức Huy|work_organization|FTECH
-Trần Đức Huy|work_organization|Công ty Công nghệ Gia Đình
-Trần Văn Tuân|work_organization|FTECH
-Trần Văn Tuân|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thành Đạt|work_organization|FTECH
-Nguyễn Thành Đạt|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Anh Thắng|work_organization|FTECH
-Nguyễn Anh Thắng|work_organization|Công ty Công nghệ Gia Đình
-Ngô Ngọc Khánh|work_organization|FTECH
-Ngô Ngọc Khánh|work_organization|Công ty Công nghệ Gia Đình
-Trần Nhật Quang|work_organization|FTECH
-Trần Nhật Quang|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Nghĩa Thịnh|work_organization|FTECH
-Nguyễn Nghĩa Thịnh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Đức Minh|work_organization|FTECH
-Nguyễn Đức Minh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Phương Hiên|work_organization|FTECH
-Nguyễn Phương Hiên|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Hữu Bắc|work_organization|FTECH
-Nguyễn Hữu Bắc|work_organization|Công ty Công nghệ Gia Đình
-Đàm Quang Tiến|work_organization|FTECH
-Đàm Quang Tiến|work_organization|Công ty Công nghệ Gia Đình
-Lê Quang Hưng|work_organization|FTECH
-Lê Quang Hưng|work_organization|Công ty Công nghệ Gia Đình
-Phạm Ngọc Hải|work_organization|FTECH
-Phạm Ngọc Hải|work_organization|Công ty Công nghệ Gia Đình
-Phan Thị Thúy Hằng|work_organization|FTECH
-Phan Thị Thúy Hằng|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Đăng Khôi|work_organization|FTECH
-Nguyễn Đăng Khôi|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Tuấn Anh|work_organization|FTECH
-Nguyễn Tuấn Anh|work_organization|Công ty Công nghệ Gia Đình
-Phạm Thị Minh Huyền|work_organization|FTECH
-Phạm Thị Minh Huyền|work_organization|Công ty Công nghệ Gia Đình
-Thành Quốc Đạt|work_organization|FTECH
-Thành Quốc Đạt|work_organization|Công ty Công nghệ Gia Đình
-Trần Thị Thủy|work_organization|FTECH
-Trần Thị Thủy|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Trường An|work_organization|FTECH
-Nguyễn Trường An|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Quang Lập|work_organization|FTECH
-Nguyễn Quang Lập|work_organization|Công ty Công nghệ Gia Đình
-Trần Tiến Anh|work_organization|FTECH
-Trần Tiến Anh|work_organization|Công ty Công nghệ Gia Đình
-Hoàng Minh Huyền|work_organization|FTECH
-Hoàng Minh Huyền|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Duy Phong|work_organization|FTECH
-Nguyễn Duy Phong|work_organization|Công ty Công nghệ Gia Đình
-Đỗ Đức Công|work_organization|FTECH
-Đỗ Đức Công|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thanh Tú|work_organization|FTECH
-Nguyễn Thanh Tú|work_organization|Công ty Công nghệ Gia Đình
-Triệu Chu Quốc Thái|work_organization|FTECH
-Triệu Chu Quốc Thái|work_organization|Công ty Công nghệ Gia Đình
-Quách Trường Giang|work_organization|FTECH
-Quách Trường Giang|work_organization|Công ty Công nghệ Gia Đình
-Phạm Thùy Linh|work_organization|FTECH
-Phạm Thùy Linh|work_organization|Công ty Công nghệ Gia Đình
-Lê Thị Mỹ Phương|work_organization|FTECH
-Lê Thị Mỹ Phương|work_organization|Công ty Công nghệ Gia Đình
-Phan Văn Nhân|work_organization|FTECH
-Phan Văn Nhân|work_organization|Công ty Công nghệ Gia Đình
-Phan Thị Hoàng Kim|work_organization|FTECH
-Phan Thị Hoàng Kim|work_organization|Công ty Công nghệ Gia Đình
-Hoàng Văn Nguyên|work_organization|FTECH
-Hoàng Văn Nguyên|work_organization|Công ty Công nghệ Gia Đình
-Ngô Phương Anh|work_organization|FTECH
-Ngô Phương Anh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Bá Đạt|work_organization|FTECH
-Nguyễn Bá Đạt|work_organization|Công ty Công nghệ Gia Đình
-Phạm Thị Hồng Nhung|work_organization|FTECH
-Phạm Thị Hồng Nhung|work_organization|Công ty Công nghệ Gia Đình
-Lê Văn Dũng|work_organization|FTECH
-Lê Văn Dũng|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Viết Trí|work_organization|FTECH
-Nguyễn Viết Trí|work_organization|Công ty Công nghệ Gia Đình
-Ngô Phượng Hoàng|work_organization|FTECH
-Ngô Phượng Hoàng|work_organization|Công ty Công nghệ Gia Đình
-Lê Hồ Lộc An|work_organization|FTECH
-Lê Hồ Lộc An|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Phương Nam 2|work_organization|FTECH
-Nguyễn Phương Nam 2|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Phương Thảo|work_organization|FTECH
-Nguyễn Thị Phương Thảo|work_organization|Công ty Công nghệ Gia Đình
-Đỗ Tiến Anh|work_organization|FTECH
-Đỗ Tiến Anh|work_organization|Công ty Công nghệ Gia Đình
-Vũ Hoàng Long|work_organization|FTECH
-Vũ Hoàng Long|work_organization|Công ty Công nghệ Gia Đình
-Tống Thị Minh Lý|work_organization|FTECH
-Tống Thị Minh Lý|work_organization|Công ty Công nghệ Gia Đình
-Hà Duyên Quang Huy|work_organization|FTECH
-Hà Duyên Quang Huy|work_organization|Công ty Công nghệ Gia Đình
-Mai Đức Chiến|work_organization|FTECH
-Mai Đức Chiến|work_organization|Công ty Công nghệ Gia Đình
-Phạm Văn Dũng|work_organization|FTECH
-Phạm Văn Dũng|work_organization|Công ty Công nghệ Gia Đình
-Trần Quang Huy|work_organization|FTECH
-Trần Quang Huy|work_organization|Công ty Công nghệ Gia Đình
-Tạ Lê Ngân Hạnh|work_organization|FTECH
-Tạ Lê Ngân Hạnh|work_organization|Công ty Công nghệ Gia Đình
-Vũ Ngọc Long|work_organization|FTECH
-Vũ Ngọc Long|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Xuân Nhị Phúc|work_organization|FTECH
-Nguyễn Xuân Nhị Phúc|work_organization|Công ty Công nghệ Gia Đình
-Ngô An Bình|work_organization|FTECH
-Ngô An Bình|work_organization|Công ty Công nghệ Gia Đình
-Kiều Thị Mỹ Linh|work_organization|FTECH
-Kiều Thị Mỹ Linh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Trung Hiếu|work_organization|FTECH
-Nguyễn Trung Hiếu|work_organization|Công ty Công nghệ Gia Đình
-Trần Tuấn Khôi|work_organization|FTECH
-Trần Tuấn Khôi|work_organization|Công ty Công nghệ Gia Đình
-Hồ Nghĩa Khang|work_organization|FTECH
-Hồ Nghĩa Khang|work_organization|Công ty Công nghệ Gia Đình
-Đỗ Tấn Sang|work_organization|FTECH
-Đỗ Tấn Sang|work_organization|Công ty Công nghệ Gia Đình
-Phạm Thị Phương Ngôn|work_organization|FTECH
-Phạm Thị Phương Ngôn|work_organization|Công ty Công nghệ Gia Đình
-Âu Dương Minh Vũ|work_organization|FTECH
-Âu Dương Minh Vũ|work_organization|Công ty Công nghệ Gia Đình
-Phan Quốc Anh|work_organization|FTECH
-Phan Quốc Anh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Hoàng Bảo Hưng|work_organization|FTECH
-Nguyễn Hoàng Bảo Hưng|work_organization|Công ty Công nghệ Gia Đình
-Võ Minh Hoàng|work_organization|FTECH
-Võ Minh Hoàng|work_organization|Công ty Công nghệ Gia Đình
-Lê Khánh Duy|work_organization|FTECH
-Lê Khánh Duy|work_organization|Công ty Công nghệ Gia Đình
-Đặng Minh Tân|work_organization|FTECH
-Đặng Minh Tân|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Duy Hiếu|work_organization|FTECH
-Nguyễn Duy Hiếu|work_organization|Công ty Công nghệ Gia Đình
-Đặng Hoàng Sơn|work_organization|FTECH
-Đặng Hoàng Sơn|work_organization|Công ty Công nghệ Gia Đình
-Bùi Thảo Vân|work_organization|FTECH
-Bùi Thảo Vân|work_organization|Công ty Công nghệ Gia Đình
-Lê Quang Anh|work_organization|FTECH
-Lê Quang Anh|work_organization|Công ty Công nghệ Gia Đình
-Trần Công Hiệu|work_organization|FTECH
-Trần Công Hiệu|work_organization|Công ty Công nghệ Gia Đình
-Phạm Văn Sơn|work_organization|FTECH
-Phạm Văn Sơn|work_organization|Công ty Công nghệ Gia Đình
-Cao Thị Thúy|work_organization|FTECH
-Cao Thị Thúy|work_organization|Công ty Công nghệ Gia Đình
-Đỗ Thị Hoàng Diễm|work_organization|FTECH
-Đỗ Thị Hoàng Diễm|work_organization|Công ty Công nghệ Gia Đình
-Đơn Hoàng Trọng|work_organization|FTECH
-Đơn Hoàng Trọng|work_organization|Công ty Công nghệ Gia Đình
-Đặng Thế Quân|work_organization|FTECH
-Đặng Thế Quân|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Thơm|work_organization|FTECH
-Nguyễn Thị Thơm|work_organization|Công ty Công nghệ Gia Đình
-Vũ Thị Chà My|work_organization|FTECH
-Vũ Thị Chà My|work_organization|Công ty Công nghệ Gia Đình
-Đỗ Danh Dũng|work_organization|FTECH
-Đỗ Danh Dũng|work_organization|Công ty Công nghệ Gia Đình
-Vương Thành Lộc|work_organization|FTECH
-Vương Thành Lộc|work_organization|Công ty Công nghệ Gia Đình
-Tăng Ngọc Dũng|work_organization|FTECH
-Tăng Ngọc Dũng|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Kỳ Tùng|work_organization|FTECH
-Nguyễn Kỳ Tùng|work_organization|Công ty Công nghệ Gia Đình
-Trịnh Tuấn Vũ|work_organization|FTECH
-Trịnh Tuấn Vũ|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Văn Hoàng|work_organization|FTECH
-Nguyễn Văn Hoàng|work_organization|Công ty Công nghệ Gia Đình
-Phạm Minh Sơn|work_organization|FTECH
-Phạm Minh Sơn|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Hải Anh|work_organization|FTECH
-Nguyễn Hải Anh|work_organization|Công ty Công nghệ Gia Đình
-Lê Hà Trang|work_organization|FTECH
-Lê Hà Trang|work_organization|Công ty Công nghệ Gia Đình
-Ngô Thái Sơn|work_organization|FTECH
-Ngô Thái Sơn|work_organization|Công ty Công nghệ Gia Đình
-Phạm Thị Quỳnh|work_organization|FTECH
-Phạm Thị Quỳnh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Khoa Nguyên|work_organization|FTECH
-Nguyễn Khoa Nguyên|work_organization|Công ty Công nghệ Gia Đình
-Trần Kiên Trường|work_organization|FTECH
-Trần Kiên Trường|work_organization|Công ty Công nghệ Gia Đình
-Tạ Xuân Trường|work_organization|FTECH
-Tạ Xuân Trường|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Vân Anh|work_organization|FTECH
-Nguyễn Vân Anh|work_organization|Công ty Công nghệ Gia Đình
-Doãn Hoài Linh|work_organization|FTECH
-Doãn Hoài Linh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Công Hậu|work_organization|FTECH
-Nguyễn Công Hậu|work_organization|Công ty Công nghệ Gia Đình
-Dương Hoàng Sơn|work_organization|FTECH
-Dương Hoàng Sơn|work_organization|Công ty Công nghệ Gia Đình
-Trần Việt Tiệp|work_organization|FTECH
-Trần Việt Tiệp|work_organization|Công ty Công nghệ Gia Đình
-Đỗ Thị Thu Thuỷ|work_organization|FTECH
-Đỗ Thị Thu Thuỷ|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Minh Thắng|work_organization|FTECH
-Nguyễn Minh Thắng|work_organization|Công ty Công nghệ Gia Đình
-Phạm Thế Tâm|work_organization|FTECH
-Phạm Thế Tâm|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Thùy Điệp|work_organization|FTECH
-Nguyễn Thị Thùy Điệp|work_organization|Công ty Công nghệ Gia Đình
-Ngô Quỳnh Nga|work_organization|FTECH
-Ngô Quỳnh Nga|work_organization|Công ty Công nghệ Gia Đình
-Ngọ Quang Nam|work_organization|FTECH
-Ngọ Quang Nam|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thanh Thản|work_organization|FTECH
-Nguyễn Thanh Thản|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Xuân Anh Quân|work_organization|FTECH
-Nguyễn Xuân Anh Quân|work_organization|Công ty Công nghệ Gia Đình
-Phùng Gia Hiến|work_organization|FTECH
-Phùng Gia Hiến|work_organization|Công ty Công nghệ Gia Đình
-Đinh Thị Thảo|work_organization|FTECH
-Đinh Thị Thảo|work_organization|Công ty Công nghệ Gia Đình
-Lưu Khánh Thảo Nhi|work_organization|FTECH
-Lưu Khánh Thảo Nhi|work_organization|Công ty Công nghệ Gia Đình
-Lê Hữu Trọng|work_organization|FTECH
-Lê Hữu Trọng|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Yến Ngọc|work_organization|FTECH
-Nguyễn Yến Ngọc|work_organization|Công ty Công nghệ Gia Đình
-Lê Phước Đông|work_organization|FTECH
-Lê Phước Đông|work_organization|Công ty Công nghệ Gia Đình
-Điểu Sáu Bên|work_organization|FTECH
-Điểu Sáu Bên|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Đức An Sơn|work_organization|FTECH
-Nguyễn Đức An Sơn|work_organization|Công ty Công nghệ Gia Đình
-Lê Trần Bảo Minh|work_organization|FTECH
-Lê Trần Bảo Minh|work_organization|Công ty Công nghệ Gia Đình
-Võ Xuân Cường|work_organization|FTECH
-Võ Xuân Cường|work_organization|Công ty Công nghệ Gia Đình
-Đặng Thị Ngọc Điệp|work_organization|FTECH
-Đặng Thị Ngọc Điệp|work_organization|Công ty Công nghệ Gia Đình
-Đoàn Hoài Linh|work_organization|FTECH
-Đoàn Hoài Linh|work_organization|Công ty Công nghệ Gia Đình
-Huỳnh Văn Thành|work_organization|FTECH
-Huỳnh Văn Thành|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Duy Cẩm|work_organization|FTECH
-Nguyễn Duy Cẩm|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Hồng Phúc|work_organization|FTECH
-Nguyễn Thị Hồng Phúc|work_organization|Công ty Công nghệ Gia Đình
-Đoàn Thanh Phong|work_organization|FTECH
-Đoàn Thanh Phong|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Thủy Ly|work_organization|FTECH
-Nguyễn Thị Thủy Ly|work_organization|Công ty Công nghệ Gia Đình
-Mạc Trung Tình|work_organization|FTECH
-Mạc Trung Tình|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Bảo Thanh|work_organization|FTECH
-Nguyễn Bảo Thanh|work_organization|Công ty Công nghệ Gia Đình
-Phạm Duy Cường|work_organization|FTECH
-Phạm Duy Cường|work_organization|Công ty Công nghệ Gia Đình
-Ngô Thị Phương Duyên|work_organization|FTECH
-Ngô Thị Phương Duyên|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Văn Trung|work_organization|FTECH
-Nguyễn Văn Trung|work_organization|Công ty Công nghệ Gia Đình
-Trần Bảo Trung|work_organization|FTECH
-Trần Bảo Trung|work_organization|Công ty Công nghệ Gia Đình
-Mai Xuân Kim Thùy|work_organization|FTECH
-Mai Xuân Kim Thùy|work_organization|Công ty Công nghệ Gia Đình
-Hứa Châu Tiểu Phụng|work_organization|FTECH
-Hứa Châu Tiểu Phụng|work_organization|Công ty Công nghệ Gia Đình
-Trương Nhật Bá|work_organization|FTECH
-Trương Nhật Bá|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Đình Khánh|work_organization|FTECH
-Nguyễn Đình Khánh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thành Luân|work_organization|FTECH
-Nguyễn Thành Luân|work_organization|Công ty Công nghệ Gia Đình
-Trần Văn Hải|work_organization|FTECH
-Trần Văn Hải|work_organization|Công ty Công nghệ Gia Đình
-Lê Thị Trang Thư|work_organization|FTECH
-Lê Thị Trang Thư|work_organization|Công ty Công nghệ Gia Đình
-Trần Huỳnh Anh Huy|work_organization|FTECH
-Trần Huỳnh Anh Huy|work_organization|Công ty Công nghệ Gia Đình
-Vũ Ngọc Tứ|work_organization|FTECH
-Vũ Ngọc Tứ|work_organization|Công ty Công nghệ Gia Đình
-Đỗ Hồng Hạnh|work_organization|FTECH
-Đỗ Hồng Hạnh|work_organization|Công ty Công nghệ Gia Đình
-Quách Thị Thu|work_organization|FTECH
-Quách Thị Thu|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Lương Bằng|work_organization|FTECH
-Nguyễn Lương Bằng|work_organization|Công ty Công nghệ Gia Đình
-Phan Quốc Hưng|work_organization|FTECH
-Phan Quốc Hưng|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Đặng Tú|work_organization|FTECH
-Nguyễn Đặng Tú|work_organization|Công ty Công nghệ Gia Đình
-Đinh Thị Bích Ngọc|work_organization|FTECH
-Đinh Thị Bích Ngọc|work_organization|Công ty Công nghệ Gia Đình
-Trần Đại Lộc|work_organization|FTECH
-Trần Đại Lộc|work_organization|Công ty Công nghệ Gia Đình
-Dương Sỹ Bình|work_organization|FTECH
-Dương Sỹ Bình|work_organization|Công ty Công nghệ Gia Đình
-Phạm Thị Hạ|work_organization|FTECH
-Phạm Thị Hạ|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Huyền Trang|work_organization|FTECH
-Nguyễn Thị Huyền Trang|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Đình Đức Anh|work_organization|FTECH
-Nguyễn Đình Đức Anh|work_organization|Công ty Công nghệ Gia Đình
-Bùi Thị Kim Dung|work_organization|FTECH
-Bùi Thị Kim Dung|work_organization|Công ty Công nghệ Gia Đình
-Mai Chiếm An|work_organization|FTECH
-Mai Chiếm An|work_organization|Công ty Công nghệ Gia Đình
-Vũ Hoàng Sơn|work_organization|FTECH
-Vũ Hoàng Sơn|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Phạm Hoàng Trung|work_organization|FTECH
-Nguyễn Phạm Hoàng Trung|work_organization|Công ty Công nghệ Gia Đình
-Trần Thị Hà Vy|work_organization|FTECH
-Trần Thị Hà Vy|work_organization|Công ty Công nghệ Gia Đình
-Trần Trung Hiếu|work_organization|FTECH
-Trần Trung Hiếu|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Đức Thịnh|work_organization|FTECH
-Nguyễn Đức Thịnh|work_organization|Công ty Công nghệ Gia Đình
-Lê Minh Hoàng|work_organization|FTECH
-Lê Minh Hoàng|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Văn Thường|work_organization|FTECH
-Nguyễn Văn Thường|work_organization|Công ty Công nghệ Gia Đình
-Đào Sỹ Mạnh|work_organization|FTECH
-Đào Sỹ Mạnh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Văn Trọng|work_organization|FTECH
-Nguyễn Văn Trọng|work_organization|Công ty Công nghệ Gia Đình
-Phan Vũ Hùng|work_organization|FTECH
-Phan Vũ Hùng|work_organization|Công ty Công nghệ Gia Đình
-Trần Xuân Hưng|work_organization|FTECH
-Trần Xuân Hưng|work_organization|Công ty Công nghệ Gia Đình
-Dương Bảo Yến|work_organization|FTECH
-Dương Bảo Yến|work_organization|Công ty Công nghệ Gia Đình
-Lâm Hoàng Quân|work_organization|FTECH
-Lâm Hoàng Quân|work_organization|Công ty Công nghệ Gia Đình
-Vũ Thị Mừng|work_organization|FTECH
-Vũ Thị Mừng|work_organization|Công ty Công nghệ Gia Đình
-Trần Đăng Minh|work_organization|FTECH
-Trần Đăng Minh|work_organization|Công ty Công nghệ Gia Đình
-Đỗ Phú Phát|work_organization|FTECH
-Đỗ Phú Phát|work_organization|Công ty Công nghệ Gia Đình
-Lưu Xuân Trường|work_organization|FTECH
-Lưu Xuân Trường|work_organization|Công ty Công nghệ Gia Đình
-Trịnh Minh Anh|work_organization|FTECH
-Trịnh Minh Anh|work_organization|Công ty Công nghệ Gia Đình
-Trương Công Danh|work_organization|FTECH
-Trương Công Danh|work_organization|Công ty Công nghệ Gia Đình
-Lại Ngọc Ly|work_organization|FTECH
-Lại Ngọc Ly|work_organization|Công ty Công nghệ Gia Đình
-Vũ Thị Thêu|work_organization|FTECH
-Vũ Thị Thêu|work_organization|Công ty Công nghệ Gia Đình
-Lê Anh Hào|work_organization|FTECH
-Lê Anh Hào|work_organization|Công ty Công nghệ Gia Đình
-Lê Mạnh Tài|work_organization|FTECH
-Lê Mạnh Tài|work_organization|Công ty Công nghệ Gia Đình
-Hồ Trúc Thuỳ An|work_organization|FTECH
-Hồ Trúc Thuỳ An|work_organization|Công ty Công nghệ Gia Đình
-Kinh Thị Kim Thư|work_organization|FTECH
-Kinh Thị Kim Thư|work_organization|Công ty Công nghệ Gia Đình
-Mẫn Thị Kiều Trang|work_organization|FTECH
-Mẫn Thị Kiều Trang|work_organization|Công ty Công nghệ Gia Đình
-Phạm Ngọc Long|work_organization|FTECH
-Phạm Ngọc Long|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Tất Đạt|work_organization|FTECH
-Nguyễn Tất Đạt|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thanh Phong|work_organization|FTECH
-Nguyễn Thanh Phong|work_organization|Công ty Công nghệ Gia Đình
-Phạm Nguyên Ninh|work_organization|FTECH
-Phạm Nguyên Ninh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Minh Hưng|work_organization|FTECH
-Nguyễn Minh Hưng|work_organization|Công ty Công nghệ Gia Đình
-Phan Văn Thịnh|work_organization|FTECH
-Phan Văn Thịnh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Văn Phước|work_organization|FTECH
-Nguyễn Văn Phước|work_organization|Công ty Công nghệ Gia Đình
-Lê Việt Bắc|work_organization|FTECH
-Lê Việt Bắc|work_organization|Công ty Công nghệ Gia Đình
-Trần Ngọc Thanh Trang|work_organization|FTECH
-Trần Ngọc Thanh Trang|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Bình|work_organization|FTECH
-Nguyễn Thị Bình|work_organization|Công ty Công nghệ Gia Đình
-Đặng Khánh Chi|work_organization|FTECH
-Đặng Khánh Chi|work_organization|Công ty Công nghệ Gia Đình
-Ngô Mạnh Tuấn|work_organization|FTECH
-Ngô Mạnh Tuấn|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Thu Thảo|work_organization|FTECH
-Nguyễn Thị Thu Thảo|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Vân Anh|work_organization|FTECH
-Nguyễn Thị Vân Anh|work_organization|Công ty Công nghệ Gia Đình
-Phan Lê Bích Tuyền|work_organization|FTECH
-Phan Lê Bích Tuyền|work_organization|Công ty Công nghệ Gia Đình
-Lương Thị Loan|work_organization|FTECH
-Lương Thị Loan|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Lệ Nguyên|work_organization|FTECH
-Nguyễn Thị Lệ Nguyên|work_organization|Công ty Công nghệ Gia Đình
-Ngô Thị Kiều Chi|work_organization|FTECH
-Ngô Thị Kiều Chi|work_organization|Công ty Công nghệ Gia Đình
-Dương Đức Thắng|work_organization|FTECH
-Dương Đức Thắng|work_organization|Công ty Công nghệ Gia Đình
-Đỗ Hồng Vy|work_organization|FTECH
-Đỗ Hồng Vy|work_organization|Công ty Công nghệ Gia Đình
-Huỳnh Nguyễn Hoàng Phong|work_organization|FTECH
-Huỳnh Nguyễn Hoàng Phong|work_organization|Công ty Công nghệ Gia Đình
-Đào Đức Lương|work_organization|FTECH
-Đào Đức Lương|work_organization|Công ty Công nghệ Gia Đình
-Lê Văn Thông|work_organization|FTECH
-Lê Văn Thông|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Trần Ngọc Ly|work_organization|FTECH
-Nguyễn Trần Ngọc Ly|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Thanh Nga|work_organization|FTECH
-Nguyễn Thị Thanh Nga|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Thanh Loan|work_organization|FTECH
-Nguyễn Thị Thanh Loan|work_organization|Công ty Công nghệ Gia Đình
-Phạm Thị Lan Phương|work_organization|FTECH
-Phạm Thị Lan Phương|work_organization|Công ty Công nghệ Gia Đình
-Võ Thành Nguyên|work_organization|FTECH
-Võ Thành Nguyên|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Quỳnh Thi|work_organization|FTECH
-Nguyễn Thị Quỳnh Thi|work_organization|Công ty Công nghệ Gia Đình
-Đào Văn Hiếu|work_organization|FTECH
-Đào Văn Hiếu|work_organization|Công ty Công nghệ Gia Đình
-Trần Thị Bích Phương|work_organization|FTECH
-Trần Thị Bích Phương|work_organization|Công ty Công nghệ Gia Đình
-Đặng Thái Ngọc|work_organization|FTECH
-Đặng Thái Ngọc|work_organization|Công ty Công nghệ Gia Đình
-Hoàng Văn Độ|work_organization|FTECH
-Hoàng Văn Độ|work_organization|Công ty Công nghệ Gia Đình
-Lưu Thị Mến|work_organization|FTECH
-Lưu Thị Mến|work_organization|Công ty Công nghệ Gia Đình
-Đặng Nhật Quang|work_organization|FTECH
-Đặng Nhật Quang|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Phương Nam|work_organization|FTECH
-Nguyễn Phương Nam|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Hồ Diễm My|work_organization|FTECH
-Nguyễn Hồ Diễm My|work_organization|Công ty Công nghệ Gia Đình
-Lê Hữu Thịnh|work_organization|FTECH
-Lê Hữu Thịnh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Gia Phong|work_organization|FTECH
-Nguyễn Gia Phong|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Thùy Dương|work_organization|FTECH
-Nguyễn Thị Thùy Dương|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Việt Tùng|work_organization|FTECH
-Nguyễn Việt Tùng|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Vũ Lê Minh|work_organization|FTECH
-Nguyễn Vũ Lê Minh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Minh Đức|work_organization|FTECH
-Nguyễn Minh Đức|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Danh Diên|work_organization|FTECH
-Nguyễn Danh Diên|work_organization|Công ty Công nghệ Gia Đình
-Ngô Hữu Hoàng Việt|work_organization|FTECH
-Ngô Hữu Hoàng Việt|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Quỳnh Giang|work_organization|FTECH
-Nguyễn Thị Quỳnh Giang|work_organization|Công ty Công nghệ Gia Đình
-Bùi Tuấn Tú|work_organization|FTECH
-Bùi Tuấn Tú|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Vui|work_organization|FTECH
-Nguyễn Thị Vui|work_organization|Công ty Công nghệ Gia Đình
-Ngô Văn Nam|work_organization|FTECH
-Ngô Văn Nam|work_organization|Công ty Công nghệ Gia Đình
-Ứng Hoàng Hiệp|work_organization|FTECH
-Ứng Hoàng Hiệp|work_organization|Công ty Công nghệ Gia Đình
-Phạm Phương Hiền|work_organization|FTECH
-Phạm Phương Hiền|work_organization|Công ty Công nghệ Gia Đình
-Bùi Hùng Cường|work_organization|FTECH
-Bùi Hùng Cường|work_organization|Công ty Công nghệ Gia Đình
-Phạm Hạnh Nguyên|work_organization|FTECH
-Phạm Hạnh Nguyên|work_organization|Công ty Công nghệ Gia Đình
-Vương Thu Trang|work_organization|FTECH
-Vương Thu Trang|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Sơn Tùng|work_organization|FTECH
-Nguyễn Sơn Tùng|work_organization|Công ty Công nghệ Gia Đình
-Hoàng Thanh Tùng|work_organization|FTECH
-Hoàng Thanh Tùng|work_organization|Công ty Công nghệ Gia Đình
-Lê Hồng Nhung|work_organization|FTECH
-Lê Hồng Nhung|work_organization|Công ty Công nghệ Gia Đình
-Ngô Mỹ Linh|work_organization|FTECH
-Ngô Mỹ Linh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Doãn Đông|work_organization|FTECH
-Nguyễn Doãn Đông|work_organization|Công ty Công nghệ Gia Đình
-Dương Minh Quang|work_organization|FTECH
-Dương Minh Quang|work_organization|Công ty Công nghệ Gia Đình
-Vũ Hằng Ngân Hoa|work_organization|FTECH
-Vũ Hằng Ngân Hoa|work_organization|Công ty Công nghệ Gia Đình
-Lê Thị Ngọc Hải|work_organization|FTECH
-Lê Thị Ngọc Hải|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Như Quỳnh|work_organization|FTECH
-Nguyễn Như Quỳnh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Tuấn Anh|work_organization|FTECH
-Nguyễn Tuấn Anh|work_organization|Công ty Công nghệ Gia Đình
-Vũ Hữu Quang|work_organization|FTECH
-Vũ Hữu Quang|work_organization|Công ty Công nghệ Gia Đình
-Đoàn Mạnh Dũng|work_organization|FTECH
-Đoàn Mạnh Dũng|work_organization|Công ty Công nghệ Gia Đình
-Lê Nguyễn Hiếu Thông|work_organization|FTECH
-Lê Nguyễn Hiếu Thông|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Quang Sơn|work_organization|FTECH
-Nguyễn Quang Sơn|work_organization|Công ty Công nghệ Gia Đình
-Đặng Trung Hiếu|work_organization|FTECH
-Đặng Trung Hiếu|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Duy Phương|work_organization|FTECH
-Nguyễn Duy Phương|work_organization|Công ty Công nghệ Gia Đình
-Đặng Huỳnh Khánh Ly|work_organization|FTECH
-Đặng Huỳnh Khánh Ly|work_organization|Công ty Công nghệ Gia Đình
-Lê Viết Triều|work_organization|FTECH
-Lê Viết Triều|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thanh Nga|work_organization|FTECH
-Nguyễn Thanh Nga|work_organization|Công ty Công nghệ Gia Đình
-Đào Thị Như|work_organization|FTECH
-Đào Thị Như|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Lan Anh|work_organization|FTECH
-Nguyễn Thị Lan Anh|work_organization|Công ty Công nghệ Gia Đình
-Trần Đặng Đình Nguyên|work_organization|FTECH
-Trần Đặng Đình Nguyên|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Mạnh Hùng|work_organization|FTECH
-Nguyễn Mạnh Hùng|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Huy Anh|work_organization|FTECH
-Nguyễn Huy Anh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Minh Nhật|work_organization|FTECH
-Nguyễn Minh Nhật|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Tuấn Đức|work_organization|FTECH
-Nguyễn Tuấn Đức|work_organization|Công ty Công nghệ Gia Đình
-Đỗ Linh Chi|work_organization|FTECH
-Đỗ Linh Chi|work_organization|Công ty Công nghệ Gia Đình
-Trần Thị Hồng|work_organization|FTECH
-Trần Thị Hồng|work_organization|Công ty Công nghệ Gia Đình
-Phạm Khánh Long|work_organization|FTECH
-Phạm Khánh Long|work_organization|Công ty Công nghệ Gia Đình
-Trịnh Quốc Tuấn|work_organization|FTECH
-Trịnh Quốc Tuấn|work_organization|Công ty Công nghệ Gia Đình
-Lê Thanh Giang|work_organization|FTECH
-Lê Thanh Giang|work_organization|Công ty Công nghệ Gia Đình
-Phạm Ngọc Quang|work_organization|FTECH
-Phạm Ngọc Quang|work_organization|Công ty Công nghệ Gia Đình
-Trần Viết Thắng|work_organization|FTECH
-Trần Viết Thắng|work_organization|Công ty Công nghệ Gia Đình
-Trịnh Đức Anh|work_organization|FTECH
-Trịnh Đức Anh|work_organization|Công ty Công nghệ Gia Đình
-Trần Văn Chung|work_organization|FTECH
-Trần Văn Chung|work_organization|Công ty Công nghệ Gia Đình
-Cái Đức Thắng|work_organization|FTECH
-Cái Đức Thắng|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Chí Thanh|work_organization|FTECH
-Nguyễn Chí Thanh|work_organization|Công ty Công nghệ Gia Đình
-Vũ Hương Ly|work_organization|FTECH
-Vũ Hương Ly|work_organization|Công ty Công nghệ Gia Đình
-Lê Mạnh Huy|work_organization|FTECH
-Lê Mạnh Huy|work_organization|Công ty Công nghệ Gia Đình
-Ngô Duy Anh|work_organization|FTECH
-Ngô Duy Anh|work_organization|Công ty Công nghệ Gia Đình
-Vũ Thị Nga|work_organization|FTECH
-Vũ Thị Nga|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Văn Trường 2|work_organization|FTECH
-Nguyễn Văn Trường 2|work_organization|Công ty Công nghệ Gia Đình
-Dương Tiến Hiệu|work_organization|FTECH
-Dương Tiến Hiệu|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Hoàng Quân|work_organization|FTECH
-Nguyễn Hoàng Quân|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Đăng Khoa|work_organization|FTECH
-Nguyễn Đăng Khoa|work_organization|Công ty Công nghệ Gia Đình
-Dương Thị Tuyến|work_organization|FTECH
-Dương Thị Tuyến|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Thắm|work_organization|FTECH
-Nguyễn Thị Thắm|work_organization|Công ty Công nghệ Gia Đình
-Trần Quốc Đạt|work_organization|FTECH
-Trần Quốc Đạt|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Văn Phú|work_organization|FTECH
-Nguyễn Văn Phú|work_organization|Công ty Công nghệ Gia Đình
-Vũ Văn Thắng|work_organization|FTECH
-Vũ Văn Thắng|work_organization|Công ty Công nghệ Gia Đình
-Huỳnh Chỉnh|work_organization|FTECH
-Huỳnh Chỉnh|work_organization|Công ty Công nghệ Gia Đình
-Trần Chí Quốc|work_organization|FTECH
-Trần Chí Quốc|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Văn Trường|work_organization|FTECH
-Nguyễn Văn Trường|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thạch Ánh|work_organization|FTECH
-Nguyễn Thạch Ánh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Đức Tiến|work_organization|FTECH
-Nguyễn Đức Tiến|work_organization|Công ty Công nghệ Gia Đình
-Đồng Văn Tuyến|work_organization|FTECH
-Đồng Văn Tuyến|work_organization|Công ty Công nghệ Gia Đình
-Phạm Anh Tú|work_organization|FTECH
-Phạm Anh Tú|work_organization|Công ty Công nghệ Gia Đình
-Trương Thị Hương|work_organization|FTECH
-Trương Thị Hương|work_organization|Công ty Công nghệ Gia Đình
-Dương Quỳnh Quang|work_organization|FTECH
-Dương Quỳnh Quang|work_organization|Công ty Công nghệ Gia Đình
-Đào Thùy Linh|work_organization|FTECH
-Đào Thùy Linh|work_organization|Công ty Công nghệ Gia Đình
-Phạm Hồng Đức|work_organization|FTECH
-Phạm Hồng Đức|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Nga Ngọc|work_organization|FTECH
-Nguyễn Thị Nga Ngọc|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Văn Đạt|work_organization|FTECH
-Nguyễn Văn Đạt|work_organization|Công ty Công nghệ Gia Đình
-Đặng Hoàng Như Nguyện|work_organization|FTECH
-Đặng Hoàng Như Nguyện|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn An Phú|work_organization|FTECH
-Nguyễn An Phú|work_organization|Công ty Công nghệ Gia Đình
-Phùng Tuấn Long|work_organization|FTECH
-Phùng Tuấn Long|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Sanh Thành|work_organization|FTECH
-Nguyễn Sanh Thành|work_organization|Công ty Công nghệ Gia Đình
-Lê Thị Lan|work_organization|FTECH
-Lê Thị Lan|work_organization|Công ty Công nghệ Gia Đình
-Phạm Minh Tuấn|work_organization|FTECH
-Phạm Minh Tuấn|work_organization|Công ty Công nghệ Gia Đình
-Trần Thị Mỹ Hạnh|work_organization|FTECH
-Trần Thị Mỹ Hạnh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Hữu Đăng|work_organization|FTECH
-Nguyễn Hữu Đăng|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Công Lý|work_organization|FTECH
-Nguyễn Công Lý|work_organization|Công ty Công nghệ Gia Đình
-Vũ Khánh Long|work_organization|FTECH
-Vũ Khánh Long|work_organization|Công ty Công nghệ Gia Đình
-Lê Tiến Kính|work_organization|FTECH
-Lê Tiến Kính|work_organization|Công ty Công nghệ Gia Đình
-Trần Xuân Trường|work_organization|FTECH
-Trần Xuân Trường|work_organization|Công ty Công nghệ Gia Đình
-Phạm Huy Thắng|work_organization|FTECH
-Phạm Huy Thắng|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Ngọc Quang|work_organization|FTECH
-Nguyễn Ngọc Quang|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Viết Tùng|work_organization|FTECH
-Nguyễn Viết Tùng|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Cao Thắng|work_organization|FTECH
-Nguyễn Cao Thắng|work_organization|Công ty Công nghệ Gia Đình
-Đào Văn Hưng|work_organization|FTECH
-Đào Văn Hưng|work_organization|Công ty Công nghệ Gia Đình
-Đào Thị Hoàng Nga|work_organization|FTECH
-Đào Thị Hoàng Nga|work_organization|Công ty Công nghệ Gia Đình
-Vũ Văn Tài|work_organization|FTECH
-Vũ Văn Tài|work_organization|Công ty Công nghệ Gia Đình
-Đoàn Đắc Tuấn|work_organization|FTECH
-Đoàn Đắc Tuấn|work_organization|Công ty Công nghệ Gia Đình
-Bùi Quốc Đạt|work_organization|FTECH
-Bùi Quốc Đạt|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thanh Long|work_organization|FTECH
-Nguyễn Thanh Long|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Hoàng Long|work_organization|FTECH
-Nguyễn Hoàng Long|work_organization|Công ty Công nghệ Gia Đình
-Trần Khánh Toàn|work_organization|FTECH
-Trần Khánh Toàn|work_organization|Công ty Công nghệ Gia Đình
-Lâm Thị Anh|work_organization|FTECH
-Lâm Thị Anh|work_organization|Công ty Công nghệ Gia Đình
-Phạm Hà An|work_organization|FTECH
-Phạm Hà An|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Văn Cường|work_organization|FTECH
-Nguyễn Văn Cường|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Duy Thành|work_organization|FTECH
-Nguyễn Duy Thành|work_organization|Công ty Công nghệ Gia Đình
-Tô Trần Tiến|work_organization|FTECH
-Tô Trần Tiến|work_organization|Công ty Công nghệ Gia Đình
-Đinh Trọng Liên|work_organization|FTECH
-Đinh Trọng Liên|work_organization|Công ty Công nghệ Gia Đình
-Hà Thiên Hương|work_organization|FTECH
-Hà Thiên Hương|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Văn Hảo|work_organization|FTECH
-Nguyễn Văn Hảo|work_organization|Công ty Công nghệ Gia Đình
-Lê Thị Hải Linh|work_organization|FTECH
-Lê Thị Hải Linh|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Thị Xoan|work_organization|FTECH
-Nguyễn Thị Xoan|work_organization|Công ty Công nghệ Gia Đình
-Tạ Đặng Quân|work_organization|FTECH
-Tạ Đặng Quân|work_organization|Công ty Công nghệ Gia Đình
-Huỳnh Ngọc Hải|work_organization|FTECH
-Huỳnh Ngọc Hải|work_organization|Công ty Công nghệ Gia Đình
-Vũ Lê Huy|work_organization|FTECH
-Vũ Lê Huy|work_organization|Công ty Công nghệ Gia Đình
-Trần Ngọc Cương|work_organization|FTECH
-Trần Ngọc Cương|work_organization|Công ty Công nghệ Gia Đình
-Phạm Trọng Tài|work_organization|FTECH
-Phạm Trọng Tài|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Việt Cường|work_organization|FTECH
-Nguyễn Việt Cường|work_organization|Công ty Công nghệ Gia Đình
-Nguyễn Tuấn Quang|work_organization|FTECH
-Nguyễn Tuấn Quang|work_organization|Công ty Công nghệ Gia Đình
-Đào Trường Giang|work_organization|FTECH
-Đào Trường Giang|work_organization|Công ty Công nghệ Gia Đình
+Hà Nội|belong_to|FTECH
+Hà Nội|belong_to|Công ty Công nghệ Gia Đình
+Đà Nẵng|belong_to|FTECH
+Đà Nẵng|belong_to|Công ty Công nghệ Gia Đình
+Hồ Chí Minh|belong_to|FTECH
+Hồ Chí Minh|belong_to|Công ty Công nghệ Gia Đình
+Tầng 5, Hà Nội|belong_to|FTECH
+Tầng 5, Hà Nội|belong_to|Công ty Công nghệ Gia Đình
+Tầng 8, Hà Nội|belong_to|FTECH
+Tầng 8, Hà Nội|belong_to|Công ty Công nghệ Gia Đình
+Tầng 9, Hà Nội|belong_to|FTECH
+Tầng 9, Hà Nội|belong_to|Công ty Công nghệ Gia Đình
+Đà Nẵng|belong_to|FTECH
+Đà Nẵng|belong_to|Công ty Công nghệ Gia Đình
+Hồ Chí Minh|belong_to|FTECH
+Hồ Chí Minh|belong_to|Công ty Công nghệ Gia Đình
+FTECH|has_name|Công ty Công nghệ Gia Đình
+Công ty Công nghệ Gia Đình|has_name|Công ty Công nghệ Gia Đình
+FTECH|has_address|Hà Nội, Đà Nẵng, Hồ Chí Minh
+Công ty Công nghệ Gia Đình|has_address|Hà Nội, Đà Nẵng, Hồ Chí Minh
+FTECH|has_website|https://ftech.ai/
+Công ty Công nghệ Gia Đình|has_website|https://ftech.ai/
+FTECH|has_phone|2436616333
+Công ty Công nghệ Gia Đình|has_phone|2436616333

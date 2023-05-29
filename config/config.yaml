@@ -9,9 +9,9 @@ DATA_COLLECTION:
 
   adaptive_graph_collection:
     k: 10
-    collected_chains_file: ./data/subgraph/metaqa_train_chains_0.pkl
-    split: dev
-    input_file: ./data/dev.json
+    collected_chains_file: ./data/subgraph/metaqa_train_chains_1.pkl
+    split: train
+    input_file: ./data/train.json
     dataset_name: metaqa
     out_dir: ./data/subgraph
     kb_file: ./data/kb.txt

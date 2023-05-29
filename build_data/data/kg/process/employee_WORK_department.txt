@@ -668,9 +668,9 @@ Hà Thiên Hương|have_role_in_depart|Nhân viên
 Nguyễn Văn Hảo|have_role_in_depart|Nhân viên
 Lê Thị Hải Linh|have_role_in_depart|Nhân viên
 Nguyễn Thị Xoan|have_role_in_depart|Nhân viên
-Tạ Đặng Quân|have_role_in_depart|CPO - Giám đốc Sản phẩm, trưởng phòng
+Tạ Đặng Quân|have_role_in_depart|CPO - Giám đốc Sản phẩm
 Tạ Đặng Quân|have_role_in_depart|CPO
-Tạ Đặng Quân|have_role_in_depart|Giám đốc Sản phẩm, trưởng phòng
+Tạ Đặng Quân|have_role_in_depart|Giám đốc Sản phẩm
 Huỳnh Ngọc Hải|have_role_in_depart|CBO - Giám đốc Kinh doanh
 Huỳnh Ngọc Hải|have_role_in_depart|CBO
 Huỳnh Ngọc Hải|have_role_in_depart|Giám đốc Kinh doanh

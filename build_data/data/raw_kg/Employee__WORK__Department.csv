@@ -330,7 +330,7 @@ start_id,end_id,role,alias
 13,7,Nhân viên,"nhân viên, nhan vien"
 12,7,Nhân viên,"nhân viên, nhan vien"
 11,7,Nhân viên,"nhân viên, nhan vien"
-8,1,"CPO - Giám đốc Sản phẩm, trưởng phòng","cpo - giám đốc sản phẩm, cpo - giam doc san pham, trưởng phòng, truong phong"
+8,1,CPO - Giám đốc Sản phẩm,"cpo - giám đốc sản phẩm, cpo - giam doc san pham, trưởng phòng, truong phong"
 7,1,CBO - Giám đốc Kinh doanh,"cbo - giám đốc kinh doanh, cbo - giam doc kinh doanh"
 6,1,CIO - Giám đốc Thông tin,"cio - giám đốc thông tin, cio - giam doc thong tin"
 5,1,CCO - Giám đốc Sáng tạo,"cco - giám đốc sáng tạo, cco - giam doc sang tao"

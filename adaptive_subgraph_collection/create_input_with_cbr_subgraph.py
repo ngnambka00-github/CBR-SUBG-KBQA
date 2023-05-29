@@ -12,13 +12,18 @@ def read_cbr_subgraphs(subgraph_train_file, subgraph_dev_file=None, subgraph_tes
     cbr_subgraph = {}
     if os.path.exists(subgraph_train_file):
         with open(subgraph_train_file, "rb") as fin:
-            cbr_subgraph.update(pickle.load(fin))
+            data = pickle.load(fin)
+            cbr_subgraph.update(data)
     if os.path.exists(subgraph_dev_file):
         with open(subgraph_dev_file, "rb") as fin:
-            cbr_subgraph.update(pickle.load(fin))
+            data = pickle.load(fin)
+            cbr_subgraph.update(data)
     if os.path.exists(subgraph_test_file):
         with open(subgraph_test_file, "rb") as fin:
-            cbr_subgraph.update(pickle.load(fin))
+            data = pickle.load(fin)
+            cbr_subgraph.update(data)
+
+
     new_subgraphs = {}
     replace_ctr = 0
     for ctr, (qid, triples) in tqdm(enumerate(cbr_subgraph.items())):
@@ -106,7 +111,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Create input files using CBR subgraphs")
     parser.add_argument("--config", type=str, default='../config/config.yaml')
     args = parser.parse_args()
-    config = read_yaml(args.config)["DATA_COLLECTION"]["adaptive_graph_collection"]
+    config = read_yaml(args.config)["DATA_COLLECTION"]["create_input_with_cbr_subgraph"]
 
     # build path
     subgraph_train_file = os.path.join(config['subgraph_dir'], f"{config['dataset_name']}_cbr_subgraph_train_{config['k']}.pkl")

@@ -1,4 +1,8 @@
 FTECH|has_name|Công ty Công nghệ Gia Đình
-FTECH|has_address|Hà Nội, Đà Nẵng, TP HCM
+Công ty Công nghệ Gia Đình|has_name|Công ty Công nghệ Gia Đình
+FTECH|has_address|Hà Nội, Đà Nẵng, Hồ Chí Minh
+Công ty Công nghệ Gia Đình|has_address|Hà Nội, Đà Nẵng, Hồ Chí Minh
 FTECH|has_website|https://ftech.ai/
+Công ty Công nghệ Gia Đình|has_website|https://ftech.ai/
 FTECH|has_phone|2436616333
+Công ty Công nghệ Gia Đình|has_phone|2436616333

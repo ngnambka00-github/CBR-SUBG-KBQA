@@ -58,7 +58,7 @@ def write_kg_employee_work_department() -> None:
 
     tags_work_depart = []
     tags_have_role_in_depart = []
-    special_roles = ["CPO - Giám đốc Sản phẩm, trưởng phòng", "CBO - Giám đốc Kinh doanh",
+    special_roles = ["CPO - Giám đốc Sản phẩm", "CBO - Giám đốc Kinh doanh",
                      "CIO - Giám đốc Thông tin", "CCO - Giám đốc Sáng tạo", "CTO - Giám đốc Công nghệ",
                      "COO - Giám đốc Thường trực", "CIA - Giám đốc Nội chính", "CEO - Giám đốc điều hành"]
     for idx in range(join_df.shape[0]):
@@ -103,7 +103,7 @@ def write_kg_employee_work_organization() -> None:
 
     results = []
     results.extend(tags_work_organization)
-    results.extend(tags_work_organization)
+    results.extend(tags_have_role_in_organization)
 
     out_path = "data/kg/process/employee_WORK_organization.txt"
     write_to_txt(data=results, out_path=out_path)
@@ -276,6 +276,7 @@ def write_kg_organization_information() -> None:
     organization_path = "./data/raw_kg/Organization.csv"
     organization_df = read_csv(organization_path)
 
+    organizations = ["FTECH", "Công ty Công nghệ Gia Đình"]
     tags_has_name = []
     tags_has_address = []
     tags_has_website = []
@@ -286,10 +287,11 @@ def write_kg_organization_information() -> None:
         website = organization_df.at[idx, "website"].strip()
         phone = str(organization_df.at[idx, "phone"]).strip()
 
-        tags_has_name.append(f"FTECH|has_name|{name}")
-        tags_has_address.append(f"FTECH|has_address|{address}")
-        tags_has_website.append(f"FTECH|has_website|{website}")
-        tags_has_phone.append(f"FTECH|has_phone|{phone}")
+        for organ in organizations:
+            tags_has_name.append(f"{organ}|has_name|{name}")
+            tags_has_address.append(f"{organ}|has_address|{address}")
+            tags_has_website.append(f"{organ}|has_website|{website}")
+            tags_has_phone.append(f"{organ}|has_phone|{phone}")
 
     results = []
     results.extend(tags_has_name)
@@ -340,4 +342,4 @@ if __name__ == "__main__":
     build_full_graph(
         kg_folder_path="./data/kg/process",
         out_folder_path="./data/kg",
-        convert_from_db=False)
+        convert_from_db=True)

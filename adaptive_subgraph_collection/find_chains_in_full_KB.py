@@ -39,10 +39,15 @@ if __name__ == '__main__':
             for q_ent in q_ents:
                 for ans_ent in ans_ents:
                     paths = find_paths(e1_map, q_ent, ans_ent)
+                    if len(paths) == 0:
+                        for i in range(3):
+                            paths = find_paths(e1_map, q_ent, ans_ent)
+                            if len(paths) != 0:
+                                break
+                        print(f"CHECK: q_ent: {q_ent} | ans_ent: {ans_ent} | paths: {paths}")
                     all_subgraphs[qid].append({'st': q_ent, 'en': ans_ent, 'chains': paths})
                     len_q += len(paths)
-                    if len(paths) == 0:
-                        print(f"CHECK: q_ent: {q_ent} | ans_ent: {ans_ent}")
+
             if len_q == 0:
                 empty_ctr += 1
             all_len.append(len_q)
