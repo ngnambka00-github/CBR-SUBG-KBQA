@@ -74,7 +74,7 @@ python src/runner.py \
 --temperature=0.05659862804187725 \
 --train_batch_size=1 \
 --transform_input=1 \
---model_ckpt_path=/home/namnv/FTechProject/CBR-SUBG/src/private_models/custom/out-230529_064024_639a41c9/pytorch_model.bin
+--model_ckpt_path=/home/namnv/FTechProject/CBR-SUBG/src/private_models/custom/old_version_model/pytorch_model.bin
 
 
 5. runner predict single
@@ -101,4 +101,4 @@ python src/runner.py \
 --temperature=0.05659862804187725 \
 --train_batch_size=1 \
 --transform_input=1 \
---model_ckpt_path=/home/namnv/FTechProject/CBR-SUBG/src/private_models/custom/out-230529_064024_639a41c9/pytorch_model.bin
+--model_ckpt_path=/home/namnv/FTechProject/CBR-SUBG/src/private_models/custom/old_version_model/pytorch_model.bin

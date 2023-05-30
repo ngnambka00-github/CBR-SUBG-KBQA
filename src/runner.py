@@ -133,10 +133,10 @@ if __name__ == '__main__':
 
     if training_args.do_predict:
         # predict all batches
-        # if model_args.model_ckpt_path is None or not os.path.exists(model_args.model_ckpt_path):
-        #     logger.warning("No path to model found!!!, Evaluating with a random model...")
-        # trainer.predict()
+        if model_args.model_ckpt_path is None or not os.path.exists(model_args.model_ckpt_path):
+            logger.warning("No path to model found!!!, Evaluating with a random model...")
+        trainer.predict()
 
         # predict_single
-        pred = trainer.single_predict()
-        print(f"Top 5 Answers: {pred[0][:5]}")
+        # pred = trainer.single_predict()
+        # print(f"Top 5 Answers: {pred[0][:5]}")
